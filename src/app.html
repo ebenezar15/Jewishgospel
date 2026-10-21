@@ -890,9 +890,12 @@ function viewQuiz() {
 
 function viewInstall() {
   setNav(null);
-  const href = location.href.split('#')[0];
+  const inFrame = (() => { try { return window.top !== window.self; } catch { return true; } })();
+  const href = /^https?:/.test(location.href) && !inFrame ? location.href.split('#')[0] : 'https://claude.ai/artifact/PXe1SYhqpKKyZmNqtqEkWN';
+  const file = 'https://github.com/ebenezar15/Jewishgospel/raw/claude/intelligent-fermi-h1ahkm/index.html';
   main.innerHTML = `<div class="view" style="max-width:900px"><div class="section-head" style="margin-top:0"><div><div class="eyebrow">Use it everywhere</div><h2>Download &amp; install</h2><p>The whole app is one self-contained file. Open it from the link below on any phone, tablet or computer, or save it and open it offline.</p></div></div>
   <div class="term" style="margin-bottom:14px"><b>Link to this app</b><div class="copy-row"><code id="link">${esc(href)}</code><button class="btn small primary" id="copy">Copy link</button></div></div>
+  <div class="term" style="margin-bottom:14px"><b>Offline copy (one file)</b><p>Download <b>index.html</b>, then open it in any browser. Everything works without internet except the web fonts.</p><div class="copy-row"><code>${esc(file)}</code><a class="btn small" href="${esc(file)}" target="_blank" rel="noopener">Download file</a></div></div>
   <div class="install">
    <div class="term"><b>iPhone &amp; iPad</b><ol><li>Open the link in Safari.</li><li>Tap the Share button.</li><li>Choose <b>Add to Home Screen</b>.</li></ol></div>
    <div class="term"><b>Android</b><ol><li>Open the link in Chrome.</li><li>Tap the ⋮ menu.</li><li>Choose <b>Install app</b> or <b>Add to Home screen</b>.</li></ol></div>
