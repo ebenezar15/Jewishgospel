@@ -1,0 +1,1491 @@
+{
+  "chapters": [
+    {
+      "id": "w-intro",
+      "book": "words",
+      "order": 0,
+      "num": null,
+      "title": "Why Hebrew Still Matters",
+      "subtitle": "Every translation is a bridge, and every bridge charges a toll.",
+      "nutshell": "The Hebrew Scriptures were first spoken in a language that packs many meanings into a few words, uses roots like DNA and loves wordplay. Translations carry the message around the world, but every translation is also an interpretation, and the translator's choices can quietly reshape how readers picture God. This opening invites readers to slow down and hear the original voice behind fifteen key Hebrew words.",
+      "bigIdea": "Translation always involves interpretation, so recovering the Hebrew behind key Bible words can change how we understand God and ourselves.",
+      "skeleton": [
+        "The Hebrew Bible is the shared root of Judaism and Christianity",
+        "Hebrew is a worldview, not just a vocabulary",
+        "One Hebrew word often holds several English ideas at once",
+        "Translators must pick one shade, so meaning gets lost",
+        "Small translation choices can carry big theological assumptions",
+        "Awareness, humility and curiosity help bridge the gap",
+        "Fifteen words become doorways back to the original voice"
+      ],
+      "sections": [
+        {
+          "h": "More than an ancient text",
+          "p": [
+            "The Hebrew Scriptures, called the **Tanakh** by Jews and the **Old Testament** by Christians, are the backbone of both faiths. They shape what people believe about God, how they live and how they imagine the divine.",
+            "But what happens when these writings pass into another language and another way of seeing the world? The message can still speak clearly. Yet something can slip through the cracks. Think of a famous painting copied in a different style: the outline survives, but the texture and intention may change."
+          ]
+        },
+        {
+          "h": "Hebrew is a worldview",
+          "p": [
+            "Reading Scripture in Hebrew is not just swapping one dictionary for another. Hebrew was the mother tongue of the prophets, poets, psalm-writers and priests. It was shaped by covenant, exile, wonder and hope, so it carries the soul of a people.",
+            "Each Hebrew word is like a window with many panes: language, history, poetry and theology. *Shalom* is not only “peace” but wholeness, balance and flourishing. *Chesed* is not only “mercy” but loyal covenant love, stubborn kindness and undeserved grace.",
+            "> English tends to split these ideas into separate words; Hebrew braids them together like threads in one tapestry. The original does not shrink meaning, it multiplies it."
+          ]
+        },
+        {
+          "h": "Sacred wordplay",
+          "p": [
+            "Hebrew poetry and storytelling are full of wordplay, especially in Psalms, Proverbs and Genesis. When Adam calls his partner *ishshah* (woman) because she came from *ish* (man), the naming points to unity, shared origin and belonging. In Hebrew, a pun can carry a spiritual truth.",
+            "Even God's name, **YHWH**, comes from the verb “to be.” It hints at Being itself, eternal and faithful presence. So when a Jew prays the **Shema** (Deuteronomy 6:4), “Hear, O Israel, the LORD is our God, the LORD is one,” it is more than a statement that there is one God. It proclaims a God who was, who is and who will be."
+          ]
+        },
+        {
+          "h": "Every translation is an interpretation",
+          "p": [
+            "Most Bible readers do not know Hebrew, and that is fine. Translations have carried the Bible to the ends of the earth. But reading only in translation is like hearing a symphony through a wall: you catch the tune and miss the depth and emotion behind each note.",
+            "Translations are bridges across time and language, but every bridge has a toll. The price is lost poetry, lost cultural echoes and lost depth. Every translated verse also carries some fingerprints of the translator's beliefs and unconscious bias. Imagine reading poetry in a language with no rhyme, or watching a play where every actor wears a mask: you get the plot, but not the soul."
+          ]
+        },
+        {
+          "h": "Small vocabulary, deep meaning",
+          "p": [
+            "Biblical Hebrew is like a compressed diamond. It has only around **8,000 root words**, yet it says a great deal with them. Each word glows with several meanings that shift with context and feeling.",
+            "English prefers precision, so translators are forced to pick one colour from a rainbow. Is this word about mercy or covenant? Justice or anger? Crossing a river or crossing a line? Whatever they choose, something is lost. Not always wrongly, but always."
+          ]
+        },
+        {
+          "h": "The Spirit and grammatical gender",
+          "p": [
+            "Genesis 1:2 says the Spirit of God was “hovering over the waters.” The Hebrew word for Spirit, *ruach*, is grammatically feminine. That does not make the Spirit a woman, because **grammatical gender** (a word's grammar category) is not the same as personal identity.",
+            "In Greek the word *pneuma* is neuter, with no gender at all. In English, tradition, not grammar, leads us to say “He.” As a verse travels from Hebrew to Greek to Latin to English, assumptions pile up. This matters, because it shapes how people picture God and pray, and the original image is of a Spirit brooding over chaos like a mother bird over her nest."
+          ]
+        },
+        {
+          "h": "Roots: the hidden architecture of words",
+          "p": [
+            "English builds words with prefixes and suffixes. Hebrew starts from **roots**: usually three consonants that act like DNA, from which whole families of words grow.",
+            "Take the root **A-V-R** (ayin-vav-resh), the root of *Ivrit*, “Hebrew.” *Avar* means to pass over or through. *Ivri* means a Hebrew person, literally “one who crossed over.” *Ma'avar* is a crossing or passage. *Averah* is a transgression, crossing a moral line. In another form it can even mean wrath or judgment.",
+            "All these meanings circle one theme: movement, boundaries and transition. Hebrew links physical, historical and moral ideas through one thread. When a translator pulls a word out of its root and gives it a single fixed English meaning, those links disappear."
+          ]
+        },
+        {
+          "h": "When vocabulary becomes theology",
+          "p": [
+            "The Hebrew Bible is full of idioms, puns on place names, echoes between verses and farming images that modern readers no longer feel. Without the original, we miss the joke, the poetry, the heartbreak and the irony.",
+            "The bigger danger is misunderstanding God himself. Translators must decide: does God allow evil or cause it? Is a command conditional or permanent? Is grace limited or abundant? Repeated across generations of Bibles and sermons, these choices harden into whole belief systems. In the United States most translations come from Protestant scholars, and their theology can be seen in certain renderings.",
+            "Example: Matthew 10:29. The 1611 King James Version says no sparrow falls to the ground “without your Father”, meaning God is aware. The New King James Version says “apart from your Father's **will**.” The word “will” is not in the Greek. It was likely added under Calvinist influence (the tradition of John Calvin, which stresses that God decrees all events). One word moves the reader from a God who **witnesses** suffering to a God who **ordains** it.",
+            "> This is not a question of grammar. It is a question of who we believe God is."
+          ]
+        },
+        {
+          "h": "Listening more carefully",
+          "p": [
+            "The original languages, Hebrew, Aramaic and Greek, are rich in ambiguity, symbol and poetry, and they invite reflection. Modern translations often prefer neat certainty and **systematic theology** (doctrine arranged into a tidy logical system). They can end up resolving tensions the Bible left open, flattening parables into doctrines and even slipping human-made teaching into the text. This is not an attack on translators but a call to humility and careful study.",
+            "You do not need to be a scholar. Curiosity, reverence and a willingness to slow down are enough to start. Comparing several translations side by side helps, and so does asking someone who actually speaks Hebrew fluently, not just someone who took one seminary class. The aim is not to become a language purist but to hear what was really said.",
+            "This book is not a dictionary or textbook but a “spiritual excavation.” Its fifteen Hebrew words are doorways that can change how we think, pray, forgive, suffer and love. The Hebrew Bible is not only about God; it is about what it means to be human in relationship with God."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "compare",
+          "title": "Reading in translation vs. hearing the original",
+          "after": 3,
+          "left": {
+            "label": "Translation alone",
+            "items": [
+              "One fixed English word per Hebrew word",
+              "Shalom = “peace”",
+              "Spirit called “He” by tradition",
+              "Puns and echoes vanish",
+              "Translator's theology quietly built in",
+              "Tensions resolved into neat doctrine"
+            ]
+          },
+          "right": {
+            "label": "The Hebrew original",
+            "items": [
+              "One root feeds a whole family of meanings",
+              "Shalom = wholeness, welfare, harmony, completion",
+              "Ruach is grammatically feminine, brooding like a mother bird",
+              "Wordplay like ish / ishshah carries meaning",
+              "Text can be weighed against multiple renderings",
+              "Mystery and tension left open for reflection"
+            ]
+          }
+        },
+        {
+          "type": "flow",
+          "title": "How a translation choice becomes a belief",
+          "after": 7,
+          "steps": [
+            {
+              "t": "Rich original",
+              "d": "A Hebrew or Greek word holds several possible shades of meaning."
+            },
+            {
+              "t": "Translator chooses",
+              "d": "English forces one shade, shaped by the translator's own theology."
+            },
+            {
+              "t": "Repeated in Bibles",
+              "d": "The choice is copied into edition after edition."
+            },
+            {
+              "t": "Preached and taught",
+              "d": "Sermons and doctrines build on the chosen wording."
+            },
+            {
+              "t": "Shapes our picture of God",
+              "d": "Readers absorb the theology without realizing a choice was made."
+            }
+          ]
+        },
+        {
+          "type": "tree",
+          "title": "One root, many meanings: A-V-R",
+          "after": 6,
+          "root": "A-V-R: to cross over",
+          "branches": [
+            {
+              "t": "Avar",
+              "children": [
+                "to pass over",
+                "to go through"
+              ]
+            },
+            {
+              "t": "Ivri",
+              "children": [
+                "a Hebrew person",
+                "one who crossed over"
+              ]
+            },
+            {
+              "t": "Ma'avar",
+              "children": [
+                "a crossing",
+                "a passage"
+              ]
+            },
+            {
+              "t": "Averah",
+              "children": [
+                "transgression",
+                "crossing a moral line"
+              ]
+            },
+            {
+              "t": "Another form",
+              "children": [
+                "wrath",
+                "judgment"
+              ]
+            }
+          ]
+        }
+      ],
+      "verses": [
+        {
+          "ref": "Genesis 1:2",
+          "text": "The Spirit of God was hovering over the face of the waters."
+        },
+        {
+          "ref": "Genesis 2:23",
+          "text": "She shall be called Woman (ishshah), because she was taken out of Man (ish)."
+        },
+        {
+          "ref": "Deuteronomy 6:4",
+          "text": "Hear, O Israel: the LORD is our God, the LORD is one."
+        },
+        {
+          "ref": "Matthew 10:29",
+          "text": "Are not two sparrows sold for a penny? Yet not one of them falls to the ground without your Father."
+        }
+      ],
+      "keyPoints": [
+        "Hebrew is a worldview as well as a language, and its words often bundle several ideas together.",
+        "Biblical Hebrew has a small vocabulary of about 8,000 roots, so each word carries a lot of meaning.",
+        "Hebrew builds word families from three-letter roots, which link physical, moral and historical ideas.",
+        "Every translation is an interpretation shaped by the translator's beliefs.",
+        "A single added word, such as “will” in Matthew 10:29, can change how readers picture God.",
+        "You don't need to be a scholar: comparing translations and asking fluent Hebrew speakers can open up meaning."
+      ],
+      "reflect": [
+        "Which Bible words have you always taken at face value that might hold more meaning than you thought?",
+        "How might your picture of God change if a familiar verse were translated differently?",
+        "What would it look like for you to read Scripture more slowly and carefully?"
+      ],
+      "quiz": [
+        {
+          "q": "About how many root words does Biblical Hebrew have?",
+          "options": [
+            "800",
+            "8,000",
+            "80,000",
+            "800,000"
+          ],
+          "a": 1,
+          "why": "The chapter describes Hebrew as small in vocabulary, around 8,000 roots, but vast in depth."
+        },
+        {
+          "q": "What is the grammatical gender of the Hebrew word ruach (Spirit)?",
+          "options": [
+            "Masculine",
+            "Neuter",
+            "Feminine",
+            "It has no grammar category"
+          ],
+          "a": 2,
+          "why": "Ruach is grammatically feminine; the Greek pneuma is neuter, and English “He” comes from tradition."
+        },
+        {
+          "q": "What word did the NKJV add in Matthew 10:29 that is not in the Greek?",
+          "options": [
+            "Will",
+            "Know",
+            "Love",
+            "See"
+          ],
+          "a": 0,
+          "why": "Adding “will” shifts the meaning from God being aware of suffering to God ordaining it."
+        },
+        {
+          "q": "The root A-V-R mainly carries which theme?",
+          "options": [
+            "Light and darkness",
+            "Crossing over and boundaries",
+            "Eating and drinking",
+            "Kingship and rule"
+          ],
+          "a": 1,
+          "why": "Avar, Ivri, ma'avar and averah all relate to passing over or crossing a line."
+        }
+      ],
+      "terms": [
+        {
+          "term": "Tanakh",
+          "def": "The Jewish name for the Hebrew Scriptures, which Christians call the Old Testament."
+        },
+        {
+          "term": "Root",
+          "def": "A core set of (usually three) Hebrew consonants from which a family of related words is built."
+        },
+        {
+          "term": "Ruach",
+          "def": "Hebrew for spirit, breath or wind; grammatically feminine."
+        },
+        {
+          "term": "Shema",
+          "def": "The central Jewish prayer from Deuteronomy 6:4: “Hear, O Israel, the LORD is our God, the LORD is one.”"
+        },
+        {
+          "term": "YHWH",
+          "def": "The personal name of God in the Hebrew Bible, linked to the verb “to be.”"
+        },
+        {
+          "term": "Systematic theology",
+          "def": "Christian doctrine organized into a tidy logical system, which can smooth over tensions the Bible leaves open."
+        }
+      ]
+    },
+    {
+      "id": "w-shalom",
+      "book": "words",
+      "order": 10,
+      "num": 1,
+      "title": "Shalom",
+      "subtitle": "Peace: the word we thought we knew.",
+      "hebrew": "שָׁלוֹם",
+      "translit": "SHALOM",
+      "pron": "sha-LOME",
+      "root": "ש-ל-ם",
+      "gloss": "Peace",
+      "trueMeaning": "Wholeness, completeness, nothing missing or broken",
+      "nutshell": "Shalom is usually translated “peace,” but in Hebrew it means wholeness: everything in its right place, nothing lacking, nothing broken. Jesus embodies this shalom by reconciling people to God through self-giving love, not violence. Because shalom cannot be produced by eliminating enemies, followers of Jesus are called to be active peacemakers who help heal the world.",
+      "bigIdea": "Shalom is not the absence of conflict but the restoration of wholeness, brought by a Messiah who makes peace through sacrifice, never through the sword.",
+      "skeleton": [
+        "Shalom means wholeness, not merely “no fighting”",
+        "Its root links it to completeness, repayment and perfection",
+        "Jesus embodies shalom by bearing wounds to make us whole",
+        "A sword-wielding Messiah contradicts the meaning of shalom",
+        "Killing enemies never creates real peace",
+        "True peace starts with reconciliation and grace",
+        "Protection is allowed, but it is not extermination",
+        "Shalom reaches self, others, creation and God"
+      ],
+      "sections": [
+        {
+          "h": "Deeper than “peace”",
+          "p": [
+            "*Shalom* may be the best-known Hebrew word in the world. People use it as hello and goodbye, sing it, pray it and print it on banners. Translating it simply as “peace” is like describing the ocean as “wet”: true, but barely scratching the surface.",
+            "> Shalom is not just the absence of conflict; it is the presence of wholeness.",
+            "It is more than a ceasefire. It means harmony restored everywhere: inside ourselves, between people, with creation and with God. It is mending what was torn, paying what was owed and completing what was missing. It is a picture of the world as it was meant to be."
+          ]
+        },
+        {
+          "h": "One root, many rivers",
+          "p": [
+            "The root of shalom is **shin-lamed-mem** (ש-ל-ם). The same root gives *shalem* (complete, whole), *leshalem* (to pay, to make restitution) and *mushlam* (perfect). To be at shalom is to be whole, with nothing lacking and nothing broken.",
+            "So shalom describes a **condition**, not just a feeling: spiritual, social, even financial and physical. That is why it can mean welfare, prosperity, safety, health, harmony and perfection all at once.",
+            "In Judges 6:24 Gideon names his altar **YHWH Shalom**, “The LORD is Peace.” God is not only the giver of peace or a peaceful God; he is wholeness itself, the source of all harmony. So greeting someone with “Shalom” really means: “May you be whole. May you be as you were meant to be.”"
+          ]
+        },
+        {
+          "h": "When peace becomes a person",
+          "p": [
+            "In Jesus, shalom takes on flesh. He did not only teach about peace and forgiveness; he became the reconciliation. He stepped into the broken space between God and humanity, not as a warrior but as a suffering servant who carried our wounds to make us whole.",
+            "Isaiah 53:5 says the punishment that brought us peace (*shalom*) was on him, and by his wounds we are healed. Jesus is the “Prince of Peace” in more than a poetic sense. He pays the debt (*leshalem*) no one else could, and he forgives, reconciles and completes. In him shalom is a living reality, not an abstract idea."
+          ]
+        },
+        {
+          "h": "The false Messiah of the sword",
+          "p": [
+            "Here the meaning of shalom is often lost, even in Christian theology. Some picture a Messiah who returns as a cosmic general, slaughtering the wicked and ruling by force. This picture usually leans on certain readings of apocalyptic texts in Revelation, such as the “sharp sword” coming from his mouth in Revelation 19:15, taken out of context.",
+            "That view makes Jesus contradict himself: the Lamb turns into a lion and abandons his own teaching of nonviolence, as if the Sermon on the Mount were only a gentle pause before the swords come out. It replaces shalom with domination.",
+            "Killing enemies may be a victory, but it is a hollow one. Violence can silence voices; it cannot heal hearts. You can conquer a nation, but you cannot reconcile a soul that way."
+          ]
+        },
+        {
+          "h": "The myth of peace by elimination",
+          "p": [
+            "If peace could be won by wiping out whoever threatens it, history would have solved its conflicts long ago. Wars do not end war; they just reshuffle the players and deepen the wounds.",
+            "**Fundamentalism**, religious or political, often assumes that removing the “bad people” will make peace bloom. But the line between good and evil does not run between groups; it runs through every human heart.",
+            "The Church has fallen into this trap too. From the medieval crusades to Europe's wars of religion, Christians killed millions in the name of the Prince of Peace, and it produced only more division and trauma. A common lament says Christians are “the only army that shoots its own wounded.” That is the opposite of shalom."
+          ]
+        },
+        {
+          "h": "Peace begins with reconciliation",
+          "p": [
+            "Real shalom is not forced on people from outside. It begins inside, when the soul meets grace. Jesus did not come to calm down an angry God. He came to show God's true face: a Father who runs toward prodigal children, forgives seventy times seven and lays down his life for enemies.",
+            "> Jesus didn't die to change God's heart about us. He died to change our hearts about God.",
+            "The chapter argues that the cross breaks the illusion that God is like pagan gods who need blood to be calmed. While we were still enemies, Christ embraced us, and in that embrace we were made whole. That is shalom: not mere tolerance or a truce, but radical restoration. So we should never imagine the Messiah coming back as a blood-soaked avenger. The Lamb does not change tactics; he remains the Lamb."
+          ]
+        },
+        {
+          "h": "Not passivity, but peacemaking",
+          "p": [
+            "Shalom is not naive **pacifism** (refusing ever to use force). The world is broken and evil is real. Because “love always protects” (1 Corinthians 13:7), force is sometimes needed to protect the innocent, restrain chaos and uphold justice. Police, soldiers and judges have a real role, and Scripture recognizes it.",
+            "But protection is not extermination, and justice is not revenge. The shalom Jesus brings is not achieved by domination. It is born through sacrifice, humility and costly love. Jesus absorbed violence without passing it on, and so ended the cycle of revenge by letting it die with him on the cross."
+          ]
+        },
+        {
+          "h": "Shalom as a way of life, and for all creation",
+          "p": [
+            "God's kingdom is not built on the ruins of its enemies but wherever love repairs what hatred broke. Romans 14:17 says the kingdom is about righteousness, peace (*shalom*) and joy in the Holy Spirit. This peace reshapes how we handle conflict, forgive, raise children, speak truth and pray for enemies. It is something we receive and also something we pass on.",
+            "Shalom reaches beyond people to the whole of creation. Isaiah 11:6-9 pictures the wolf living with the lamb and the earth full of the knowledge of the LORD. Revelation echoes this with a renewed heaven and earth, tears wiped away and no more death or curse. The story ends not in destruction but in restoration: Eden healed, every fracture mended, every injustice reversed."
+          ]
+        },
+        {
+          "h": "Living shalom today",
+          "p": [
+            "Living in shalom means seeking wholeness in four directions: with **God**, through humility and trust; with **enemies**, through forgiveness, compassion and courage; with **ourselves**, by rejecting shame and accepting grace; and with **creation**, by caring for it rather than just consuming it.",
+            "Jesus said, “Blessed are the peacemakers, for they shall be called children of God” (Matthew 5:9). Not peace-wishers, peacekeepers or conflict-avoiders, but makers: builders, restorers, healers. Peacemaking often hurts. It means stepping into conflict with healing instead of weapons, being misunderstood and absorbing insults without hitting back.",
+            "In a land loud with war, Jesus said, “Peace I leave with you; my peace I give you. Not as the world gives” (John 14:27). His peace does not depend on circumstances; it is rooted in reconciling love. To know shalom is to know God, because God does not merely want our wholeness, he is our wholeness. The chapter ends by urging readers to let shalom become a rhythm of life, and when the world demands vengeance, to answer: Shalom."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "wordroot",
+          "title": "Anatomy of the word",
+          "letters": [
+            {
+              "ch": "ש",
+              "name": "Shin",
+              "meaning": "sh sound"
+            },
+            {
+              "ch": "ל",
+              "name": "Lamed",
+              "meaning": "l sound"
+            },
+            {
+              "ch": "ו",
+              "name": "Vav",
+              "meaning": "o vowel here"
+            },
+            {
+              "ch": "ם",
+              "name": "Mem (final form)",
+              "meaning": "m sound"
+            }
+          ],
+          "root": "ש-ל-ם",
+          "rootNote": "to be whole, complete; to pay what is owed",
+          "meanings": [
+            "peace",
+            "wholeness",
+            "shalem: complete",
+            "leshalem: to repay",
+            "mushlam: perfect",
+            "welfare, health, safety"
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "Two ideas of peace",
+          "after": 4,
+          "left": {
+            "label": "Peace by force",
+            "items": [
+              "Peace = no fighting",
+              "Achieved by removing enemies",
+              "Messiah returns as a conquering general",
+              "God must be appeased",
+              "Silences voices",
+              "Ends in destruction"
+            ]
+          },
+          "right": {
+            "label": "Hebrew shalom",
+            "items": [
+              "Peace = wholeness, nothing missing",
+              "Achieved through reconciliation and sacrifice",
+              "The Lamb remains the Lamb",
+              "Our hearts about God are changed",
+              "Restores hearts",
+              "Ends in restoration: Eden healed"
+            ]
+          }
+        },
+        {
+          "type": "tree",
+          "title": "Wholeness in every dimension",
+          "after": 8,
+          "root": "Living shalom",
+          "branches": [
+            {
+              "t": "With God",
+              "children": [
+                "humility",
+                "trust"
+              ]
+            },
+            {
+              "t": "With enemies",
+              "children": [
+                "forgiveness",
+                "compassion",
+                "courage"
+              ]
+            },
+            {
+              "t": "With ourselves",
+              "children": [
+                "rejecting shame",
+                "embracing grace"
+              ]
+            },
+            {
+              "t": "With creation",
+              "children": [
+                "caretakers",
+                "not just consumers"
+              ]
+            }
+          ]
+        }
+      ],
+      "verses": [
+        {
+          "ref": "Judges 6:24",
+          "text": "Gideon built an altar to the LORD there and called it “The LORD is Peace” (YHWH Shalom)."
+        },
+        {
+          "ref": "Isaiah 53:5",
+          "text": "He was wounded for our transgressions… the punishment that brought us peace was on him, and by his stripes we are healed."
+        },
+        {
+          "ref": "Matthew 5:9",
+          "text": "Blessed are the peacemakers, for they shall be called children of God."
+        },
+        {
+          "ref": "Romans 14:17",
+          "text": "The kingdom of God is not eating and drinking, but righteousness, peace and joy in the Holy Spirit."
+        },
+        {
+          "ref": "Isaiah 11:6, 9",
+          "text": "The wolf will live with the lamb… the earth will be full of the knowledge of the LORD."
+        },
+        {
+          "ref": "John 14:27",
+          "text": "Peace I leave with you; my peace I give you. Not as the world gives do I give to you."
+        }
+      ],
+      "keyPoints": [
+        "Shalom means wholeness and completeness, not just the absence of conflict.",
+        "Its root ש-ל-ם also gives words for “complete,” “to repay” and “perfect.”",
+        "Jesus embodies shalom by bearing our wounds and reconciling us, not by conquering.",
+        "Peace cannot be achieved by eliminating enemies, because evil runs through every heart.",
+        "Using force to protect the innocent is different from extermination or revenge.",
+        "Shalom covers our relationships with God, enemies, ourselves and creation.",
+        "Followers of Jesus are called to be peacemakers, not just peace-wishers."
+      ],
+      "reflect": [
+        "Where in your life is something “broken or missing” that shalom would make whole?",
+        "Who is an “enemy” you could take a step toward in peacemaking this week?",
+        "Does your picture of Jesus' return look more like the Lamb or like a conquering general? Why?"
+      ],
+      "quiz": [
+        {
+          "q": "Which word shares the root of shalom and means “to pay or make restitution”?",
+          "options": [
+            "Shalem",
+            "Mushlam",
+            "Leshalem",
+            "Shema"
+          ],
+          "a": 2,
+          "why": "Leshalem means to repay; shalem is “complete” and mushlam is “perfect.”"
+        },
+        {
+          "q": "What name did Gideon give his altar in Judges 6:24?",
+          "options": [
+            "YHWH Shalom",
+            "YHWH Yireh",
+            "El Shaddai",
+            "YHWH Nissi"
+          ],
+          "a": 0,
+          "why": "YHWH Shalom means “The LORD is Peace”: God as wholeness itself."
+        },
+        {
+          "q": "According to the chapter, why can't peace come from eliminating enemies?",
+          "options": [
+            "There are too many enemies",
+            "The line between good and evil runs through every heart",
+            "Weapons are too expensive",
+            "God forbids all use of force"
+          ],
+          "a": 1,
+          "why": "Evil is not confined to one group, so removing “bad people” never produces real peace."
+        },
+        {
+          "q": "How does the chapter view police, soldiers and judges?",
+          "options": [
+            "As always opposed to shalom",
+            "As irrelevant to faith",
+            "As having a real role in protecting the innocent",
+            "As the main way shalom arrives"
+          ],
+          "a": 2,
+          "why": "Because love protects, force may restrain evil, but protection is not extermination."
+        }
+      ],
+      "terms": [
+        {
+          "term": "Shalom",
+          "def": "Hebrew for peace in its full sense: wholeness, completeness, welfare and harmony."
+        },
+        {
+          "term": "Shalem",
+          "def": "Complete or whole; from the same root as shalom."
+        },
+        {
+          "term": "Leshalem",
+          "def": "To pay or make restitution; to settle what is owed."
+        },
+        {
+          "term": "YHWH Shalom",
+          "def": "“The LORD is Peace,” the name Gideon gave his altar."
+        },
+        {
+          "term": "Pacifism",
+          "def": "The belief that using force is never acceptable."
+        }
+      ]
+    },
+    {
+      "id": "w-nahash",
+      "book": "words",
+      "order": 20,
+      "num": 2,
+      "title": "Nahash",
+      "subtitle": "The serpent and the Shining One.",
+      "hebrew": "נָחָשׁ",
+      "translit": "NAHASH",
+      "pron": "na-KHASH",
+      "root": "נ-ח-ש",
+      "gloss": "Serpent",
+      "trueMeaning": "Serpent, but also “the shining one”",
+      "nutshell": "The “serpent” of Eden, the nahash, comes from a root that means to hiss, to practise divination and to shine, and is linked to the word for gleaming bronze. Ancient Jewish tradition saw it as a radiant, upright being later cursed to crawl. The bronze serpent Moses lifted up, and Jesus lifted on the cross, turn the image of the curse into healing, revealing Jesus as the true Shining One.",
+      "bigIdea": "The nahash was a shining rebel who brought death, but Jesus, lifted up like the bronze serpent, is the true Shining One who turns the curse into life.",
+      "skeleton": [
+        "The talking “snake” is deeper than a cartoon reptile",
+        "Nahash's root means hiss, divine and shine",
+        "Jewish tradition saw a radiant being, not a lowly snake",
+        "The Bible and its world are full of serpent-like divine beings",
+        "The curse cast the shining one down into the dust",
+        "God used a bronze serpent to heal from serpents",
+        "Jesus lifted up is the new bronze serpent and Tree of Life",
+        "The cross exposes our sin and reveals God's love"
+      ],
+      "sections": [
+        {
+          "h": "More than a talking snake: the meanings of nahash",
+          "p": [
+            "To modern readers, a snake that talks in Genesis 3 can sound absurd, and sceptics have long mocked the Eden story for it. Children's Bibles show Eve chatting with a reptile curled in a tree. But under that cartoon lies one of the most profound and misunderstood figures in Scripture.",
+            "The Hebrew word is *nahash*. The more you dig into it, the more the ground shifts. What if this “serpent” was never meant to be pictured as an ordinary snake at all?",
+            "Nahash does mean snake in places, such as Numbers 21. But its three-letter root **nun-chet-shin** (נ-ח-ש) carries three senses: **to hiss** like a snake, **to divine** (practise fortune-telling or occult arts) and **to shine**.",
+            "The “shine” sense links it to *nehoshet*, bronze or copper, a polished, gleaming metal. Shining and glowing are often tied to divine or angelic beings in the Bible. So nahash may point to a shining, reptile-like angelic being rather than a plain snake. The International Standard Version even translates Genesis 3:1 as “Now the **Shining One** was more clever than any animal of the field.”",
+            "This fits other Scripture. Paul says “Satan himself masquerades as an angel of light” (2 Corinthians 11:14). Revelation speaks of “a great fiery red dragon” (12:3) and “that ancient serpent, called the devil, or Satan” (12:9). So who was Eve really talking to?"
+          ]
+        },
+        {
+          "h": "Not a reptile, but a rebel",
+          "p": [
+            "An ancient Jewish **midrash** (a traditional rabbinic commentary), *Bereshit Rabbah* 20:5, describes the nahash as radiant and upright, perhaps winged, not a creature in the dirt. Some rabbis saw it as an angelic or heavenly being able to speak, which was only later cursed to crawl.",
+            "That fits the Bible's world, where heaven and earth overlap. In Eden God walks with humans, and angelic cherubim appear (Genesis 3:24). In such a setting, talking with a heavenly being would not shock Eve. Indeed, she shows no alarm. She likely saw it as one of God's impressive, even beautiful creatures, with no reason yet to distrust it.",
+            "The text calls the nahash *arum*, “crafty,” a word that can mean shrewd or discerning and is not automatically evil. The danger was not its shape but its speech. What started as cleverness turned into deception."
+          ]
+        },
+        {
+          "h": "Serpents in the divine realm",
+          "p": [
+            "In Isaiah 6, God is surrounded by **seraphim**, fiery winged beings. The word *saraph* means both “to burn” and “serpent,” and the same word describes the “fiery serpents” in Numbers 21. A seraph may be pictured as a fiery, serpent-like being radiating God's presence: not a garden snake but a creature of flame in God's throne room.",
+            "Israel's neighbours also had serpent figures linked with wisdom, immortality and protection. Egypt honoured the **Uraeus** cobra as a sign of divine kingship, and Mesopotamian stories featured shining reptilian beings guarding secrets or tempting humans. Ancient readers of Genesis 3 would therefore have recognized a supernatural being, perhaps a divine guardian gone rogue, rather than a common snake."
+          ]
+        },
+        {
+          "h": "The curse and the fall",
+          "p": [
+            "After deceiving Eve, the nahash is cursed: “You will crawl on your belly and eat dust all the days of your life” (Genesis 3:14). This implies it had not always crawled. The curse takes something away, perhaps legs, wings or both, stripping it of glory. Just as Adam will return to dust, the serpent is confined to it.",
+            "The scene echoes Egyptian images of underworld serpents crushed under divine feet, and later prophecies in Isaiah 14 and Ezekiel 28, where proud kings, and the powers behind them, are thrown down from the heights to the grave. The fallen nahash becomes a symbol of rebellion, once exalted and now humiliated, a theme that runs from Eden to Revelation."
+          ]
+        },
+        {
+          "h": "A serpent that heals",
+          "p": [
+            "Surprisingly, the serpent is not always a villain. In Numbers 21 Israel complains against God, and fiery serpents bite the people, and many die. Yet mercy wins: God tells Moses to make a **bronze serpent** and lift it on a pole, and anyone bitten who looks at it lives. In Hebrew that is a *nahash nehoshet*, a wordplay: a gleaming serpent of gleaming metal.",
+            "A serpent to save from serpents; death lifted up to bring life. Why not a lamb or a dove? Because healing begins when we face what wounded us. The bronze serpent was like a mirror showing both the result of sin and the promise of healing. The people had to choose to look, just as Eve had to choose. Some surely scoffed; those who looked lived."
+          ]
+        },
+        {
+          "h": "Jesus lifted up",
+          "p": [
+            "Over a thousand years later Jesus used this story for his own mission: “Just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life” (John 3:14-15). He compares himself to the image of the curse (see Galatians 3:13). The one who knew no sin became sin for us (2 Corinthians 5:21).",
+            "Jesus becomes the *nahash nehoshet*, the shining one lifted high. We are invited not just to glance but to behold, think, understand and believe. At the cross, all the venom of the human soul is on display: betrayal, cowardice, violence, mockery and torture, ending in the murder of the Messiah. But we also see light. Like the bronze serpent, the cross gleams with a terrible beauty, where death is defeated and shame is healed. God did not abandon us; he became the cure."
+          ]
+        },
+        {
+          "h": "From the Tree of Knowledge to the Tree of Life",
+          "p": [
+            "In Eden, humans reached for a tree to grab what was not theirs: knowledge, control, power. The result was exile, shame and death. On Calvary the Messiah hangs on a tree, not to take but to give, not to punish but to forgive.",
+            "The serpent promised, “Your eyes will be opened,” and they were, but only to their own nakedness. Jesus says, in effect, “Look to me and live,” and our eyes open to grace instead of shame. The cross becomes the new **Tree of Life**. The early Church saw the crucifixion as a second Eden: Jesus is the Second Adam, and the cross reverses the first temptation. The serpent deceived by promising life; Jesus redeems by giving it."
+          ]
+        },
+        {
+          "h": "The true Shining One",
+          "p": [
+            "Ironically, the title “shining one” finds its real fulfilment not in the deceiver but in the Redeemer. The enemy still disguises himself as an angel of light, offering glory without sacrifice. Jesus is not a disguise; he is the light itself. Revelation 1 pictures him with eyes like fire, feet like burnished bronze and a face like the sun at full strength, and Hebrews 1:3 calls him “the radiance of God's glory.”",
+            "> The serpent sought glory without obedience. Jesus embraced obedience and was glorified.",
+            "The serpent corrupted through lies; Jesus restores through truth. The serpent brought death through pride; Jesus brings life through humility."
+          ]
+        },
+        {
+          "h": "Looking at the cross today",
+          "p": [
+            "Golgotha (the hill of the crucifixion) is the peak of humanity's worst: pride, rivalry, **scapegoating** (blaming a victim to keep a group together), violence and the hunger to dominate. Human “order and justice” was unmasked as a power struggle so corrupt it crucified God in the name of truth. Yet it is also where God's love is most clearly revealed: a love that absorbs violence without returning it, forgives while being pierced and conquers by dying rather than killing.",
+            "The cross is both a **mirror** and a **window**. As a mirror it shows what we are capable of. As a window it shows what God is like: a God who shines with self-giving love, walks through our venom to heal us and turns the very image of the curse into salvation. Jesus said, “And I, when I am lifted up from the earth, will draw all people to myself” (John 12:32). All who look to him and see the light in the blood will live."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "wordroot",
+          "title": "Anatomy of the word",
+          "letters": [
+            {
+              "ch": "נ",
+              "name": "Nun",
+              "meaning": "n sound"
+            },
+            {
+              "ch": "ח",
+              "name": "Chet",
+              "meaning": "throaty kh sound"
+            },
+            {
+              "ch": "ש",
+              "name": "Shin",
+              "meaning": "sh sound"
+            }
+          ],
+          "root": "נ-ח-ש",
+          "rootNote": "to hiss; to divine; to shine",
+          "meanings": [
+            "serpent",
+            "to hiss",
+            "to practise divination",
+            "to shine, gleam",
+            "nehoshet: bronze, copper",
+            "“the Shining One”"
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "The serpent story reversed",
+          "after": 6,
+          "steps": [
+            {
+              "t": "Eden",
+              "d": "A shining nahash deceives, and humanity reaches for the forbidden tree."
+            },
+            {
+              "t": "The curse",
+              "d": "The nahash is cast into the dust and death enters the world."
+            },
+            {
+              "t": "The wilderness",
+              "d": "God has Moses lift a bronze serpent, and those who look are healed."
+            },
+            {
+              "t": "The cross",
+              "d": "Jesus is lifted up like the serpent, taking the image of the curse."
+            },
+            {
+              "t": "New Tree of Life",
+              "d": "Whoever looks to him and believes receives life instead of shame."
+            }
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "Two shining ones",
+          "after": 7,
+          "left": {
+            "label": "The nahash of Eden",
+            "items": [
+              "Borrowed, false light",
+              "Sought glory without obedience",
+              "Corrupted through lies",
+              "Brought death through pride",
+              "Offered to open eyes, gave shame"
+            ]
+          },
+          "right": {
+            "label": "Jesus, the true Shining One",
+            "items": [
+              "The radiance of God's own glory",
+              "Embraced obedience and was glorified",
+              "Restores through truth",
+              "Brings life through humility",
+              "Opens eyes to grace"
+            ]
+          }
+        }
+      ],
+      "verses": [
+        {
+          "ref": "Genesis 3:14",
+          "text": "Because you have done this, cursed are you… you will crawl on your belly and eat dust all the days of your life."
+        },
+        {
+          "ref": "Numbers 21:8-9",
+          "text": "Make a serpent and set it on a pole; anyone who is bitten and looks at it will live. So Moses made a bronze serpent."
+        },
+        {
+          "ref": "John 3:14-15",
+          "text": "As Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes may have eternal life."
+        },
+        {
+          "ref": "2 Corinthians 11:14",
+          "text": "Satan himself masquerades as an angel of light."
+        },
+        {
+          "ref": "Hebrews 1:3",
+          "text": "The Son is the radiance of God's glory and the exact representation of his being."
+        },
+        {
+          "ref": "John 12:32",
+          "text": "And I, when I am lifted up from the earth, will draw all people to myself."
+        }
+      ],
+      "keyPoints": [
+        "The root of nahash means to hiss, to divine and to shine, and is linked to nehoshet, “bronze.”",
+        "Jewish tradition (Bereshit Rabbah 20:5) pictured the nahash as a radiant, upright being later cursed to crawl.",
+        "The Bible and the ancient Near East are full of fiery, serpent-like heavenly beings such as the seraphim.",
+        "The curse in Genesis 3:14 strips the shining rebel of glory and binds it to the dust.",
+        "God used a bronze serpent (nahash nehoshet) to heal Israel, showing healing comes by facing what wounded us.",
+        "Jesus, lifted up on the cross, takes the image of the curse and becomes the true Shining One.",
+        "The cross is both a mirror of human sin and a window into God's self-giving love."
+      ],
+      "reflect": [
+        "What “venom” in your own life do you need to look at honestly in order to be healed?",
+        "How does seeing the cross as both a mirror and a window change how you think about it?",
+        "Where are you tempted to seek glory without obedience?"
+      ],
+      "quiz": [
+        {
+          "q": "Which of these is NOT one of the meanings of the root נ-ח-ש?",
+          "options": [
+            "To hiss",
+            "To divine",
+            "To shine",
+            "To sing"
+          ],
+          "a": 3,
+          "why": "The root carries hissing, divination and shining; “to sing” is not among them."
+        },
+        {
+          "q": "What does nehoshet mean?",
+          "options": [
+            "Dust",
+            "Bronze or copper",
+            "Fire",
+            "Tree"
+          ],
+          "a": 1,
+          "why": "Nehoshet is a gleaming metal, which is why the bronze serpent is a nahash nehoshet."
+        },
+        {
+          "q": "Which ancient Jewish source describes the nahash as radiant and upright?",
+          "options": [
+            "The Mishnah",
+            "Josephus",
+            "Bereshit Rabbah 20:5",
+            "The Dead Sea Scrolls"
+          ],
+          "a": 2,
+          "why": "This midrash on Genesis pictures a glorious being later cursed to crawl."
+        },
+        {
+          "q": "In John 3:14-15, what does Jesus compare himself to?",
+          "options": [
+            "The bronze serpent lifted up by Moses",
+            "The Tree of Knowledge",
+            "The angel guarding Eden",
+            "The fiery red dragon"
+          ],
+          "a": 0,
+          "why": "Like the bronze serpent, the Son of Man is lifted up so that those who look and believe may live."
+        }
+      ],
+      "terms": [
+        {
+          "term": "Nahash",
+          "def": "Hebrew for serpent; from a root meaning to hiss, to divine and to shine."
+        },
+        {
+          "term": "Nehoshet",
+          "def": "Bronze or copper, a gleaming metal from the same root as nahash."
+        },
+        {
+          "term": "Arum",
+          "def": "Crafty, shrewd or discerning; used of the nahash in Genesis 3:1."
+        },
+        {
+          "term": "Seraph / seraphim",
+          "def": "Fiery heavenly beings in Isaiah 6; the word means both “to burn” and “serpent.”"
+        },
+        {
+          "term": "Midrash",
+          "def": "Traditional Jewish commentary that explores and expands the meaning of Scripture."
+        },
+        {
+          "term": "Uraeus",
+          "def": "The upright cobra symbol of divine kingship in ancient Egypt."
+        }
+      ]
+    },
+    {
+      "id": "w-qorban",
+      "book": "words",
+      "order": 30,
+      "num": 3,
+      "title": "Qorban",
+      "subtitle": "Sacrifice: a word of closeness, not cruelty.",
+      "hebrew": "קָרְבָּן",
+      "translit": "QORBAN",
+      "pron": "kor-BAHN",
+      "root": "ק-ר-ב",
+      "gloss": "Sacrifice, offering",
+      "trueMeaning": "A gift that brings you near",
+      "nutshell": "The Hebrew word for sacrifice, qorban, comes from the root for “near” and means a gift offered to draw close to God. Christian theology often imported a pagan idea of sacrifice as calming angry gods, but Israel's sacrifices were humane, joyful gifts expressing relationship. Jesus is the ultimate qorban, given by the Father in love to bring us near, and he calls us to make our lives a living offering.",
+      "bigIdea": "Biblical sacrifice is about coming near to God through a gift of love, not about appeasing an angry deity with violence.",
+      "skeleton": [
+        "Qorban shares a root with qarov, “near”",
+        "Real human sacrifices are acts of love and closeness",
+        "Pagan appeasement crept into Christian ideas of atonement",
+        "Israel's sacrifices were humane, never abusive",
+        "Sacrifice was a gift expressing relationship",
+        "Jesus is the ultimate qorban, given in love",
+        "Treating gifts as targets of anger is absurd",
+        "We are called to be living sacrifices"
+      ],
+      "sections": [
+        {
+          "h": "Sacrifice means coming near",
+          "p": [
+            "For most people today, “sacrifice” suggests blood, death and painful loss: something you are forced to give up. In the ancient Hebrew mind it meant something very different: not destruction but **connection**.",
+            "The Hebrew word is *qorban*. It shares the root **Q-R-B** (ק-ר-ב) with *qarov*, “near, close, intimate.” The same root forms words for nearness, kinship and even the inner parts of the body. A relative is your *qarov*, your close one. And if you want to draw near to God, you bring a qorban, a gift of nearness.",
+            "> A qorban is not about death. It is about coming near."
+          ]
+        },
+        {
+          "h": "Giving as an act of love",
+          "p": [
+            "Think of real-life sacrifices: a mother getting up at night for a crying baby, a friend donating a kidney, a soldier shielding a comrade. They cost something, but no one is punishing themselves or paying a cosmic debt. The goal is closeness, protection and love. The gift is not the pain; the gift is the nearness.",
+            "That was the heart of Israel's sacrificial system. People brought something valuable, grain, oil, wine or livestock, not to feed God or calm his anger, but to show devotion and restore the relationship. The blood, fire and aroma were symbols of surrender and approach, not violence for its own sake."
+          ]
+        },
+        {
+          "h": "A pagan story with biblical words",
+          "p": [
+            "Sadly, much Christian thinking about sacrifice came not from the Hebrew Bible but from Greek, Roman and other pagan ideas. In those religions the gods were hungry, angry and unstable and had to be bribed or soothed with blood. Sacrifice was **appeasement** (calming someone's anger): “The gods are angry; someone must die; kill an animal so they leave us alone.”",
+            "That idea slipped into some theories of the **atonement** (how Jesus' death reconciles us with God), where God's wrath needs violence to be satisfied. The chapter, which also critiques John Calvin's theory of **penal substitution** (the view that God punished Jesus in our place), argues this turns God into the kind of god Israel was warned not to copy.",
+            "A well-known Bible teacher puts it this way: many Westerners inherited a story where the gods are angry and want their “pound of flesh,” and simply poured it into Leviticus and the cross. In that version God hates you and must kill you, but lets an animal, and finally Jesus, die instead, so Jesus rescues us **from God**. The teacher's point: this story borrows enough Bible language to pass as biblical, but when Leviticus and the New Testament speak for themselves, it is exposed as an imposter. In it Jesus becomes a whipping boy while God watches, satisfied. That is not the God of the Hebrew Scriptures or of Jesus."
+          ]
+        },
+        {
+          "h": "Sacrifice was never abuse",
+          "p": [
+            "In the Hebrew Scriptures, sacrificial animals were treated with respect. The slaughter was quick, humane and precise. No one tortured, flogged or “punished” the animal to transfer guilt. The medieval Jewish philosopher **Maimonides** wrote that the rules of ritual slaughter were designed to reduce the animal's pain. The point was a symbolic transfer of life, “for the life of the flesh is in the blood” (Leviticus 17:11).",
+            "So yes, Jesus was our sacrifice, but what kind? If we imagine that God enjoyed seeing his Son suffer (a grotesque misreading of Isaiah 53:10), we are following Marcion (an early teacher who set a harsh Old Testament God against Jesus), Calvinism and pagan categories rather than Scripture.",
+            "> Jesus was not punished by the Father. He was given by the Father."
+          ]
+        },
+        {
+          "h": "The gift economy of love",
+          "p": [
+            "A qorban is a gift, not a bribe or a plea bargain. One scholar of ancient religion explains that Israelites gave back to God some of what God had given them, to express their close relationship and deepen the bond.",
+            "That is how love works. A handwritten letter or a handmade present is valuable not for its price but for the heart behind it. In Hosea 6:6 God says, “I desire mercy, not sacrifice, and the knowledge of God more than burnt offerings.” In other words: what God wants is your heart and your nearness. God was never hungry for blood; he was always hungry for connection."
+          ]
+        },
+        {
+          "h": "Jesus, the living qorban",
+          "p": [
+            "In Jesus, qorban reaches its highest form. He is not a hostage slaughtered to calm an angry deity but the fullest picture of self-giving love. He poured out his life not to change God's mind about us, but to change our hearts about God and draw us near.",
+            "Jesus reframed sacrifice. When it came to offerings that please God, he pointed to love in action: being reconciled with your brother before bringing your gift (Matthew 5:23-24) and giving to the poor (Matthew 19:21). The new altar is the heart; the new qorban is reconciliation, generosity, justice and mercy. Jesus did not abolish sacrifice; he transformed it. As Hebrews 13:16 says, doing good and sharing are the sacrifices that please God."
+          ]
+        },
+        {
+          "h": "What children already know",
+          "p": [
+            "We all understood qorban as children. Picture a school field trip: you have your favourite snacks, and a friend has none. You share, and not the cheap ones but the good ones. That is sacrifice, not because it hurts but because it heals. It says, “You matter more to me than what I'm giving up.”",
+            "Ancient Israel gave its best for the same reason: not because God was hungry or angry but because he was worthy. They were not buying salvation but building relationship, and offerings were often followed by festivals full of food, joy and community: a return to God's table.",
+            "Gifts still work this way. A diamond ring means commitment and presence far beyond its price. When we give our time, energy, pride or status, or choose to suffer alongside others, that too is qorban. Paul urges, “Present your bodies as a living sacrifice” (Romans 12:1). The true altar is life itself."
+          ]
+        },
+        {
+          "h": "What ancient sacrifice actually meant",
+          "p": [
+            "In ancient Israel, animals were not faceless property. Families cared for and raised them, so offering one was costly emotionally as well as financially: a sign of surrender, not savagery. The **Torah** (the Law of Moses) required an unblemished, whole animal and a quick, humane death, with no abuse and no venting of anger on it.",
+            "If that was true of the shadow, how much more of the reality it pointed to. If Jesus is our sacrifice in the spirit of the Torah, his death is not a punishment from the Father but the Son's ultimate offering of love."
+          ]
+        },
+        {
+          "h": "The “gospel” of divine abuse, and the way home",
+          "p": [
+            "Imagine a husband who hurts his wife and brings flowers and chocolates to say sorry. Now imagine she stomps the gifts into the floor and says, “There, your gifts absorbed my anger; I forgive you.” Absurd. Yet many churches, especially fundamentalist ones, teach that God was so furious he had to take it out on someone, and Jesus became the target. The chapter argues that in the Gospels Jesus dies not to change God's attitude toward us, but to reveal God's eternal love. The violent story hides a far more beautiful truth found in the Hebrew Scriptures.",
+            "True sacrifice is always about nearness. Qorban is the language of return: “I want to come closer and restore what was broken.” Jesus offered not a legal loophole or courtroom drama but a path home, inviting us to bring our hearts to the altar to be healed, not crushed. Now we are called to become living qorban through daily compassion, courage and connection, not to earn God's favour but to express it, drawing near to God, to one another and even to our enemies."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "wordroot",
+          "title": "Anatomy of the word",
+          "letters": [
+            {
+              "ch": "ק",
+              "name": "Qof",
+              "meaning": "q / k sound"
+            },
+            {
+              "ch": "ר",
+              "name": "Resh",
+              "meaning": "r sound"
+            },
+            {
+              "ch": "ב",
+              "name": "Bet",
+              "meaning": "b sound"
+            },
+            {
+              "ch": "ן",
+              "name": "Nun (final form)",
+              "meaning": "n sound"
+            }
+          ],
+          "root": "ק-ר-ב",
+          "rootNote": "to come near, to approach",
+          "meanings": [
+            "offering, sacrifice",
+            "qarov: near, close",
+            "a close relative",
+            "inner parts",
+            "intimacy",
+            "a gift of nearness"
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "Two stories of sacrifice",
+          "after": 3,
+          "left": {
+            "label": "Pagan appeasement (imported into the West)",
+            "items": [
+              "The gods are angry and hungry",
+              "Someone must die to calm them",
+              "The victim is punished",
+              "Sacrifice is a bribe",
+              "Jesus rescues us from God",
+              "Goal: avoid wrath"
+            ]
+          },
+          "right": {
+            "label": "Hebrew qorban",
+            "items": [
+              "God is loving and does not eat",
+              "A gift is brought to draw near",
+              "The animal is treated humanely",
+              "Sacrifice is a gift of love",
+              "The Father gives the Son to bring us near",
+              "Goal: closeness and restored relationship"
+            ]
+          }
+        },
+        {
+          "type": "cycle",
+          "title": "The gift economy of love",
+          "after": 6,
+          "center": "Drawing near",
+          "center2": "to God",
+          "nodes": [
+            {
+              "t": "God gives",
+              "d": "God provides life, land, harvest and flocks."
+            },
+            {
+              "t": "We give back",
+              "d": "People offer part of what they received, from their best."
+            },
+            {
+              "t": "The bond deepens",
+              "d": "The gift expresses and strengthens the relationship."
+            },
+            {
+              "t": "Celebration",
+              "d": "Offerings lead to feasts, joy and a seat at God's table."
+            }
+          ]
+        }
+      ],
+      "verses": [
+        {
+          "ref": "Leviticus 17:11",
+          "text": "For the life of the flesh is in the blood."
+        },
+        {
+          "ref": "Hosea 6:6",
+          "text": "I desire mercy, not sacrifice, and the knowledge of God more than burnt offerings."
+        },
+        {
+          "ref": "Matthew 5:23-24",
+          "text": "If you are offering your gift at the altar and remember your brother has something against you… first be reconciled, then come and offer your gift."
+        },
+        {
+          "ref": "Hebrews 13:16",
+          "text": "Do not forget to do good and to share with others, for with such sacrifices God is pleased."
+        },
+        {
+          "ref": "Romans 12:1",
+          "text": "Present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship."
+        }
+      ],
+      "keyPoints": [
+        "Qorban comes from the root ק-ר-ב, “to come near,” and means a gift that brings you close to God.",
+        "Real sacrifice, human or religious, aims at intimacy and love, not self-punishment.",
+        "The idea of sacrifice as appeasing angry gods comes from pagan religion, not the Hebrew Bible.",
+        "Israel's sacrifices were humane; the animal was never tortured or punished.",
+        "Jesus was given by the Father in love, not punished by him.",
+        "Jesus redirected sacrifice toward reconciliation, generosity, justice and mercy.",
+        "Believers are called to be living sacrifices in daily acts of love."
+      ],
+      "reflect": [
+        "When have you given up something valuable simply to be close to someone you love?",
+        "Which story of sacrifice, appeasement or gift, did you grow up with, and how has it shaped your view of God?",
+        "What could a “living qorban” look like in your daily life this week?"
+      ],
+      "quiz": [
+        {
+          "q": "Which Hebrew word shares a root with qorban?",
+          "options": [
+            "Qarov (near)",
+            "Kippur (atonement)",
+            "Shalom (peace)",
+            "Dam (blood)"
+          ],
+          "a": 0,
+          "why": "Both come from Q-R-B, the root for coming near."
+        },
+        {
+          "q": "According to the chapter, where did the idea of sacrifice as appeasement come from?",
+          "options": [
+            "Leviticus",
+            "The prophets",
+            "Greco-Roman and pagan religion",
+            "The Gospels"
+          ],
+          "a": 2,
+          "why": "In pagan systems angry gods had to be bribed with blood; the chapter says this was imported into Christian theology."
+        },
+        {
+          "q": "What did Maimonides say about the rules of ritual slaughter?",
+          "options": [
+            "They were meant to show God's anger",
+            "They were meant to minimize the animal's pain",
+            "They were optional",
+            "They were borrowed from Egypt"
+          ],
+          "a": 1,
+          "why": "The rules aimed at a quick, humane death, never abuse."
+        },
+        {
+          "q": "What is the point of the husband, flowers and chocolates illustration?",
+          "options": [
+            "Gifts should be expensive",
+            "Apologies are unnecessary",
+            "Destroying a gift to absorb anger is absurd, and so is that view of the cross",
+            "Anger is always justified"
+          ],
+          "a": 2,
+          "why": "A gift is meant to restore closeness, not to be the target of rage."
+        }
+      ],
+      "terms": [
+        {
+          "term": "Qorban",
+          "def": "Hebrew for an offering or sacrifice; literally a gift that brings you near."
+        },
+        {
+          "term": "Qarov",
+          "def": "Near, close or intimate; also a close relative."
+        },
+        {
+          "term": "Appeasement",
+          "def": "Calming someone's anger by giving them what they demand."
+        },
+        {
+          "term": "Penal substitution",
+          "def": "The theory, linked to John Calvin, that God punished Jesus in place of sinners."
+        },
+        {
+          "term": "Marcion",
+          "def": "A second-century teacher who pitted a harsh Old Testament God against the God of Jesus."
+        },
+        {
+          "term": "Torah",
+          "def": "The Law of Moses, the first five books of the Bible."
+        }
+      ]
+    },
+    {
+      "id": "w-dam",
+      "book": "words",
+      "order": 40,
+      "num": 4,
+      "title": "Dam",
+      "subtitle": "Blood: the river of life.",
+      "hebrew": "דָּם",
+      "translit": "DAM",
+      "pron": "DAHM",
+      "root": "ד-ם",
+      "gloss": "Blood",
+      "trueMeaning": "Life itself, given to cleanse",
+      "nutshell": "Today blood signals violence and death, but in Hebrew thought blood (dam) means life, closely tied to the words for human (adam) and ground (adamah). In the Tabernacle, blood acted like a spiritual antiseptic, purifying what death had touched so God could dwell with his people. Jesus' blood is not payment to an angry God but a divine transfusion of life that cleanses, reconciles and raises us to new life.",
+      "bigIdea": "In Scripture blood atones because it carries life, so Jesus' blood is a gift of cleansing life, not a sign of divine fury.",
+      "skeleton": [
+        "Modern culture links blood with death; Hebrew links it with life",
+        "Dam, adam and adamah tie humans to blood and ground",
+        "God gave blood as a gift, not a demand",
+        "Impurity meant contact with death, not moral guilt",
+        "Blood was the Tabernacle's spiritual antiseptic",
+        "Jesus' blood purifies our consciences and hearts",
+        "Death gave access to the blood; life did the cleansing",
+        "The cross started resurrection, not just stopped wrath"
+      ],
+      "sections": [
+        {
+          "h": "What blood became, and what it once meant",
+          "p": [
+            "Today blood usually means violence: war footage on the news, video games, films. We hide it in hospitals and wipe it away with gloves, linking it with loss rather than life. Scripture tells a different story.",
+            "To the ancient Hebrews, blood was sacred, not gross: a carrier of life, a sign of hope. The Torah never presents blood as a symbol of God's anger. It presents it as a means of reconciliation through **purification**, a divine antiseptic so that God's presence can dwell with people.",
+            "The words themselves show this. *Dam* means **blood**, *Adam* means **human** (and the first man), and *adamah* means **ground**. Human life is bound up with blood, physically and spiritually. At the centre stands Leviticus 17:11: “The life of the creature is in the blood, and I have given it to you to make atonement… it is the blood that makes atonement, for the life is in it.”",
+            "> The power isn't in the death. The power is in the life, and that life flows in blood."
+          ]
+        },
+        {
+          "h": "Life given, not death demanded",
+          "p": [
+            "In Israel's sacrifices, blood was not spilled to calm God's anger. It was offered because life had been lost, and God in mercy provided a way to restore it. It was never death that made atonement, but blood, and blood meant life.",
+            "So the altar was not a stage for punishment but a table of reunion, a meeting place between holiness and humanity. God says, “I have given it to you.” That is the language of gift, not wrath.",
+            "This sharply contrasts with the pagan religions around Israel, where blood was a bribe to feed angry, unstable gods. The God of Israel did not eat or rage; he gave life. The animal was not abused or tortured for its blood. The idea that a loving Father demands the abuse of a victim before forgiving is a foreign, pagan intrusion, not biblical theology."
+          ]
+        },
+        {
+          "h": "Why blood purifies",
+          "p": [
+            "In biblical thought blood was about glory, not gore: the visible stream of invisible life, the sign that a creature was still animated by God's breath. Blood purifies not by magic or violence, but because it stands for life returning where death had crept in.",
+            "That is also why **impurity** in the Law was not about shame or guilt. It was about closeness to death. A corpse, an open wound, a flow of blood or semen were not moral evils; they were reminders that death had touched us. Because God is the God of life, death had to be dealt with before his people could come near. So what did God provide? Blood: not to terrify but to cleanse, not to pay but to restore, not to punish but to purify."
+          ]
+        },
+        {
+          "h": "The altar and the operating table",
+          "p": [
+            "Tabernacle worship was obsessed with cleanliness, mostly spiritual cleanliness: removing defilement so the living God could stay among his people. After a pandemic we understand this. A surgeon will not operate until the room is sterile, not because the doctor hates germs or is cruel, but because contamination endangers life.",
+            "The Tabernacle was a hospital for souls, and blood was its antiseptic. The priest, like a spiritual doctor, applied life in liquid form to holy objects touched by a fallen world. On the Day of Atonement he put blood on the horns of the altar and sprinkled it seven times “to cleanse it and consecrate it from the uncleanness of the Israelites” (Leviticus 16:18-19). Moses likewise “took the blood… and purified the altar” (Leviticus 8:15).",
+            "Did the altar sin? Of course not. It simply stood in a death-soaked world, so it needed cleansing for God's presence to remain. If blood purified the Tabernacle's furniture, what does Jesus' blood purify? Us: our consciences and our hearts. Hebrews 9:14 asks how much more the blood of Christ will “purify our consciences from dead works to serve the living God.” His blood was poured out like a divine transfusion, entering death and flushing it with undying life."
+          ]
+        },
+        {
+          "h": "Jesus, the living Temple",
+          "p": [
+            "In Jesus the whole sacrificial system takes on flesh. He is the Lamb, and also the Temple, the High Priest and the Altar. When he offers his blood, it is not to an angry Father seeking revenge but to a broken world needing restoration. His blood does not scream punishment; it sings peace.",
+            "Hebrews 9:12 says he entered the Most Holy Place once for all “by his own blood, obtaining eternal redemption.” Again and again the New Testament credits his **blood**, his life, not his pain: we have redemption and forgiveness through his blood (Ephesians 1:7); he makes people holy through his blood (Hebrews 13:12); he freed us from our sins by his blood (Revelation 1:5); we are justified by his blood (Romans 5:9); brought near by it (Ephesians 2:13); given peace through it (Colossians 1:20); redeemed by it (1 Peter 1:18-19); and purified by it (1 John 1:7). The cross is the high point of divine mercy, not divine fury."
+          ]
+        },
+        {
+          "h": "Atonement was never a bloodbath",
+          "p": [
+            "In the Jewish world of the Bible, **atonement** (*kippur*) never meant “someone has to be destroyed.” It meant cleansing, covering and returning things to their original purity. Blood was applied like a healing balm, not paid like a fine. That is why the animal was not shamed or abused before it died, and its blood was handled with care.",
+            "The chapter argues that this is where the Western Church went wrong. Especially from the Middle Ages onward, Christian theology absorbed pagan assumptions: that God must punish sin with violence, that someone had to be abused in our place, that wrath had to be satisfied. But that is not what Leviticus teaches, what the Gospels proclaim or what Jesus modelled. God delights in mercy (Micah 7:18). His justice is **restorative** (aimed at healing) rather than **retributive** (aimed at payback)."
+          ]
+        },
+        {
+          "h": "His blood, our transfusion",
+          "p": [
+            "All this blood language can still sound strange, but medicine helps. When someone is bleeding out, we give them a transfusion. People donate their own blood to save the dying. It is a gift, not a transaction.",
+            "That is what Jesus did. He did not die to satisfy a divine thirst for blood; he died to pour God's life into a dying human race. When he said, “Unless you drink my blood, you have no life in you” (John 6:53), it was not gruesome but good news: if my life is in my blood and you receive it, my life becomes yours.",
+            "His blood does not merely cover guilt so God can look away; it removes guilt, cleansing and renewing. That is why the New Testament never glorifies Jesus' suffering but celebrates his blood, for its grace, not its gore: “the blood of Jesus… purifies us from all sin” (1 John 1:7)."
+          ]
+        },
+        {
+          "h": "Why death was involved, but never the point",
+          "p": [
+            "Precision matters here. The blood that atoned required a death, but **death was not what atoned**. The death gave access to the blood; the blood carried the life; and the life cleansed what death had corrupted.",
+            "So death was present but never the goal. It was the doorway to a deeper mystery: a life poured out in love to restore what sin had broken. That is why Hebrews 9:22 says that without the shedding of blood there is no forgiveness. Not because God demanded revenge, but because in the biblical framework forgiveness requires life to replace what death had taken.",
+            "> Blood is not about death; it is about life stronger than death."
+          ]
+        },
+        {
+          "h": "The final cleansing",
+          "p": [
+            "If Leviticus 17:11, “the life is in the blood,” is the beginning, Revelation 1:5 is the climax: “He has freed us from our sins by his blood.” Not by his torment, nor by his death alone, but by his life, freely poured out and victorious.",
+            "The goal was never forgiveness only, but union, restoration and resurrection. Jesus' blood is not stuck in the past; it flows into the present like oxygen for the spirit. Believers are not just forgiven; they are alive. His blood did not just stop wrath; it started resurrection.",
+            "The gospel is not about a furious God finally calmed but a loving God fully revealed. The cross was where Father, Son and Spirit acted together in one great act of self-giving to cleanse a death-filled world with undying life. The chapter closes with an invitation: let that life flow into every place still marked by death, fear, shame, guilt or despair, because the life is in the blood, and he has given it to you."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "wordroot",
+          "title": "Anatomy of the word",
+          "letters": [
+            {
+              "ch": "ד",
+              "name": "Dalet",
+              "meaning": "d sound"
+            },
+            {
+              "ch": "ם",
+              "name": "Mem (final form)",
+              "meaning": "m sound"
+            }
+          ],
+          "root": "ד-ם",
+          "rootNote": "blood, the carrier of life; echoed in ADAM (human) and ADAMAH (ground)",
+          "meanings": [
+            "blood",
+            "life in liquid form",
+            "adam: human, the first man",
+            "adamah: ground, earth",
+            "a purifying agent"
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "What does blood mean at the altar?",
+          "after": 2,
+          "left": {
+            "label": "Pagan / later Western reading",
+            "items": [
+              "Blood signals violence and death",
+              "Blood feeds or calms an angry god",
+              "The victim is punished",
+              "Atonement = someone must be destroyed",
+              "Justice is payback",
+              "The cross is the climax of divine fury"
+            ]
+          },
+          "right": {
+            "label": "Hebrew / biblical reading",
+            "items": [
+              "Blood carries life",
+              "Blood is God's gift: “I have given it to you”",
+              "The animal is treated with care",
+              "Atonement (kippur) = cleansing and covering",
+              "Justice is restorative",
+              "The cross is the climax of divine mercy"
+            ]
+          }
+        },
+        {
+          "type": "flow",
+          "title": "Death was the doorway, life did the cleansing",
+          "after": 7,
+          "steps": [
+            {
+              "t": "Death",
+              "d": "A life is given, which allows access to the blood."
+            },
+            {
+              "t": "Blood",
+              "d": "The blood carries the life within it."
+            },
+            {
+              "t": "Life applied",
+              "d": "The life is applied like an antiseptic to what death has defiled."
+            },
+            {
+              "t": "Cleansing",
+              "d": "Impurity is removed, from the altar or from our consciences."
+            },
+            {
+              "t": "Presence and union",
+              "d": "God can dwell with his people, and new life begins."
+            }
+          ]
+        }
+      ],
+      "verses": [
+        {
+          "ref": "Leviticus 17:11",
+          "text": "The life of the creature is in the blood, and I have given it to you to make atonement… for the life is in it."
+        },
+        {
+          "ref": "Leviticus 16:19",
+          "text": "He shall sprinkle some of the blood on it seven times to cleanse it and consecrate it from the uncleanness of the Israelites."
+        },
+        {
+          "ref": "Hebrews 9:14",
+          "text": "How much more will the blood of Christ purify our consciences from dead works to serve the living God?"
+        },
+        {
+          "ref": "John 6:53",
+          "text": "Unless you eat the flesh of the Son of Man and drink his blood, you have no life in you."
+        },
+        {
+          "ref": "1 John 1:7",
+          "text": "The blood of Jesus, his Son, purifies us from all sin."
+        },
+        {
+          "ref": "Revelation 1:5",
+          "text": "To him who loves us and has freed us from our sins by his blood."
+        }
+      ],
+      "keyPoints": [
+        "In Hebrew thought blood (dam) means life, and it is linked to adam (human) and adamah (ground).",
+        "Leviticus 17:11 says God gave blood to make atonement because the life is in it.",
+        "Ritual impurity was about contact with death, not moral shame.",
+        "Blood worked like a spiritual antiseptic, purifying even objects like the altar that had not sinned.",
+        "The New Testament credits Jesus' blood, his life, not his suffering, with cleansing and redemption.",
+        "Death gave access to the blood, but it was the life in the blood that atoned.",
+        "Jesus' blood is like a transfusion that brings resurrection life, not a payment to an angry God."
+      ],
+      "reflect": [
+        "What feelings does the word “blood” stir in you, and how might the idea of “life in the blood” change them?",
+        "What areas of your life still feel “marked by death” and in need of cleansing life?",
+        "How does picturing the cross as a transfusion rather than a punishment affect your view of God?"
+      ],
+      "quiz": [
+        {
+          "q": "Which pair of Hebrew words is linked to dam (blood)?",
+          "options": [
+            "Shalom and shalem",
+            "Adam (human) and adamah (ground)",
+            "Qorban and qarov",
+            "Ruach and pneuma"
+          ],
+          "a": 1,
+          "why": "The chapter connects DAM, ADAM and ADAMAH, tying human life to blood and earth."
+        },
+        {
+          "q": "In the Law, what was impurity mainly about?",
+          "options": [
+            "Moral evil",
+            "Social status",
+            "Closeness to death",
+            "Laziness"
+          ],
+          "a": 2,
+          "why": "Corpses, wounds and bodily flows were reminders of death, not sins."
+        },
+        {
+          "q": "Why did the altar need blood sprinkled on it (Leviticus 16:18-19)?",
+          "options": [
+            "Because the altar had sinned",
+            "To feed God",
+            "To frighten the people",
+            "To cleanse it from the impurity of a death-filled world"
+          ],
+          "a": 3,
+          "why": "The altar did not sin; blood purified the space so God's presence could remain."
+        },
+        {
+          "q": "According to the chapter, what actually made atonement?",
+          "options": [
+            "The death itself",
+            "The life carried in the blood",
+            "The animal's pain",
+            "The priest's anger"
+          ],
+          "a": 1,
+          "why": "Death gave access to the blood, but the life in it cleansed what death had corrupted."
+        },
+        {
+          "q": "What does the Hebrew word kippur (atonement) mean in this chapter?",
+          "options": [
+            "Destruction",
+            "Payment of a fine",
+            "Cleansing and covering",
+            "Banishment"
+          ],
+          "a": 2,
+          "why": "Kippur meant purifying and restoring things to their original state, not destroying someone."
+        }
+      ],
+      "terms": [
+        {
+          "term": "Dam",
+          "def": "Hebrew for blood; seen in Scripture as the carrier of life."
+        },
+        {
+          "term": "Adam / Adamah",
+          "def": "Human (and the first man) / ground; both linked in sound and meaning to dam."
+        },
+        {
+          "term": "Kippur",
+          "def": "Atonement: cleansing, covering and restoring purity, not destruction."
+        },
+        {
+          "term": "Impurity",
+          "def": "In the Torah, a state caused by contact with death, not a moral failing."
+        },
+        {
+          "term": "Restorative justice",
+          "def": "Justice aimed at healing and setting things right rather than paying back harm."
+        },
+        {
+          "term": "Tabernacle",
+          "def": "The portable tent-sanctuary where God's presence dwelt among Israel."
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}
