@@ -199,7 +199,8 @@ main { padding-block: 28px 80px; }
 .section-head { display: flex; align-items: end; justify-content: space-between; gap: 16px; margin-block: 44px 18px; flex-wrap: wrap; }
 .section-head h2 { font-size: clamp(24px, 3.2vw, 34px); font-weight: 800; letter-spacing: -0.02em; }
 .section-head p { color: var(--muted); max-width: 60ch; margin-top: 6px; }
-.word-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; }
+.word-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+@media (max-width: 900px) { .word-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 .wcard { position: relative; display: grid; gap: 6px; padding: 16px; border-radius: 16px; background: var(--surface); border: 1px solid var(--line); text-decoration: none; color: var(--fg); overflow: hidden; transition: transform .25s var(--ease), box-shadow .25s, border-color .25s; min-width: 0; }
 .wcard:hover { transform: translateY(-4px); box-shadow: var(--shadow); border-color: var(--accent); }
 .wcard .num { font-size: 12px; font-weight: 800; color: var(--muted); font-variant-numeric: tabular-nums; }
@@ -464,7 +465,7 @@ main { padding-block: 28px 80px; }
 .map-arrow svg { animation: float 2s ease-in-out infinite; }
 .constellation { position: relative; width: 100%; max-width: 760px; margin: 0 auto; aspect-ratio: 1.5; }
 .constellation svg { position: absolute; inset: 0; width: 100%; height: 100%; }
-.constellation svg line { stroke: var(--line); stroke-width: 1.5; stroke-dasharray: 4 5; }
+.constellation svg line { stroke: var(--line); stroke-width: 1.5; stroke-dasharray: 4 5; vector-effect: non-scaling-stroke; }
 .constellation a { position: absolute; transform: translate(-50%, -50%); display: grid; justify-items: center; text-decoration: none; color: var(--fg); gap: 2px; transition: transform .25s var(--ease); }
 .constellation a:hover { transform: translate(-50%, -50%) scale(1.12); }
 .constellation a .he { font-size: clamp(18px, 3.4vw, 30px); font-weight: 700; color: var(--accent); background: var(--surface); border: 1.5px solid var(--line); border-radius: 50%; width: clamp(42px, 7vw, 64px); aspect-ratio: 1; display: grid; place-items: center; box-shadow: var(--shadow); }
@@ -495,7 +496,7 @@ footer { border-top: 1px solid var(--line); padding-block: 26px; color: var(--mu
 }
 @media (max-width: 620px) {
   .search { width: auto; flex: 1; min-width: 0; }
-  .brand > span { display: none; }
+  .brand > span:not(.brand-mark) { display: none; }
   .meaning-shift { grid-template-columns: minmax(0, 1fr); }
   .meaning-shift .arrow svg { transform: rotate(90deg); animation: none; }
   .compare .chead, .compare .crow { grid-template-columns: minmax(0, 1fr); gap: 4px; }
@@ -740,7 +741,7 @@ function viewHome() {
 
   <div class="section-head"><div><div class="eyebrow">Journey 2 · ${esc(gb?.title || '')}</div><h2>${esc(gb?.headline || '')}</h2><p>${esc(gb?.blurb || '')}</p></div><a class="btn small" href="#map">View as a flowchart</a></div>
   <div class="parts">${parts.map((p, pi) => { const cs = gospel.filter(c => c.part === p); const meta = partMeta(gb, p); return `<div class="part" data-open="${pi === 0}">
-    <button aria-expanded="${pi === 0}"><span class="pnum">${meta.num === '0' ? '★' : esc(meta.num)}</span><span class="ptitle"><b>${esc(p)}</b><span>${esc(meta.blurb || '')} · ${cs.length} topics · ${cs.filter(c => done.has(c.id)).length} done</span></span><span class="chev">${CHEV}</span></button>
+    <button aria-expanded="${pi === 0}"><span class="pnum">${meta.num === '0' ? '★' : esc(meta.num)}</span><span class="ptitle"><b>${esc(p)}</b><span>${esc(meta.blurb || '')} · ${cs.length} topic${cs.length === 1 ? '' : 's'} · ${cs.filter(c => done.has(c.id)).length} done</span></span><span class="chev">${CHEV}</span></button>
     <ol ${pi === 0 ? '' : 'hidden'}>${cs.map(c => `<li><a href="#c-${c.id}"><span class="cn">${esc(c.num ?? '')}</span><span class="ct">${esc(c.title)}${c.subtitle ? `<small>${esc(c.subtitle)}</small>` : ''}</span>${done.has(c.id) ? '<span class="ok">✓</span>' : ''}</a></li>`).join('')}</ol></div>`; }).join('')}</div>
 
   <div class="section-head"><div><div class="eyebrow">Study tools</div><h2>Practise and look things up</h2></div></div>
@@ -872,7 +873,7 @@ function viewMap() {
   <div class="dia" style="margin-bottom:30px"><div class="dia-head"><span class="tag">Constellation</span><h3>The 15 words</h3></div>
     <div class="constellation"><svg viewBox="0 0 100 100" preserveAspectRatio="none">${pos.slice(1).map((p, i) => `<line x1="${pos[i][0]}" y1="${pos[i][1]}" x2="${p[0]}" y2="${p[1]}"/>`).join('')}</svg>
     ${ws.map((c, i) => `<a href="#c-${c.id}" style="left:${pos[i][0]}%;top:${pos[i][1]}%;--i:${i}"><span class="he">${esc(c.hebrew)}</span><span>${esc(c.translit)}</span></a>`).join('')}</div></div>
-  <div class="dia"><div class="dia-head"><span class="tag">Flowchart</span><h3>${esc(gb?.title || '')}: the argument in ${parts.length} parts</h3></div>
+  <div class="dia"><div class="dia-head"><span class="tag">Flowchart</span><h3>${esc(gb?.title || '')}: the argument, start to finish</h3></div>
   <div class="map">${parts.map((p, pi) => `${pi ? `<div class="map-arrow"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 4v16M6 14l6 6 6-6"/></svg></div>` : ''}
     <div class="map-part"><div class="mp-label"><small>${partMeta(gb, p).num === '0' ? 'START' : 'PART ' + esc(partMeta(gb, p).num)}</small><b>${esc(p)}</b></div><div class="map-nodes">${g.filter(c => c.part === p).map((c, k, arr) => `<a href="#c-${c.id}">${esc(c.title)}</a>${k < arr.length - 1 ? '<span class="to">→</span>' : ''}`).join('')}</div></div>`).join('')}</div>
   ${gb?.thesis ? `<p class="dia-note">${md(gb.thesis)}</p>` : ''}</div></div>`;
