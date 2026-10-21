@@ -1,0 +1,14 @@
+{
+  "name": "The Hebrew Lens",
+  "short_name": "Hebrew Lens",
+  "description": "15 Hebrew words and a Jewish reading of the gospel, explained simply with diagrams and quizzes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fa",
+  "theme_color": "#1f4e8c",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

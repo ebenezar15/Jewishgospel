@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": "words",
+      "short": "15 Words",
+      "title": "Lost in Translation",
+      "headline": "15 Hebrew words that change how you read",
+      "blurb": "Each word carries far more than its usual English translation. Recover the fuller meaning, one word at a time."
+    },
+    {
+      "id": "gospel",
+      "short": "The Gospel",
+      "title": "The Gospel Before Christianity",
+      "headline": "Atonement, sacrifice and redemption through Jewish eyes",
+      "blurb": "One long argument in six parts: read the good news as Jesus' first Jewish followers would have heard it.",
+      "thesis": "The flow runs from **context** (how first-century Jews thought), to **the meaning of blood, sacrifice and atonement**, to **why Jesus died**, to **what salvation really is**, to **what judgment and \"hell\" are for**, and finally to **how we should live now**.",
+      "parts": [
+        { "num": "0", "blurb": "Glossary, preface and the roadmap" },
+        { "num": "I", "blurb": "Time, truth, Eden and the earliest church" },
+        { "num": "II", "blurb": "What blood, offerings and atonement meant" },
+        { "num": "III", "blurb": "Five reasons Jesus died" },
+        { "num": "IV", "blurb": "Salvation in the Hebrew Bible and beyond" },
+        { "num": "V", "blurb": "The history and purpose of judgment" },
+        { "num": "VI", "blurb": "Reward, greatness and living the kingdom" }
+      ]
+    }
+  ]
+}
