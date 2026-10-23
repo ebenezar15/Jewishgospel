@@ -3,7 +3,7 @@
 <meta name="description" content="An interactive study app: 15 Hebrew words and a Jewish reading of atonement, sacrifice, salvation and redemption.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@500;700;900&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700;6..12,800;6..12,900&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@500;700;900&family=Noto+Sans+Tamil:wght@400;600;700;800&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700;6..12,800;6..12,900&display=swap">
 <style>
 /* Layout: a reading room. Top bar + a "scroll" column (≤ 70ch) with an index rail on wide screens;
    hue-driven tokens so every colour scheme gets a matched light and dark palette. */
@@ -24,7 +24,7 @@
   --good: oklch(55% 0.14 150);
   --bad: oklch(55% 0.17 25);
   --shadow: 0 1px 2px oklch(20% 0.03 var(--h) / 0.06), 0 8px 28px oklch(20% 0.05 var(--h) / 0.08);
-  --font-ui: "Avenir Next", "AvenirNext-Regular", "Avenir", "Nunito Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --font-ui: "Avenir Next", "AvenirNext-Regular", "Avenir", "Nunito Sans", "Noto Sans Tamil", "Latha", "Segoe UI", system-ui, -apple-system, sans-serif;
   --font-he: "Frank Ruhl Libre", "SBL Hebrew", "Times New Roman", serif;
   --fs: 1;             /* reader text scale */
   --r: 14px;
@@ -509,6 +509,23 @@ footer { border-top: 1px solid var(--line); padding-block: 26px; color: var(--mu
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
 }
+.lang-switch { display: flex; background: var(--sunk); border: 1px solid var(--line); border-radius: 999px; padding: 3px; gap: 2px; flex-shrink: 0; }
+.lang-switch button { border: 0; background: none; border-radius: 999px; padding: 6px 11px; font-weight: 800; font-size: 13px; color: var(--muted); transition: background .2s, color .2s; line-height: 1.2; }
+.lang-switch button[aria-pressed="true"] { background: var(--accent); color: var(--accent-fg); }
+.lang-switch button:not([aria-pressed="true"]):hover { color: var(--fg); }
+:root[lang="ta"] body { line-height: 1.7; }
+:root[lang="ta"] .hero h1 { font-size: clamp(26px, 3.3vw, 40px); line-height: 1.3; letter-spacing: 0; }
+:root[lang="ta"] .brand small { display: none; }
+:root[lang="ta"] .top-nav a { font-size: 13.5px; padding: 7px 9px; }
+@media (min-width: 961px) and (max-width: 1280px) {
+  :root[lang="ta"] .top .wrap { flex-wrap: wrap; row-gap: 0; padding-top: 8px; }
+  :root[lang="ta"] .top-nav { order: 10; flex-basis: 100%; margin: 0 0 8px -9px; overflow-x: auto; }
+}
+:root[lang="ta"] .chapter-head h1 { font-size: clamp(26px, 3.8vw, 38px); line-height: 1.3; }
+:root[lang="ta"] h1, :root[lang="ta"] h2, :root[lang="ta"] h3 { line-height: 1.35; letter-spacing: 0; }
+:root[lang="ta"] .eyebrow, :root[lang="ta"] .tag, :root[lang="ta"] small { letter-spacing: .02em; }
+:root[lang="ta"] .prose { line-height: 1.85; }
+@media (max-width: 620px) { .lang-switch button { padding: 6px 8px; font-size: 12px; } .top .wrap { gap: 6px; } .icon-btn { width: 36px; height: 36px; } }
 :root.calm *, :root.calm *::before, :root.calm *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
 </style>
 
@@ -518,59 +535,62 @@ footer { border-top: 1px solid var(--line); padding-block: 26px; color: var(--mu
     <button class="icon-btn menu-btn" id="menuBtn" aria-label="Open chapter list">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h10"/></svg>
     </button>
-    <a class="brand" href="#home" aria-label="The Hebrew Lens, home">
+    <a class="brand" href="#home" data-i18n-aria="homeAria" aria-label="The Hebrew Lens, home">
       <span class="brand-mark he" aria-hidden="true">א</span>
-      <span>The Hebrew Lens<small>Read the Bible with Hebrew eyes</small></span>
+      <span><span data-i18n="appName">The Hebrew Lens</span><small data-i18n="brandTag">Read the Bible with Hebrew eyes</small></span>
     </a>
     <nav class="top-nav" aria-label="Main">
-      <a href="#home" data-nav="home">Home</a>
-      <a href="#words" data-nav="words">Flashcards</a>
-      <a href="#map" data-nav="map">Big picture</a>
-      <a href="#glossary" data-nav="glossary">Glossary</a>
-      <a href="#quiz" data-nav="quiz">Quiz</a>
+      <a href="#home" data-nav="home" data-i18n="navHome">Home</a>
+      <a href="#words" data-nav="words" data-i18n="navWords">Flashcards</a>
+      <a href="#map" data-nav="map" data-i18n="navMap">Big picture</a>
+      <a href="#glossary" data-nav="glossary" data-i18n="navGlossary">Glossary</a>
+      <a href="#quiz" data-nav="quiz" data-i18n="navQuiz">Quiz</a>
     </nav>
     <div class="spacer"></div>
     <div class="search" role="search">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-      <label class="sr" for="q">Search every topic</label>
-      <input id="q" type="search" placeholder="Search topics…" autocomplete="off">
+      <label class="sr" for="q" data-i18n="searchLabel">Search every topic</label>
+      <input id="q" type="search" placeholder="Search topics…" data-i18n-ph="searchPh" autocomplete="off">
       <div class="results" id="results" hidden></div>
     </div>
     <button class="icon-btn" id="themeBtn" aria-label="Colours and display settings" aria-expanded="false">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a9 9 0 1 0 0 18c1.1 0 1.7-.9 1.4-1.8-.4-1.2.3-2.2 1.6-2.2H17a4 4 0 0 0 4-4c0-5.5-4-10-9-10Z"/><circle cx="7.5" cy="11" r="1.2" fill="currentColor"/><circle cx="10.5" cy="7" r="1.2" fill="currentColor"/><circle cx="15.5" cy="7.5" r="1.2" fill="currentColor"/></svg>
     </button>
+    <div class="lang-switch" id="langSwitch" role="group" aria-label="Language / மொழி">
+      <button data-lang="en" lang="en">EN</button><button data-lang="ta" lang="ta">தமிழ்</button>
+    </div>
   </div>
 </header>
 
 <div class="panel" id="panel" hidden role="dialog" aria-label="Display settings">
-  <div><h3>Colour scheme</h3></div>
+  <div><h3 data-i18n="scheme">Colour scheme</h3></div>
   <div class="swatches" id="swatches"></div>
-  <div><h3 style="margin-bottom:8px">Mode</h3>
+  <div><h3 style="margin-bottom:8px" data-i18n="mode">Mode</h3>
     <div class="seg" id="modeSeg">
-      <button data-mode="auto">Auto</button><button data-mode="light">Light</button><button data-mode="dark">Dark</button>
+      <button data-mode="auto" data-i18n="auto">Auto</button><button data-mode="light" data-i18n="light">Light</button><button data-mode="dark" data-i18n="dark">Dark</button>
     </div>
   </div>
-  <div class="row"><b>Text size</b>
+  <div class="row"><b data-i18n="textSize">Text size</b>
     <div class="seg" id="sizeSeg" style="width:160px">
       <button data-size="0.92">A−</button><button data-size="1">A</button><button data-size="1.12">A+</button>
     </div>
   </div>
-  <div class="row"><b>Animations</b>
+  <div class="row"><b data-i18n="animations">Animations</b>
     <div class="seg" id="motionSeg" style="width:160px">
-      <button data-motion="on">On</button><button data-motion="calm">Calm</button>
+      <button data-motion="on" data-i18n="on">On</button><button data-motion="calm" data-i18n="calm">Calm</button>
     </div>
   </div>
 </div>
 
 <main class="wrap" id="main" tabindex="-1"></main>
-<footer><div class="wrap">The Hebrew Lens · A study companion. Scripture references point to the passages discussed; read them in your own Bible for full context.</div></footer>
+<footer><div class="wrap" data-i18n="footer">The Hebrew Lens · A study companion. Scripture references point to the passages discussed; read them in your own Bible for full context.</div></footer>
 
 <script>
 /*__DATA__*/
 </script>
 <script>
 (() => {
-const D = window.APP_DATA || { books: [], chapters: [], glossary: [] };
+const ALL = window.APP_DATA || { en: { books: [], chapters: [], glossary: [] } };
 const $ = (s, el = document) => el.querySelector(s);
 const $$ = (s, el = document) => [...el.querySelectorAll(s)];
 const main = $('#main');
@@ -581,20 +601,147 @@ const store = {
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const md = s => esc(s).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').replace(/\*(.+?)\*/g, '<em>$1</em>');
 const plain = s => String(s ?? '').replace(/\*+/g, '');
-const byId = Object.fromEntries(D.chapters.map(c => [c.id, c]));
-const bookOf = id => D.books.find(b => b.id === id);
-const chaptersOf = bk => D.chapters.filter(c => c.book === bk);
 const ARROW = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>';
 const CHEV = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="m6 9 6 6 6-6"/></svg>';
 
+/* ---------- interface text ---------- */
+const I18N = {
+  en: {
+    appName: 'The Hebrew Lens', brandTag: 'Read the Bible with Hebrew eyes', homeAria: 'The Hebrew Lens, home',
+    navHome: 'Home', navWords: 'Flashcards', navMap: 'Big picture', navGlossary: 'Glossary', navQuiz: 'Quiz',
+    searchLabel: 'Search every topic', searchPh: 'Search topics…', noHits: 'No topics match. Try another word.',
+    scheme: 'Colour scheme', mode: 'Mode', auto: 'Auto', light: 'Light', dark: 'Dark', textSize: 'Text size', animations: 'Animations', on: 'On', calm: 'Calm',
+    schemes: { tekhelet: 'Tekhelet', olive: 'Olive', pomegranate: 'Pomegranate', galilee: 'Galilee', sand: 'Desert', purple: 'Royal', cedar: 'Cedar' },
+    schemeAria: n => `${n} colour scheme`, menuAria: 'Open chapter list', themeAria: 'Colours and display settings',
+    footer: 'The Hebrew Lens · A study companion. Scripture references point to the passages discussed; read them in your own Bible for full context.',
+    heroEyebrow: n => `Two journeys · ${n} topics · diagrams, skeletons, quizzes`,
+    heroH1: 'Hear the Scriptures the way their <em>first listeners</em> heard them.',
+    heroLede: 'Every translation is also an interpretation. This app walks you through 15 Hebrew words that English flattens, then through a Jewish reading of atonement, sacrifice, salvation, judgment and redemption. Each topic is explained in plain language, with a flowchart, a "skeleton" of the argument and a short quiz.',
+    continue: 'Continue reading', startFirst: 'Start with the first word', seeBig: 'See the big picture',
+    progress: 'Your progress', progressText: (n, t) => `${n} of ${t} topics finished. Your progress is saved in this browser.`, install: 'Download & install',
+    journey: n => `Journey ${n}`, practise: 'Practise with flashcards', start: 'START', introSub: 'Preface and introduction: why translation is never neutral.',
+    word: 'WORD', viewFlow: 'View as a flowchart', topics: n => `${n} topic${n === 1 ? '' : 's'}`, doneN: n => `${n} done`,
+    toolsEyebrow: 'Study tools', toolsH: 'Practise and look things up',
+    fcT: 'Flashcards', fcD: 'Flip through the 15 Hebrew words and their fuller meanings.',
+    mapT: 'Big-picture map', mapD: 'See how every chapter connects, as one flowchart.',
+    glT: 'Glossary', glD: 'Plain definitions for every key term in both books.',
+    qzT: 'Mixed quiz', qzD: 'Ten random questions drawn from every topic.',
+    tags: { flow: 'Flowchart', compare: 'Two lenses', timeline: 'Timeline', cycle: 'Cycle', tree: 'Mind map', layers: 'Layers', wordroot: 'Word anatomy', spectrum: 'Spectrum', skeleton: 'Skeleton', constellation: 'Constellation' },
+    step: 'STEP', rootL: 'ROOT', bone: 'BONE', bonesTitle: 'The bones of this chapter', bigIdea: 'So the big idea is',
+    replay: '↻ Replay', replayAria: 'Replay animation', focusLens: 'Focus Hebrew lens', bothLens: 'Show both lenses',
+    wordOf: n => `Journey 1 · Word ${n} of 15`, beforeWords: 'Journey 1 · Before the words', chapterN: n => `Chapter ${n}`,
+    say: 'say:', root: 'root', usually: 'Usually translated', fuller: 'Fuller Hebrew meaning',
+    listen: '▶ Listen', stop: '■ Stop', skeletonBtn: 'Skeleton', quizBtn: n => `Quiz (${n})`, nutshell: 'In a nutshell',
+    keyPassages: 'Key passages', remember: 'Remember this', think: 'Think it through', check: 'Check your understanding',
+    finished: 'You finished this topic.', finishedQ: 'Finished reading?', ofN: (i, n) => `${i} of ${n}`,
+    markUnread: 'Mark as unread', markDone: 'Mark as finished ✓', markedUnread: 'Marked as unread', markedDone: 'Marked as finished',
+    prev: '← Previous', next: 'Next →', noSpeech: 'Read-aloud is not available on this device', chaptersAria: 'Chapters',
+    score: (r, t) => `You scored ${r} of ${t}. ` + (r === t ? 'Excellent!' : r >= t / 2 ? 'Good work. Review the explanations above.' : 'Try reading the chapter again, then retry.'),
+    fcEyebrow: 'Flashcards', fcH: 'The 15 Hebrew words', fcP: 'Tap the card to flip it. Use the arrow keys on a keyboard.', flipAria: 'Flip card',
+    shuffle: 'Shuffle', flip: 'Flip', wordOfCard: n => `WORD ${n} OF 15`, usuallyC: 'Usually:', reallyMeans: x => `${x} really means`,
+    readFull: 'Read the full topic →', shuffled: 'Shuffled', card: n => `Card ${n}`,
+    mapEyebrow: 'Big-picture map', mapH: 'How it all fits together',
+    mapP: 'Journey 1 is a constellation of 15 words that each restore a lost meaning. Journey 2 is one long argument, read top to bottom like a flowchart. Tap any node to open it.',
+    the15: 'The 15 words', argument: t => `${t}: the argument, start to finish`, part: 'PART',
+    glEyebrow: 'Glossary', glH: n => `${n} key terms, in plain words`, filterLabel: 'Filter terms', filterPh: 'Filter terms…', noTerms: 'No terms match that filter.', from: 'From:',
+    qEyebrow: 'Mixed quiz', qH: 'Ten questions from across both journeys', qPool: n => `${n} questions in the pool. Each round draws a new set.`, newRound: 'New round',
+    inEyebrow: 'Use it everywhere', inH: 'Download & install',
+    inP: 'The whole app is one self-contained file. Open it from the link below on any phone, tablet or computer, or save it and open it offline.',
+    linkT: 'Link to this app', copy: 'Copy link', offT: 'Offline copy (one file)',
+    offP: 'Download <b>index.html</b>, then open it in any browser. Everything works without internet except the web fonts.', dl: 'Download file',
+    ios: ['Open the link in Safari.', 'Tap the Share button.', 'Choose <b>Add to Home Screen</b>.'],
+    android: ['Open the link in Chrome.', 'Tap the ⋮ menu.', 'Choose <b>Install app</b> or <b>Add to Home screen</b>.'],
+    desktop: ['Open the link in Chrome or Edge.', 'Click the install icon in the address bar.', 'Or download the single <b>index.html</b> file and double-click it to read offline.'],
+    iosT: 'iPhone & iPad', desktopT: 'Windows, Mac, Linux', copied: 'Link copied', pressCopy: 'Press Ctrl+C or ⌘C to copy', switched: 'Language: English'
+  },
+  ta: {
+    appName: 'எபிரெயக் கண்ணோட்டம்', brandTag: 'எபிரெயக் கண்களால் வேதாகமத்தை வாசியுங்கள்', homeAria: 'எபிரெயக் கண்ணோட்டம், முகப்பு',
+    navHome: 'முகப்பு', navWords: 'நினைவு அட்டைகள்', navMap: 'முழுச் சித்திரம்', navGlossary: 'சொற்களஞ்சியம்', navQuiz: 'வினாடி வினா',
+    searchLabel: 'எல்லாத் தலைப்புகளிலும் தேடுங்கள்', searchPh: 'தலைப்புகளைத் தேடுங்கள்…', noHits: 'பொருந்தும் தலைப்புகள் இல்லை. வேறு சொல்லை முயற்சியுங்கள்.',
+    scheme: 'வண்ணத் திட்டம்', mode: 'தோற்றம்', auto: 'தானியங்கி', light: 'வெளிச்சம்', dark: 'இருள்', textSize: 'எழுத்து அளவு', animations: 'அசைவூட்டம்', on: 'இயக்கு', calm: 'அமைதி',
+    schemes: { tekhelet: 'நீலம்', olive: 'ஒலிவம்', pomegranate: 'மாதுளை', galilee: 'கலிலேயா', sand: 'பாலைவனம்', purple: 'அரச ஊதா', cedar: 'கேதுரு' },
+    schemeAria: n => `${n} வண்ணத் திட்டம்`, menuAria: 'அதிகாரப் பட்டியலைத் திற', themeAria: 'வண்ணங்களும் காட்சி அமைப்புகளும்',
+    footer: 'எபிரெயக் கண்ணோட்டம் · ஒரு படிப்புத் துணை. வேத வசனக் குறிப்புகள் விவாதிக்கப்படும் பகுதிகளைக் காட்டுகின்றன; முழுச் சூழலுக்கு உங்கள் வேதாகமத்தில் அவற்றை வாசியுங்கள்.',
+    heroEyebrow: n => `இரண்டு பயணங்கள் · ${n} தலைப்புகள் · வரைபடங்கள், எலும்புக்கூடுகள், வினாடி வினாக்கள்`,
+    heroH1: 'வேதவசனங்களை அவற்றின் <em>முதல் கேட்போர்</em> கேட்டதுபோலவே கேளுங்கள்.',
+    heroLede: 'ஒவ்வொரு மொழிபெயர்ப்பும் ஒரு விளக்கமும்கூட. ஆங்கிலத்தில் தட்டையாகிவிடும் 15 எபிரெயச் சொற்கள் வழியாகவும், பின்னர் பாவநிவிர்த்தி, பலி, இரட்சிப்பு, நியாயத்தீர்ப்பு, மீட்பு ஆகியவற்றை யூதக் கண்ணோட்டத்தில் வாசிப்பதன் வழியாகவும் இந்தச் செயலி உங்களை அழைத்துச் செல்கிறது. ஒவ்வொரு தலைப்பும் எளிய மொழியில், ஒரு பாய்வுப்படம், வாதத்தின் "எலும்புக்கூடு", ஒரு சிறிய வினாடி வினா ஆகியவற்றுடன் விளக்கப்படுகிறது.',
+    continue: 'தொடர்ந்து வாசியுங்கள்', startFirst: 'முதல் சொல்லிலிருந்து தொடங்குங்கள்', seeBig: 'முழுச் சித்திரத்தைப் பாருங்கள்',
+    progress: 'உங்கள் முன்னேற்றம்', progressText: (n, t) => `${t} தலைப்புகளில் ${n} முடிந்தது. உங்கள் முன்னேற்றம் இந்த உலாவியில் சேமிக்கப்படுகிறது.`, install: 'பதிவிறக்கி நிறுவுங்கள்',
+    journey: n => `பயணம் ${n}`, practise: 'நினைவு அட்டைகளில் பயிற்சி', start: 'தொடக்கம்', introSub: 'முன்னுரையும் அறிமுகமும்: மொழிபெயர்ப்பு ஏன் ஒருபோதும் நடுநிலையானதல்ல.',
+    word: 'சொல்', viewFlow: 'பாய்வுப்படமாகப் பாருங்கள்', topics: n => `${n} தலைப்புகள்`, doneN: n => `${n} முடிந்தது`,
+    toolsEyebrow: 'படிப்புக் கருவிகள்', toolsH: 'பயிற்சி செய்யுங்கள், தேடிப் பாருங்கள்',
+    fcT: 'நினைவு அட்டைகள்', fcD: '15 எபிரெயச் சொற்களையும் அவற்றின் முழுமையான அர்த்தங்களையும் புரட்டிப் பாருங்கள்.',
+    mapT: 'முழுச் சித்திர வரைபடம்', mapD: 'ஒவ்வொரு அதிகாரமும் எப்படி இணைகிறது என்பதை ஒரே பாய்வுப்படமாகப் பாருங்கள்.',
+    glT: 'சொற்களஞ்சியம்', glD: 'இரு புத்தகங்களிலும் உள்ள ஒவ்வொரு முக்கியச் சொல்லுக்கும் எளிய விளக்கம்.',
+    qzT: 'கலவை வினாடி வினா', qzD: 'எல்லாத் தலைப்புகளிலிருந்தும் எடுக்கப்பட்ட பத்து கேள்விகள்.',
+    tags: { flow: 'பாய்வுப்படம்', compare: 'இரு கண்ணோட்டங்கள்', timeline: 'காலவரிசை', cycle: 'சுழற்சி', tree: 'மன வரைபடம்', layers: 'அடுக்குகள்', wordroot: 'சொல்லின் அமைப்பு', spectrum: 'அளவுகோல்', skeleton: 'எலும்புக்கூடு', constellation: 'நட்சத்திரக் கூட்டம்' },
+    step: 'படி', rootL: 'வேர்', bone: 'எலும்பு', bonesTitle: 'இந்த அதிகாரத்தின் எலும்புகள்', bigIdea: 'ஆகவே முக்கியக் கருத்து',
+    replay: '↻ மீண்டும்', replayAria: 'அசைவூட்டத்தை மீண்டும் காட்டு', focusLens: 'எபிரெயக் கண்ணோட்டம் மட்டும்', bothLens: 'இரண்டையும் காட்டு',
+    wordOf: n => `பயணம் 1 · சொல் ${n} / 15`, beforeWords: 'பயணம் 1 · சொற்களுக்கு முன்', chapterN: n => `அதிகாரம் ${n}`,
+    say: 'உச்சரிப்பு:', root: 'வேர்', usually: 'வழக்கமான மொழிபெயர்ப்பு', fuller: 'முழுமையான எபிரெய அர்த்தம்',
+    listen: '▶ கேளுங்கள்', stop: '■ நிறுத்து', skeletonBtn: 'எலும்புக்கூடு', quizBtn: n => `வினாடி வினா (${n})`, nutshell: 'சுருக்கமாக',
+    keyPassages: 'முக்கிய வசனங்கள்', remember: 'இதை நினைவில் வையுங்கள்', think: 'சிந்தித்துப் பாருங்கள்', check: 'உங்கள் புரிதலைச் சோதியுங்கள்',
+    finished: 'இந்தத் தலைப்பை முடித்துவிட்டீர்கள்.', finishedQ: 'வாசித்து முடித்தீர்களா?', ofN: (i, n) => `${n} இல் ${i}`,
+    markUnread: 'வாசிக்காதது எனக் குறி', markDone: 'முடிந்தது எனக் குறி ✓', markedUnread: 'வாசிக்காதது எனக் குறிக்கப்பட்டது', markedDone: 'முடிந்தது எனக் குறிக்கப்பட்டது',
+    prev: '← முந்தையது', next: 'அடுத்தது →', noSpeech: 'இந்தச் சாதனத்தில் சத்தமாக வாசிக்கும் வசதி இல்லை', chaptersAria: 'அதிகாரங்கள்',
+    score: (r, t) => `${t} கேள்விகளில் ${r} சரி. ` + (r === t ? 'அருமை!' : r >= t / 2 ? 'நல்லது. மேலே உள்ள விளக்கங்களைப் பாருங்கள்.' : 'அதிகாரத்தை மீண்டும் வாசித்து, மறுபடியும் முயற்சியுங்கள்.'),
+    fcEyebrow: 'நினைவு அட்டைகள்', fcH: '15 எபிரெயச் சொற்கள்', fcP: 'அட்டையைப் புரட்ட அதைத் தொடுங்கள். விசைப்பலகையில் அம்புக்குறி விசைகளையும் பயன்படுத்தலாம்.', flipAria: 'அட்டையைப் புரட்டு',
+    shuffle: 'கலக்கு', flip: 'புரட்டு', wordOfCard: n => `சொல் ${n} / 15`, usuallyC: 'வழக்கமாக:', reallyMeans: x => `${x} உண்மையில் குறிப்பது`,
+    readFull: 'முழுத் தலைப்பையும் வாசியுங்கள் →', shuffled: 'கலக்கப்பட்டது', card: n => `அட்டை ${n}`,
+    mapEyebrow: 'முழுச் சித்திர வரைபடம்', mapH: 'எல்லாம் எப்படி ஒன்றாக இணைகிறது',
+    mapP: 'பயணம் 1 என்பது, இழந்த அர்த்தத்தை மீட்டெடுக்கும் 15 சொற்களின் நட்சத்திரக் கூட்டம். பயணம் 2 என்பது, பாய்வுப்படம் போல மேலிருந்து கீழாக வாசிக்கும் ஒரே நீண்ட வாதம். திறக்க எந்தப் புள்ளியையும் தொடுங்கள்.',
+    the15: '15 சொற்கள்', argument: t => `${t}: வாதம், தொடக்கம் முதல் முடிவு வரை`, part: 'பகுதி',
+    glEyebrow: 'சொற்களஞ்சியம்', glH: n => `${n} முக்கியச் சொற்கள், எளிய விளக்கத்துடன்`, filterLabel: 'சொற்களை வடிகட்டுங்கள்', filterPh: 'சொற்களை வடிகட்டுங்கள்…', noTerms: 'அந்த வடிகட்டலுக்குப் பொருந்தும் சொற்கள் இல்லை.', from: 'மூலம்:',
+    qEyebrow: 'கலவை வினாடி வினா', qH: 'இரு பயணங்களிலிருந்தும் பத்து கேள்விகள்', qPool: n => `மொத்தம் ${n} கேள்விகள். ஒவ்வொரு சுற்றிலும் புதிய தொகுப்பு.`, newRound: 'புதிய சுற்று',
+    inEyebrow: 'எங்கும் பயன்படுத்துங்கள்', inH: 'பதிவிறக்கி நிறுவுங்கள்',
+    inP: 'முழுச் செயலியும் ஒரே கோப்பு. கீழே உள்ள இணைப்பை எந்தக் கைபேசி, டேப்லெட் அல்லது கணினியிலும் திறக்கலாம்; அல்லது சேமித்து இணையம் இல்லாமலும் திறக்கலாம்.',
+    linkT: 'இந்தச் செயலிக்கான இணைப்பு', copy: 'இணைப்பை நகலெடு', offT: 'இணையமில்லாப் பிரதி (ஒரே கோப்பு)',
+    offP: '<b>index.html</b> கோப்பைப் பதிவிறக்கி, எந்த உலாவியிலும் திறங்கள். இணைய எழுத்துருக்கள் தவிர மற்ற அனைத்தும் இணையம் இல்லாமலே இயங்கும்.', dl: 'கோப்பைப் பதிவிறக்கு',
+    ios: ['இணைப்பை Safari-யில் திறங்கள்.', 'பகிர் (Share) பொத்தானைத் தொடுங்கள்.', '<b>Add to Home Screen</b> என்பதைத் தேர்ந்தெடுங்கள்.'],
+    android: ['இணைப்பை Chrome-ல் திறங்கள்.', '⋮ பட்டியலைத் தொடுங்கள்.', '<b>Install app</b> அல்லது <b>Add to Home screen</b> என்பதைத் தேர்ந்தெடுங்கள்.'],
+    desktop: ['இணைப்பை Chrome அல்லது Edge-ல் திறங்கள்.', 'முகவரிப் பட்டியில் உள்ள நிறுவல் (install) குறியைச் சொடுக்குங்கள்.', 'அல்லது <b>index.html</b> கோப்பைப் பதிவிறக்கி, இருமுறை சொடுக்கி இணையமின்றி வாசியுங்கள்.'],
+    iosT: 'iPhone & iPad', desktopT: 'Windows, Mac, Linux', copied: 'இணைப்பு நகலெடுக்கப்பட்டது', pressCopy: 'நகலெடுக்க Ctrl+C அல்லது ⌘C அழுத்துங்கள்', switched: 'மொழி: தமிழ்'
+  }
+};
+const LANGS = Object.keys(ALL).filter(k => I18N[k]);
+let lang = store.get('lang', null) || ((navigator.language || '').toLowerCase().startsWith('ta') ? 'ta' : 'en');
+if (!ALL[lang]) lang = 'en';
+const t = (k, ...a) => { const v = I18N[lang][k] ?? I18N.en[k]; return typeof v === 'function' ? v(...a) : v; };
+
+let D, byId;
+const bookOf = id => D.books.find(b => b.id === id);
+const chaptersOf = bk => D.chapters.filter(c => c.book === bk);
+const pkey = c => c.partKey || c.part;
+function useLang(l) {
+  lang = ALL[l] ? l : 'en';
+  D = ALL[lang];
+  byId = Object.fromEntries(D.chapters.map(c => [c.id, c]));
+  document.documentElement.lang = lang;
+  $$('[data-i18n]').forEach(el => { el.textContent = t(el.dataset.i18n); });
+  $$('[data-i18n-ph]').forEach(el => { el.placeholder = t(el.dataset.i18nPh); });
+  $$('[data-i18n-aria]').forEach(el => { el.setAttribute('aria-label', t(el.dataset.i18nAria)); });
+  $('#menuBtn').setAttribute('aria-label', t('menuAria'));
+  $('#themeBtn').setAttribute('aria-label', t('themeAria'));
+  $$('#langSwitch button').forEach(b => b.setAttribute('aria-pressed', b.dataset.lang === lang));
+  drawSwatches();
+  buildIndex();
+}
+$('#langSwitch').addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b || b.dataset.lang === lang) return;
+  store.set('lang', b.dataset.lang); useLang(b.dataset.lang); toast(t('switched'));
+  $('#q').value = ''; $('#results').hidden = true; render();
+});
+$$('#langSwitch button').forEach(b => { if (!ALL[b.dataset.lang]) b.hidden = true; });
+
 /* ---------- settings ---------- */
 const SCHEMES = [
-  ['tekhelet', 'Tekhelet', 255, 78], ['olive', 'Olive', 128, 70], ['pomegranate', 'Pomegranate', 12, 82], ['galilee', 'Galilee', 205, 35],
-  ['sand', 'Desert', 55, 25], ['purple', 'Royal', 300, 85], ['cedar', 'Cedar', 160, 50]
+  ['tekhelet', 255, 78], ['olive', 128, 70], ['pomegranate', 12, 82], ['galilee', 205, 35],
+  ['sand', 55, 25], ['purple', 300, 85], ['cedar', 160, 50]
 ];
 const root = document.documentElement;
+const DEFAULTS = { scheme: 'tekhelet', mode: 'auto', size: 1, motion: 'on' };
 function applySettings() {
-  const s = store.get('settings', { scheme: 'tekhelet', mode: 'auto', size: 1, motion: 'on' });
+  const s = store.get('settings', DEFAULTS);
   if (s.scheme === 'tekhelet') delete root.dataset.scheme; else root.dataset.scheme = s.scheme;
   if (s.mode === 'auto') delete root.dataset.theme; else root.dataset.theme = s.mode;
   root.style.setProperty('--fs', s.size);
@@ -605,9 +752,12 @@ function applySettings() {
   $$('#motionSeg button').forEach(b => b.setAttribute('aria-pressed', b.dataset.motion === s.motion));
   return s;
 }
-function setSetting(k, v) { const s = store.get('settings', { scheme: 'tekhelet', mode: 'auto', size: 1, motion: 'on' }); s[k] = v; store.set('settings', s); applySettings(); }
-$('#swatches').innerHTML = SCHEMES.map(([id, name, h, h2]) =>
-  `<button class="sw" data-scheme="${id}" aria-label="${name} colour scheme"><i style="background:oklch(52% .14 ${h});--g:oklch(78% .13 ${h2})"></i><span>${name}</span></button>`).join('');
+function setSetting(k, v) { const s = store.get('settings', DEFAULTS); s[k] = v; store.set('settings', s); applySettings(); }
+function drawSwatches() {
+  $('#swatches').innerHTML = SCHEMES.map(([id, h, h2]) => { const name = t('schemes')[id];
+    return `<button class="sw" data-scheme="${id}" aria-label="${esc(t('schemeAria', name))}"><i style="background:oklch(52% .14 ${h});--g:oklch(78% .13 ${h2})"></i><span>${esc(name)}</span></button>`; }).join('');
+  applySettings();
+}
 $('#swatches').addEventListener('click', e => { const b = e.target.closest('.sw'); if (b) setSetting('scheme', b.dataset.scheme); });
 $('#modeSeg').addEventListener('click', e => { const b = e.target.closest('button'); if (b) setSetting('mode', b.dataset.mode); });
 $('#sizeSeg').addEventListener('click', e => { const b = e.target.closest('button'); if (b) setSetting('size', +b.dataset.size); });
@@ -615,18 +765,17 @@ $('#motionSeg').addEventListener('click', e => { const b = e.target.closest('but
 const panel = $('#panel'), themeBtn = $('#themeBtn');
 themeBtn.addEventListener('click', e => { e.stopPropagation(); panel.hidden = !panel.hidden; themeBtn.setAttribute('aria-expanded', !panel.hidden); });
 document.addEventListener('click', e => { if (!panel.hidden && !panel.contains(e.target)) { panel.hidden = true; themeBtn.setAttribute('aria-expanded', 'false'); } });
-applySettings();
 
-/* ---------- progress ---------- */
+/* ---------- progress (shared by both languages) ---------- */
 const done = new Set(store.get('done', []));
 const toggleDone = id => { done.has(id) ? done.delete(id) : done.add(id); store.set('done', [...done]); };
 
 /* ---------- toast ---------- */
-function toast(msg) { const t = document.createElement('div'); t.className = 'toast'; t.textContent = msg; document.body.append(t); setTimeout(() => t.remove(), 2200); }
+function toast(msg) { $$('.toast').forEach(x => x.remove()); const el = document.createElement('div'); el.className = 'toast'; el.textContent = msg; document.body.append(el); setTimeout(() => el.remove(), 2200); }
 
 /* ---------- diagram renderers ---------- */
 const R = {
-  flow: d => `<div class="flow">${d.steps.map((s, i) => `<div class="step" style="--i:${i}"><div class="node"><span class="si">STEP ${i + 1}</span><b>${md(s.t)}</b>${s.d ? `<p>${md(s.d)}</p>` : ''}</div><div class="arr">${ARROW}</div></div>`).join('')}</div>`,
+  flow: d => `<div class="flow">${d.steps.map((s, i) => `<div class="step" style="--i:${i}"><div class="node"><span class="si">${t('step')} ${i + 1}</span><b>${md(s.t)}</b>${s.d ? `<p>${md(s.d)}</p>` : ''}</div><div class="arr">${ARROW}</div></div>`).join('')}</div>`,
   compare: d => `<div class="compare"><div class="chead"><div>${esc(d.left.label)}</div><div></div><div>${esc(d.right.label)}</div></div>${
     d.left.items.map((l, i) => `<div class="crow" style="--i:${i}"><div class="cell cl" data-l="${esc(d.left.label)}">${md(l)}</div><div class="cx">${ARROW}</div><div class="cell cr" data-l="${esc(d.right.label)}">${md(d.right.items[i] ?? '')}</div></div>`).join('')}</div>`,
   timeline: d => `<div class="tl">${d.events.map((e, i) => `<div class="ev" style="--i:${i}">${e.when ? `<div class="when">${esc(e.when)}</div>` : ''}<b>${md(e.t)}</b>${e.d ? `<p>${md(e.d)}</p>` : ''}</div>`).join('')}</div>`,
@@ -648,32 +797,31 @@ const R = {
     return `<div class="layers">${html}</div>`;
   },
   wordroot: d => `<div class="wroot"><div class="letters">${(d.letters || []).map((l, i) => `<div class="lt" style="--i:${i}"><span class="he">${esc(l.ch)}</span><b>${esc(l.name)}</b>${l.meaning ? `<span>${esc(l.meaning)}</span>` : ''}</div>`).join('')}</div>
-    ${d.root ? `<div class="rootline">ROOT · <span class="he" style="letter-spacing:.3em">${esc(d.root)}</span>${d.rootNote ? ` · ${esc(d.rootNote)}` : ''}</div>` : ''}
+    ${d.root ? `<div class="rootline">${t('rootL')} · <span class="he" style="letter-spacing:.3em">${esc(d.root)}</span>${d.rootNote ? ` · ${esc(d.rootNote)}` : ''}</div>` : ''}
     <div class="meanings">${(d.meanings || []).map((m, i) => `<span class="chip ${i % 3 === 0 ? 'accent' : i % 3 === 1 ? 'gold' : ''}" style="--i:${i}">${esc(m)}</span>`).join('')}</div></div>`,
   spectrum: d => `<div class="spec"><div class="bar">${d.points.map((p, i) => `<span class="pt" style="left:${p.pos}%;--i:${i}"></span><span class="pl ${i % 2 ? 'up' : ''}" style="left:${Math.min(88, Math.max(12, p.pos))}%">${md(p.t)}</span>`).join('')}</div><div class="ends"><span>${esc(d.left)}</span><span>${esc(d.right)}</span></div></div>`
 };
-const TAG = { flow: 'Flowchart', compare: 'Two lenses', timeline: 'Timeline', cycle: 'Cycle', tree: 'Mind map', layers: 'Layers', wordroot: 'Word anatomy', spectrum: 'Spectrum', skeleton: 'Skeleton' };
 function diagram(d) {
   if (!R[d.type]) return '';
-  const lensBtn = d.type === 'compare' ? `<button class="replay" data-lens>Focus Hebrew lens</button>` : '';
-  return `<figure class="dia" data-anim style="margin:0"><div class="dia-head"><span class="tag">${TAG[d.type]}</span><h3>${md(d.title || '')}</h3>${lensBtn}<button class="replay" data-replay aria-label="Replay animation">↻ Replay</button></div><div class="dia-scroll">${R[d.type](d)}</div>${d.note ? `<figcaption class="dia-note">${md(d.note)}</figcaption>` : ''}</figure>`;
+  const lensBtn = d.type === 'compare' ? `<button class="replay" data-lens>${t('focusLens')}</button>` : '';
+  return `<figure class="dia" data-anim style="margin:0"><div class="dia-head"><span class="tag">${t('tags')[d.type]}</span><h3>${md(d.title || '')}</h3>${lensBtn}<button class="replay" data-replay aria-label="${t('replayAria')}">${t('replay')}</button></div><div class="dia-scroll">${R[d.type](d)}</div>${d.note ? `<figcaption class="dia-note">${md(d.note)}</figcaption>` : ''}</figure>`;
 }
 function skeletonDiagram(c) {
   const ribs = (c.skeleton && c.skeleton.length ? c.skeleton : c.sections.map(s => s.h));
-  return `<figure class="dia" data-anim style="margin:0"><div class="dia-head"><span class="tag">Skeleton</span><h3>The bones of this chapter</h3><button class="replay" data-replay>↻ Replay</button></div>
-  <div class="bones">${ribs.map((r, i) => `<div class="bone ${i % 2 ? 'r' : 'l'}" style="--i:${i}"><div class="rib"><small>BONE ${i + 1}</small>${md(r)}</div><div class="joint"></div></div>`).join('')}
-  <div class="bone-head"><small>So the big idea is</small>${md(c.bigIdea || c.nutshell)}</div></div></figure>`;
+  return `<figure class="dia" data-anim style="margin:0"><div class="dia-head"><span class="tag">${t('tags').skeleton}</span><h3>${t('bonesTitle')}</h3><button class="replay" data-replay>${t('replay')}</button></div>
+  <div class="bones">${ribs.map((r, i) => `<div class="bone ${i % 2 ? 'r' : 'l'}" style="--i:${i}"><div class="rib"><small>${t('bone')} ${i + 1}</small>${md(r)}</div><div class="joint"></div></div>`).join('')}
+  <div class="bone-head"><small>${t('bigIdea')}</small>${md(c.bigIdea || c.nutshell)}</div></div></figure>`;
 }
 function wireDiagrams(scope) {
   $$('.cycle-wrap', scope).forEach(w => {
     const sel = i => { $$('.cn', w).forEach(g => g.setAttribute('aria-pressed', g.dataset.i == i)); $$('.cycle-list li', w).forEach(li => li.classList.toggle('on', li.dataset.i == i)); };
-    w.addEventListener('click', e => { const t = e.target.closest('[data-i]'); if (t) sel(t.dataset.i); });
-    w.addEventListener('keydown', e => { const t = e.target.closest('.cn'); if (t && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); sel(t.dataset.i); } });
+    w.addEventListener('click', e => { const el = e.target.closest('[data-i]'); if (el) sel(el.dataset.i); });
+    w.addEventListener('keydown', e => { const el = e.target.closest('.cn'); if (el && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); sel(el.dataset.i); } });
     let k = 0; const n = $$('.cn', w).length;
     const timer = setInterval(() => { if (!document.body.contains(w)) return clearInterval(timer); if (w.matches(':hover')) return; k = (k + 1) % n; sel(k); }, 3200);
   });
   $$('[data-replay]', scope).forEach(b => b.addEventListener('click', () => { const f = b.closest('.dia'); f.classList.remove('play'); void f.offsetWidth; f.classList.add('play'); }));
-  $$('[data-lens]', scope).forEach(b => b.addEventListener('click', () => { const f = b.closest('.dia'); const on = f.classList.toggle('lens-toggle'); b.textContent = on ? 'Show both lenses' : 'Focus Hebrew lens'; }));
+  $$('[data-lens]', scope).forEach(b => b.addEventListener('click', () => { const f = b.closest('.dia'); const on = f.classList.toggle('lens-toggle'); b.textContent = on ? t('bothLens') : t('focusLens'); }));
   // animate diagrams that start below the fold when they scroll in; ones already on screen stay still at rest
   if ('IntersectionObserver' in window) {
     const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { e.target.classList.add('play'); io.unobserve(e.target); } }), { threshold: .2 });
@@ -682,11 +830,14 @@ function wireDiagrams(scope) {
 }
 
 /* ---------- views ---------- */
-function setNav(key) { $$('.top-nav a').forEach(a => a.toggleAttribute('aria-current', a.dataset.nav === key)); if (key) $$('.top-nav a').forEach(a => a.dataset.nav === key && a.setAttribute('aria-current', 'page')); }
+function setNav(key) { $$('.top-nav a').forEach(a => { if (a.dataset.nav === key) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); }); }
 function skeleton(kind) {
   if (kind === 'chapter') return `<div class="reader"><div></div><div class="skel"><div class="s-eyebrow"></div><div class="s-he" style="justify-self:end"></div><div class="s-title"></div><div class="s-line short"></div><div class="s-card"></div><div class="s-line"></div><div class="s-line"></div><div class="s-line short"></div><div class="s-diagram"></div><div class="s-line"></div><div class="s-line short"></div></div></div>`;
   return `<div class="skel" style="max-width:none"><div class="s-eyebrow"></div><div class="s-title" style="width:50%"></div><div class="s-line short"></div><div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;background:none;animation:none">${'<div class="s-card"></div>'.repeat(6)}</div></div>`;
 }
+const partMeta = (gb, key) => { const m = /^Part ([IVX]+)/.exec(key || ''); const num = m ? m[1] : '0'; return (gb?.parts || []).find(x => x.num === num) || { num }; };
+const tool = (href, ti, d, path) => `<a class="tool" href="${href}"><span class="ti"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${path}</svg></span><b>${ti}</b><span>${d}</span></a>`;
+const shortName = c => c.hebrew ? c.translit : c.title;
 
 let lensTimer;
 function viewHome() {
@@ -696,15 +847,15 @@ function viewHome() {
   const pct = total ? Math.round(n / total * 100) : 0, C = 2 * Math.PI * 26;
   const orbit = 'אבגדהוזחטיכלמנסעפצקרשת'.split('');
   const gb = bookOf('gospel'), wb = bookOf('words');
-  const parts = [...new Set(gospel.map(c => c.part))];
+  const keys = [...new Set(gospel.map(pkey))];
   const next = D.chapters.find(c => !done.has(c.id)) || D.chapters[0];
   main.innerHTML = `<div class="view">
   <section class="hero">
     <div class="stagger">
-      <div class="eyebrow">Two journeys · ${total} topics · diagrams, skeletons, quizzes</div>
-      <h1>Hear the Scriptures the way their <em>first listeners</em> heard them.</h1>
-      <p class="lede">Every translation is also an interpretation. This app walks you through 15 Hebrew words that English flattens, then through a Jewish reading of atonement, sacrifice, salvation, judgment and redemption. Each topic is explained in plain language, with a flowchart, a "skeleton" of the argument and a short quiz.</p>
-      <div class="hero-actions"><a class="btn primary" href="#c-${next?.id}">${n ? 'Continue reading' : 'Start with the first word'} ${ARROW}</a><a class="btn" href="#map">See the big picture</a></div>
+      <div class="eyebrow">${esc(t('heroEyebrow', total))}</div>
+      <h1>${t('heroH1')}</h1>
+      <p class="lede">${esc(t('heroLede'))}</p>
+      <div class="hero-actions"><a class="btn primary" href="#c-${next?.id}">${n ? t('continue') : t('startFirst')} ${ARROW}</a><a class="btn" href="#map">${t('seeBig')}</a></div>
     </div>
     <div class="lens" aria-hidden="true">
       <svg viewBox="0 0 440 440"><circle class="ring" cx="220" cy="220" r="214"/><circle class="ring dash" cx="220" cy="220" r="196"/><circle class="ring" cx="220" cy="220" r="176"/>
@@ -714,27 +865,27 @@ function viewHome() {
   </section>
   <div class="progress-card">
     <svg class="ring-prog" viewBox="0 0 64 64"><circle class="bg" cx="32" cy="32" r="26"/><circle class="fg" cx="32" cy="32" r="26" stroke-dasharray="${C}" stroke-dashoffset="${C * (1 - pct / 100)}"/><text x="32" y="33">${pct}%</text></svg>
-    <div style="flex:1;min-width:200px"><b>Your progress</b><div style="color:var(--muted);font-size:14px">${n} of ${total} topics finished. Your progress is saved in this browser.</div></div>
-    <a class="btn small" href="#install">Download &amp; install</a>
+    <div style="flex:1;min-width:200px"><b>${t('progress')}</b><div style="color:var(--muted);font-size:14px">${esc(t('progressText', n, total))}</div></div>
+    <a class="btn small" href="#install">${esc(t('install'))}</a>
   </div>
 
-  <div class="section-head"><div><div class="eyebrow">Journey 1 · ${esc(wb?.title || '')}</div><h2>${esc(wb?.headline || '15 Hebrew words')}</h2><p>${esc(wb?.blurb || '')}</p></div><a class="btn small" href="#words">Practise with flashcards</a></div>
+  <div class="section-head"><div><div class="eyebrow">${t('journey', 1)} · ${esc(wb?.title || '')}</div><h2>${esc(wb?.headline || '')}</h2><p>${esc(wb?.blurb || '')}</p></div><a class="btn small" href="#words">${t('practise')}</a></div>
   <div class="word-grid stagger">
-    <a class="wcard" href="#c-${words[0]?.id}" style="background:var(--accent-soft)"><span class="num">START</span><b style="text-transform:none;letter-spacing:0;font-size:17px">Why Hebrew still matters</b><span class="sub">Preface and introduction: why translation is never neutral.</span></a>
-    ${words.filter(c => c.hebrew).map(c => `<a class="wcard" href="#c-${c.id}"><span class="he-bg">${esc([...(c.hebrew || '')][0] || '')}</span>${done.has(c.id) ? '<span class="done-tick">✓</span>' : ''}<span class="num">WORD ${String(c.num).padStart(2, '0')}</span><span class="he">${esc(c.hebrew)}</span><b>${esc(c.translit)}</b><span class="sub">${esc(c.subtitle)}</span></a>`).join('')}
+    ${words.filter(c => !c.hebrew).map(c => `<a class="wcard" href="#c-${c.id}" style="background:var(--accent-soft)"><span class="num">${t('start')}</span><b style="text-transform:none;letter-spacing:0;font-size:17px">${esc(c.title)}</b><span class="sub">${esc(t('introSub'))}</span></a>`).join('')}
+    ${words.filter(c => c.hebrew).map(c => `<a class="wcard" href="#c-${c.id}"><span class="he-bg">${esc([...(c.hebrew || '')][0] || '')}</span>${done.has(c.id) ? '<span class="done-tick">✓</span>' : ''}<span class="num">${t('word')} ${String(c.num).padStart(2, '0')}</span><span class="he">${esc(c.hebrew)}</span><b>${esc(c.translit)}</b><span class="sub">${esc(c.subtitle)}</span></a>`).join('')}
   </div>
 
-  <div class="section-head"><div><div class="eyebrow">Journey 2 · ${esc(gb?.title || '')}</div><h2>${esc(gb?.headline || '')}</h2><p>${esc(gb?.blurb || '')}</p></div><a class="btn small" href="#map">View as a flowchart</a></div>
-  <div class="parts">${parts.map((p, pi) => { const cs = gospel.filter(c => c.part === p); const meta = partMeta(gb, p); return `<div class="part" data-open="${pi === 0}">
-    <button aria-expanded="${pi === 0}"><span class="pnum">${meta.num === '0' ? '★' : esc(meta.num)}</span><span class="ptitle"><b>${esc(p)}</b><span>${esc(meta.blurb || '')} · ${cs.length} topic${cs.length === 1 ? '' : 's'} · ${cs.filter(c => done.has(c.id)).length} done</span></span><span class="chev">${CHEV}</span></button>
+  <div class="section-head"><div><div class="eyebrow">${t('journey', 2)} · ${esc(gb?.title || '')}</div><h2>${esc(gb?.headline || '')}</h2><p>${esc(gb?.blurb || '')}</p></div><a class="btn small" href="#map">${t('viewFlow')}</a></div>
+  <div class="parts">${keys.map((key, pi) => { const cs = gospel.filter(c => pkey(c) === key); const meta = partMeta(gb, key); return `<div class="part" data-open="${pi === 0}">
+    <button aria-expanded="${pi === 0}"><span class="pnum">${meta.num === '0' ? '★' : esc(meta.num)}</span><span class="ptitle"><b>${esc(cs[0].part)}</b><span>${esc(meta.blurb || '')} · ${t('topics', cs.length)} · ${t('doneN', cs.filter(c => done.has(c.id)).length)}</span></span><span class="chev">${CHEV}</span></button>
     <ol ${pi === 0 ? '' : 'hidden'}>${cs.map(c => `<li><a href="#c-${c.id}"><span class="cn">${esc(c.num ?? '')}</span><span class="ct">${esc(c.title)}${c.subtitle ? `<small>${esc(c.subtitle)}</small>` : ''}</span>${done.has(c.id) ? '<span class="ok">✓</span>' : ''}</a></li>`).join('')}</ol></div>`; }).join('')}</div>
 
-  <div class="section-head"><div><div class="eyebrow">Study tools</div><h2>Practise and look things up</h2></div></div>
+  <div class="section-head"><div><div class="eyebrow">${t('toolsEyebrow')}</div><h2>${t('toolsH')}</h2></div></div>
   <div class="tools stagger">
-    ${tool('#words', 'Flashcards', 'Flip through the 15 Hebrew words and their fuller meanings.', '<path d="M4 6h12v12H4z"/><path d="M8 3h12v12"/>')}
-    ${tool('#map', 'Big-picture map', 'See how every chapter connects, as one flowchart.', '<circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="18" r="2"/><path d="M7 6h10M6 8l5 8M18 8l-5 8"/>')}
-    ${tool('#glossary', 'Glossary', 'Plain definitions for every key term in both books.', '<path d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3z"/><path d="M5 17a3 3 0 0 1 3-3h11"/>')}
-    ${tool('#quiz', 'Mixed quiz', 'Ten random questions drawn from every topic.', '<circle cx="12" cy="12" r="9"/><path d="M9.5 9a2.5 2.5 0 1 1 3.5 2.3c-.7.3-1 .9-1 1.7M12 17h.01"/>')}
+    ${tool('#words', t('fcT'), t('fcD'), '<path d="M4 6h12v12H4z"/><path d="M8 3h12v12"/>')}
+    ${tool('#map', t('mapT'), t('mapD'), '<circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="18" r="2"/><path d="M7 6h10M6 8l5 8M18 8l-5 8"/>')}
+    ${tool('#glossary', t('glT'), t('glD'), '<path d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3z"/><path d="M5 17a3 3 0 0 1 3-3h11"/>')}
+    ${tool('#quiz', t('qzT'), t('qzD'), '<circle cx="12" cy="12" r="9"/><path d="M9.5 9a2.5 2.5 0 1 1 3.5 2.3c-.7.3-1 .9-1 1.7M12 17h.01"/>')}
   </div></div>`;
   $$('.part > button').forEach(b => b.addEventListener('click', () => { const p = b.parentElement, open = p.dataset.open !== 'true'; p.dataset.open = open; b.setAttribute('aria-expanded', open); $('ol', p).hidden = !open; }));
   // rotating lens
@@ -743,16 +894,14 @@ function viewHome() {
   show(); clearInterval(lensTimer);
   lensTimer = setInterval(() => { if (!document.body.contains(core)) return clearInterval(lensTimer); core.classList.add('swap'); setTimeout(() => { k++; show(); core.classList.remove('swap'); }, 420); }, 3600);
 }
-const partMeta = (gb, p) => { const m = /^Part ([IVX]+)/.exec(p || ''); const num = m ? m[1] : '0'; return (gb?.parts || []).find(x => x.num === num) || { num }; };
-const tool = (href, t, d, path) => `<a class="tool" href="${href}"><span class="ti"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${path}</svg></span><b>${t}</b><span>${d}</span></a>`;
 
 function tocHTML(activeBook, activeId) {
-  const b = bookOf(activeBook), cs = chaptersOf(activeBook);
+  const cs = chaptersOf(activeBook);
   let html = `<div class="toc-book">${D.books.map(x => `<button data-book="${x.id}" aria-pressed="${x.id === activeBook}">${esc(x.short)}</button>`).join('')}</div>`;
   let lastPart = null;
   cs.forEach(c => {
-    if (c.part && c.part !== lastPart) { html += `<h4>${esc(c.part)}</h4>`; lastPart = c.part; }
-    html += `<a href="#c-${c.id}" ${c.id === activeId ? 'aria-current="page"' : ''}><span class="n">${esc(c.num ?? '·')}</span><span>${esc(c.hebrew && activeBook === 'words' ? c.translit : c.title)}</span>${done.has(c.id) ? '<span class="d">✓</span>' : ''}</a>`;
+    if (c.part && pkey(c) !== lastPart) { html += `<h4>${esc(c.part)}</h4>`; lastPart = pkey(c); }
+    html += `<a href="#c-${c.id}" ${c.id === activeId ? 'aria-current="page"' : ''}><span class="n">${esc(c.num ?? '·')}</span><span>${esc(activeBook === 'words' ? shortName(c) : c.title)}</span>${done.has(c.id) ? '<span class="d">✓</span>' : ''}</a>`;
   });
   return html;
 }
@@ -762,44 +911,45 @@ function viewChapter(id) {
   setNav(null);
   const list = chaptersOf(c.book), i = list.indexOf(c), prev = list[i - 1], next = list[i + 1];
   const b = bookOf(c.book);
-  const diagrams = c.diagrams || [];
-  const placed = {}; diagrams.forEach((d, k) => { const at = d.after ?? (c.sections.length - 1); (placed[at] = placed[at] || []).push(d); });
-  const eyebrow = c.book === 'words' ? (c.hebrew ? `Journey 1 · Word ${c.num} of 15` : 'Journey 1 · Before the words') : `Journey 2 · ${esc(c.part)}${c.num ? ` · Chapter ${c.num}` : ''}`;
+  const placed = {}; (c.diagrams || []).forEach(d => { const at = d.after ?? (c.sections.length - 1); (placed[at] = placed[at] || []).push(d); });
+  const eyebrow = c.book === 'words' ? (c.hebrew ? t('wordOf', c.num) : t('beforeWords')) : `${t('journey', 2)} · ${esc(c.part)}${c.num ? ` · ${t('chapterN', c.num)}` : ''}`;
   main.innerHTML = `<div class="view reader">
-  <nav class="toc" id="toc" aria-label="Chapters">${tocHTML(c.book, c.id)}</nav>
+  <nav class="toc" id="toc" aria-label="${t('chaptersAria')}">${tocHTML(c.book, c.id)}</nav>
   <article class="article">
     <header class="chapter-head stagger">
       <div class="eyebrow">${eyebrow}</div>
       ${c.hebrew ? `<div class="he he-big" aria-label="${esc(c.translit)}">${[...c.hebrew].map((ch, k) => `<span style="animation-delay:${k * .08}s">${esc(ch)}</span>`).join('')}</div>` : ''}
       <h1>${esc(c.title)}</h1>
       ${c.subtitle ? `<p class="subtitle">${esc(c.subtitle)}</p>` : ''}
-      ${c.hebrew ? `<div class="translit"><span class="chip accent">${esc(c.translit)}</span>${c.pron ? `<span class="chip">say: ${esc(c.pron)}</span>` : ''}${c.root ? `<span class="chip gold">root ${esc(c.root)}</span>` : ''}</div>` : ''}
-      ${c.gloss ? `<div class="meaning-shift"><div><small>Usually translated</small><b>${esc(c.gloss)}</b></div><div class="arrow">${ARROW}</div><div><small>Fuller Hebrew meaning</small><b>${esc(c.trueMeaning)}</b></div></div>` : ''}
-      <div class="tools-row"><button class="btn small" id="listen">▶ Listen</button><a class="btn small" href="#skeleton-${c.id}" data-jump="skel">Skeleton</a>${c.quiz?.length ? `<a class="btn small" data-jump="quiz" href="#quiz-${c.id}">Quiz (${c.quiz.length})</a>` : ''}</div>
+      ${c.hebrew ? `<div class="translit"><span class="chip accent">${esc(c.translit)}</span>${c.pron ? `<span class="chip">${t('say')} ${esc(c.pron)}</span>` : ''}${c.root ? `<span class="chip gold">${t('root')} ${esc(c.root)}</span>` : ''}</div>` : ''}
+      ${c.gloss ? `<div class="meaning-shift"><div><small>${t('usually')}</small><b>${esc(c.gloss)}</b></div><div class="arrow">${ARROW}</div><div><small>${t('fuller')}</small><b>${esc(c.trueMeaning)}</b></div></div>` : ''}
+      <div class="tools-row"><button class="btn small" id="listen">${t('listen')}</button><a class="btn small" href="#skel-block" data-jump="skel">${t('skeletonBtn')}</a>${c.quiz?.length ? `<a class="btn small" data-jump="quiz" href="#quiz-block">${t('quizBtn', c.quiz.length)}</a>` : ''}</div>
     </header>
-    <div class="nutshell"><div class="eyebrow">In a nutshell</div><p>${md(c.nutshell)}</p></div>
+    <div class="nutshell"><div class="eyebrow">${t('nutshell')}</div><p>${md(c.nutshell)}</p></div>
     <div class="block" id="skel-block">${skeletonDiagram(c)}</div>
     ${c.sections.map((s, k) => `<section class="block"><h2><span class="sn">${String(k + 1).padStart(2, '0')}</span><span>${md(s.h)}</span></h2><div class="prose">${s.p.map(p => p.startsWith('> ') ? `<p class="callout">${md(p.slice(2))}</p>` : `<p>${md(p)}</p>`).join('')}</div></section>${(placed[k] || []).map(d => `<div class="block">${diagram(d)}</div>`).join('')}`).join('')}
-    ${c.verses?.length ? `<section class="block"><h2>Key passages</h2><div class="verses">${c.verses.map(v => `<div class="verse">${v.text ? `<q>${md(v.text)}</q>` : ''}<cite>${esc(v.ref)}</cite></div>`).join('')}</div></section>` : ''}
-    ${c.keyPoints?.length ? `<section class="block"><h2>Remember this</h2><ol class="keypoints">${c.keyPoints.map(k => `<li><span>${md(k)}</span></li>`).join('')}</ol></section>` : ''}
-    ${c.reflect?.length ? `<section class="block"><h2>Think it through</h2><ul class="reflect">${c.reflect.map(k => `<li>${md(k)}</li>`).join('')}</ul></section>` : ''}
-    ${c.quiz?.length ? `<section class="block" id="quiz-block"><h2>Check your understanding</h2>${quizHTML(c.quiz)}</section>` : ''}
-    <div class="done-bar"><div><b>${done.has(c.id) ? 'You finished this topic.' : 'Finished reading?'}</b><div style="font-size:14px;color:var(--muted)">${esc(b?.short || '')} · ${i + 1} of ${list.length}</div></div><button class="btn ${done.has(c.id) ? '' : 'primary'}" id="doneBtn">${done.has(c.id) ? 'Mark as unread' : 'Mark as finished ✓'}</button></div>
-    <nav class="pager">${prev ? `<a href="#c-${prev.id}"><small>← Previous</small><b>${esc(prev.translit && prev.hebrew ? prev.translit : prev.title)}</b></a>` : ''}${next ? `<a class="next" href="#c-${next.id}"><small>Next →</small><b>${esc(next.translit && next.hebrew ? next.translit : next.title)}</b></a>` : ''}</nav>
+    ${c.verses?.length ? `<section class="block"><h2>${t('keyPassages')}</h2><div class="verses">${c.verses.map(v => `<div class="verse">${v.text ? `<q>${md(v.text)}</q>` : ''}<cite>${esc(v.ref)}</cite></div>`).join('')}</div></section>` : ''}
+    ${c.keyPoints?.length ? `<section class="block"><h2>${t('remember')}</h2><ol class="keypoints">${c.keyPoints.map(k => `<li><span>${md(k)}</span></li>`).join('')}</ol></section>` : ''}
+    ${c.reflect?.length ? `<section class="block"><h2>${t('think')}</h2><ul class="reflect">${c.reflect.map(k => `<li>${md(k)}</li>`).join('')}</ul></section>` : ''}
+    ${c.quiz?.length ? `<section class="block" id="quiz-block"><h2>${t('check')}</h2>${quizHTML(c.quiz)}</section>` : ''}
+    <div class="done-bar"><div><b>${done.has(c.id) ? t('finished') : t('finishedQ')}</b><div style="font-size:14px;color:var(--muted)">${esc(b?.short || '')} · ${t('ofN', i + 1, list.length)}</div></div><button class="btn ${done.has(c.id) ? '' : 'primary'}" id="doneBtn">${done.has(c.id) ? t('markUnread') : t('markDone')}</button></div>
+    <nav class="pager">${prev ? `<a href="#c-${prev.id}"><small>${t('prev')}</small><b>${esc(shortName(prev))}</b></a>` : ''}${next ? `<a class="next" href="#c-${next.id}"><small>${t('next')}</small><b>${esc(shortName(next))}</b></a>` : ''}</nav>
   </article></div>`;
   wireDiagrams(main); wireQuiz(main);
-  $('#doneBtn').addEventListener('click', () => { const was = done.has(c.id); toggleDone(c.id); toast(was ? 'Marked as unread' : 'Marked as finished'); if (!was && next) location.hash = 'c-' + next.id; else render(); });
+  $('#doneBtn').addEventListener('click', () => { const was = done.has(c.id); toggleDone(c.id); toast(was ? t('markedUnread') : t('markedDone')); if (!was && next) location.hash = 'c-' + next.id; else render(); });
   $$('[data-jump]').forEach(a => a.addEventListener('click', e => { e.preventDefault(); $(a.dataset.jump === 'quiz' ? '#quiz-block' : '#skel-block').scrollIntoView({ behavior: 'smooth', block: 'start' }); }));
   $('.toc-book').addEventListener('click', e => { const bt = e.target.closest('button'); if (bt && bt.dataset.book !== c.book) location.hash = 'c-' + chaptersOf(bt.dataset.book)[0].id; });
   const listen = $('#listen');
   listen.addEventListener('click', () => {
     try {
       const ss = window.speechSynthesis; if (!ss) throw 0;
-      if (ss.speaking) { ss.cancel(); listen.textContent = '▶ Listen'; return; }
+      if (ss.speaking) { ss.cancel(); listen.textContent = t('listen'); return; }
       const text = [c.title, c.subtitle, plain(c.nutshell), ...c.sections.flatMap(s => [plain(s.h), ...s.p.map(plain)])].filter(Boolean).join('. ');
-      const u = new SpeechSynthesisUtterance(text); u.rate = 1; u.onend = () => listen.textContent = '▶ Listen';
-      ss.speak(u); listen.textContent = '■ Stop';
-    } catch { toast('Read-aloud is not available on this device'); }
+      const u = new SpeechSynthesisUtterance(text); u.lang = lang === 'ta' ? 'ta-IN' : 'en-US'; u.rate = 1;
+      const voice = ss.getVoices().find(v => v.lang && v.lang.toLowerCase().startsWith(lang)); if (voice) u.voice = voice;
+      u.onend = () => listen.textContent = t('listen');
+      ss.speak(u); listen.textContent = t('stop');
+    } catch { toast(t('noSpeech')); }
   });
   const cur = $('#toc a[aria-current]'); if (cur) cur.scrollIntoView({ block: 'center' });
 }
@@ -816,7 +966,7 @@ function wireQuiz(scope) {
       const ok = +o.dataset.k === +q.dataset.a; if (ok) right++;
       o.classList.add(ok ? 'right' : 'wrong'); if (!ok) $$('.opt', q)[q.dataset.a].classList.add('right');
       $$('.opt', q).forEach(b => b.disabled = true); $('.why', q).hidden = false;
-      if (answered === total) $('.score', qz).textContent = `You scored ${right} of ${total}. ${right === total ? 'Excellent!' : right >= total / 2 ? 'Good work. Review the explanations above.' : 'Try reading the chapter again, then retry.'}`;
+      if (answered === total) $('.score', qz).textContent = t('score', right, total);
     });
   });
 }
@@ -824,22 +974,22 @@ function wireQuiz(scope) {
 function viewWords() {
   setNav('words');
   const ws = chaptersOf('words').filter(c => c.hebrew); let k = 0;
-  main.innerHTML = `<div class="view"><div class="section-head" style="margin-top:0"><div><div class="eyebrow">Flashcards</div><h2>The 15 Hebrew words</h2><p>Tap the card to flip it. Use the arrow keys on a keyboard.</p></div></div>
-  <div class="fc-stage"><button class="fc" id="fc" aria-label="Flip card"><div class="face front"></div><div class="face back"></div></button>
-  <div class="fc-controls"><button class="btn small" id="fcPrev">← Previous</button><button class="btn small" id="fcShuffle">Shuffle</button><button class="btn small primary" id="fcFlip">Flip</button><button class="btn small" id="fcNext">Next →</button></div>
+  main.innerHTML = `<div class="view"><div class="section-head" style="margin-top:0"><div><div class="eyebrow">${t('fcEyebrow')}</div><h2>${t('fcH')}</h2><p>${t('fcP')}</p></div></div>
+  <div class="fc-stage"><button class="fc" id="fc" aria-label="${t('flipAria')}"><div class="face front"></div><div class="face back"></div></button>
+  <div class="fc-controls"><button class="btn small" id="fcPrev">${t('prev')}</button><button class="btn small" id="fcShuffle">${t('shuffle')}</button><button class="btn small primary" id="fcFlip">${t('flip')}</button><button class="btn small" id="fcNext">${t('next')}</button></div>
   <div class="fc-dots" id="fcDots"></div></div></div>`;
   const fc = $('#fc');
   const draw = () => {
     const c = ws[k]; if (!c) return; fc.classList.remove('flipped');
-    $('.front', fc).innerHTML = `<small>WORD ${c.num} OF 15</small><span class="he">${esc(c.hebrew)}</span><b>${esc(c.translit)}</b><small>Usually: ${esc(c.gloss)}</small>`;
-    $('.back', fc).innerHTML = `<small>${esc(c.translit)} really means</small><h3>${esc(c.trueMeaning)}</h3><p>${md(c.nutshell)}</p><small><a href="#c-${c.id}" onclick="event.stopPropagation()">Read the full topic →</a></small>`;
-    $('#fcDots').innerHTML = ws.map((_, i) => `<button aria-label="Card ${i + 1}" aria-current="${i === k}" data-i="${i}"></button>`).join('');
+    $('.front', fc).innerHTML = `<small>${t('wordOfCard', c.num)}</small><span class="he">${esc(c.hebrew)}</span><b>${esc(c.translit)}</b><small>${t('usuallyC')} ${esc(c.gloss)}</small>`;
+    $('.back', fc).innerHTML = `<small>${esc(t('reallyMeans', c.translit))}</small><h3>${esc(c.trueMeaning)}</h3><p>${md(c.nutshell)}</p><small><a href="#c-${c.id}" onclick="event.stopPropagation()">${t('readFull')}</a></small>`;
+    $('#fcDots').innerHTML = ws.map((_, i) => `<button aria-label="${t('card', i + 1)}" aria-current="${i === k}" data-i="${i}"></button>`).join('');
   };
   fc.addEventListener('click', () => fc.classList.toggle('flipped'));
   $('#fcFlip').onclick = () => fc.classList.toggle('flipped');
   $('#fcNext').onclick = () => { k = (k + 1) % ws.length; draw(); };
   $('#fcPrev').onclick = () => { k = (k - 1 + ws.length) % ws.length; draw(); };
-  $('#fcShuffle').onclick = () => { for (let i = ws.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [ws[i], ws[j]] = [ws[j], ws[i]]; } k = 0; draw(); toast('Shuffled'); };
+  $('#fcShuffle').onclick = () => { for (let i = ws.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [ws[i], ws[j]] = [ws[j], ws[i]]; } k = 0; draw(); toast(t('shuffled')); };
   $('#fcDots').onclick = e => { const b = e.target.closest('button'); if (b) { k = +b.dataset.i; draw(); } };
   keyHandler = e => { if (e.key === 'ArrowRight') $('#fcNext').click(); if (e.key === 'ArrowLeft') $('#fcPrev').click(); if (e.key === ' ' && e.target === document.body) { e.preventDefault(); fc.classList.toggle('flipped'); } };
   draw();
@@ -850,33 +1000,34 @@ document.addEventListener('keydown', e => keyHandler && keyHandler(e));
 function viewMap() {
   setNav('map');
   const ws = chaptersOf('words').filter(c => c.hebrew), g = chaptersOf('gospel'), gb = bookOf('gospel');
-  const parts = [...new Set(g.map(c => c.part))];
+  const keys = [...new Set(g.map(pkey))];
   // constellation positions on a gentle spiral
   const pos = ws.map((_, i) => { const a = i * 2.4, r = 14 + i * 2.4; return [50 + r * Math.cos(a) * 1.15, 50 + r * Math.sin(a) * .95]; });
   main.innerHTML = `<div class="view">
-  <div class="section-head" style="margin-top:0"><div><div class="eyebrow">Big-picture map</div><h2>How it all fits together</h2><p>Journey 1 is a constellation of 15 words that each restore a lost meaning. Journey 2 is one long argument, read top to bottom like a flowchart. Tap any node to open it.</p></div></div>
-  <div class="dia" style="margin-bottom:30px"><div class="dia-head"><span class="tag">Constellation</span><h3>The 15 words</h3></div>
+  <div class="section-head" style="margin-top:0"><div><div class="eyebrow">${t('mapEyebrow')}</div><h2>${t('mapH')}</h2><p>${t('mapP')}</p></div></div>
+  <div class="dia" style="margin-bottom:30px"><div class="dia-head"><span class="tag">${t('tags').constellation}</span><h3>${t('the15')}</h3></div>
     <div class="constellation"><svg viewBox="0 0 100 100" preserveAspectRatio="none">${pos.slice(1).map((p, i) => `<line x1="${pos[i][0]}" y1="${pos[i][1]}" x2="${p[0]}" y2="${p[1]}"/>`).join('')}</svg>
     ${ws.map((c, i) => `<a href="#c-${c.id}" style="left:${pos[i][0]}%;top:${pos[i][1]}%;--i:${i}"><span class="he">${esc(c.hebrew)}</span><span>${esc(c.translit)}</span></a>`).join('')}</div></div>
-  <div class="dia"><div class="dia-head"><span class="tag">Flowchart</span><h3>${esc(gb?.title || '')}: the argument, start to finish</h3></div>
-  <div class="map">${parts.map((p, pi) => `${pi ? `<div class="map-arrow"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 4v16M6 14l6 6 6-6"/></svg></div>` : ''}
-    <div class="map-part"><div class="mp-label"><small>${partMeta(gb, p).num === '0' ? 'START' : 'PART ' + esc(partMeta(gb, p).num)}</small><b>${esc(p)}</b></div><div class="map-nodes">${g.filter(c => c.part === p).map((c, k, arr) => `<a href="#c-${c.id}">${esc(c.title)}</a>${k < arr.length - 1 ? '<span class="to">→</span>' : ''}`).join('')}</div></div>`).join('')}</div>
+  <div class="dia"><div class="dia-head"><span class="tag">${t('tags').flow}</span><h3>${esc(t('argument', gb?.title || ''))}</h3></div>
+  <div class="map">${keys.map((key, pi) => { const cs = g.filter(c => pkey(c) === key), meta = partMeta(gb, key); return `${pi ? `<div class="map-arrow"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 4v16M6 14l6 6 6-6"/></svg></div>` : ''}
+    <div class="map-part"><div class="mp-label"><small>${meta.num === '0' ? t('start') : t('part') + ' ' + esc(meta.num)}</small><b>${esc(cs[0].part)}</b></div><div class="map-nodes">${cs.map((c, k) => `<a href="#c-${c.id}">${esc(c.title)}</a>${k < cs.length - 1 ? '<span class="to">→</span>' : ''}`).join('')}</div></div>`; }).join('')}</div>
   ${gb?.thesis ? `<p class="dia-note">${md(gb.thesis)}</p>` : ''}</div></div>`;
 }
 
 function viewGlossary() {
   setNav('glossary');
-  const terms = [...D.glossary.map(t => ({ ...t })), ...D.chapters.flatMap(c => (c.terms || []).map(t => ({ ...t, from: c.id })))];
-  const seen = new Map(); terms.forEach(t => { const k = t.term.toLowerCase(); if (!seen.has(k)) seen.set(k, t); });
-  const all = [...seen.values()].sort((a, b) => a.term.localeCompare(b.term));
-  const letters = [...new Set(all.map(t => t.term[0].toUpperCase()))];
-  main.innerHTML = `<div class="view"><div class="section-head" style="margin-top:0"><div><div class="eyebrow">Glossary</div><h2>${all.length} key terms, in plain words</h2></div>
-    <div class="search" style="width:min(320px,100%)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><label class="sr" for="gq">Filter terms</label><input id="gq" type="search" placeholder="Filter terms…"></div></div>
-    <div class="gloss-filter">${letters.map(l => `<button class="chip" data-l="${l}">${l}</button>`).join('')}</div>
+  const terms = [...D.glossary.map(x => ({ ...x })), ...D.chapters.flatMap(c => (c.terms || []).map(x => ({ ...x, from: c.id })))];
+  const seen = new Map(); terms.forEach(x => { const k = x.term.toLowerCase(); if (!seen.has(k)) seen.set(k, x); });
+  const all = [...seen.values()].sort((a, b) => a.term.localeCompare(b.term, lang));
+  const first = s => (s.match(/^[஀-௿]|^./u) || [''])[0].toUpperCase();
+  const letters = [...new Set(all.map(x => first(x.term)))];
+  main.innerHTML = `<div class="view"><div class="section-head" style="margin-top:0"><div><div class="eyebrow">${t('glEyebrow')}</div><h2>${t('glH', all.length)}</h2></div>
+    <div class="search" style="width:min(320px,100%)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><label class="sr" for="gq">${t('filterLabel')}</label><input id="gq" type="search" placeholder="${t('filterPh')}"></div></div>
+    <div class="gloss-filter">${letters.map(l => `<button class="chip" data-l="${esc(l)}">${esc(l)}</button>`).join('')}</div>
     <div class="gloss" id="gl"></div></div>`;
-  const draw = (f = '') => { const q = f.toLowerCase(); $('#gl').innerHTML = all.filter(t => !q || t.term.toLowerCase().includes(q) || t.def.toLowerCase().includes(q)).map(t => `<div class="term"><b>${esc(t.term)}</b><p>${md(t.def)}</p>${t.from && byId[t.from] ? `<a href="#c-${t.from}">From: ${esc(byId[t.from].translit && byId[t.from].hebrew ? byId[t.from].translit : byId[t.from].title)} →</a>` : ''}</div>`).join('') || '<p>No terms match that filter.</p>'; };
+  const draw = (f = '') => { const q = f.toLowerCase(); $('#gl').innerHTML = all.filter(x => !q || x.term.toLowerCase().includes(q) || x.def.toLowerCase().includes(q)).map(x => `<div class="term"><b>${esc(x.term)}</b><p>${md(x.def)}</p>${x.from && byId[x.from] ? `<a href="#c-${x.from}">${t('from')} ${esc(shortName(byId[x.from]))} →</a>` : ''}</div>`).join('') || `<p>${t('noTerms')}</p>`; };
   $('#gq').addEventListener('input', e => draw(e.target.value));
-  $('.gloss-filter').addEventListener('click', e => { const b = e.target.closest('[data-l]'); if (!b) return; const el = $$('#gl .term b').find(x => x.textContent.toUpperCase().startsWith(b.dataset.l)); el?.scrollIntoView({ behavior: 'smooth', block: 'center' }); });
+  $('.gloss-filter').addEventListener('click', e => { const b = e.target.closest('[data-l]'); if (!b) return; const el = $$('#gl .term b').find(x => first(x.textContent) === b.dataset.l); el?.scrollIntoView({ behavior: 'smooth', block: 'center' }); });
   draw();
 }
 
@@ -884,7 +1035,7 @@ function viewQuiz() {
   setNav('quiz');
   const pool = D.chapters.flatMap(c => (c.quiz || []).map(q => ({ ...q, src: c.id })));
   const pick = pool.sort(() => Math.random() - .5).slice(0, 10);
-  main.innerHTML = `<div class="view" style="max-width:760px"><div class="section-head" style="margin-top:0"><div><div class="eyebrow">Mixed quiz</div><h2>Ten questions from across both journeys</h2><p>${pool.length} questions in the pool. Each round draws a new set.</p></div><button class="btn small primary" id="again">New round</button></div>${quizHTML(pick)}</div>`;
+  main.innerHTML = `<div class="view" style="max-width:760px"><div class="section-head" style="margin-top:0"><div><div class="eyebrow">${t('qEyebrow')}</div><h2>${t('qH')}</h2><p>${t('qPool', pool.length)}</p></div><button class="btn small primary" id="again">${t('newRound')}</button></div>${quizHTML(pick)}</div>`;
   wireQuiz(main); $('#again').onclick = () => viewQuiz();
 }
 
@@ -893,19 +1044,21 @@ function viewInstall() {
   const inFrame = (() => { try { return window.top !== window.self; } catch { return true; } })();
   const href = /^https?:/.test(location.href) && !inFrame ? location.href.split('#')[0] : 'https://claude.ai/artifact/PXe1SYhqpKKyZmNqtqEkWN';
   const file = 'https://github.com/ebenezar15/Jewishgospel/raw/claude/intelligent-fermi-h1ahkm/index.html';
-  main.innerHTML = `<div class="view" style="max-width:900px"><div class="section-head" style="margin-top:0"><div><div class="eyebrow">Use it everywhere</div><h2>Download &amp; install</h2><p>The whole app is one self-contained file. Open it from the link below on any phone, tablet or computer, or save it and open it offline.</p></div></div>
-  <div class="term" style="margin-bottom:14px"><b>Link to this app</b><div class="copy-row"><code id="link">${esc(href)}</code><button class="btn small primary" id="copy">Copy link</button></div></div>
-  <div class="term" style="margin-bottom:14px"><b>Offline copy (one file)</b><p>Download <b>index.html</b>, then open it in any browser. Everything works without internet except the web fonts.</p><div class="copy-row"><code>${esc(file)}</code><a class="btn small" href="${esc(file)}" target="_blank" rel="noopener">Download file</a></div></div>
+  const steps = a => `<ol>${a.map(x => `<li>${x}</li>`).join('')}</ol>`;
+  main.innerHTML = `<div class="view" style="max-width:900px"><div class="section-head" style="margin-top:0"><div><div class="eyebrow">${t('inEyebrow')}</div><h2>${esc(t('inH'))}</h2><p>${t('inP')}</p></div></div>
+  <div class="term" style="margin-bottom:14px"><b>${t('linkT')}</b><div class="copy-row"><code id="link">${esc(href)}</code><button class="btn small primary" id="copy">${t('copy')}</button></div></div>
+  <div class="term" style="margin-bottom:14px"><b>${t('offT')}</b><p>${t('offP')}</p><div class="copy-row"><code>${esc(file)}</code><a class="btn small" href="${esc(file)}" target="_blank" rel="noopener">${t('dl')}</a></div></div>
   <div class="install">
-   <div class="term"><b>iPhone &amp; iPad</b><ol><li>Open the link in Safari.</li><li>Tap the Share button.</li><li>Choose <b>Add to Home Screen</b>.</li></ol></div>
-   <div class="term"><b>Android</b><ol><li>Open the link in Chrome.</li><li>Tap the ⋮ menu.</li><li>Choose <b>Install app</b> or <b>Add to Home screen</b>.</li></ol></div>
-   <div class="term"><b>Windows, Mac, Linux</b><ol><li>Open the link in Chrome or Edge.</li><li>Click the install icon in the address bar.</li><li>Or download the single <b>index.html</b> file and double-click it to read offline.</li></ol></div>
+   <div class="term"><b>${esc(t('iosT'))}</b>${steps(t('ios'))}</div>
+   <div class="term"><b>Android</b>${steps(t('android'))}</div>
+   <div class="term"><b>${t('desktopT')}</b>${steps(t('desktop'))}</div>
   </div></div>`;
-  $('#copy').onclick = () => { const t = $('#link').textContent; navigator.clipboard?.writeText(t).then(() => toast('Link copied'), () => { getSelection().selectAllChildren($('#link')); toast('Press Ctrl+C or ⌘C to copy'); }) ?? (getSelection().selectAllChildren($('#link'))); };
+  $('#copy').onclick = () => { const x = $('#link').textContent; const fallback = () => { getSelection().selectAllChildren($('#link')); toast(t('pressCopy')); };
+    try { navigator.clipboard.writeText(x).then(() => toast(t('copied')), fallback); } catch { fallback(); } };
 }
 
 /* ---------- router ---------- */
-let first = true;
+let firstRender = true;
 function render() {
   keyHandler = null;
   try { window.speechSynthesis?.cancel(); } catch {}
@@ -920,7 +1073,7 @@ function render() {
     else viewHome();
     wireDrawer();
   };
-  if (first) { first = false; go(); return; }
+  if (firstRender) { firstRender = false; go(); return; }
   main.innerHTML = skeleton(h.startsWith('c-') ? 'chapter' : 'grid');
   window.scrollTo({ top: 0, behavior: 'instant' in window ? 'instant' : 'auto' });
   setTimeout(go, 380);
@@ -937,13 +1090,15 @@ window.addEventListener('hashchange', () => { $('.scrim')?.remove(); render(); }
 /* reading progress bar */
 addEventListener('scroll', () => { const el = document.documentElement; const p = el.scrollTop / Math.max(1, el.scrollHeight - el.clientHeight); $('#readProgress').style.width = (location.hash.startsWith('#c-') ? p * 100 : 0) + '%'; }, { passive: true });
 
-/* search */
-const idx = D.chapters.map(c => ({ c, text: [c.title, c.subtitle, c.translit, c.hebrew, c.gloss, c.trueMeaning, c.nutshell, ...(c.keyPoints || []), ...c.sections.flatMap(s => [s.h, ...s.p])].map(plain).join(' ') }));
+/* search (current language) */
+let idx = [];
+function buildIndex() { idx = D.chapters.map(c => ({ c, text: [c.title, c.subtitle, c.translit, c.hebrew, c.gloss, c.trueMeaning, c.nutshell, ...(c.keyPoints || []), ...c.sections.flatMap(s => [s.h, ...s.p])].map(plain).join(' ') })); }
 const q = $('#q'), res = $('#results');
 q.addEventListener('input', () => {
   const v = q.value.trim().toLowerCase(); if (v.length < 2) { res.hidden = true; return; }
   const hits = idx.filter(x => x.text.toLowerCase().includes(v)).slice(0, 12);
-  res.innerHTML = hits.length ? hits.map(({ c, text }) => { const at = text.toLowerCase().indexOf(v); const snip = text.slice(Math.max(0, at - 50), at + 90); return `<a href="#c-${c.id}"><b>${esc(c.hebrew ? c.translit + ' · ' + c.title : c.title)}</b><span>…${esc(snip).replace(new RegExp(v.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'ig'), m => `<mark>${m}</mark>`)}…</span></a>`; }).join('') : '<div style="padding:12px;color:var(--muted)">No topics match. Try another word.</div>';
+  const re = new RegExp(v.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'ig');
+  res.innerHTML = hits.length ? hits.map(({ c, text }) => { const at = text.toLowerCase().indexOf(v); const snip = text.slice(Math.max(0, at - 50), at + 90); return `<a href="#c-${c.id}"><b>${esc(c.hebrew ? c.translit + ' · ' + c.title : c.title)}</b><span>…${esc(snip).replace(re, m => `<mark>${m}</mark>`)}…</span></a>`; }).join('') : `<div style="padding:12px;color:var(--muted)">${t('noHits')}</div>`;
   res.hidden = false;
 });
 res.addEventListener('click', e => { if (e.target.closest('a')) { res.hidden = true; q.value = ''; } });
@@ -952,6 +1107,7 @@ document.addEventListener('click', e => { if (!e.target.closest('.search')) res.
 /* offline install when served over https (GitHub Pages); harmless elsewhere */
 try { if ('serviceWorker' in navigator && location.protocol === 'https:' && document.querySelector('link[rel=manifest]')) navigator.serviceWorker.register('sw.js').catch(() => {}); } catch {}
 
+useLang(lang);
 render();
 })();
 </script>

@@ -15,31 +15,56 @@ def part_rank(p):
             return i
     return 99
 
-books = json.load(open(os.path.join(ROOT, "content/books.json")))["books"]
-chapters, glossary = [], []
-for f in sorted(glob.glob(os.path.join(ROOT, "content/*.json"))):
-    if f.endswith("books.json"):
-        continue
-    d = json.load(open(f))
-    chapters += d.get("chapters", [])
-    glossary += d.get("glossary", [])
+def load(folder):
+    books = json.load(open(os.path.join(folder, "books.json")))["books"]
+    chapters, glossary = [], []
+    for f in sorted(glob.glob(os.path.join(folder, "*.json"))):
+        if f.endswith("books.json"):
+            continue
+        d = json.load(open(f))
+        chapters += d.get("chapters", [])
+        glossary += d.get("glossary", [])
+    return books, chapters, glossary
 
+def tidy(chapters):
+    for c in chapters:
+        c.setdefault("sections", [])
+        for d in c.get("diagrams", []):
+            if d.get("type") == "compare":
+                n = min(len(d["left"]["items"]), len(d["right"]["items"]))
+                d["left"]["items"], d["right"]["items"] = d["left"]["items"][:n], d["right"]["items"][:n]
+
+books, chapters, glossary = load(os.path.join(ROOT, "content"))
 chapters.sort(key=lambda c: (0 if c["book"] == "words" else 1, part_rank(c.get("part")), c.get("order", 0)))
 ids = [c["id"] for c in chapters]
 assert len(ids) == len(set(ids)), "duplicate chapter ids"
-for c in chapters:
-    c.setdefault("sections", [])
-    for d in c.get("diagrams", []):
-        if d.get("type") == "compare":
-            n = min(len(d["left"]["items"]), len(d["right"]["items"]))
-            d["left"]["items"], d["right"]["items"] = d["left"]["items"][:n], d["right"]["items"][:n]
+tidy(chapters)
+data = {"en": {"books": books, "chapters": chapters, "glossary": glossary}}
 
-data = {"books": books, "chapters": chapters, "glossary": glossary}
+# Tamil: same chapters in the same order; any chapter not yet translated falls back to English
+ta_dir = os.path.join(ROOT, "content/ta")
+if os.path.exists(os.path.join(ta_dir, "books.json")):
+    tb, tc, tg = load(ta_dir)
+    by_id = {c["id"]: c for c in tc}
+    ta_chapters, missing = [], []
+    for c in chapters:
+        t = by_id.get(c["id"])
+        if t is None:
+            missing.append(c["id"])
+            t = c
+        else:
+            t = dict(t)
+        t["partKey"] = c.get("part")  # English part name groups chapters in both languages
+        ta_chapters.append(t)
+    tidy(ta_chapters)
+    data["ta"] = {"books": tb, "chapters": ta_chapters, "glossary": tg or glossary}
+    print(f"Tamil: {len(chapters) - len(missing)}/{len(chapters)} chapters translated" + (f"; English fallback for {', '.join(missing)}" if missing else ""))
+
 js = "window.APP_DATA = " + json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/") + ";"
 app = open(os.path.join(ROOT, "src/app.html"), encoding="utf-8").read().replace("/*__DATA__*/", js)
 
 # guard: the authors are never named in the app
-for banned in ["Eitan", "Bar,"]:
+for banned in ["Eitan", "Bar,", "ஈட்டான்", "ஈத்தான்", "எய்டன்", "ஈதான்"]:
     assert banned not in js, f"banned name found: {banned}"
 
 os.makedirs(os.path.join(ROOT, "dist"), exist_ok=True)
