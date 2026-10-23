@@ -26,7 +26,9 @@ def walk(en, ta, path):
             walk(a, b, f"{path}[{i}]")
     elif isinstance(en, str):
         key = path.rsplit(".", 1)[-1].split("[")[0]
-        if key in KEEP:
+        # chapter-level "root" is Hebrew letters; a tree diagram's "root" is a text label
+        keep = key in KEEP and not (key == "root" and ".diagrams[" in path)
+        if keep:
             if en != ta:
                 errors.append(f"{path}: must stay unchanged ({en!r} -> {ta!r})")
         elif re.search(r"[A-Za-z]{3}", en) and not TAMIL.search(ta):
