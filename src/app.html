@@ -434,6 +434,8 @@ main { padding-block: 28px 80px; }
 
 /* glossary */
 .gloss-filter { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 18px; }
+.gloss-filter .chip { border: 1px solid var(--line); cursor: pointer; }
+.gloss-filter .chip:hover { border-color: var(--accent); color: var(--accent); }
 .gloss { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
 .term { padding: 16px; border-radius: 16px; background: var(--surface); border: 1px solid var(--line); display: grid; gap: 6px; align-content: start; min-width: 0; }
 .term b { font-size: 16px; }

@@ -9,6 +9,9 @@ Every topic has a plain-English explanation, an animated "skeleton" of the argum
 key passages, take-aways, reflection questions and a quiz. There are also flashcards, a big-picture map, a glossary,
 search, read-aloud, progress tracking and seven colour schemes with light/dark mode.
 
+The whole app is available in **English and Tamil (தமிழ்)**. Switch with the EN | தமிழ் control in the top-right corner;
+the choice and your reading progress are remembered.
+
 ## Use it
 
 - **Download:** [`index.html`](index.html) is the whole app in one file. Download it and open it in any browser,
@@ -18,7 +21,9 @@ search, read-aloud, progress tracking and seven colour schemes with light/dark m
 
 ## Edit
 
-Content lives in `content/*.json`; the app shell is `src/app.html`. Rebuild with:
+Content lives in `content/*.json` (English) and `content/ta/*.json` (Tamil, same structure); the app shell and
+interface text for both languages are in `src/app.html`. Check a Tamil file with
+`python3 tools/check_ta.py content/<file>.json content/ta/<file>.json`. Rebuild with:
 
 ```sh
 python3 build.py
