@@ -122,7 +122,7 @@ p { margin: 0; }
 .menu-btn { display: none; }
 
 /* theme panel */
-.panel { position: fixed; top: calc(68px + env(safe-area-inset-top, 0px)); right: max(12px, env(safe-area-inset-right, 0px)); width: min(340px, calc(100vw - 24px)); background: var(--surface); border: 1px solid var(--line); border-radius: 18px; box-shadow: var(--shadow); padding: 18px; z-index: 80; display: grid; gap: 16px; animation: pop .28s var(--ease); }
+.panel { position: fixed; top: calc(var(--top-h, 60px) + 8px + env(safe-area-inset-top, 0px)); right: max(12px, env(safe-area-inset-right, 0px)); width: min(340px, calc(100vw - 24px)); background: var(--surface); border: 1px solid var(--line); border-radius: 18px; box-shadow: var(--shadow); padding: 18px; z-index: 80; display: grid; gap: 16px; animation: pop .28s var(--ease); }
 .panel h3 { font-size: 15px; }
 .swatches { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
 .sw { border: 2px solid transparent; background: none; padding: 0; border-radius: 12px; display: grid; gap: 4px; justify-items: center; font-size: 11px; font-weight: 600; color: var(--muted); }
@@ -227,7 +227,7 @@ main { padding-block: 28px 80px; }
 
 /* ---------- reader ---------- */
 .reader { display: grid; grid-template-columns: 270px minmax(0, 1fr); gap: 40px; align-items: start; }
-.toc { position: sticky; top: calc(80px + env(safe-area-inset-top, 0px)); max-height: calc(100vh - 100px); overflow: auto; padding-right: 6px; font-size: 14px; overscroll-behavior: contain; }
+.toc { position: sticky; top: calc(var(--top-h, 60px) + 20px + env(safe-area-inset-top, 0px)); max-height: calc(100vh - var(--top-h, 60px) - 40px); overflow: auto; padding-right: 6px; font-size: 14px; overscroll-behavior: contain; }
 .toc h4 { font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin: 18px 0 6px 10px; }
 .toc a { display: flex; gap: 10px; padding: 7px 10px; border-radius: 9px; text-decoration: none; color: var(--fg); line-height: 1.3; }
 .toc a:hover { background: var(--sunk); }
@@ -452,6 +452,14 @@ main { padding-block: 28px 80px; }
 .map-nodes a { padding: 9px 13px; border-radius: 12px; background: var(--surface); border: 1px solid var(--line); text-decoration: none; color: var(--fg); font-size: 14px; font-weight: 600; transition: transform .2s var(--ease), border-color .2s; max-width: 100%; }
 .map-nodes a:hover { transform: translateY(-2px); border-color: var(--accent); }
 .map-nodes .to { color: var(--gold); font-weight: 900; }
+.drawer { position: fixed; top: 0; left: 0; bottom: 0; width: min(330px, 86vw); background: var(--surface); z-index: 95; padding: calc(14px + env(safe-area-inset-top, 0px)) 12px calc(24px + env(safe-area-inset-bottom, 0px)) max(12px, env(safe-area-inset-left, 0px)); box-shadow: var(--shadow); overflow-y: auto; overscroll-behavior: contain; font-size: 15px; transform: translateX(-105%); transition: transform .32s var(--ease); }
+.drawer.open { transform: none; }
+.drawer .toc { position: static; max-height: none; overflow: visible; padding: 0; }
+.drawer-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin: calc(-14px - env(safe-area-inset-top, 0px)) -12px 10px; padding: calc(12px + env(safe-area-inset-top, 0px)) 12px 10px; position: sticky; top: calc(-14px - env(safe-area-inset-top, 0px)); background: var(--surface); border-bottom: 1px solid var(--line); z-index: 1; }
+.drawer-head b { font-size: 16px; }
+.scrim { position: fixed; inset: 0; background: oklch(0% 0 0 / .4); z-index: 94; opacity: 0; transition: opacity .3s; }
+.scrim.open { opacity: 1; }
+body.drawer-lock { overflow: hidden; }
 .map-arrow { justify-self: center; color: var(--gold); }
 .map-arrow svg { animation: float 2s ease-in-out infinite; }
 .constellation { position: relative; width: 100%; max-width: 760px; margin: 0 auto; aspect-ratio: 1.5; }
@@ -474,9 +482,7 @@ footer { border-top: 1px solid var(--line); padding-block: 26px; color: var(--mu
 /* mobile */
 @media (max-width: 960px) {
   .reader { grid-template-columns: minmax(0, 1fr); }
-  .toc { position: fixed; top: 0; left: 0; bottom: 0; width: min(320px, 86vw); max-height: none; background: var(--surface); z-index: 85; padding: calc(16px + env(safe-area-inset-top, 0px)) 14px 24px max(14px, env(safe-area-inset-left, 0px)); transform: translateX(-105%); transition: transform .35s var(--ease); box-shadow: var(--shadow); }
-  .toc.open { transform: none; }
-  .scrim { position: fixed; inset: 0; background: oklch(0% 0 0 / .35); z-index: 84; animation: viewIn .3s both; }
+  .reader > .toc { display: none; }
   .menu-btn { display: grid; }
   .top-nav { display: none; }
   .hero { grid-template-columns: minmax(0, 1fr); gap: 10px; }
@@ -614,7 +620,7 @@ const I18N = {
     searchLabel: 'Search every topic', searchPh: 'Search topics…', noHits: 'No topics match. Try another word.',
     scheme: 'Colour scheme', mode: 'Mode', auto: 'Auto', light: 'Light', dark: 'Dark', textSize: 'Text size', animations: 'Animations', on: 'On', calm: 'Calm',
     schemes: { tekhelet: 'Tekhelet', olive: 'Olive', pomegranate: 'Pomegranate', galilee: 'Galilee', sand: 'Desert', purple: 'Royal', cedar: 'Cedar' },
-    schemeAria: n => `${n} colour scheme`, menuAria: 'Open chapter list', themeAria: 'Colours and display settings',
+    schemeAria: n => `${n} colour scheme`, menuAria: 'Open chapter list', close: 'Close', themeAria: 'Colours and display settings',
     footer: 'The Hebrew Lens · A study companion. Scripture references point to the passages discussed; read them in your own Bible for full context.',
     heroEyebrow: n => `Two journeys · ${n} topics · diagrams, skeletons, quizzes`,
     heroH1: 'Hear the Scriptures the way their <em>first listeners</em> heard them.',
@@ -662,7 +668,7 @@ const I18N = {
     searchLabel: 'எல்லாத் தலைப்புகளிலும் தேடுங்கள்', searchPh: 'தலைப்புகளைத் தேடுங்கள்…', noHits: 'பொருந்தும் தலைப்புகள் இல்லை. வேறு சொல்லை முயற்சியுங்கள்.',
     scheme: 'வண்ணத் திட்டம்', mode: 'தோற்றம்', auto: 'தானியங்கி', light: 'வெளிச்சம்', dark: 'இருள்', textSize: 'எழுத்து அளவு', animations: 'அசைவூட்டம்', on: 'இயக்கு', calm: 'அமைதி',
     schemes: { tekhelet: 'நீலம்', olive: 'ஒலிவம்', pomegranate: 'மாதுளை', galilee: 'கலிலேயா', sand: 'பாலைவனம்', purple: 'அரச ஊதா', cedar: 'கேதுரு' },
-    schemeAria: n => `${n} வண்ணத் திட்டம்`, menuAria: 'அதிகாரப் பட்டியலைத் திற', themeAria: 'வண்ணங்களும் காட்சி அமைப்புகளும்',
+    schemeAria: n => `${n} வண்ணத் திட்டம்`, menuAria: 'அதிகாரப் பட்டியலைத் திற', close: 'மூடு', themeAria: 'வண்ணங்களும் காட்சி அமைப்புகளும்',
     footer: 'எபிரெயக் கண்ணோட்டம் · ஒரு படிப்புத் துணை. வேத வசனக் குறிப்புகள் விவாதிக்கப்படும் பகுதிகளைக் காட்டுகின்றன; முழுச் சூழலுக்கு உங்கள் வேதாகமத்தில் அவற்றை வாசியுங்கள்.',
     heroEyebrow: n => `இரண்டு பயணங்கள் · ${n} தலைப்புகள் · வரைபடங்கள், எலும்புக்கூடுகள், வினாடி வினாக்கள்`,
     heroH1: 'வேதவசனங்களை அவற்றின் <em>முதல் கேட்போர்</em> கேட்டதுபோலவே கேளுங்கள்.',
@@ -953,7 +959,7 @@ function viewChapter(id) {
       ss.speak(u); listen.textContent = t('stop');
     } catch { toast(t('noSpeech')); }
   });
-  const cur = $('#toc a[aria-current]'); if (cur) cur.scrollIntoView({ block: 'center' });
+  const toc = $('#toc'), cur = $('#toc a[aria-current]'); if (toc && cur) toc.scrollTop = cur.offsetTop - toc.clientHeight / 2;
 }
 
 function quizHTML(qs) {
@@ -1080,14 +1086,42 @@ function render() {
   window.scrollTo({ top: 0, behavior: 'instant' in window ? 'instant' : 'auto' });
   setTimeout(go, 380);
 }
-function wireDrawer() {
-  const toc = $('#toc'); const btn = $('#menuBtn');
-  btn.style.visibility = toc ? 'visible' : 'hidden';
-  btn.onclick = () => { if (!toc) return; toc.classList.add('open'); const s = document.createElement('div'); s.className = 'scrim'; s.onclick = close; document.body.append(s); };
-  function close() { toc?.classList.remove('open'); $('.scrim')?.remove(); }
-  toc?.addEventListener('click', e => { if (e.target.closest('a')) close(); });
+/* phone chapter drawer: lives on <body>, outside the animated view, so it is fixed to the screen */
+function closeDrawer() {
+  const d = $('.drawer'), s = $('.scrim'); if (!d) return;
+  d.classList.remove('open'); s?.classList.remove('open'); document.body.classList.remove('drawer-lock');
+  setTimeout(() => { d.remove(); s?.remove(); }, 320);
+  $('#menuBtn').setAttribute('aria-expanded', 'false');
 }
-window.addEventListener('hashchange', () => { $('.scrim')?.remove(); render(); });
+function openDrawer() {
+  const toc = $('#toc'); if (!toc || $('.drawer')) return;
+  const s = document.createElement('div'); s.className = 'scrim'; s.onclick = closeDrawer;
+  const d = document.createElement('aside'); d.className = 'drawer'; d.setAttribute('role', 'dialog'); d.setAttribute('aria-modal', 'true'); d.setAttribute('aria-label', t('chaptersAria'));
+  d.innerHTML = `<div class="drawer-head"><b>${t('chaptersAria')}</b><button class="icon-btn" data-close aria-label="${t('close')}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div><nav class="toc">${toc.innerHTML}</nav>`;
+  d.addEventListener('click', e => {
+    if (e.target.closest('[data-close]') || e.target.closest('a')) return closeDrawer();
+    const bt = e.target.closest('.toc-book button');
+    if (bt) { const id = chaptersOf(bt.dataset.book)[0].id; closeDrawer(); location.hash = 'c-' + id; }
+  });
+  document.body.append(s, d); document.body.classList.add('drawer-lock');
+  requestAnimationFrame(() => { s.classList.add('open'); d.classList.add('open'); });
+  const cur = $('a[aria-current]', d); if (cur) d.scrollTop = cur.offsetTop - d.clientHeight / 2;
+  $('[data-close]', d).focus({ preventScroll: true });
+  $('#menuBtn').setAttribute('aria-expanded', 'true');
+}
+function wireDrawer() {
+  const btn = $('#menuBtn');
+  btn.style.visibility = $('#toc') ? 'visible' : 'hidden';
+  btn.onclick = openDrawer;
+}
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeDrawer(); });
+addEventListener('resize', () => { if (innerWidth > 960) closeDrawer(); });
+window.addEventListener('hashchange', () => { closeDrawer(); render(); });
+
+/* keep the sidebar and settings panel just below the header, whatever its height */
+const topBar = $('.top');
+const setTopH = () => root.style.setProperty('--top-h', topBar.offsetHeight + 'px');
+setTopH(); if ('ResizeObserver' in window) new ResizeObserver(setTopH).observe(topBar);
 
 /* reading progress bar */
 addEventListener('scroll', () => { const el = document.documentElement; const p = el.scrollTop / Math.max(1, el.scrollHeight - el.clientHeight); $('#readProgress').style.width = (location.hash.startsWith('#c-') ? p * 100 : 0) + '%'; }, { passive: true });
