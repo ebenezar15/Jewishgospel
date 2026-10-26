@@ -668,7 +668,7 @@ const I18N = {
     tags: { flow: 'Flowchart', compare: 'Two lenses', timeline: 'Timeline', cycle: 'Cycle', tree: 'Mind map', layers: 'Layers', wordroot: 'Word anatomy', lexicon: 'Word list', spectrum: 'Spectrum', skeleton: 'Skeleton', constellation: 'Constellation' },
     step: 'STEP', rootL: 'ROOT', bone: 'BONE', bonesTitle: 'The bones of this chapter', bigIdea: 'So the big idea is',
     replay: '↻ Replay', replayAria: 'Replay animation', focusLens: 'Focus Hebrew lens', bothLens: 'Show both lenses',
-    studyOf: n => `Journey 3 · Word study ${n} of 9`, studiesBtn: 'Open the word studies', lexTag: 'Word list', relatedH: 'Read more in this app', langHe: 'Hebrew', langGr: 'Greek', langAr: 'Aramaic', all: 'All',
+    studyOf: (n, t) => `Journey 3 · Word study ${n} of ${t}`, studiesBtn: 'Open the word studies', lexTag: 'Word list', relatedH: 'Read more in this app', langHe: 'Hebrew', langGr: 'Greek', langAr: 'Aramaic', all: 'All',
     wordOf: n => `Journey 1 · Word ${n} of 15`, beforeWords: 'Journey 1 · Before the words', chapterN: n => `Chapter ${n}`,
     say: 'say:', root: 'root', usually: 'Usually translated', fuller: 'Fuller Hebrew meaning', fullerStudy: 'Fuller meaning',
     listen: '▶ Listen', stop: '■ Stop', skeletonBtn: 'Skeleton', quizBtn: n => `Quiz (${n})`, nutshell: 'In a nutshell',
@@ -681,7 +681,7 @@ const I18N = {
     shuffle: 'Shuffle', flip: 'Flip', wordOfCard: n => `WORD ${n} OF 15`, usuallyC: 'Usually:', reallyMeans: x => `${x} really means`,
     readFull: 'Read the full topic →', shuffled: 'Shuffled', card: n => `Card ${n}`,
     mapEyebrow: 'Big-picture map', mapH: 'How it all fits together',
-    mapP: 'Journey 1 is a constellation of 15 words that each restore a lost meaning. Journey 2 is one long argument, read top to bottom like a flowchart. Journey 3 traces the Hebrew and Greek words behind nine big Bible ideas. Tap any node to open it.',
+    mapP: 'Journey 1 is a constellation of 15 words that each restore a lost meaning. Journey 2 is one long argument, read top to bottom like a flowchart. Journey 3 traces the Hebrew and Greek words behind the Bible's key ideas. Tap any node to open it.',
     the15: 'The 15 words', argument: t => `${t}: the argument, start to finish`, part: 'PART',
     glEyebrow: 'Glossary', glH: n => `${n} key terms, in plain words`, filterLabel: 'Filter terms', filterPh: 'Filter terms…', noTerms: 'No terms match that filter.', from: 'From:',
     qEyebrow: 'Mixed quiz', qH: 'Ten questions from across both journeys', qPool: n => `${n} questions in the pool. Each round draws a new set.`, newRound: 'New round',
@@ -717,7 +717,7 @@ const I18N = {
     tags: { flow: 'பாய்வுப்படம்', compare: 'இரு கண்ணோட்டங்கள்', timeline: 'காலவரிசை', cycle: 'சுழற்சி', tree: 'மன வரைபடம்', layers: 'அடுக்குகள்', wordroot: 'சொல்லின் அமைப்பு', lexicon: 'சொற்பட்டியல்', spectrum: 'அளவுகோல்', skeleton: 'எலும்புக்கூடு', constellation: 'நட்சத்திரக் கூட்டம்' },
     step: 'படி', rootL: 'வேர்', bone: 'எலும்பு', bonesTitle: 'இந்த அதிகாரத்தின் எலும்புகள்', bigIdea: 'ஆகவே முக்கியக் கருத்து',
     replay: '↻ மீண்டும்', replayAria: 'அசைவூட்டத்தை மீண்டும் காட்டு', focusLens: 'எபிரெயக் கண்ணோட்டம் மட்டும்', bothLens: 'இரண்டையும் காட்டு',
-    studyOf: n => `பயணம் 3 · சொல் ஆய்வு ${n} / 9`, studiesBtn: 'சொல் ஆய்வுகளைத் திறங்கள்', lexTag: 'சொற்பட்டியல்', relatedH: 'இந்தச் செயலியில் மேலும் வாசியுங்கள்', langHe: 'எபிரெயம்', langGr: 'கிரேக்கம்', langAr: 'அரமேயம்', all: 'எல்லாம்',
+    studyOf: (n, t) => `பயணம் 3 · சொல் ஆய்வு ${n} / ${t}`, studiesBtn: 'சொல் ஆய்வுகளைத் திறங்கள்', lexTag: 'சொற்பட்டியல்', relatedH: 'இந்தச் செயலியில் மேலும் வாசியுங்கள்', langHe: 'எபிரெயம்', langGr: 'கிரேக்கம்', langAr: 'அரமேயம்', all: 'எல்லாம்',
     wordOf: n => `பயணம் 1 · சொல் ${n} / 15`, beforeWords: 'பயணம் 1 · சொற்களுக்கு முன்', chapterN: n => `அதிகாரம் ${n}`,
     say: 'உச்சரிப்பு:', root: 'வேர்', usually: 'வழக்கமான மொழிபெயர்ப்பு', fuller: 'முழுமையான எபிரெய அர்த்தம்', fullerStudy: 'முழுமையான அர்த்தம்',
     listen: '▶ கேளுங்கள்', stop: '■ நிறுத்து', skeletonBtn: 'எலும்புக்கூடு', quizBtn: n => `வினாடி வினா (${n})`, nutshell: 'சுருக்கமாக',
@@ -730,7 +730,7 @@ const I18N = {
     shuffle: 'கலக்கு', flip: 'புரட்டு', wordOfCard: n => `சொல் ${n} / 15`, usuallyC: 'வழக்கமாக:', reallyMeans: x => `${x} உண்மையில் குறிப்பது`,
     readFull: 'முழுத் தலைப்பையும் வாசியுங்கள் →', shuffled: 'கலக்கப்பட்டது', card: n => `அட்டை ${n}`,
     mapEyebrow: 'முழுச் சித்திர வரைபடம்', mapH: 'எல்லாம் எப்படி ஒன்றாக இணைகிறது',
-    mapP: 'பயணம் 1 என்பது, இழந்த அர்த்தத்தை மீட்டெடுக்கும் 15 சொற்களின் நட்சத்திரக் கூட்டம். பயணம் 2 என்பது, பாய்வுப்படம் போல மேலிருந்து கீழாக வாசிக்கும் ஒரே நீண்ட வாதம். பயணம் 3, ஒன்பது முக்கிய வேதாகமக் கருத்துகளின் பின்னணியிலுள்ள எபிரெய, கிரேக்கச் சொற்களை ஆராய்கிறது. திறக்க எந்தப் புள்ளியையும் தொடுங்கள்.',
+    mapP: 'பயணம் 1 என்பது, இழந்த அர்த்தத்தை மீட்டெடுக்கும் 15 சொற்களின் நட்சத்திரக் கூட்டம். பயணம் 2 என்பது, பாய்வுப்படம் போல மேலிருந்து கீழாக வாசிக்கும் ஒரே நீண்ட வாதம். பயணம் 3, முக்கிய வேதாகமக் கருத்துகளின் பின்னணியிலுள்ள எபிரெய, கிரேக்கச் சொற்களை ஆராய்கிறது. திறக்க எந்தப் புள்ளியையும் தொடுங்கள்.',
     the15: '15 சொற்கள்', argument: t => `${t}: வாதம், தொடக்கம் முதல் முடிவு வரை`, part: 'பகுதி',
     glEyebrow: 'சொற்களஞ்சியம்', glH: n => `${n} முக்கியச் சொற்கள், எளிய விளக்கத்துடன்`, filterLabel: 'சொற்களை வடிகட்டுங்கள்', filterPh: 'சொற்களை வடிகட்டுங்கள்…', noTerms: 'அந்த வடிகட்டலுக்குப் பொருந்தும் சொற்கள் இல்லை.', from: 'மூலம்:',
     qEyebrow: 'கலவை வினாடி வினா', qH: 'இரு பயணங்களிலிருந்தும் பத்து கேள்விகள்', qPool: n => `மொத்தம் ${n} கேள்விகள். ஒவ்வொரு சுற்றிலும் புதிய தொகுப்பு.`, newRound: 'புதிய சுற்று',
@@ -959,7 +959,7 @@ function viewChapter(id) {
   const list = chaptersOf(c.book), i = list.indexOf(c), prev = list[i - 1], next = list[i + 1];
   const b = bookOf(c.book);
   const placed = {}; (c.diagrams || []).forEach(d => { const at = d.after ?? (c.sections.length - 1); (placed[at] = placed[at] || []).push(d); });
-  const eyebrow = c.book === 'studies' ? t('studyOf', c.num) : c.book === 'words' ? (c.hebrew ? t('wordOf', c.num) : t('beforeWords')) : `${t('journey', 2)} · ${esc(c.part)}${c.num ? ` · ${t('chapterN', c.num)}` : ''}`;
+  const eyebrow = c.book === 'studies' ? t('studyOf', c.num, list.length) : c.book === 'words' ? (c.hebrew ? t('wordOf', c.num) : t('beforeWords')) : `${t('journey', 2)} · ${esc(c.part)}${c.num ? ` · ${t('chapterN', c.num)}` : ''}`;
   main.innerHTML = `<div class="view reader">
   <nav class="toc" id="toc" aria-label="${t('chaptersAria')}">${tocHTML(c.book, c.id)}</nav>
   <article class="article">
