@@ -5,7 +5,7 @@ usage: python3 tools/check_ta.py content/words-a.json content/ta/words-a.json
 """
 import json, re, sys
 
-KEEP = {"id", "book", "order", "num", "hebrew", "root", "translit", "type", "after", "pos", "a", "ch"}
+KEEP = {"id", "book", "order", "num", "hebrew", "greek", "root", "translit", "type", "after", "pos", "a", "ch", "lang", "word", "related"}
 TAMIL = re.compile(r"[஀-௿]")
 errors = []
 
