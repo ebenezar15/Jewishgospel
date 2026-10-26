@@ -29,6 +29,10 @@ def load(folder):
 def tidy(chapters):
     for c in chapters:
         c.setdefault("sections", [])
+        if c.get("book") == "studies":
+            for d in c.get("diagrams", []):
+                if d.get("type") == "lexicon":
+                    d.setdefault("after", 0)  # the word list follows the opening section
         for d in c.get("diagrams", []):
             if d.get("type") == "compare":
                 n = min(len(d["left"]["items"]), len(d["right"]["items"]))
@@ -67,6 +71,17 @@ app = open(os.path.join(ROOT, "src/app.html"), encoding="utf-8").read().replace(
 # guard: the authors are never named in the app
 for banned in ["Eitan", "Bar,", "ஈட்டான்", "ஈத்தான்", "எய்டன்", "ஈதான்"]:
     assert banned not in js, f"banned name found: {banned}"
+
+# guard: the app's own script must parse (catches a stray quote in interface text)
+import re, shutil, subprocess, tempfile
+if shutil.which("node"):
+    src = open(os.path.join(ROOT, "src/app.html"), encoding="utf-8").read()
+    code = re.findall(r"<script>(.*?)</script>", src, re.S)[-1]
+    with tempfile.NamedTemporaryFile("w", suffix=".js", delete=False, encoding="utf-8") as f:
+        f.write(code)
+    r = subprocess.run(["node", "--check", f.name], capture_output=True, text=True)
+    os.unlink(f.name)
+    assert r.returncode == 0, "app script does not parse:\n" + r.stderr
 
 os.makedirs(os.path.join(ROOT, "dist"), exist_ok=True)
 open(os.path.join(ROOT, "dist/artifact.html"), "w", encoding="utf-8").write(app)
