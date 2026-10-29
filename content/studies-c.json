@@ -86,6 +86,22 @@
      ]
     },
     {
+     "h": "What translators miss — and why",
+     "p": [
+      "Jacob's words in Genesis 32:20 show the problem. The Hebrew says \"I will cover his face\". The KJV gives \"I will appease him\" and the NIV \"I will pacify him\". Translators chose this because \"cover his face\" means nothing in English, and the sense really is calming Esau's anger. But the reader loses the link with *kipper*, the word behind \"atonement\", and the theme of the face that runs through the whole story. The Septuagint kept both: it uses *exilaskomai*, a Greek word it also uses for atonement, with \"his face\".",
+      "Older English shows how words shift. In Romans 5:11 the KJV says we \"have now received the atonement\", where the Greek is *katallagē*, reconciliation. In 1611 \"atonement\" still meant \"at-one-ment\", being made one again. The same Bible uses \"reconciliation\" for the Hebrew *kipper*, as in Daniel 9:24, \"to make reconciliation for iniquity\". Over time the two English words have drifted apart, and today \"atonement\" sounds mainly like paying a penalty. Modern versions say \"reconciliation\" in Romans 5:11 to keep the original sense.",
+      "A third loss is that one English word covers several originals. \"Be reconciled\" translates *diallassomai* in Matthew 5:24, *katallassō* in 2 Corinthians 5:20 and *apokatallassō* in Colossians 1:20, and it also stands for several Hebrew pictures. Translators keep one word because the ideas are close and readers need clarity. But the variety reminds us that reconciliation reaches all the way from a quarrel between brothers to the healing of the whole creation."
+     ]
+    },
+    {
+     "h": "The culture behind the words",
+     "p": [
+      "In Jacob's world a quarrel was never only between two people. It touched honour, family and property. The normal way to approach someone you had wronged, or someone more powerful, was with a gift and with bowing. Jacob's present is called a *minchah* (Genesis 32:13), the same word later used for the grain offering, and he bows to the ground seven times (Genesis 33:3), like a subject before a king. Then Esau surprises everyone: the injured brother runs, embraces and welcomes first.",
+      "Villages and clans in the Middle East have long had public ways of making peace: elders who mediate, a gift, a shared meal, and an embrace in front of others so that everyone knows the feud is over. The Bible's stories have the same public and physical shape. Joseph weeps so loudly that the Egyptians hear it (Genesis 45:2), and a family that was broken eats together again.",
+      "In the Greco-Roman world *katallassō* belonged to family life and to politics. It was used of a husband and wife coming back together, and of cities ending a war through envoys. Paul borrows that political picture: \"we are ambassadors for Christ, God making his appeal through us\" (2 Corinthians 5:20). Usually it was the weaker or defeated side that sent envoys asking for terms. Here the stronger side, God himself, sends the envoys and pleads, \"be reconciled\"."
+     ]
+    },
+    {
      "h": "Living it out",
      "p": [
       "Paul says God \"gave us the ministry of reconciliation\" and that we are \"ambassadors for Christ… be reconciled to God\" (2 Corinthians 5:18–20). People who have been welcomed home are sent to help others come home, and to make peace in their families, churches and towns.",
@@ -105,7 +121,9 @@
        "pron": "kip-PER pa-NEEM",
        "gloss": "to cover / appease a face",
        "refs": "Genesis 32:20 (32:21 Hebrew)",
-       "note": "Jacob hopes his gift will calm Esau's anger so they can face each other again."
+       "note": "Jacob hopes his gift will calm Esau's anger so they can face each other again.",
+       "missed": "English \"appease\" or \"pacify\" drops the picture of covering a face, and hides the link with kipper, the Bible's atonement word.",
+       "culture": "In the ancient Near East you approached an offended or powerful person with a gift and low bows, as Jacob does with his present and his seven bows (Genesis 33:3)."
       },
       {
        "lang": "he",
@@ -114,7 +132,9 @@
        "pron": "ra-TSAH",
        "gloss": "to accept, be pleased with",
        "refs": "Leviticus 1:4; Mishnah Yoma 8:9",
-       "note": "Being welcomed with favour; the Mishnah uses it for appeasing a neighbour you wronged."
+       "note": "Being welcomed with favour; the Mishnah uses it for appeasing a neighbour you wronged.",
+       "missed": "\"Accepted\" sounds like a formal approval; ratsah is warmer: being looked on with pleasure and welcomed.",
+       "culture": "At the Temple the question was whether an offering was \"accepted\"; in daily life it was the smile of a host or a king who receives you."
       },
       {
        "lang": "he",
@@ -123,7 +143,9 @@
        "pron": "SHOOV",
        "gloss": "to turn back, return",
        "refs": "Malachi 3:7",
-       "note": "\"Return to me, and I will return to you\": reconciliation as a two-way turning."
+       "note": "\"Return to me, and I will return to you\": reconciliation as a two-way turning.",
+       "missed": "Versions switch between \"return\", \"turn\" and \"repent\", so readers miss that one verb describes both people and God turning.",
+       "culture": "Exiles coming home, runaway sons and travellers on the road all \"returned\"; it is a word of roads and homecoming."
       },
       {
        "lang": "he",
@@ -132,7 +154,9 @@
        "pron": "a-SAH sha-LOME",
        "gloss": "to make peace",
        "refs": "Isaiah 27:5",
-       "note": "God invites even His enemies to make shalom with Him."
+       "note": "God invites even His enemies to make shalom with Him.",
+       "missed": "\"Make peace\" can sound like signing a ceasefire; shalom also means wholeness, health and well-being for both sides.",
+       "culture": "Shalom was the everyday greeting, so making shalom meant people could greet each other again."
       },
       {
        "lang": "he",
@@ -141,7 +165,9 @@
        "pron": "pee-YOOS",
        "gloss": "appeasing, making amends",
        "refs": "later Hebrew (Yom Kippur custom)",
-       "note": "Going to someone you hurt to ask forgiveness, especially before Yom Kippur."
+       "note": "Going to someone you hurt to ask forgiveness, especially before Yom Kippur.",
+       "missed": "It is not a Bible word, so English Bibles never show it, and \"apology\" is too small for the effort it describes.",
+       "culture": "Jewish custom is to visit the people you have hurt in the days before Yom Kippur and ask forgiveness face to face."
       },
       {
        "lang": "gr",
@@ -150,7 +176,9 @@
        "pron": "ka-tal-LAS-so",
        "gloss": "to reconcile",
        "refs": "Romans 5:10; 2 Corinthians 5:18–20",
-       "note": "To change enmity into friendship; in the NT God is always the one who reconciles."
+       "note": "To change enmity into friendship; in the NT God is always the one who reconciles.",
+       "missed": "\"Reconcile\" can sound like balancing accounts; the Greek is about enemies becoming friends.",
+       "culture": "Greeks used it for an estranged husband and wife coming back together, and for cities ending a war."
       },
       {
        "lang": "gr",
@@ -159,7 +187,9 @@
        "pron": "ka-tal-la-GAY",
        "gloss": "reconciliation",
        "refs": "Romans 5:11; 2 Corinthians 5:18–19",
-       "note": "The gift we receive and the ministry we are given."
+       "note": "The gift we receive and the ministry we are given.",
+       "missed": "The KJV calls it \"the atonement\" in Romans 5:11, a word whose meaning has since narrowed to paying for sin.",
+       "culture": "In public life it described the settling of a feud or a war; Paul makes it a gift that God gives."
       },
       {
        "lang": "gr",
@@ -168,7 +198,9 @@
        "pron": "a-po-ka-tal-LAS-so",
        "gloss": "to reconcile fully",
        "refs": "Ephesians 2:16; Colossians 1:20–22",
-       "note": "A stronger form: Jews and Gentiles in one body, and \"all things\" reconciled."
+       "note": "A stronger form: Jews and Gentiles in one body, and \"all things\" reconciled.",
+       "missed": "English has only \"reconcile\" again, so the extra force of \"completely, back again\" is lost.",
+       "culture": "Paul writes for a world split between Jews and Gentiles, where a wall in the Temple kept Gentiles out of the inner courts."
       },
       {
        "lang": "gr",
@@ -177,7 +209,51 @@
        "pron": "dee-al-LAS-so-my",
        "gloss": "to be reconciled (to a person)",
        "refs": "Matthew 5:24",
-       "note": "Jesus: first be reconciled to your brother, then offer your gift."
+       "note": "Jesus: first be reconciled to your brother, then offer your gift.",
+       "missed": "Bibles use the same \"be reconciled\" as for God's great work, so the everyday flavour of \"settle it with your brother\" is hidden.",
+       "culture": "Jesus speaks to people who carried offerings to the Temple, often after a long journey, yet he tells them to leave the gift and go."
+      }
+     ]
+    },
+    {
+     "type": "renderings",
+     "title": "How translators handled it",
+     "after": 3,
+     "rows": [
+      {
+       "verse": "Genesis 32:20 (32:21 Hebrew)",
+       "original": "אֲכַפְּרָה פָנָיו",
+       "literal": "I will cover his face",
+       "common": "I will appease him with the present (KJV)",
+       "why": "\"Cover his face\" means nothing in English, so translators give the sense, but the link with kipper, the atonement word, disappears."
+      },
+      {
+       "verse": "Isaiah 27:5",
+       "original": "יַעֲשֶׂה שָׁלוֹם לִי",
+       "literal": "let him make shalom with me",
+       "common": "that he may make peace with me (KJV)",
+       "why": "\"Peace\" is the best single word, but shalom also means wholeness and well-being, not only the end of fighting."
+      },
+      {
+       "verse": "Matthew 5:24",
+       "original": "διαλλάγηθι τῷ ἀδελφῷ σου",
+       "literal": "settle things / be changed toward your brother",
+       "common": "first be reconciled to thy brother (KJV)",
+       "why": "The same English word is used as for God's work in Paul, so readers cannot see Jesus' ordinary word for ending a quarrel."
+      },
+      {
+       "verse": "Romans 5:11",
+       "original": "τὴν καταλλαγὴν ἐλάβομεν",
+       "literal": "we received the reconciliation",
+       "common": "we have now received the atonement (KJV)",
+       "why": "In 1611 \"atonement\" meant being made \"at one\"; today it sounds like paying a penalty, so modern versions say \"reconciliation\"."
+      },
+      {
+       "verse": "2 Corinthians 5:19",
+       "original": "θεὸς ἦν ἐν Χριστῷ κόσμον καταλλάσσων ἑαυτῷ",
+       "literal": "God was in Christ, the world reconciling to himself",
+       "common": "God was in Christ, reconciling the world unto himself (KJV)",
+       "why": "The Greek can be read \"God was in Christ\" or \"in Christ God was reconciling\" (ESV); both keep God as the one who acts."
       }
      ]
     },
@@ -327,6 +403,17 @@
      ],
      "a": 3,
      "why": "God was pleased to reconcile to himself all things, making peace by the blood of the cross."
+    },
+    {
+     "q": "In Romans 5:11 the KJV says we have \"received the atonement\". What does the Greek word katallagē actually mean?",
+     "options": [
+      "A payment for a debt",
+      "Reconciliation: enmity changed into friendship",
+      "A Temple sacrifice",
+      "A fine paid in court"
+     ],
+     "a": 1,
+     "why": "In 1611 \"atonement\" meant being made \"at one\"; modern versions translate katallagē as \"reconciliation\"."
     }
    ],
    "terms": [
@@ -443,6 +530,22 @@
      ]
     },
     {
+     "h": "What translators miss — and why",
+     "p": [
+      "Hebrew has one root, *yadah*, for confessing sin and for giving thanks. English has no word that does both, so translators must choose each time: \"O give thanks unto the LORD\" in Psalm 136:1, but \"I will confess my transgressions\" in Psalm 32:5, though the verb is the same. In Joshua 7:19 the KJV rightly says \"make confession unto him\" for a word that usually means a thank offering. These are good choices for clear reading, but the reader never sees that, in the Bible, admitting the truth and praising God are one movement.",
+      "Interestingly, the older chain of translations kept the link. The Septuagint used *exomologeomai* for both, and the Latin Vulgate used *confiteor* for both: \"Confitemini Domino, quoniam bonus\", \"Confess to the Lord, for he is good\". For centuries Latin readers heard confession and praise in the same word. English split them apart. The same happens in the New Testament: *exomologeomai* is \"confessing\" in Matthew 3:6 but \"I thank thee\" or \"I praise you\" in Matthew 11:25, and Hebrews 13:15 turns \"lips confessing his name\" into \"giving thanks\" (KJV).",
+      "Church history also coloured the word. In the medieval Western church, confession became part of the sacrament of penance, said privately to a priest, and later in a booth. That practice gave \"confession\" a private, guilty tone that the Hebrew *viddui* and the Greek *homologeō* do not have. And when the KJV says \"our profession\" in Hebrews 4:14, a modern reader may think of a job; the Greek *homologia* is the confession of faith believers say together."
+     ]
+    },
+    {
+     "h": "The culture behind the words",
+     "p": [
+      "In Israel, confession and thanksgiving both happened at the Temple, in public. A person bringing a sin offering confessed the wrong (Leviticus 5:5). A person rescued from danger brought a *todah*, a thank offering, and told the story before the congregation: \"I will offer to you the sacrifice of thanksgiving… in the presence of all his people\" (Psalm 116:17–18). The todah was then eaten as a meal with family and friends. Thanks was not a private feeling; it was a feast and a testimony.",
+      "This was an honour-and-shame culture, where losing face in public was a serious thing. That makes public confession costly. Achan confesses before all the tribes (Joshua 7:19–21), and Israel confesses together, \"we have sinned\". Yet the Bible turns the shame upside down: telling the truth \"gives glory to God\", and the one who confesses finds mercy (Proverbs 28:13).",
+      "In the Greco-Roman world *homologeō* was a word of contracts and courts. People used it for agreeing to terms, signing that a debt was owed, or admitting a charge before a judge. So \"confessing\" Jesus as Lord (Romans 10:9) sounded like making a public, binding statement of loyalty. In an empire where loyal citizens said \"Caesar is Lord\", that confession could cost a great deal, as early Christian martyr stories show."
+     ]
+    },
+    {
      "h": "Common misunderstandings and living it out",
      "p": [
       "One misunderstanding is that confession is about making ourselves feel as bad as possible so that God will accept us. The Bible's words point the other way: confession is **agreement with the truth**, and God, who already knows, is \"faithful and just to forgive\". Another is that confession is purely private. The Bible shows it spoken aloud, often together, and to the people we have wronged.",
@@ -462,7 +565,9 @@
        "pron": "ya-DAH",
        "gloss": "the root: acknowledge, confess, praise",
        "refs": "Psalm 32:5; Psalm 136:1",
-       "note": "One root behind both confessing sin and giving thanks."
+       "note": "One root behind both confessing sin and giving thanks.",
+       "missed": "English must choose \"confess\" or \"thank\" each time, so readers never see that one root lies behind both.",
+       "culture": "Israelites acknowledged God aloud at the Temple, in song and in testimony before others, never only in private thought."
       },
       {
        "lang": "he",
@@ -471,7 +576,9 @@
        "pron": "hit-vad-DAH",
        "gloss": "to confess",
        "refs": "Leviticus 5:5; 16:21; Nehemiah 9:2",
-       "note": "Confessing sin aloud, by a person, a priest, or the whole people."
+       "note": "Confessing sin aloud, by a person, a priest, or the whole people.",
+       "missed": "\"Confess\" today can sound like a private, guilty whisper; hitvaddah was spoken aloud, often over a sacrifice.",
+       "culture": "A worshipper bringing a sin offering confessed the wrong (Leviticus 5:5); on Yom Kippur the high priest confessed over the goat for the whole people."
       },
       {
        "lang": "he",
@@ -480,7 +587,9 @@
        "pron": "ho-DAH",
        "gloss": "to give thanks, praise; also confess",
        "refs": "Psalm 136:1; Psalm 32:5; Proverbs 28:13",
-       "note": "\"Give thanks to the LORD, for he is good\"; the same verb is used for confessing sin."
+       "note": "\"Give thanks to the LORD, for he is good\"; the same verb is used for confessing sin.",
+       "missed": "English splits it into \"give thanks\" (Psalm 136:1) and \"confess\" (Psalm 32:5), hiding that these are the same verb.",
+       "culture": "Hodu ladonai ki tov was sung by Levites and crowds at Temple festivals and is still sung in the Jewish Hallel."
       },
       {
        "lang": "he",
@@ -489,7 +598,9 @@
        "pron": "toe-DAH",
        "gloss": "thanksgiving; confession",
        "refs": "Leviticus 7:12; Joshua 7:19",
-       "note": "A thank offering, but Joshua uses it for Achan's confession."
+       "note": "A thank offering, but Joshua uses it for Achan's confession.",
+       "missed": "Translations rightly say \"make confession\" in Joshua 7:19, but the reader loses that the word normally means a thank offering.",
+       "culture": "The todah offering was eaten as a joyful meal with family and friends, after a vow was paid or a rescue celebrated."
       },
       {
        "lang": "he",
@@ -498,7 +609,9 @@
        "pron": "y'hoo-DAH",
        "gloss": "Judah (\"praise\")",
        "refs": "Genesis 29:35",
-       "note": "Leah says \"I will praise the LORD\"; the word \"Jew\" comes from this name."
+       "note": "Leah says \"I will praise the LORD\"; the word \"Jew\" comes from this name.",
+       "missed": "\"Judah\" and \"Jew\" look like plain names in English; the link with praise is invisible.",
+       "culture": "Names in Israel often recorded a parent's prayer or praise at the birth, as Leah's naming shows."
       },
       {
        "lang": "he",
@@ -507,7 +620,9 @@
        "pron": "vee-DOO-ee",
        "gloss": "confession (liturgical)",
        "refs": "Yom Kippur liturgy; Daniel 9:5",
-       "note": "Confession said aloud, together, in the plural: Ashamnu and Al Chet."
+       "note": "Confession said aloud, together, in the plural: Ashamnu and Al Chet.",
+       "missed": "The English \"confession\" brings to mind a church booth; viddui is a shared prayer said by the whole congregation.",
+       "culture": "On Yom Kippur the Ashamnu and Al Chet are said standing, many gently striking the chest at each line."
       },
       {
        "lang": "gr",
@@ -516,7 +631,9 @@
        "pron": "ho-mo-lo-GEH-oh",
        "gloss": "to confess, agree, declare",
        "refs": "1 John 1:9; Romans 10:9–10; Hebrews 13:15",
-       "note": "Literally \"to say the same thing\": agreeing with God out loud."
+       "note": "Literally \"to say the same thing\": agreeing with God out loud.",
+       "missed": "\"Confess\" hides the literal picture \"say the same thing\", agreeing with God's verdict.",
+       "culture": "In Greek contracts and courts it meant to agree to terms, to acknowledge a debt or to admit a charge."
       },
       {
        "lang": "gr",
@@ -525,7 +642,9 @@
        "pron": "ex-o-mo-lo-GEH-o-my",
        "gloss": "to confess openly; to praise",
        "refs": "Matthew 3:6; James 5:16; Matthew 11:25; Philippians 2:11",
-       "note": "The Septuagint's usual word for hodah, so it carries both meanings."
+       "note": "The Septuagint's usual word for hodah, so it carries both meanings.",
+       "missed": "Bibles render it \"confess\" in one place and \"thank\" or \"praise\" in another, so its double meaning is lost.",
+       "culture": "Through the Septuagint it was the word Greek-speaking Jews sang in the Psalms: \"Give thanks to the Lord\"."
       },
       {
        "lang": "gr",
@@ -534,7 +653,51 @@
        "pron": "ho-mo-lo-GEE-a",
        "gloss": "confession (of faith)",
        "refs": "Hebrews 3:1; 4:14; 10:23",
-       "note": "The shared confession of faith that believers hold fast."
+       "note": "The shared confession of faith that believers hold fast.",
+       "missed": "The KJV's \"our profession\" (Hebrews 4:14) sounds like a job; the Greek is the confession of faith we share.",
+       "culture": "Early Christians had short spoken confessions such as \"Jesus is Lord\", in a world where loyal citizens said \"Caesar is Lord\"."
+      }
+     ]
+    },
+    {
+     "type": "renderings",
+     "title": "How translators handled it",
+     "after": 5,
+     "rows": [
+      {
+       "verse": "Psalm 136:1",
+       "original": "הוֹדוּ לַיהוָה כִּי־טוֹב",
+       "literal": "acknowledge / thank the LORD, for he is good",
+       "common": "O give thanks unto the LORD; for he is good (KJV)",
+       "why": "The sense is right, but English cannot show that this is the same verb as \"I will confess\" in Psalm 32:5."
+      },
+      {
+       "verse": "Joshua 7:19",
+       "original": "וְתֶן־לוֹ תוֹדָה",
+       "literal": "and give him todah (acknowledgement, thanks)",
+       "common": "and make confession unto him (KJV)",
+       "why": "The context demands \"confess\", so the usual meaning \"thanksgiving\" disappears, and with it the idea that truth-telling honours God."
+      },
+      {
+       "verse": "Matthew 11:25",
+       "original": "ἐξομολογοῦμαί σοι, πάτερ",
+       "literal": "I openly acknowledge you, Father",
+       "common": "I thank thee, O Father (KJV)",
+       "why": "Correct in context, but readers cannot see it is the verb used for \"confessing their sins\" in Matthew 3:6."
+      },
+      {
+       "verse": "Hebrews 13:15",
+       "original": "καρπὸν χειλέων ὁμολογούντων τῷ ὀνόματι αὐτοῦ",
+       "literal": "fruit of lips confessing his name",
+       "common": "the fruit of our lips giving thanks to his name (KJV)",
+       "why": "The KJV follows the Hebrew double meaning and turns \"confessing\" into \"giving thanks\"; the ESV's \"acknowledge\" keeps the confession side."
+      },
+      {
+       "verse": "1 John 1:9",
+       "original": "ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν",
+       "literal": "if we say the same thing about our sins",
+       "common": "If we confess our sins (KJV)",
+       "why": "\"Confess\" comes through the Latin confiteri; it is accurate but loses the picture of agreeing with what God says."
       }
      ]
     },
@@ -565,7 +728,7 @@
     {
      "type": "compare",
      "title": "Two ways to see confession",
-     "after": 7,
+     "after": 9,
      "left": {
       "label": "Common Western assumption",
       "items": [
@@ -683,6 +846,17 @@
      ],
      "a": 1,
      "why": "\"Confess your sins to one another and pray for one another, that you may be healed.\""
+    },
+    {
+     "q": "Why do English Bibles say \"give thanks\" in Psalm 136:1 but \"confess\" in Psalm 32:5?",
+     "options": [
+      "They are two unrelated Hebrew words",
+      "English has no single word for the Hebrew verb hodah, which covers both",
+      "Psalm 32 was written in Greek",
+      "The KJV made a copying mistake"
+     ],
+     "a": 1,
+     "why": "Both verses use forms of yadah; the Latin Vulgate kept one word (confiteor), but English must choose."
     }
    ],
    "terms": [
@@ -806,6 +980,22 @@
      ]
     },
     {
+     "h": "What translators miss — and why",
+     "p": [
+      "Hebrew has many words for prayer, and English has one favourite: \"pray\". *Hitpallel*, *atar*, *sha'al*, *siach* and *techinnah* are often all rendered \"pray\", \"entreat\" or \"supplicate\", and modern versions add \"plead\" or \"cry for mercy\". Translators do this because English readers need a familiar word, and because the exact shades of some Hebrew words are uncertain. The cost is that the variety disappears: intervening for others, pleading, simply asking, pouring out the heart and begging for grace all collapse into one grey word.",
+      "Blessing is another case. In Mark 6:41 the KJV says Jesus \"blessed, and brake the loaves\", and many readers picture Jesus making the bread holy. In Jewish practice the blessing is said to God: \"Blessed are You… who brings forth bread from the earth.\" That is why the NIV gives \"gave thanks\". The Gospels themselves use two verbs, *eulogeō* (bless) and *eucharisteō* (give thanks), at the Last Supper (Mark 14:22–23). Both describe the same Jewish table-blessing, but English readers may think they are two different acts.",
+      "Even the English word has moved. \"Pray\" comes through French from the Latin *precari*, \"to ask, to beg\", and in older English it was used between people: \"I pray thee\". Over time it became a religious word only, and narrowed towards asking. The Hebrew and Greek words are wider: praise, blessing, thanks, lament and silent attention all count as prayer."
+     ]
+    },
+    {
+     "h": "The culture behind the words",
+     "p": [
+      "In Jesus' Judea, the rhythm of prayer followed the Temple. Lambs were offered every morning and afternoon (Exodus 29:38–42), and incense was burned with them. Luke says \"the whole multitude of the people were praying outside at the hour of incense\" (Luke 1:10). Jews far from Jerusalem prayed facing the city, as Solomon had asked and Daniel did (1 Kings 8:48; Daniel 6:10). People often prayed standing, with hands lifted (1 Kings 8:22; 1 Timothy 2:8).",
+      "Prayer also filled the home and the street. Men wore the Shema in small boxes on arm and forehead (Deuteronomy 6:8; Jesus mentions these \"phylacteries\" in Matthew 23:5) and fringes on their garments (Numbers 15:38–39). Meals began and ended with blessings. In the diaspora, Jews met in a *proseuchē*, a house of prayer, which Greek and Roman writers noticed as a feature of Jewish communities.",
+      "The Greco-Roman world prayed differently. Romans especially believed that a prayer had to use the exact words and name the right god, or it might fail. Many prayers were a kind of bargain, often summed up in the Latin phrase *do ut des*, \"I give so that you may give\". Against this background Jesus says, \"do not heap up empty phrases as the Gentiles do, for they think that they will be heard for their many words… your Father knows what you need\" (Matthew 6:7–8). Jewish and Christian prayer was addressed to a Father, not a bargaining partner."
+     ]
+    },
+    {
      "h": "Living it out",
      "p": [
       "A common Western habit is to treat prayer as mainly private requests in spontaneous words, and to see fixed prayer as dead ritual. The Jewish lens shows a fuller picture: praise and blessing come first; asking has its place; times and shared words give shape; and the heart must be present.",
@@ -825,7 +1015,9 @@
        "pron": "hit-pa-LEL",
        "gloss": "to pray",
        "refs": "Genesis 20:7; 1 Samuel 1:10; 1 Kings 8:28–30",
-       "note": "Reflexive form of palal (intervene, judge); its exact sense is debated."
+       "note": "Reflexive form of palal (intervene, judge); its exact sense is debated.",
+       "missed": "\"Pray\" is accurate, but it hides the root idea of stepping in, mediating or bringing a case for judgement.",
+       "culture": "Prayer in Israel was often intercession: a prophet, priest or king standing before God for others, as Abraham, Moses and Samuel did."
       },
       {
        "lang": "he",
@@ -834,7 +1026,9 @@
        "pron": "t'fee-LAH",
        "gloss": "prayer",
        "refs": "Psalm 102:1 (title); Isaiah 56:7",
-       "note": "In Jewish tradition \"the Tefillah\" is the Amidah, the standing prayer."
+       "note": "In Jewish tradition \"the Tefillah\" is the Amidah, the standing prayer.",
+       "missed": "\"Prayer\" sounds like any spoken request; in Jewish usage \"the Tefillah\" is a named, shared prayer said standing.",
+       "culture": "The Amidah is prayed facing Jerusalem, feet together, softly enough that only you hear, as Hannah prayed with moving lips (1 Samuel 1:13)."
       },
       {
        "lang": "he",
@@ -843,7 +1037,9 @@
        "pron": "a-TAR",
        "gloss": "to entreat, plead",
        "refs": "Genesis 25:21",
-       "note": "Isaac pleads with God for his barren wife."
+       "note": "Isaac pleads with God for his barren wife.",
+       "missed": "\"Entreat\" or \"pray\" loses the strong, repeated pleading in the word.",
+       "culture": "Childlessness brought deep grief and shame in a family culture, which is why Isaac and Hannah plead so hard."
       },
       {
        "lang": "he",
@@ -852,7 +1048,9 @@
        "pron": "sha-AL",
        "gloss": "to ask",
        "refs": "Psalm 27:4; 1 Samuel 1:20",
-       "note": "Simple asking; Hannah \"asked\" God for Samuel."
+       "note": "Simple asking; Hannah \"asked\" God for Samuel.",
+       "missed": "English splits sha'al into \"ask\", \"inquire\" and \"borrow\", so its ordinary, everyday feel is hidden.",
+       "culture": "Israelites \"asked\" of God at the sanctuary, often through a priest or prophet, before battles and big decisions."
       },
       {
        "lang": "he",
@@ -861,7 +1059,9 @@
        "pron": "ka-RA b'SHEM",
        "gloss": "to call on the name",
        "refs": "Genesis 4:26; 12:8; Joel 2:32",
-       "note": "The earliest phrase for worship and prayer in the Bible."
+       "note": "The earliest phrase for worship and prayer in the Bible.",
+       "missed": "\"Call upon\" sounds like a phone call; to call on a name meant to invoke someone publicly as your lord and protector.",
+       "culture": "Altars and calling on the name marked out land and loyalty in a world where every people called on its own gods."
       },
       {
        "lang": "he",
@@ -870,7 +1070,9 @@
        "pron": "SEE-akh",
        "gloss": "outpouring, complaint, meditation",
        "refs": "Psalm 102:1 (title); Psalm 142:2",
-       "note": "Pouring out the heart honestly before God."
+       "note": "Pouring out the heart honestly before God.",
+       "missed": "The KJV's \"complaint\" sounds like grumbling; siach is honest outpouring, musing or meditation.",
+       "culture": "The Psalms show that pouring out grief and protest before God was a normal part of worship, not a failure of faith."
       },
       {
        "lang": "he",
@@ -879,7 +1081,9 @@
        "pron": "t'khee-NAH",
        "gloss": "plea for grace",
        "refs": "1 Kings 8:28",
-       "note": "From chanan, \"be gracious\": asking on the basis of God's kindness alone."
+       "note": "From chanan, \"be gracious\": asking on the basis of God's kindness alone.",
+       "missed": "\"Supplication\" is a rare English word; the Hebrew stresses asking for grace you have not earned.",
+       "culture": "A subject asked a king for favour knowing he had no claim; that court picture lies behind techinnah."
       },
       {
        "lang": "he",
@@ -888,7 +1092,9 @@
        "pron": "b'ra-KHAH",
        "gloss": "blessing",
        "refs": "Jewish liturgy; Mark 6:41",
-       "note": "\"Blessed are You, LORD our God…\": thanking God for each gift."
+       "note": "\"Blessed are You, LORD our God…\": thanking God for each gift.",
+       "missed": "English readers think \"blessing\" means God blesses us; a berakhah is mainly us blessing, that is praising, God.",
+       "culture": "Jewish homes say blessings over bread, wine, light and many daily events, turning ordinary moments into thanks."
       },
       {
        "lang": "he",
@@ -897,7 +1103,9 @@
        "pron": "a-vo-DAH sheh-ba-LEV",
        "gloss": "service of the heart",
        "refs": "Talmud Taanit 2a on Deuteronomy 11:13",
-       "note": "The classic rabbinic description of prayer."
+       "note": "The classic rabbinic description of prayer.",
+       "missed": "The phrase is not in English Bibles, so readers miss the link between prayer and Temple worship.",
+       "culture": "After the Temple fell in AD 70, synagogue prayer took the place of the daily offerings in Jewish life."
       },
       {
        "lang": "he",
@@ -906,7 +1114,9 @@
        "pron": "ka-va-NAH",
        "gloss": "focused intention",
        "refs": "Mishnah Berakhot 5:1",
-       "note": "Directing the heart to God while praying."
+       "note": "Directing the heart to God while praying.",
+       "missed": "English has no single word for it; \"concentration\" is too cold and \"sincerity\" too vague.",
+       "culture": "The early pious ones waited quietly before praying to direct their hearts to God (Mishnah Berakhot 5:1)."
       },
       {
        "lang": "gr",
@@ -915,7 +1125,9 @@
        "pron": "pros-YOO-kho-my",
        "gloss": "to pray",
        "refs": "Matthew 6:9; Acts 3:1",
-       "note": "The general New Testament word for praying."
+       "note": "The general New Testament word for praying.",
+       "missed": "\"Pray\" in English once also meant simply \"ask\" (\"I pray thee\"); in Greek it is a word for prayer to God only.",
+       "culture": "Greeks and Romans prayed to many gods with exact formulas; Jews and Christians used the same verb for the one God."
       },
       {
        "lang": "gr",
@@ -924,7 +1136,9 @@
        "pron": "pros-yoo-KHAY",
        "gloss": "prayer; place of prayer",
        "refs": "Acts 16:13; Philippians 4:6",
-       "note": "Can also mean a Jewish place of prayer."
+       "note": "Can also mean a Jewish place of prayer.",
+       "missed": "The KJV reads Acts 16:13 as \"where prayer was wont to be made\"; the word can also mean a building or place.",
+       "culture": "In the Jewish diaspora a proseuchē was a prayer-house, sometimes by water for washing, as at Philippi."
       },
       {
        "lang": "gr",
@@ -933,7 +1147,9 @@
        "pron": "DEH-ay-sis",
        "gloss": "petition, supplication",
        "refs": "Philippians 4:6; Luke 22:32 (verb deomai)",
-       "note": "Asking out of real need."
+       "note": "Asking out of real need.",
+       "missed": "\"Supplication\" sounds formal; deēsis is the cry of someone in real need.",
+       "culture": "Beggars and petitioners in the Greco-Roman world made a deēsis to officials and patrons; we bring ours to God."
       },
       {
        "lang": "gr",
@@ -942,7 +1158,9 @@
        "pron": "eye-TEH-oh",
        "gloss": "to ask",
        "refs": "Matthew 7:7",
-       "note": "\"Ask, and it will be given to you.\""
+       "note": "\"Ask, and it will be given to you.\"",
+       "missed": "\"Ask\" is right; what is lost is the bold, childlike confidence of the request in Jesus' saying.",
+       "culture": "Jesus pictures a child asking a father for bread and fish (Matthew 7:9–11), the food of a Galilean home."
       },
       {
        "lang": "gr",
@@ -951,7 +1169,9 @@
        "pron": "EN-tyook-sis",
        "gloss": "intercession",
        "refs": "1 Timothy 2:1; Romans 8:26–27 (verb entynchanō)",
-       "note": "Approaching God on behalf of others."
+       "note": "Approaching God on behalf of others.",
+       "missed": "\"Intercession\" sounds churchy; in Greek it was the plain word for approaching an official on someone's behalf.",
+       "culture": "People presented written petitions (enteuxeis) to rulers; Paul uses the word for praying \"for kings and all in authority\"."
       },
       {
        "lang": "gr",
@@ -960,7 +1180,51 @@
        "pron": "yoo-kha-ris-TEH-oh",
        "gloss": "to give thanks",
        "refs": "1 Thessalonians 5:18; Luke 22:19",
-       "note": "Thanksgiving, like the Jewish blessing over bread."
+       "note": "Thanksgiving, like the Jewish blessing over bread.",
+       "missed": "Bibles alternate \"gave thanks\" and \"blessed\" at meals, hiding that both reflect the one Jewish table-blessing.",
+       "culture": "From this verb comes \"Eucharist\", the early church's name for the Lord's Supper."
+      }
+     ]
+    },
+    {
+     "type": "renderings",
+     "title": "How translators handled it",
+     "after": 6,
+     "rows": [
+      {
+       "verse": "Genesis 20:7",
+       "original": "וְיִתְפַּלֵּל בַּעַדְךָ",
+       "literal": "he will step in / intercede on your behalf",
+       "common": "he shall pray for thee (KJV)",
+       "why": "\"Pray\" is the natural English word, but it hides the root palal, used elsewhere for stepping in and judging a case."
+      },
+      {
+       "verse": "Psalm 102:1 (title)",
+       "original": "וְלִפְנֵי יְהוָה יִשְׁפֹּךְ שִׂיחוֹ",
+       "literal": "and before the LORD pours out his siach (outpouring, musing)",
+       "common": "and poureth out his complaint before the LORD (KJV)",
+       "why": "\"Complaint\" catches the pain but can sound like grumbling; siach is honest, heartfelt speech to God."
+      },
+      {
+       "verse": "Genesis 24:63",
+       "original": "לָשׂוּחַ בַּשָּׂדֶה",
+       "literal": "to muse / meditate (?) in the field",
+       "common": "to meditate in the field (KJV)",
+       "why": "The verb is rare and its meaning uncertain, so some versions guess \"walk\"; Jewish tradition reads it as Isaac's afternoon prayer."
+      },
+      {
+       "verse": "Mark 6:41",
+       "original": "εὐλόγησεν καὶ κατέκλασεν τοὺς ἄρτους",
+       "literal": "he blessed (God) and broke the loaves",
+       "common": "he blessed, and brake the loaves (KJV)",
+       "why": "English readers think Jesus blessed the bread; in a Jewish blessing God is the one blessed for the bread, which is why the NIV says \"gave thanks\"."
+      },
+      {
+       "verse": "Acts 16:13",
+       "original": "οὗ ἐνομίζομεν προσευχὴν εἶναι",
+       "literal": "where we thought there was a proseuchē (prayer / prayer-place)",
+       "common": "where prayer was wont to be made (KJV)",
+       "why": "The word can mean the activity or the place; the KJV follows a slightly different Greek reading, while the ESV gives \"a place of prayer\"."
       }
      ]
     },
@@ -1112,6 +1376,17 @@
      ],
      "a": 2,
      "why": "The Kaddish closely parallels \"hallowed be your name, your kingdom come\"."
+    },
+    {
+     "q": "When Mark 6:41 says Jesus \"blessed\" at the meal, who is blessed in a Jewish blessing over bread?",
+     "options": [
+      "The bread itself",
+      "God, the giver of the bread",
+      "The crowd",
+      "The disciples who serve"
+     ],
+     "a": 1,
+     "why": "A berakhah blesses God: \"Blessed are You… who brings forth bread from the earth\"; that is why some versions say \"gave thanks\"."
     }
    ],
    "terms": [

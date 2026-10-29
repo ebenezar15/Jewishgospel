@@ -89,6 +89,22 @@
      ]
     },
     {
+     "h": "What translators miss — and why",
+     "p": [
+      "The biggest loss is in the word *torah*. The Septuagint chose *nomos*, the Latin Vulgate followed with *lex*, and English Bibles followed with “law”. Each step was understandable: the Torah does contain commandments, and *nomos* was the best Greek word for a people's way of life. But in English “law” sounds like a statute book with penalties. When a father says “forget not my law” (Proverbs 3:1, KJV), he means his teaching, which is why the NIV says “my teaching” and some Jewish English translations use “Teaching” or “instruction”.",
+      "A second loss is in the titles. The KJV often turns *didaskalos*, “teacher”, into “Master”: “Master, we would see a sign from thee” (Matthew 12:38). In 1611 “master” still meant a teacher, as in “schoolmaster”. Today it sounds like an owner of slaves. Meanwhile “disciple” comes from the Latin *discipulus*, “learner” (from *discere*, “to learn”), but in modern English it has become a churchy word. The plain idea of a student walking with a teacher is hidden behind both words.",
+      "Small verbs carry losses too. Hebrew uses one root for “learn” and “teach” (*lamad*, *limmed*), but English has two unrelated words. “Teach them diligently” (Deuteronomy 6:7) loses the sharpening picture of *shanan*. And in Matthew 28:19 the KJV's “teach all nations” blurs the difference between making disciples (*mathēteuō*) and teaching (*didaskō*) in the next verse. Modern versions correct this with “make disciples”."
+     ]
+    },
+    {
+     "h": "The culture behind the words",
+     "p": [
+      "In Israel the first school was the home. Fathers and mothers taught: “Hear, my son, your father's instruction, and forsake not your mother's teaching (*torah*)” (Proverbs 1:8). Children learned the stories at Passover by asking questions (Exodus 12:26–27), and the whole family heard Scripture at the festivals. Jewish tradition says that later, elementary schools were set up in every town so that every child could learn to read the Torah (Talmud Bava Batra 21a).",
+      "Learning was also an apprenticeship. Sons usually learned their father's trade: Jesus was known as the carpenter's son and a carpenter himself (Matthew 13:55; Mark 6:3). Many sages also worked with their hands; the Mishnah praises “Torah study together with a worldly occupation” (Mishnah Avot 2:2), and Paul made tents (Acts 18:3). A disciple served his teacher and learned from his daily life. Jewish tradition says a disciple should do for his teacher everything a servant does, except untying his sandals (Talmud Ketubot 96a), which gives John the Baptist's words new force: “I am not worthy to untie the strap of his sandal” (John 1:27).",
+      "In the Greco-Roman world, education was for those who could pay. A slave called a *paidagōgos* walked a boy to school and watched over his behaviour (Paul uses the word in Galatians 3:24, KJV “schoolmaster”). Teachers taught reading, grammar and rhetoric, and philosophers gathered followers who copied their lifestyle. The Jewish ideal stood out: learning was meant for every child, rich or poor, and its goal was not cleverness but a life that does God's will."
+     ]
+    },
+    {
      "h": "Living it out",
      "p": [
       "To be a disciple today is to stay close to Jesus through Scripture, prayer and the company of his people, and to let his way shape ordinary life. Ask not only “What do I know?” but also “Whom am I becoming like?”",
@@ -108,7 +124,9 @@
        "pron": "la-MAD",
        "gloss": "to learn",
        "refs": "Deuteronomy 4:10; 5:1",
-       "note": "Learning in the Bible ends in fearing God and doing his word."
+       "note": "Learning in the Bible ends in fearing God and doing his word.",
+       "missed": "English uses two unrelated words, “learn” and “teach”, so the single Hebrew root linking them is invisible.",
+       "culture": "Children learned by listening, repeating and copying their parents at home, in the fields and at the festivals."
       },
       {
        "lang": "he",
@@ -117,7 +135,9 @@
        "pron": "lim-MED",
        "gloss": "to teach (make learn)",
        "refs": "Deuteronomy 4:10; Psalm 119:12",
-       "note": "The same root as “learn”: teaching is causing someone to learn."
+       "note": "The same root as “learn”: teaching is causing someone to learn.",
+       "missed": "“Teach” sounds like passing on facts; limmed literally means “make someone learn”, so the test is whether they learn.",
+       "culture": "A father teaching a trade, or Levites teaching the people, measured success by what the learner could actually do."
       },
       {
        "lang": "he",
@@ -126,7 +146,9 @@
        "pron": "tal-MEED",
        "gloss": "student, disciple",
        "refs": "1 Chronicles 25:8",
-       "note": "Rare in the Bible but the normal rabbinic word for a disciple."
+       "note": "Rare in the Bible but the normal rabbinic word for a disciple.",
+       "missed": "“Scholar” (KJV 1 Chronicles 25:8) or “pupil” hides that this is the word that later meant “disciple”.",
+       "culture": "In Jesus' day a talmid lived close to a rabbi, often serving him and learning from his daily habits."
       },
       {
        "lang": "he",
@@ -135,7 +157,9 @@
        "pron": "tal-MOOD",
        "gloss": "study, learning",
        "refs": "Rabbinic Hebrew",
-       "note": "Also the name of the great collection of rabbinic teaching."
+       "note": "Also the name of the great collection of rabbinic teaching.",
+       "missed": "Not a Bible word; English readers know “Talmud” only as a book, not as the word “learning”.",
+       "culture": "Jewish learning centres were noisy places of discussion in pairs, reading aloud and arguing over the text."
       },
       {
        "lang": "he",
@@ -144,7 +168,9 @@
        "pron": "ho-RAH",
        "gloss": "to instruct, point the way",
        "refs": "Exodus 4:12; 24:12",
-       "note": "From yarah, which can also mean to shoot or throw."
+       "note": "From yarah, which can also mean to shoot or throw.",
+       "missed": "“Teach” loses the picture of pointing out a direction, like aiming an arrow or showing a path.",
+       "culture": "Travellers in the hill country needed someone to point the way; a guide who knew the road was precious."
       },
       {
        "lang": "he",
@@ -153,7 +179,9 @@
        "pron": "mo-REH",
        "gloss": "teacher",
        "refs": "Isaiah 30:20",
-       "note": "The one who points the way; from the same root as torah."
+       "note": "The one who points the way; from the same root as torah.",
+       "missed": "“Teacher” is fine, but readers do not see that moreh shares its root with torah.",
+       "culture": "In a world of few books, the teacher was a living guide whom students watched and imitated."
       },
       {
        "lang": "he",
@@ -162,7 +190,9 @@
        "pron": "to-RAH",
        "gloss": "instruction, teaching, law",
        "refs": "Proverbs 3:1; Psalm 119:97",
-       "note": "Its basic sense is instruction, wider than “law”."
+       "note": "Its basic sense is instruction, wider than “law”.",
+       "missed": "“Law” (from Greek nomos and Latin lex) makes torah sound like a legal code instead of loving instruction.",
+       "culture": "Torah was read aloud in the Temple and synagogue, sung, memorised and talked about at home (Deuteronomy 6:7)."
       },
       {
        "lang": "he",
@@ -171,7 +201,9 @@
        "pron": "sha-NAN",
        "gloss": "to sharpen; teach diligently",
        "refs": "Deuteronomy 6:7",
-       "note": "Pictures impressing God's words sharply on children."
+       "note": "Pictures impressing God's words sharply on children.",
+       "missed": "“Teach diligently” loses the vivid picture of sharpening something until it cuts deep.",
+       "culture": "Iron tools and blades were sharpened by hand; Israelites knew how long and patient that work was."
       },
       {
        "lang": "he",
@@ -180,7 +212,9 @@
        "pron": "sha-NAH",
        "gloss": "to repeat",
        "refs": "Rabbinic Hebrew (Mishnah)",
-       "note": "Gives the name Mishnah, teaching learned by repetition."
+       "note": "Gives the name Mishnah, teaching learned by repetition.",
+       "missed": "Not in English Bibles; “repeat” sounds boring, but repetition was the way to keep knowledge alive.",
+       "culture": "In an oral culture students repeated teachings aloud many times, which is how the Mishnah was learned before it was written."
       },
       {
        "lang": "he",
@@ -189,7 +223,9 @@
        "pron": "he-VEEN",
        "gloss": "to make understand",
        "refs": "Nehemiah 8:7–8",
-       "note": "The Levites explained the Torah so the people understood."
+       "note": "The Levites explained the Torah so the people understood.",
+       "missed": "“Cause to understand” or “explain” is close, but we lose that the same root gives binah, understanding.",
+       "culture": "Levites stood among the people after Ezra read, explaining the Hebrew text to those who had returned from exile."
       },
       {
        "lang": "he",
@@ -198,7 +234,9 @@
        "pron": "rab-BEE",
        "gloss": "my master, my teacher",
        "refs": "John 1:38",
-       "note": "A respectful title for a teacher in Jesus' day."
+       "note": "A respectful title for a teacher in Jesus' day.",
+       "missed": "English Bibles keep “Rabbi” but often translate the Greek didaskalos as “Master”, so readers lose that they are the same title.",
+       "culture": "In Jesus' time “rabbi” was a respectful address for a teacher, not yet an official ordained office."
       },
       {
        "lang": "gr",
@@ -207,7 +245,9 @@
        "pron": "di-DAS-koh",
        "gloss": "to teach",
        "refs": "Matthew 5:2; 7:28–29",
-       "note": "Jesus taught with an authority that amazed the crowds."
+       "note": "Jesus taught with an authority that amazed the crowds.",
+       "missed": "“Teach” in English can mean simply informing; Jesus' teaching came with authority that called for a response.",
+       "culture": "Teachers in Judea usually quoted earlier authorities; Jesus' “But I say to you” amazed people for that reason."
       },
       {
        "lang": "gr",
@@ -216,7 +256,9 @@
        "pron": "di-DAS-ka-los",
        "gloss": "teacher",
        "refs": "John 1:38; 3:2",
-       "note": "John uses it to translate the title Rabbi."
+       "note": "John uses it to translate the title Rabbi.",
+       "missed": "The KJV often says “Master” for didaskalos, which today sounds like an employer or owner.",
+       "culture": "Greek cities had paid teachers of reading, music and rhetoric; Jesus taught for free, on hillsides and in homes."
       },
       {
        "lang": "gr",
@@ -225,7 +267,9 @@
        "pron": "di-da-KHAY",
        "gloss": "teaching",
        "refs": "Mark 1:22, 27; Acts 2:42",
-       "note": "The apostles' teaching was a core habit of the first church."
+       "note": "The apostles' teaching was a core habit of the first church.",
+       "missed": "“Doctrine” (KJV) suggests a fixed set of beliefs; didachē is the living teaching passed on.",
+       "culture": "The early church's handbook called the Didache shows teaching as a way of life: “There are two ways, one of life and one of death”."
       },
       {
        "lang": "gr",
@@ -234,7 +278,9 @@
        "pron": "ma-thay-TAYS",
        "gloss": "disciple, learner",
        "refs": "Matthew 10:24–25",
-       "note": "The Greek match for talmid; its goal is to be like the teacher."
+       "note": "The Greek match for talmid; its goal is to be like the teacher.",
+       "missed": "Today “disciple” sounds churchy; the Greek simply means “learner”, the normal word for a student.",
+       "culture": "Greek philosophers also had mathētai who followed them; Jewish disciples followed a teacher's whole way of life."
       },
       {
        "lang": "gr",
@@ -243,7 +289,9 @@
        "pron": "ma-thay-TEW-oh",
        "gloss": "to make disciples",
        "refs": "Matthew 28:19",
-       "note": "The main command of the great commission."
+       "note": "The main command of the great commission.",
+       "missed": "The KJV's “teach all nations” blurs it with didaskō in the next verse; the Greek is “make learners”.",
+       "culture": "Jesus sends his followers to do what rabbis did with students: to form people who live the teacher's way."
       },
       {
        "lang": "gr",
@@ -252,7 +300,51 @@
        "pron": "NO-mos",
        "gloss": "law, custom",
        "refs": "Septuagint for torah; Romans 7:12",
-       "note": "The Greek word that narrowed torah toward “law”."
+       "note": "The Greek word that narrowed torah toward “law”.",
+       "missed": "“Law” narrows torah's warm meaning of instruction to rules and penalties.",
+       "culture": "For Greeks nomos also meant custom and the laws of a city; Greek-speaking Jews used it proudly for their way of life."
+      }
+     ]
+    },
+    {
+     "type": "renderings",
+     "title": "How translators handled it",
+     "after": 5,
+     "rows": [
+      {
+       "verse": "Proverbs 3:1",
+       "original": "בְּנִי תּוֹרָתִי אַל־תִּשְׁכָּח",
+       "literal": "my son, do not forget my instruction",
+       "common": "My son, forget not my law (KJV)",
+       "why": "The KJV follows the nomos / lex tradition; in a father's mouth torah clearly means teaching, so the NIV says “my teaching”."
+      },
+      {
+       "verse": "Psalm 119:97",
+       "original": "מָה־אָהַבְתִּי תוֹרָתֶךָ",
+       "literal": "how I love your instruction!",
+       "common": "O how love I thy law! (KJV)",
+       "why": "“Law” is the traditional word, but modern readers hear a statute book, not the loving guidance the psalmist delights in."
+      },
+      {
+       "verse": "Deuteronomy 6:7",
+       "original": "וְשִׁנַּנְתָּם לְבָנֶיךָ",
+       "literal": "and you shall sharpen / impress them on your children",
+       "common": "And thou shalt teach them diligently unto thy children (KJV)",
+       "why": "“Teach diligently” gives the sense of effort but loses the sharpening picture; the NIV's “impress them” comes closer."
+      },
+      {
+       "verse": "Matthew 10:24",
+       "original": "Οὐκ ἔστιν μαθητὴς ὑπὲρ τὸν διδάσκαλον",
+       "literal": "a learner is not above the teacher",
+       "common": "The disciple is not above his master (KJV)",
+       "why": "In 1611 “master” also meant teacher (as in “schoolmaster”); today it sounds like a slave-owner, so modern versions say “teacher”."
+      },
+      {
+       "verse": "Matthew 28:19",
+       "original": "μαθητεύσατε πάντα τὰ ἔθνη",
+       "literal": "make learners (disciples) of all the nations",
+       "common": "Go ye therefore, and teach all nations (KJV)",
+       "why": "The KJV used “teach”, blurring it with “teaching them” in verse 20; modern versions say “make disciples” to keep the difference."
       }
      ]
     },
@@ -409,6 +501,17 @@
      ],
      "a": 0,
      "why": "Mathēteuō, related to mathētēs (disciple), is the main verb of the great commission."
+    },
+    {
+     "q": "In Matthew 28:19 the KJV says “teach all nations”. What does the Greek verb mathēteuō mean?",
+     "options": [
+      "Give lectures to",
+      "Make disciples (learners) of",
+      "Baptise",
+      "Write books for"
+     ],
+     "a": 1,
+     "why": "Mathēteuō means to make someone a disciple; verse 20 then uses didaskō, “teaching them”, for the teaching itself."
     }
    ],
    "terms": [
@@ -534,6 +637,22 @@
      ]
     },
     {
+     "h": "What translators miss — and why",
+     "p": [
+      "The word “apostle” is not really a translation. The Latin Bible borrowed the Greek *apostolos* as *apostolus*, and English kept it. That makes sense for the Twelve, whose role was unique, but a plain word meaning “sent one” became a special church title. Sometimes translators do translate it: Epaphroditus is the Philippians' “messenger” (Philippians 2:25, KJV) and in John 13:16 it is “he that is sent”. Readers of English therefore cannot see that these are the same word as “apostle”.",
+      "*Martys* has a similar story. In the New Testament it means a witness, someone who tells what he has seen. But because so many witnesses died, the word later came to mean “martyr”. By 1611 that later meaning was normal, so the KJV calls Stephen “thy martyr” (Acts 22:20) and Antipas “my faithful martyr” (Revelation 2:13). Modern versions usually say “witness”. Both choices are understandable, but “martyr” can hide that these men died precisely because they would not stop witnessing.",
+      "“Testimony” and “witness” have also shifted in church use. Today they often mean telling the story of your conversion, or speaking about faith. In the Bible, *ed* and *edut* belong to the law court and the covenant: evidence that proves what is true, and the stone tablets kept in the ark. The KJV also uses “record” for *martyria* (for example John 1:19, “this is the record of John”), which today sounds like a written file rather than spoken evidence."
+     ]
+    },
+    {
+     "h": "The culture behind the words",
+     "p": [
+      "In Israel, justice was done at the city gate. Elders sat there, and people brought their cases in public. When Boaz bought Naomi's land and married Ruth, he said to the elders and all the people, “You are witnesses this day,” and they answered, “We are witnesses” (Ruth 4:9–11). A witness was not a paid expert; he was a neighbour who had seen or heard. Witnesses carried real responsibility: in a death penalty case “the hand of the witnesses shall be first against him” (Deuteronomy 17:7). In many cases later Jewish law did not accept women as witnesses, which makes it striking that women were the first witnesses of the empty tomb.",
+      "Covenants in the ancient world also had witnesses. Treaties often called on gods as witnesses; Israel's covenant instead calls heaven and earth (Deuteronomy 30:19), a stone (Joshua 24:27) and a song (Deuteronomy 31:19) as witnesses, because there is only one God. The tablets themselves were “the testimony”, kept in the holiest place as lasting evidence of what God had promised and Israel had agreed.",
+      "In the Greco-Roman world, kings and cities sent envoys with letters and full authority to make agreements. The idea of the agent who stands in the sender's place was well known both to Jews (the *shaliach*) and to Greeks and Romans. Paul's letters were carried by trusted co-workers like Tychicus and Phoebe (Colossians 4:7; Romans 16:1), who would also explain them. When Jesus says, “Whoever receives the one I send receives me” (John 13:20), his hearers understood exactly what he meant."
+     ]
+    },
+    {
      "h": "Living it out",
      "p": [
       "Being a witness starts with **seeing and hearing**: spending time with Jesus in Scripture, prayer and community, and noticing what God is doing. You can only tell what you have actually seen.",
@@ -553,7 +672,9 @@
        "pron": "AYD",
        "gloss": "witness",
        "refs": "Deuteronomy 19:15; Isaiah 43:10, 12; 44:8",
-       "note": "Someone or something that gives evidence of what is true."
+       "note": "Someone or something that gives evidence of what is true.",
+       "missed": "Today “witness” often means telling others about faith; ed is first a person or thing that gives evidence in a case.",
+       "culture": "Cases were heard by elders at the city gate, and witnesses had to speak in public and bear responsibility for the verdict (Deuteronomy 17:7)."
       },
       {
        "lang": "he",
@@ -562,7 +683,9 @@
        "pron": "ay-DOOT",
        "gloss": "testimony",
        "refs": "Exodus 25:16, 22",
-       "note": "The covenant tablets kept in “the ark of the testimony”."
+       "note": "The covenant tablets kept in “the ark of the testimony”.",
+       "missed": "“Testimony” now sounds like a personal story; edut here is the covenant document, the tablets of the Ten Words.",
+       "culture": "Ancient treaties were written down and kept in a sacred place as evidence; Israel kept its covenant in the ark."
       },
       {
        "lang": "he",
@@ -571,7 +694,9 @@
        "pron": "sha-LAKH",
        "gloss": "to send",
        "refs": "Isaiah 6:8",
-       "note": "“Whom shall I send?” God sends his messengers."
+       "note": "“Whom shall I send?” God sends his messengers.",
+       "missed": "“Send” is accurate, but English hides the link with shaliach, the sent agent who acts for the sender.",
+       "culture": "Kings and masters sent servants with messages, gifts and contracts; the one sent carried the sender's name."
       },
       {
        "lang": "he",
@@ -580,7 +705,9 @@
        "pron": "sha-LEE-akh",
        "gloss": "agent, sent one",
        "refs": "Mishnah Berakhot 5:5",
-       "note": "Rabbinic Hebrew: “a person's agent is like the person himself”."
+       "note": "Rabbinic Hebrew: “a person's agent is like the person himself”.",
+       "missed": "Not in English Bibles; readers miss the legal idea that “a person's agent is like the person himself”.",
+       "culture": "Agents could sign contracts or even arrange a betrothal for someone else, and their act counted as the sender's."
       },
       {
        "lang": "gr",
@@ -589,7 +716,9 @@
        "pron": "MAR-toos",
        "gloss": "witness (later: martyr)",
        "refs": "Luke 24:48; Acts 1:8; Revelation 2:13",
-       "note": "Used in the Greek of Isaiah 43:10; later came to mean one who dies for the faith."
+       "note": "Used in the Greek of Isaiah 43:10; later came to mean one who dies for the faith.",
+       "missed": "The KJV sometimes says “martyr”, reading back a later meaning; in the New Testament martys still means witness.",
+       "culture": "Greek courts heard sworn witnesses; later, when Christians died rather than deny Jesus, the word came to mean martyr."
       },
       {
        "lang": "gr",
@@ -598,7 +727,9 @@
        "pron": "mar-too-REE-a",
        "gloss": "testimony",
        "refs": "John 1:7; Revelation 12:11",
-       "note": "The witness someone gives."
+       "note": "The witness someone gives.",
+       "missed": "“Record” (KJV, e.g. John 1:19) can sound like a written file; martyria is the spoken evidence a witness gives.",
+       "culture": "In a world of few documents, a reliable person's spoken testimony was the main form of evidence."
       },
       {
        "lang": "gr",
@@ -607,7 +738,9 @@
        "pron": "mar-TOO-ree-on",
        "gloss": "testimony, evidence",
        "refs": "Matthew 24:14; Acts 4:33",
-       "note": "Evidence offered, a testimony to others."
+       "note": "Evidence offered, a testimony to others.",
+       "missed": "Translated “testimony” or “witness”, it can sound abstract; martyrion is the evidence that proves a case.",
+       "culture": "Gifts, stones or written records could be set up as a martyrion so that later people would remember what was agreed."
       },
       {
        "lang": "gr",
@@ -616,7 +749,9 @@
        "pron": "mar-too-REH-oh",
        "gloss": "to testify, bear witness",
        "refs": "John 15:26–27",
-       "note": "The Spirit and the disciples bear witness together."
+       "note": "The Spirit and the disciples bear witness together.",
+       "missed": "“Bear record” and “testify” are both used, so readers may not see the courtroom flavour running through John.",
+       "culture": "John's Gospel reads like a trial: John the Baptist, the works, the Scriptures and the Father all testify about Jesus."
       },
       {
        "lang": "gr",
@@ -625,7 +760,9 @@
        "pron": "a-POS-to-los",
        "gloss": "one sent with authority, apostle",
        "refs": "John 13:16; Hebrews 3:1",
-       "note": "Close to the Jewish idea of the shaliach; Hebrews calls Jesus the apostle."
+       "note": "Close to the Jewish idea of the shaliach; Hebrews calls Jesus the apostle.",
+       "missed": "“Apostle” is a borrowed word, not a translation, so readers miss its plain meaning, “one who is sent”.",
+       "culture": "In classical Greek apostolos could mean an envoy or even a naval expedition sent out; it is a word of mission."
       },
       {
        "lang": "gr",
@@ -634,7 +771,51 @@
        "pron": "a-pos-TEL-loh",
        "gloss": "to send",
        "refs": "John 17:18; 20:21",
-       "note": "The Father sent Jesus, and Jesus sends his followers."
+       "note": "The Father sent Jesus, and Jesus sends his followers.",
+       "missed": "English renders it “send”, which is right, but the link with “apostle” is invisible.",
+       "culture": "Messengers in the Roman world travelled by road and ship carrying letters for their senders, as Paul's co-workers did."
+      }
+     ]
+    },
+    {
+     "type": "renderings",
+     "title": "How translators handled it",
+     "after": 5,
+     "rows": [
+      {
+       "verse": "Isaiah 43:10",
+       "original": "אַתֶּם עֵדַי",
+       "literal": "you are my witnesses (my evidence in court)",
+       "common": "Ye are my witnesses (KJV)",
+       "why": "The wording is exact, but modern church language makes “witness” sound like evangelism; Isaiah's picture is a courtroom where Israel is the evidence."
+      },
+      {
+       "verse": "Exodus 25:16",
+       "original": "אֵת הָעֵדֻת אֲשֶׁר אֶתֵּן אֵלֶיךָ",
+       "literal": "the testimony (covenant witness-document) that I will give you",
+       "common": "the testimony which I shall give thee (KJV)",
+       "why": "“Testimony” is literal but sounds like a personal story, so the NIV explains it as “the tablets of the covenant law”."
+      },
+      {
+       "verse": "John 13:16",
+       "original": "οὐδὲ ἀπόστολος μείζων τοῦ πέμψαντος αὐτόν",
+       "literal": "nor is an apostle (sent one) greater than the one who sent him",
+       "common": "neither he that is sent greater than he that sent him (KJV)",
+       "why": "Here translators translate apostolos instead of borrowing it, which is clearer, but readers do not see that Jesus is talking about apostles."
+      },
+      {
+       "verse": "Revelation 2:13",
+       "original": "Ἀντιπᾶς ὁ μάρτυς μου ὁ πιστός μου",
+       "literal": "Antipas, my witness, my faithful one",
+       "common": "Antipas was my faithful martyr (KJV)",
+       "why": "By 1611 “martyr” was the established word for one killed for the faith; the ESV's “my faithful witness” keeps the original word."
+      },
+      {
+       "verse": "Hebrews 3:1",
+       "original": "τὸν ἀπόστολον καὶ ἀρχιερέα τῆς ὁμολογίας ἡμῶν",
+       "literal": "the Sent One and high priest of our confession",
+       "common": "the Apostle and High Priest of our profession (KJV)",
+       "why": "“Apostle” is kept as a title, so readers miss that Jesus is called the Father's Sent One; “profession” now sounds like a job."
       }
      ]
     },
@@ -790,6 +971,17 @@
      ],
      "a": 2,
      "why": "Hebrews 3:1 calls Jesus “the apostle and high priest of our confession”."
+    },
+    {
+     "q": "Why does the KJV call Antipas a “martyr” in Revelation 2:13?",
+     "options": [
+      "The Greek word there means “soldier”",
+      "By 1611 “martyr” was the usual word for one who died for the faith, though martys means witness",
+      "Antipas was an apostle",
+      "The verse is missing from Greek manuscripts"
+     ],
+     "a": 1,
+     "why": "Martys means witness; because many witnesses were killed, the word later came to mean martyr, and the KJV used that later sense."
     }
    ],
    "terms": [

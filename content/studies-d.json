@@ -87,6 +87,22 @@
      ]
     },
     {
+     "h": "What translators miss — and why",
+     "p": [
+      "The Hebrew Bible and the New Testament use one family of words for good news: *basar* in Hebrew, *euangelizomai* in the Septuagint and the New Testament. But English versions usually split it. In the Old Testament we read “bear tidings” or “bring good news” (2 Samuel 18:19; Isaiah 52:7). In the New Testament we read “preach the gospel” (Luke 4:18). Translators follow the familiar wording of each part of the Bible, and “gospel” has a long Christian history. The result is that readers rarely notice that Jesus and Paul are using Isaiah's word.",
+      "The Latin chain added another layer. The Vulgate did not translate *euangelion*; it borrowed it as *evangelium*. Western languages kept the loanword, so we have “evangelist”, “evangelical” and “evangelise”: technical church words. English did translate it once, as *gōdspel*, “good news”, but over a thousand years “gospel” itself became a technical word too, used for a book, a style of music and a summary of doctrine. Some modern versions try to recover the plain sense by writing “good news” (for example the Good News Bible).",
+      "One more small loss: in Isaiah 61:1 the KJV says “good tidings unto the meek”. The Hebrew *anavim* means the poor and the afflicted, people pressed down by life. “Meek” sounds like a gentle personality. Most modern versions say “the poor”, which matches Jesus' reading in Luke 4:18 and reminds us that this news was first good news for the oppressed."
+     ]
+    },
+    {
+     "h": "The culture behind the words",
+     "p": [
+      "In Israel, news travelled on foot. After a battle, runners raced home; watchmen on the city wall looked out and tried to read the runner's pace and style (2 Samuel 18:24–27). The whole city waited. A messenger with good news could expect a reward, which is one meaning of *besorah*, while bad news could be dangerous to bring. Jewish tradition still has a blessing for hearing good news: “Blessed is He who is good and does good” (Mishnah Berakhot 9:2).",
+      "Most people could not read, so news, laws and Scripture were all spoken aloud: in the market, at the city gate and in the synagogue. The good news about Jesus was first an oral announcement, told and retold by witnesses, before it was written down. Only later did the word “gospel” come to be used as the name of the four books that record that news.",
+      "In the Roman world, *euangelia* had the sound of the imperial court. When news of a victory or an emperor's accession arrived, cities held festivals, offered sacrifices and put up inscriptions. The herald represented the ruler, so to welcome his news was to welcome the ruler's reign, and to reject it was a kind of rebellion. Against that background, the Christian announcement of another King, crucified and raised, was both joyful and bold."
+     ]
+    },
+    {
      "h": "Living it out",
      "p": [
       "If the gospel is news, then to **evangelise** is to be a herald, not a salesperson. A herald does not invent the message or argue people into it with tricks. He tells clearly and joyfully what has happened, and invites people to respond to the King.",
@@ -106,7 +122,9 @@
        "pron": "ba-SAR (bis-SER)",
        "gloss": "to bring news, usually good news",
        "refs": "1 Samuel 31:9; 2 Samuel 18:19–20; Isaiah 40:9; 52:7; 61:1",
-       "note": "Often used for a runner bringing news of a battle."
+       "note": "Often used for a runner bringing news of a battle.",
+       "missed": "Old Testament versions say “bear tidings”, New Testament versions say “preach the gospel”, so readers miss that it is one idea.",
+       "culture": "News travelled on foot: runners carried word from the battlefield while watchmen on the walls looked out for them (2 Samuel 18:24–27)."
       },
       {
        "lang": "he",
@@ -115,7 +133,9 @@
        "pron": "be-so-RAH",
        "gloss": "news; reward for news",
        "refs": "2 Samuel 4:10; 18:20–27; 2 Kings 7:9",
-       "note": "The lepers say, “This day is a day of good news.”"
+       "note": "The lepers say, “This day is a day of good news.”",
+       "missed": "“Tidings” sounds quaint and gentle; besorah was urgent news that could change a nation's future overnight.",
+       "culture": "A messenger with good news expected a reward, and one with bad news could be in danger, as 2 Samuel 4:10 shows."
       },
       {
        "lang": "he",
@@ -124,7 +144,9 @@
        "pron": "me-vas-SER",
        "gloss": "herald of good news",
        "refs": "Isaiah 52:7; Nahum 1:15 (Hebrew 2:1)",
-       "note": "The messenger whose feet are beautiful because he says, “Your God reigns.”"
+       "note": "The messenger whose feet are beautiful because he says, “Your God reigns.”",
+       "missed": "“Him that bringeth good tidings” loses the picture of an official herald running over the hills.",
+       "culture": "Cities kept watchmen on walls and hilltops; the first sight of a runner meant everyone waited to hear victory or defeat."
       },
       {
        "lang": "gr",
@@ -133,7 +155,9 @@
        "pron": "yoo-ang-GEL-ee-on",
        "gloss": "good news, gospel",
        "refs": "Mark 1:1, 14–15; Romans 1:1–4; 1 Corinthians 15:1–4",
-       "note": "In the Roman world also used for an emperor's victories and birthday."
+       "note": "In the Roman world also used for an emperor's victories and birthday.",
+       "missed": "“Gospel” has become a religious word and a book title; first hearers heard “good news”, often of victory.",
+       "culture": "In the Roman world euangelia were announced for an emperor's victory, accession or birthday, with public celebrations."
       },
       {
        "lang": "gr",
@@ -142,7 +166,9 @@
        "pron": "yoo-ang-gel-EE-zo-my",
        "gloss": "to announce good news",
        "refs": "Luke 4:18, 43; Acts 8:35; Romans 10:15",
-       "note": "The Septuagint's word for the Hebrew basar."
+       "note": "The Septuagint's word for the Hebrew basar.",
+       "missed": "English needs two words, “preach the gospel”, for one Greek verb, which makes it sound like a sermon rather than news.",
+       "culture": "Greek-speaking Jews already knew the word from the Septuagint of Isaiah, so it carried the hope of God's return as King."
       },
       {
        "lang": "gr",
@@ -151,7 +177,51 @@
        "pron": "yoo-ang-gel-ees-TAYS",
        "gloss": "evangelist, announcer of good news",
        "refs": "Acts 21:8; Ephesians 4:11; 2 Timothy 4:5",
-       "note": "A herald of the good news, not a salesperson."
+       "note": "A herald of the good news, not a salesperson.",
+       "missed": "“Evangelist” now suggests a travelling revival preacher; the Greek simply means one who brings good news.",
+       "culture": "In a world without newspapers, people depended on messengers to know what had happened; the evangelist was such a messenger."
+      }
+     ]
+    },
+    {
+     "type": "renderings",
+     "title": "How translators handled it",
+     "after": 3,
+     "rows": [
+      {
+       "verse": "2 Samuel 18:19",
+       "original": "אָרוּצָה נָּא וַאֲבַשְּׂרָה אֶת־הַמֶּלֶךְ",
+       "literal": "let me run and bring the good news to the king",
+       "common": "Let me now run, and bear the king tidings (KJV)",
+       "why": "“Tidings” is correct, but because it differs from “gospel”, readers never connect this runner with Isaiah's herald or the apostles."
+      },
+      {
+       "verse": "Isaiah 52:7",
+       "original": "רַגְלֵי מְבַשֵּׂר מַשְׁמִיעַ שָׁלוֹם",
+       "literal": "the feet of the herald of good news, announcing shalom",
+       "common": "the feet of him that bringeth good tidings, that publisheth peace (KJV)",
+       "why": "Clear and beautiful, but it loses the urgency of a runner with battle news and the link to “gospel” in Romans 10:15."
+      },
+      {
+       "verse": "Isaiah 61:1",
+       "original": "לְבַשֵּׂר עֲנָוִים",
+       "literal": "to bring good news to the poor / afflicted",
+       "common": "to preach good tidings unto the meek (KJV)",
+       "why": "Anavim means the poor and oppressed; “meek” makes it sound like a gentle personality, so most modern versions say “the poor”."
+      },
+      {
+       "verse": "Mark 1:1",
+       "original": "Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ Χριστοῦ",
+       "literal": "the beginning of the good news of Jesus the Messiah",
+       "common": "The beginning of the gospel of Jesus Christ (KJV)",
+       "why": "“Gospel” is the traditional English word, but it now sounds like a religious term or a book title rather than an announcement."
+      },
+      {
+       "verse": "Luke 4:18",
+       "original": "εὐαγγελίσασθαι πτωχοῖς",
+       "literal": "to announce good news to the poor",
+       "common": "to preach the gospel to the poor (KJV)",
+       "why": "English has no verb “to good-news”, so it uses “preach the gospel”, which makes a herald's news sound like a church sermon."
       }
      ]
     },
@@ -336,6 +406,17 @@
      ],
      "a": 1,
      "why": "Jesus announced that God's promised reign had come near."
+    },
+    {
+     "q": "Why do English readers often miss that Isaiah 52:7 and Romans 10:15 use the same idea?",
+     "options": [
+      "Paul quoted a different prophet",
+      "Old Testament versions say “good tidings” while New Testament versions say “gospel”",
+      "Isaiah 52:7 is not about news",
+      "Romans was written in Hebrew"
+     ],
+     "a": 1,
+     "why": "Both use the basar / euangelizomai word family, but English uses different words in each Testament."
     }
    ],
    "terms": [
@@ -464,6 +545,22 @@
      ]
     },
     {
+     "h": "What translators miss — and why",
+     "p": [
+      "The English word “preach” comes from the Latin *praedicare*, “to proclaim publicly”. In the Vulgate it translates *kēryssō*, and English Bibles followed. At first “preach” kept that public, announcing sense. Over centuries it narrowed to a church sermon, and even to moralising: “don't preach at me”. So when we read that Jesus “preached”, we tend to picture a pulpit rather than a herald calling out the King's news in the open air.",
+      "The KJV also uses “preach” for several different Greek words: *kēryssō* (herald), *euangelizomai* (announce good news), *katangellō* (make known), *laleō* (speak) and even *dialegomai* (discuss), as in Acts 20:7, “Paul preached unto them”, where modern versions say “talked with them”. Translators in 1611 chose a familiar church word, and it reads smoothly. But it flattens the variety: announcing, telling news, speaking and reasoning together all become one activity.",
+      "The title of Ecclesiastes is a good example of the chain from Hebrew to English. *Qohelet* means one who gathers or speaks to an assembly. The Septuagint called him *Ekklēsiastēs*, “one who speaks in the assembly”; the Latin kept that name; and the KJV made him “the Preacher”. The NIV says “the Teacher”. Each choice is reasonable, but none quite captures a wise person speaking to a gathered community."
+     ]
+    },
+    {
+     "h": "The culture behind the words",
+     "p": [
+      "In Israel, important things were called out in public. The Jubilee began with the shofar sounded through the land (Leviticus 25:9). Jeremiah was told, “Stand in the gate of the LORD's house, and proclaim there this word” (Jeremiah 7:2). Prophets, heralds and town elders spoke where people gathered: at the city gate, in the Temple courts, at the market. Preaching in this world was loud, public and meant for everyone.",
+      "In the synagogue, the reader stood and the teacher sat (Luke 4:16, 20). Because many people understood Aramaic better than Hebrew, a translator rendered the reading aloud, verse by verse, and the Mishnah sets rules for how this was done (Mishnah Megillah 4:4). After the reading, there was explanation, and often discussion. Jewish learning loved questions, which is why the boy Jesus is found in the Temple “listening to them and asking them questions” (Luke 2:46).",
+      "The Greco-Roman world knew two kinds of public speaker. The herald (*kēryx*) was a sacred official messenger who carried a staff and was not to be harmed; he spoke someone else's message. The orator was trained in rhetoric to impress and persuade, and was often paid. Paul deliberately places himself with the herald, not the orator: “I did not come proclaiming to you the testimony of God with lofty speech or wisdom… my message and my preaching were not in plausible words” (1 Corinthians 2:1–4)."
+     ]
+    },
+    {
      "h": "Living it out",
      "p": [
       "If you preach or teach, remember you are a herald: your job is to deliver the King's message faithfully, not your own opinions. Read the Scripture clearly, give the sense, and leave room for questions. If you listen to preaching, come like the Bereans, who “received the word with all eagerness, examining the Scriptures daily” (Acts 17:11).",
@@ -483,7 +580,9 @@
        "pron": "ka-RA",
        "gloss": "to call out, proclaim",
        "refs": "Leviticus 25:10; Isaiah 61:1–2; Jonah 3:2, 4",
-       "note": "Used for announcing the Jubilee and for Jonah's cry in Nineveh."
+       "note": "Used for announcing the Jubilee and for Jonah's cry in Nineveh.",
+       "missed": "Bibles render qara as “call”, “cry”, “proclaim”, “read” or “preach”, so the one loud, public action behind them is hidden.",
+       "culture": "Public announcements were cried out at the city gate or the Temple, and the Jubilee was opened with a blast of the shofar (Leviticus 25:9)."
       },
       {
        "lang": "he",
@@ -492,7 +591,9 @@
        "pron": "ke-ree-AH",
        "gloss": "proclamation, message",
        "refs": "Jonah 3:2",
-       "note": "The message God gave Jonah to call out."
+       "note": "The message God gave Jonah to call out.",
+       "missed": "The KJV's “preach the preaching” keeps the wordplay but adds a pulpit picture that the Hebrew does not have.",
+       "culture": "Nineveh was a huge city; a prophet walking its streets crying out a short message was a public event everyone could hear."
       },
       {
        "lang": "he",
@@ -501,7 +602,9 @@
        "pron": "mik-RA",
        "gloss": "assembly; reading",
        "refs": "Leviticus 23:2; Nehemiah 8:8",
-       "note": "Later the Jewish name for the whole Hebrew Bible, “what is read aloud”."
+       "note": "Later the Jewish name for the whole Hebrew Bible, “what is read aloud”.",
+       "missed": "“Holy convocation” and “reading” sound like two different things; in Hebrew both are a “calling out”.",
+       "culture": "Festivals gathered the people at a call, and Scripture was heard aloud in the assembly, not read silently at home."
       },
       {
        "lang": "he",
@@ -510,7 +613,9 @@
        "pron": "ko-HE-let",
        "gloss": "one who speaks to an assembly, “the Preacher”",
        "refs": "Ecclesiastes 1:1",
-       "note": "From qahal, assembly; the Greek title Ecclesiastes comes from ekklēsia."
+       "note": "From qahal, assembly; the Greek title Ecclesiastes comes from ekklēsia.",
+       "missed": "“The Preacher” comes through Greek and Latin and suggests a pulpit; the Hebrew title is about gathering an assembly.",
+       "culture": "Wisdom in Israel was taught to gatherings at the gate, in the court or among students, by older and wiser speakers."
       },
       {
        "lang": "he",
@@ -519,7 +624,9 @@
        "pron": "ni-BA",
        "gloss": "to prophesy",
        "refs": "Amos 7:15; Ezekiel 37:4",
-       "note": "Speaking God's word into the present situation."
+       "note": "Speaking God's word into the present situation.",
+       "missed": "“Prophesy” today sounds like predicting the future; niba is mostly speaking God's word into the present.",
+       "culture": "Prophets often spoke in public places, the Temple courts or the king's court, and their words could put them in danger."
       },
       {
        "lang": "he",
@@ -528,7 +635,9 @@
        "pron": "da-RASH",
        "gloss": "to seek, inquire, study",
        "refs": "Ezra 7:10",
-       "note": "Ezra set his heart to seek the Torah, do it and teach it."
+       "note": "Ezra set his heart to seek the Torah, do it and teach it.",
+       "missed": "“Seek” or “study” misses that darash means searching a text or God with your whole life, to obey.",
+       "culture": "Scribes like Ezra copied, studied and taught the Torah; searching Scripture was a respected life's work."
       },
       {
        "lang": "he",
@@ -537,7 +646,9 @@
        "pron": "de-ra-SHAH",
        "gloss": "sermon, exposition",
        "refs": "Later Hebrew",
-       "note": "A sermon that grows out of searching the text."
+       "note": "A sermon that grows out of searching the text.",
+       "missed": "Not in English Bibles; “sermon” suggests a speech, but derashah is exposition that grows from close reading.",
+       "culture": "In synagogue a teacher would sit and explain the reading, often linking verses together by catchwords."
       },
       {
        "lang": "gr",
@@ -546,7 +657,9 @@
        "pron": "kay-ROOS-so",
        "gloss": "to proclaim as a herald",
        "refs": "Matthew 4:17; Mark 1:14; Romans 10:14–15",
-       "note": "The Septuagint's word for qara in Isaiah 61:1."
+       "note": "The Septuagint's word for qara in Isaiah 61:1.",
+       "missed": "“Preach” makes kēryssō sound like a church talk; the Greek is a herald calling out an official announcement.",
+       "culture": "Greek cities used heralds for public decrees, truces and games; their voice carried the authority of the city or king."
       },
       {
        "lang": "gr",
@@ -555,7 +668,9 @@
        "pron": "KAY-rooks",
        "gloss": "herald, preacher",
        "refs": "1 Timothy 2:7; 2 Peter 2:5",
-       "note": "An official messenger who delivers a king's decree faithfully."
+       "note": "An official messenger who delivers a king's decree faithfully.",
+       "missed": "“Preacher” suggests a pastor; a kēryx was an official messenger, often protected even in war.",
+       "culture": "Heralds carried a staff (the kērykeion) as a sign that they were sacred messengers who must not be harmed."
       },
       {
        "lang": "gr",
@@ -564,7 +679,9 @@
        "pron": "KAY-roog-ma",
        "gloss": "the proclamation, the message",
        "refs": "1 Corinthians 1:21; Romans 16:25; Matthew 12:41",
-       "note": "The content of what the herald announces."
+       "note": "The content of what the herald announces.",
+       "missed": "The KJV's “the foolishness of preaching” can point to the act or style; kērygma is mainly the content announced.",
+       "culture": "In public life a kērygma was the herald's proclamation itself: the decree that everyone must hear and obey."
       },
       {
        "lang": "gr",
@@ -573,7 +690,9 @@
        "pron": "ka-tang-GEL-lo",
        "gloss": "to announce, make known",
        "refs": "Acts 17:23; 1 Corinthians 11:26",
-       "note": "The whole church proclaims the Lord's death at his table."
+       "note": "The whole church proclaims the Lord's death at his table.",
+       "missed": "“Shew” or “proclaim” are fine, but readers may miss that this is about announcing news openly.",
+       "culture": "Athens was full of people sharing new ideas in the market; Paul “proclaims” there an unknown God made known (Acts 17:23)."
       },
       {
        "lang": "gr",
@@ -582,7 +701,9 @@
        "pron": "dee-a-LEG-o-my",
        "gloss": "to reason, discuss, dialogue",
        "refs": "Acts 17:2; 18:4; 20:7",
-       "note": "Paul's custom in the synagogues: reasoning from the Scriptures."
+       "note": "Paul's custom in the synagogues: reasoning from the Scriptures.",
+       "missed": "The KJV twice turns dialegomai into “preached” (Acts 20:7, 9), hiding that it was a dialogue.",
+       "culture": "Philosophers in the Greek agora debated with question and answer, and synagogues welcomed discussion of the readings."
       },
       {
        "lang": "gr",
@@ -591,7 +712,51 @@
        "pron": "par-ray-SEE-a",
        "gloss": "boldness, freedom of speech",
        "refs": "Acts 4:13, 29",
-       "note": "Literally “saying everything”: speaking openly because the message is true."
+       "note": "Literally “saying everything”: speaking openly because the message is true.",
+       "missed": "“Boldness” can sound like being loud or harsh; parrēsia is the frank, open speech of a free person.",
+       "culture": "In Greek cities parrēsia was a citizen's right to speak freely in the assembly; slaves did not have it."
+      }
+     ]
+    },
+    {
+     "type": "renderings",
+     "title": "How translators handled it",
+     "after": 4,
+     "rows": [
+      {
+       "verse": "Ecclesiastes 1:1",
+       "original": "דִּבְרֵי קֹהֶלֶת",
+       "literal": "the words of Qohelet (the one who gathers / speaks to an assembly)",
+       "common": "The words of the Preacher (KJV)",
+       "why": "The title is rare, so the KJV followed the Greek and Latin “Ecclesiastes”; the NIV's “the Teacher” is another guess at the same idea."
+      },
+      {
+       "verse": "Jonah 3:2",
+       "original": "וּקְרָא אֵלֶיהָ אֶת־הַקְּרִיאָה",
+       "literal": "and call out to it the calling-out",
+       "common": "and preach unto it the preaching that I bid thee (KJV)",
+       "why": "The KJV keeps the Hebrew wordplay but uses “preach”; the ESV's “call out against it the message” keeps the street-crier picture."
+      },
+      {
+       "verse": "Luke 4:18",
+       "original": "κηρύξαι αἰχμαλώτοις ἄφεσιν",
+       "literal": "to herald release to captives",
+       "common": "to preach deliverance to the captives (KJV)",
+       "why": "In Isaiah 61:1 the KJV says “proclaim liberty”; in Luke's quotation it says “preach”, so a Jubilee announcement starts to sound like a sermon."
+      },
+      {
+       "verse": "Acts 20:7",
+       "original": "ὁ Παῦλος διελέγετο αὐτοῖς",
+       "literal": "Paul was discussing / talking with them",
+       "common": "Paul preached unto them (KJV)",
+       "why": "To 1611 readers this was natural, but it turns a long conversation into a speech; the ESV says “talked with them”."
+      },
+      {
+       "verse": "1 Corinthians 1:21",
+       "original": "διὰ τῆς μωρίας τοῦ κηρύγματος",
+       "literal": "through the foolishness of the proclamation (what is announced)",
+       "common": "by the foolishness of preaching (KJV)",
+       "why": "Readers may think preaching as a method is foolish; Paul means the message of a crucified Messiah, so the ESV says “the folly of what we preach”."
       }
      ]
     },
@@ -744,6 +909,17 @@
      ],
      "a": 1,
      "why": "Paul reasoned with people from the Scriptures, in dialogue."
+    },
+    {
+     "q": "In Acts 20:7 the KJV says Paul “preached unto them”. What does the Greek verb dialegomai suggest?",
+     "options": [
+      "He shouted a decree",
+      "He talked and reasoned with them in conversation",
+      "He read silently",
+      "He sang psalms"
+     ],
+     "a": 1,
+     "why": "Dialegomai means to discuss or reason (the root of “dialogue”); modern versions say “talked with them”."
     }
    ],
    "terms": [
