@@ -117,6 +117,23 @@ p { margin: 0; }
 .play .lex-row { animation: rise .5s var(--ease) both; animation-delay: calc(var(--i) * .07s); }
 .lex-filter { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px; }
 .lex-filter .chip { border: 1px solid var(--line); cursor: pointer; }
+.lex-body .lx-x { color: var(--fg); }
+.lex-body .lx-x b { color: var(--accent); font-size: 12px; letter-spacing: .04em; text-transform: uppercase; margin-right: 4px; }
+:root[lang="ta"] .lex-body .lx-x b { text-transform: none; letter-spacing: 0; }
+.rend { display: grid; gap: 12px; }
+.rend-row { border-radius: 14px; padding: 14px 16px; background: var(--sunk); display: grid; gap: 10px; }
+.rend-top { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.rend-top cite { font-style: normal; font-weight: 800; font-size: 13px; color: var(--accent); letter-spacing: .04em; }
+.rend-orig { font-size: 22px; font-weight: 700; color: var(--fg); }
+.rend-orig.gr { color: var(--gold); }
+.rend-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 10px; }
+.rend-grid > div { border-radius: 10px; padding: 10px 12px; background: var(--surface); min-width: 0; font-size: 15px; }
+.rend-grid > div:first-child { background: var(--accent-soft); }
+.rend-grid small { display: block; font-size: 11px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin-bottom: 3px; }
+.rend-why { font-size: 14px; color: var(--muted); }
+.rend-why b { color: var(--fg); }
+.play .rend-row { animation: rise .5s var(--ease) both; animation-delay: calc(var(--i) * .1s); }
+@media (max-width: 620px) { .rend-grid { grid-template-columns: minmax(0, 1fr); } }
 .related { display: flex; flex-wrap: wrap; gap: 8px; }
 .related a { text-decoration: none; padding: 9px 14px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); color: var(--fg); font-weight: 600; font-size: 14px; transition: border-color .2s, transform .2s var(--ease); }
 .related a:hover { border-color: var(--accent); transform: translateY(-2px); }
@@ -665,10 +682,10 @@ const I18N = {
     mapT: 'Big-picture map', mapD: 'See how every chapter connects, as one flowchart.',
     glT: 'Glossary', glD: 'Plain definitions for every key term in both books.',
     qzT: 'Mixed quiz', qzD: 'Ten random questions drawn from every topic.',
-    tags: { flow: 'Flowchart', compare: 'Two lenses', timeline: 'Timeline', cycle: 'Cycle', tree: 'Mind map', layers: 'Layers', wordroot: 'Word anatomy', lexicon: 'Word list', spectrum: 'Spectrum', skeleton: 'Skeleton', constellation: 'Constellation' },
+    tags: { flow: 'Flowchart', compare: 'Two lenses', timeline: 'Timeline', cycle: 'Cycle', tree: 'Mind map', layers: 'Layers', wordroot: 'Word anatomy', lexicon: 'Word list', renderings: 'Translations', spectrum: 'Spectrum', skeleton: 'Skeleton', constellation: 'Constellation' },
     step: 'STEP', rootL: 'ROOT', bone: 'BONE', bonesTitle: 'The bones of this chapter', bigIdea: 'So the big idea is',
     replay: '↻ Replay', replayAria: 'Replay animation', focusLens: 'Focus Hebrew lens', bothLens: 'Show both lenses',
-    studyOf: (n, t) => `Journey 3 · Word study ${n} of ${t}`, studiesBtn: 'Open the word studies', lexTag: 'Word list', relatedH: 'Read more in this app', langHe: 'Hebrew', langGr: 'Greek', langAr: 'Aramaic', all: 'All',
+    studyOf: (n, t) => `Journey 3 · Word study ${n} of ${t}`, studiesBtn: 'Open the word studies', lostL: 'Lost in translation:', cultureL: 'Culture:', literallyL: 'Literally', commonL: 'Usually rendered', whyL: 'Why:', lexTag: 'Word list', relatedH: 'Read more in this app', langHe: 'Hebrew', langGr: 'Greek', langAr: 'Aramaic', all: 'All',
     wordOf: n => `Journey 1 · Word ${n} of 15`, beforeWords: 'Journey 1 · Before the words', chapterN: n => `Chapter ${n}`,
     say: 'say:', root: 'root', usually: 'Usually translated', fuller: 'Fuller Hebrew meaning', fullerStudy: 'Fuller meaning',
     listen: '▶ Listen', stop: '■ Stop', skeletonBtn: 'Skeleton', quizBtn: n => `Quiz (${n})`, nutshell: 'In a nutshell',
@@ -714,10 +731,10 @@ const I18N = {
     mapT: 'முழுச் சித்திர வரைபடம்', mapD: 'ஒவ்வொரு அதிகாரமும் எப்படி இணைகிறது என்பதை ஒரே பாய்வுப்படமாகப் பாருங்கள்.',
     glT: 'சொற்களஞ்சியம்', glD: 'இரு புத்தகங்களிலும் உள்ள ஒவ்வொரு முக்கியச் சொல்லுக்கும் எளிய விளக்கம்.',
     qzT: 'கலவை வினாடி வினா', qzD: 'எல்லாத் தலைப்புகளிலிருந்தும் எடுக்கப்பட்ட பத்து கேள்விகள்.',
-    tags: { flow: 'பாய்வுப்படம்', compare: 'இரு கண்ணோட்டங்கள்', timeline: 'காலவரிசை', cycle: 'சுழற்சி', tree: 'மன வரைபடம்', layers: 'அடுக்குகள்', wordroot: 'சொல்லின் அமைப்பு', lexicon: 'சொற்பட்டியல்', spectrum: 'அளவுகோல்', skeleton: 'எலும்புக்கூடு', constellation: 'நட்சத்திரக் கூட்டம்' },
+    tags: { flow: 'பாய்வுப்படம்', compare: 'இரு கண்ணோட்டங்கள்', timeline: 'காலவரிசை', cycle: 'சுழற்சி', tree: 'மன வரைபடம்', layers: 'அடுக்குகள்', wordroot: 'சொல்லின் அமைப்பு', lexicon: 'சொற்பட்டியல்', renderings: 'மொழிபெயர்ப்புகள்', spectrum: 'அளவுகோல்', skeleton: 'எலும்புக்கூடு', constellation: 'நட்சத்திரக் கூட்டம்' },
     step: 'படி', rootL: 'வேர்', bone: 'எலும்பு', bonesTitle: 'இந்த அதிகாரத்தின் எலும்புகள்', bigIdea: 'ஆகவே முக்கியக் கருத்து',
     replay: '↻ மீண்டும்', replayAria: 'அசைவூட்டத்தை மீண்டும் காட்டு', focusLens: 'எபிரெயக் கண்ணோட்டம் மட்டும்', bothLens: 'இரண்டையும் காட்டு',
-    studyOf: (n, t) => `பயணம் 3 · சொல் ஆய்வு ${n} / ${t}`, studiesBtn: 'சொல் ஆய்வுகளைத் திறங்கள்', lexTag: 'சொற்பட்டியல்', relatedH: 'இந்தச் செயலியில் மேலும் வாசியுங்கள்', langHe: 'எபிரெயம்', langGr: 'கிரேக்கம்', langAr: 'அரமேயம்', all: 'எல்லாம்',
+    studyOf: (n, t) => `பயணம் 3 · சொல் ஆய்வு ${n} / ${t}`, studiesBtn: 'சொல் ஆய்வுகளைத் திறங்கள்', lostL: 'மொழிபெயர்ப்பில் இழந்தது:', cultureL: 'பண்பாடு:', literallyL: 'நேரடிப் பொருள்', commonL: 'வழக்கமான மொழிபெயர்ப்பு', whyL: 'ஏன்:', lexTag: 'சொற்பட்டியல்', relatedH: 'இந்தச் செயலியில் மேலும் வாசியுங்கள்', langHe: 'எபிரெயம்', langGr: 'கிரேக்கம்', langAr: 'அரமேயம்', all: 'எல்லாம்',
     wordOf: n => `பயணம் 1 · சொல் ${n} / 15`, beforeWords: 'பயணம் 1 · சொற்களுக்கு முன்', chapterN: n => `அதிகாரம் ${n}`,
     say: 'உச்சரிப்பு:', root: 'வேர்', usually: 'வழக்கமான மொழிபெயர்ப்பு', fuller: 'முழுமையான எபிரெய அர்த்தம்', fullerStudy: 'முழுமையான அர்த்தம்',
     listen: '▶ கேளுங்கள்', stop: '■ நிறுத்து', skeletonBtn: 'எலும்புக்கூடு', quizBtn: n => `வினாடி வினா (${n})`, nutshell: 'சுருக்கமாக',
@@ -841,7 +858,9 @@ const R = {
     ${d.root ? `<div class="rootline">${t('rootL')} · <span class="he" style="letter-spacing:.3em">${esc(d.root)}</span>${d.rootNote ? ` · ${esc(d.rootNote)}` : ''}</div>` : ''}
     <div class="meanings">${(d.meanings || []).map((m, i) => `<span class="chip ${i % 3 === 0 ? 'accent' : i % 3 === 1 ? 'gold' : ''}" style="--i:${i}">${esc(m)}</span>`).join('')}</div></div>`,
   lexicon: d => { const langs = [...new Set(d.words.map(w => w.lang))]; const L = { he: t('langHe'), gr: t('langGr'), ar: t('langAr') };
-    return `${langs.length > 1 ? `<div class="lex-filter"><button class="chip accent" data-lex="all">${t('all')}</button>${langs.map(l => `<button class="chip" data-lex="${l}">${L[l] || l}</button>`).join('')}</div>` : ''}<div class="lex">${d.words.map((w, i) => `<div class="lex-row" data-lang="${esc(w.lang)}" style="--i:${i}"><div class="lex-word"><span class="w ${w.lang === 'gr' ? 'gr' : 'he'}" lang="${w.lang === 'gr' ? 'grc' : 'he'}">${esc(w.word)}</span><span class="lang ${w.lang === 'gr' ? 'gr-l' : ''}">${L[w.lang] || w.lang}</span></div><div class="lex-body"><span class="lx-tl">${esc(w.translit)}${w.pron ? `<small>${esc(w.pron)}</small>` : ''}</span><span class="gl">${md(w.gloss)}</span>${w.note ? `<p>${md(w.note)}</p>` : ''}${w.refs ? `<span class="refs">${esc(w.refs)}</span>` : ''}</div></div>`).join('')}</div>`; },
+    return `${langs.length > 1 ? `<div class="lex-filter"><button class="chip accent" data-lex="all">${t('all')}</button>${langs.map(l => `<button class="chip" data-lex="${l}">${L[l] || l}</button>`).join('')}</div>` : ''}<div class="lex">${d.words.map((w, i) => `<div class="lex-row" data-lang="${esc(w.lang)}" style="--i:${i}"><div class="lex-word"><span class="w ${w.lang === 'gr' ? 'gr' : 'he'}" lang="${w.lang === 'gr' ? 'grc' : 'he'}">${esc(w.word)}</span><span class="lang ${w.lang === 'gr' ? 'gr-l' : ''}">${L[w.lang] || w.lang}</span></div><div class="lex-body"><span class="lx-tl">${esc(w.translit)}${w.pron ? `<small>${esc(w.pron)}</small>` : ''}</span><span class="gl">${md(w.gloss)}</span>${w.note ? `<p>${md(w.note)}</p>` : ''}${w.missed ? `<p class="lx-x"><b>${t('lostL')}</b> ${md(w.missed)}</p>` : ''}${w.culture ? `<p class="lx-x"><b>${t('cultureL')}</b> ${md(w.culture)}</p>` : ''}${w.refs ? `<span class="refs">${esc(w.refs)}</span>` : ''}</div></div>`).join('')}</div>`; },
+  renderings: d => `<div class="rend">${d.rows.map((r, i) => `<div class="rend-row" style="--i:${i}"><div class="rend-top"><cite>${esc(r.verse)}</cite>${r.original ? `<span class="rend-orig ${/[\u0590-\u05FF]/.test(r.original) ? 'he' : 'gr'}">${esc(r.original)}</span>` : ''}</div>
+    <div class="rend-grid"><div><small>${t('literallyL')}</small><b>${md(r.literal)}</b></div><div><small>${t('commonL')}</small><span>${md(r.common)}</span></div></div>${r.why ? `<p class="rend-why"><b>${t('whyL')}</b> ${md(r.why)}</p>` : ''}</div>`).join('')}</div>`,
   spectrum: d => `<div class="spec"><div class="bar">${d.points.map((p, i) => `<span class="pt" style="left:${p.pos}%;--i:${i}"></span><span class="pl ${i % 2 ? 'up' : ''}" style="left:${Math.min(88, Math.max(12, p.pos))}%">${md(p.t)}</span>`).join('')}</div><div class="ends"><span>${esc(d.left)}</span><span>${esc(d.right)}</span></div></div>`
 };
 function diagram(d) {
