@@ -1,0 +1,927 @@
+{
+ "chapters": [
+  {
+   "id": "b-life",
+   "book": "world",
+   "order": 90,
+   "num": 9,
+   "title": "Daily Life: Family, Honour and Hospitality",
+   "subtitle": "The everyday customs hiding behind familiar Gospel scenes",
+   "nutshell": "Jesus lived in a village world where honour mattered more than money, the family came before the individual, and sharing a meal meant sharing life. Once you know these customs, many Gospel scenes suddenly make sense: a roof dug open, a fringe touched, a father who runs.",
+   "bigIdea": "The Gospels were written for people who already knew these customs, so learning them lets us hear the stories as the first listeners did.",
+   "skeleton": [
+    "Honour and shame shaped every relationship",
+    "The family and household came before the individual",
+    "Betrothal and wedding followed clear stages",
+    "Meals and hospitality showed who belonged",
+    "Washing, clothing, houses and work fill in the scenes",
+    "Burial customs explain Lazarus and the empty tomb"
+   ],
+   "sections": [
+    {
+     "h": "Honour, shame and patrons",
+     "p": [
+      "In Jesus' world a person's **honour** (good name in the eyes of the community) was worth more than wealth. Shame was public loss of that name. Every invitation, gift, insult and seat at a table could raise or lower honour. That is why Jesus told guests not to grab the best seats (Luke 14:7–11) and why the elders praised a centurion who \"built us our synagogue\" (Luke 7:4–5).",
+      "Society also ran on **patronage**. A wealthy patron gave land, jobs or protection; the client repaid with loyalty and public praise. Jesus knew rulers liked to be called \"benefactors\" and told His disciples to lead by serving instead (Luke 22:25–26)."
+     ]
+    },
+    {
+     "h": "Family and household",
+     "p": [
+      "People thought of themselves first as members of a **household** (Hebrew *bayit*, \"house\"): parents, children, married sons, servants, all living close together under the father's authority. A person's identity was \"son of\" someone and \"from\" some village (Mark 6:3; John 1:45).",
+      "So when Jesus said, \"Whoever does the will of God, he is my brother and sister and mother\" (Mark 3:35), it was startling. He was forming a new family around Himself. Whole households came to faith together in Acts (Acts 16:15, 31–34), which fits this way of thinking."
+     ]
+    },
+    {
+     "h": "Betrothal and the wedding",
+     "p": [
+      "A Jewish marriage had two main stages. First came **betrothal** (*erusin* or *kiddushin*): an agreement between families, often with a bride-price (*mohar*) and a contract. The couple were legally bound, called husband and wife, but did not yet live together. Ending a betrothal needed a divorce, which is why Joseph planned to \"put Mary away quietly\" (Matt 1:18–19).",
+      "Later, often up to a year, came the **wedding** (*nissuin*). The groom came, often in the evening, with friends and lamps to bring the bride to his home, followed by a feast that could last a week (Judg 14:12; John 2:1–10). Jesus' parable of the ten virgins waiting with lamps for the groom (Matt 25:1–13) assumes all this."
+     ]
+    },
+    {
+     "h": "Meals, tables and hospitality",
+     "p": [
+      "At a formal meal guests did not sit on chairs; they **reclined** on cushions or couches around a low table, leaning on the left elbow with feet stretched away. That is how a woman could stand \"behind him at his feet\" weeping (Luke 7:38) and how John leaned back against Jesus (John 13:23–25).",
+      "Eating together meant acceptance and friendship. That is why critics complained, \"This man receives sinners and eats with them\" (Luke 15:2). **Hospitality** to travellers was a sacred duty going back to Abraham (Gen 18:1–8): a good host gave water for the feet, a kiss of greeting and oil for the head, exactly what Simon failed to do (Luke 7:44–46)."
+     ]
+    },
+    {
+     "h": "Washing, clothing, houses and work",
+     "p": [
+      "Many Jews, especially Pharisees, washed hands, cups and vessels before eating to keep ritual **purity**, as Mark explains for his non-Jewish readers (Mark 7:3–4). This was about being fit to approach God, not about germs. Jewish men wore **tzitzit**, tassels on the corners of the outer garment (Num 15:38–39); the sick woman touched this \"fringe\" of Jesus' cloak (Matt 9:20).",
+      "Village houses were small, built of stone or mud brick, with a **flat roof** of beams, branches and packed clay reached by outside stairs. Friends could dig through it to lower a paralysed man (Mark 2:4). Most people worked the land, fished the lake or worked as craftsmen. Jesus was called a *tekton* (Mark 6:3), a builder or craftsman in wood and stone."
+     ]
+    },
+    {
+     "h": "Death and burial",
+     "p": [
+      "Jews buried the dead quickly, usually the same day. The body was washed, wrapped in linen strips with spices, and laid in a family tomb cut into rock, closed with a stone (John 11:38–44; 19:39–42). Mourning lasted seven days, with relatives and hired mourners (Mark 5:38). A later Jewish tradition held that the soul stays near the body for three days, which makes \"four days\" in the tomb (John 11:17, 39) mean that all hope was gone.",
+      "> Jesus did not stand outside these customs. He used them, honoured them, and sometimes turned them upside down to show what God's kingdom is like."
+     ]
+    }
+   ],
+   "diagrams": [
+    {
+     "type": "compare",
+     "title": "Two ways of seeing a person",
+     "after": 0,
+     "note": "A general picture; real people in both cultures vary.",
+     "left": {
+      "label": "Honour-shame culture (Jesus' world)",
+      "items": [
+       "Who am I? A member of my family and village",
+       "What matters most is my good name",
+       "Wrongdoing brings public shame on the group",
+       "Gifts create lasting ties and duties",
+       "Decisions are made with the family"
+      ]
+     },
+     "right": {
+      "label": "Modern individualism",
+      "items": [
+       "Who am I? An individual with my own choices",
+       "What matters most is my personal success",
+       "Wrongdoing brings private guilt",
+       "Gifts are one-off and need no return",
+       "Decisions are mine alone"
+      ]
+     }
+    },
+    {
+     "type": "cycle",
+     "title": "The stages of a Jewish wedding",
+     "after": 2,
+     "center": "Marriage",
+     "center2": "a covenant between families",
+     "nodes": [
+      {
+       "t": "Arrangement",
+       "d": "The families agree on the match, often through the fathers."
+      },
+      {
+       "t": "Bride-price and contract",
+       "d": "The groom's family gives the mohar; terms are written down."
+      },
+      {
+       "t": "Betrothal (erusin)",
+       "d": "Legally bound as husband and wife, but living apart (Matt 1:18)."
+      },
+      {
+       "t": "Waiting and preparing",
+       "d": "Up to a year; the groom prepares a home, often joined to his father's house."
+      },
+      {
+       "t": "The groom comes",
+       "d": "Often at night, with friends and lamps, to fetch the bride (Matt 25:6)."
+      },
+      {
+       "t": "Wedding feast",
+       "d": "Celebration lasting up to seven days (John 2:1–10)."
+      }
+     ]
+    },
+    {
+     "type": "flow",
+     "title": "Welcoming a guest",
+     "after": 3,
+     "steps": [
+      {
+       "t": "Greeting",
+       "d": "A kiss of welcome at the door (Luke 7:45)."
+      },
+      {
+       "t": "Water for the feet",
+       "d": "Dusty roads and sandals made this a basic kindness (Gen 18:4; John 13:5)."
+      },
+      {
+       "t": "Oil for the head",
+       "d": "A sign of honour and refreshment (Ps 23:5; Luke 7:46)."
+      },
+      {
+       "t": "A place at the table",
+       "d": "The seat showed the guest's honour (Luke 14:8–10)."
+      },
+      {
+       "t": "Bread broken together",
+       "d": "Eating together sealed friendship and protection."
+      }
+     ]
+    },
+    {
+     "type": "cards",
+     "title": "Six customs that explain Gospel scenes",
+     "after": 5,
+     "cards": [
+      {
+       "t": "The roof dug open",
+       "front": "Why could friends dig through a roof?",
+       "back": "Village roofs were flat, made of wooden beams covered with branches and packed clay, reached by outside stairs. Digging a hole was messy but possible, and could be repaired.",
+       "source": "Village houses of Galilee",
+       "echo": "Mark 2:1–12"
+      },
+      {
+       "t": "The touched fringe",
+       "front": "What exactly did the sick woman touch?",
+       "back": "God told Israel to wear tassels (tzitzit) on the corners of their garments as a reminder of His commands. She reached for the tassel of Jesus' cloak.",
+       "source": "Numbers 15:38–39",
+       "echo": "Matthew 9:20; 14:36"
+      },
+      {
+       "t": "The woman at His feet",
+       "front": "How could she stand behind Him at His feet?",
+       "back": "Guests reclined on their left side with feet stretched out behind them. Outsiders could enter a feast to watch, so she came up behind Jesus' feet.",
+       "source": "Custom of reclining at meals",
+       "echo": "Luke 7:36–38"
+      },
+      {
+       "t": "The running father",
+       "front": "Why is it shocking that the father ran?",
+       "back": "A respected older man did not run in public; he would have to lift his robe. Many readers see the father taking shame on himself to welcome his son home.",
+       "source": "Honour-shame culture",
+       "echo": "Luke 15:20"
+      },
+      {
+       "t": "The friend at midnight",
+       "front": "Why must the neighbour get up and give bread?",
+       "back": "A guest was the whole village's guest. Failing to feed him would shame the host and the village, so the neighbour gives what is asked.",
+       "source": "Duty of hospitality (Gen 18)",
+       "echo": "Luke 11:5–8"
+      },
+      {
+       "t": "Joseph's quiet divorce",
+       "front": "Why 'divorce' if they were not yet married?",
+       "back": "Betrothal was a legal marriage bond, even before living together. Breaking it needed a divorce; Joseph chose a quiet one to spare Mary public shame.",
+       "source": "Jewish betrothal (erusin)",
+       "echo": "Matthew 1:18–19"
+      }
+     ]
+    }
+   ],
+   "verses": [
+    {
+     "ref": "Luke 14:10",
+     "text": "When you are invited, go and sit in the lowest place."
+    },
+    {
+     "ref": "Mark 3:35",
+     "text": "Whoever does the will of God, he is my brother and sister and mother."
+    },
+    {
+     "ref": "Luke 15:2",
+     "text": "This man receives sinners and eats with them."
+    },
+    {
+     "ref": "Matthew 9:20",
+     "text": "She came up behind him and touched the fringe of his garment."
+    }
+   ],
+   "keyPoints": [
+    "Honour and shame, not just right and wrong, shaped daily decisions.",
+    "People saw themselves as part of a household, so Jesus' new family was radical.",
+    "Betrothal was legally binding, which explains Joseph's plan to divorce Mary quietly.",
+    "Reclining at table and eating together meant acceptance; Jesus ate with sinners on purpose.",
+    "Roofs, tassels, washings and tombs are real customs that bring Gospel scenes to life."
+   ],
+   "reflect": [
+    "Which Gospel story now looks different to you after learning these customs?",
+    "Who would be shocked if you shared a meal with them, and what might that say about God's welcome?"
+   ],
+   "quiz": [
+    {
+     "q": "Why did Joseph plan to 'divorce' Mary before they lived together?",
+     "options": [
+      "They were already married for years",
+      "Betrothal was a legally binding bond",
+      "The priests ordered it",
+      "It was required by Roman law"
+     ],
+     "a": 1,
+     "why": "In Jewish custom a betrothed couple were legally bound, so ending it needed a divorce (Matt 1:18–19)."
+    },
+    {
+     "q": "How did guests usually eat at a formal meal?",
+     "options": [
+      "Sitting on high chairs",
+      "Standing in a line",
+      "Kneeling in rows",
+      "Reclining on cushions around a low table"
+     ],
+     "a": 3,
+     "why": "Reclining explains how a woman could be at Jesus' feet and how John leaned on Him (Luke 7:38; John 13:23)."
+    },
+    {
+     "q": "What did the sick woman touch in Matthew 9:20?",
+     "options": [
+      "The tassel (fringe) on Jesus' garment",
+      "His sandal",
+      "His walking staff",
+      "His head covering"
+     ],
+     "a": 0,
+     "why": "Jewish men wore tassels (tzitzit) on garment corners as God commanded in Numbers 15:38."
+    },
+    {
+     "q": "Why does 'four days' in Lazarus' tomb matter?",
+     "options": [
+      "Tombs were opened after four days by law",
+      "It was the length of a Sabbath",
+      "A tradition held that after three days all hope of life was gone",
+      "Lazarus had been sick for four days"
+     ],
+     "a": 2,
+     "why": "Jewish tradition held that the soul stays near the body three days; by day four death was final, which makes the miracle greater (John 11:17, 39)."
+    }
+   ],
+   "terms": [
+    {
+     "term": "Honour and shame",
+     "def": "A person's public standing in the community; gaining or losing it shaped daily life."
+    },
+    {
+     "term": "Patron",
+     "def": "A powerful person who gave favours and protection in return for loyalty and praise."
+    },
+    {
+     "term": "Erusin (betrothal)",
+     "def": "The first, legally binding stage of Jewish marriage, before the couple lived together."
+    },
+    {
+     "term": "Tzitzit",
+     "def": "Tassels on the corners of a garment, worn as a reminder of God's commands (Num 15:38)."
+    },
+    {
+     "term": "Tekton",
+     "def": "Greek word for a builder or craftsman in wood or stone, used of Jesus (Mark 6:3)."
+    }
+   ],
+   "related": [
+    "g-29",
+    "s-reconcile"
+   ]
+  },
+  {
+   "id": "b-midrash",
+   "book": "world",
+   "order": 100,
+   "num": 10,
+   "title": "Midrash: How Jews Read Scripture",
+   "hebrew": "מִדְרָשׁ",
+   "subtitle": "Seeking, asking and digging into every word of the Bible",
+   "nutshell": "Midrash comes from a Hebrew verb meaning \"to seek\". It is the Jewish way of searching the Scriptures closely, asking questions of every word, and linking one passage with another. Jesus and Paul used the same methods, so knowing them helps us follow their arguments.",
+   "bigIdea": "Jews read the Bible as a living text to be searched again and again, and the New Testament writers read it the same way.",
+   "skeleton": [
+    "Midrash means seeking out the meaning of Scripture",
+    "Two kinds: halakhah (how to live) and aggadah (stories and teaching)",
+    "The teaching was collected in the Mishnah, Talmud, Midrash books and Targums",
+    "Teachers used agreed rules, such as Hillel's seven",
+    "Jesus and Paul used these same rules",
+    "Reading this way helps us follow New Testament arguments"
+   ],
+   "sections": [
+    {
+     "h": "What \"midrash\" means",
+     "p": [
+      "The Hebrew verb **darash** means \"to seek, inquire, search out\". Rebekah went \"to inquire of the LORD\" (Gen 25:22), and \"Ezra had set his heart to seek the Law of the LORD\" (Ezra 7:10). The noun *midrash* already appears in the Bible for a written record or study (2 Chr 13:22).",
+      "In Jewish tradition **midrash** came to mean two things: the **method** of searching Scripture closely, and the **collections** where these explanations were written down. A midrash notices small details, such as an unusual word, a repeated phrase or a gap in a story, and asks: why is it written this way?"
+     ]
+    },
+    {
+     "h": "Halakhah and aggadah",
+     "p": [
+      "Jewish teachers divided their study into two broad kinds. **Halakhah** (from *halakh*, \"to walk\") is about how to live: what the Torah means for Sabbath, food, prayer and justice. **Aggadah** (\"telling\") is everything else: stories, parables, sayings and explanations that teach faith and character.",
+      "Jesus did both. When He discussed healing on the Sabbath or divorce, He was doing halakhah (Mark 3:4; Matt 19:3–9). When He told parables, He used a style very close to aggadah, which also loved \"parable\" (*mashal*) stories about a king and his servants."
+     ]
+    },
+    {
+     "h": "Where these teachings were written down",
+     "p": [
+      "For a long time Jewish teaching was passed on by memory (the \"oral Torah\"). Around AD 200 it was collected in the **Mishnah**, arranged by topic. Later teachers discussed the Mishnah, and their discussions became the **Talmud** (the Jerusalem Talmud about AD 400; the Babylonian Talmud about AD 500–600).",
+      "Other collections follow the order of a Bible book verse by verse: **Mekhilta** (on Exodus), **Sifra** (on Leviticus), **Sifre** (on Numbers and Deuteronomy) and **Genesis Rabbah**. The **Targums** are Aramaic translations read in the synagogue, which often add explanations into the text. Most were written down after the New Testament, but many of their traditions are older."
+     ]
+    },
+    {
+     "h": "PaRDeS: four levels of meaning",
+     "p": [
+      "A well-known Jewish picture describes four levels of reading, using the word **PaRDeS** (\"orchard\"): *Peshat* (the plain sense), *Remez* (a hint), *Derash* (the searched-out, applied meaning) and *Sod* (the hidden, mystical sense).",
+      "This framework is **medieval**, from about the 13th century, so Jesus' generation did not use these four labels. But the plain sense and the searched-out sense were both clearly at work in the first century, and the picture helps us see that a text can speak at more than one level."
+     ]
+    },
+    {
+     "h": "Rules for reading: Hillel's seven",
+     "p": [
+      "Jewish tradition says the great teacher Hillel, who lived shortly before Jesus, taught **seven rules** (*middot*) for drawing out meaning (Tosefta Sanhedrin 7:11). Later teachers expanded them to thirteen. Two of the best known are **kal va-chomer** (\"light and heavy\": if something is true in a small case, it is even more true in a bigger case) and **gezerah shavah** (\"equal decree\": two passages that share the same word can explain each other).",
+      "Others include building a general rule from one verse (*binyan av*), and learning from the context (*davar ha-lamed me-inyano*). These were agreed tools, not wild guessing."
+     ]
+    },
+    {
+     "h": "Jesus and Paul read this way",
+     "p": [
+      "Jesus uses kal va-chomer: \"If you, then, who are evil, know how to give good gifts to your children, how much more will your Father…\" (Matt 7:11; also 12:11–12). He reads the exact wording of \"I am the God of Abraham\" (present tense) to show that God's people live on, and so to support the resurrection (Matt 22:31–32).",
+      "Paul uses gezerah shavah in Romans 4:3–8: Genesis 15:6 says faith was \"counted\" to Abraham, and Psalm 32:1–2 uses the same word for the sin the Lord does not \"count\". In Galatians 4:21–31 he reads Hagar and Sarah as two covenants, saying openly that he is reading it as a figure. These are Jewish ways of reading, used to proclaim the Messiah."
+     ]
+    }
+   ],
+   "diagrams": [
+    {
+     "type": "tree",
+     "title": "The family of Jewish writings",
+     "after": 2,
+     "note": "Dates are approximate dates of writing down; many traditions are older.",
+     "root": "Tanakh (Hebrew Bible)",
+     "branches": [
+      {
+       "t": "Oral teaching → Mishnah",
+       "children": [
+        "Mishnah (about AD 200)",
+        "Tosefta (a companion collection)",
+        "Talmud: Jerusalem (about 400), Babylonian (about 500–600)"
+       ]
+      },
+      {
+       "t": "Midrash collections",
+       "children": [
+        "Mekhilta (Exodus)",
+        "Sifra (Leviticus)",
+        "Sifre (Numbers, Deuteronomy)",
+        "Genesis Rabbah"
+       ]
+      },
+      {
+       "t": "Targums (Aramaic translations)",
+       "children": [
+        "Targum Onkelos (Torah)",
+        "Targum Jonathan (Prophets)",
+        "Other Targums with added stories"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "layers",
+     "title": "PaRDeS: four levels of reading",
+     "after": 3,
+     "note": "A medieval framework, used here as a helpful picture.",
+     "layers": [
+      {
+       "t": "Peshat: the plain sense",
+       "d": "What the words simply say in their setting."
+      },
+      {
+       "t": "Remez: the hint",
+       "d": "A clue that points beyond the plain sense."
+      },
+      {
+       "t": "Derash: the searched-out sense",
+       "d": "Meaning drawn out by comparing texts and applying them."
+      },
+      {
+       "t": "Sod: the hidden sense",
+       "d": "The mystical, inner meaning, the deepest level."
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Jewish reading rules in the New Testament",
+     "after": 4,
+     "cols": [
+      "Rule",
+      "What it means",
+      "New Testament example"
+     ],
+     "rows": [
+      {
+       "h": "Kal va-chomer",
+       "cells": [
+        "If true in a small case, even more in a big one",
+        "Matt 7:11; 12:11–12; Rom 5:9–10"
+       ]
+      },
+      {
+       "h": "Gezerah shavah",
+       "cells": [
+        "Two passages sharing a word explain each other",
+        "Rom 4:3–8 (\"counted\"); Heb 4:3–7 (\"rest\")"
+       ]
+      },
+      {
+       "h": "Close reading of wording",
+       "cells": [
+        "Every detail, even a tense, carries meaning",
+        "Matt 22:31–32 (\"I am\"); Gal 3:16 (\"seed\")"
+       ]
+      },
+      {
+       "h": "Davar ha-lamed me-inyano",
+       "cells": [
+        "A verse is explained by its context",
+        "Matt 19:4–8 (back to Genesis 1–2)"
+       ]
+      },
+      {
+       "h": "Figurative reading",
+       "cells": [
+        "Story figures stand for bigger realities",
+        "Gal 4:21–31 (Hagar and Sarah)"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "flow",
+     "title": "How a midrash is built",
+     "after": 5,
+     "steps": [
+      {
+       "t": "Notice",
+       "d": "A detail stands out: an odd word, a repeat, a gap."
+      },
+      {
+       "t": "Ask",
+       "d": "Why does the text say it this way?"
+      },
+      {
+       "t": "Connect",
+       "d": "Find another verse that uses the same word or idea."
+      },
+      {
+       "t": "Explain",
+       "d": "Let the second verse shed light on the first."
+      },
+      {
+       "t": "Apply",
+       "d": "Draw a lesson for faith or for daily life."
+      }
+     ]
+    }
+   ],
+   "verses": [
+    {
+     "ref": "Ezra 7:10",
+     "text": "Ezra had set his heart to seek the Law of the LORD, and to do it, and to teach."
+    },
+    {
+     "ref": "Matthew 7:11",
+     "text": "How much more will your Father who is in heaven give good things to those who ask him!"
+    },
+    {
+     "ref": "Matthew 22:32",
+     "text": "I am the God of Abraham… He is not God of the dead, but of the living."
+    },
+    {
+     "ref": "John 5:39",
+     "text": "You search the Scriptures… and it is they that bear witness about me."
+    }
+   ],
+   "keyPoints": [
+    "Midrash comes from darash, \"to seek\": searching Scripture closely.",
+    "Halakhah teaches how to live; aggadah teaches through stories and sayings.",
+    "Mishnah, Talmud, Midrash collections and Targums preserve this teaching.",
+    "PaRDeS is a helpful but medieval picture of four levels of meaning.",
+    "Jesus and Paul used Jewish rules like kal va-chomer and gezerah shavah."
+   ],
+   "reflect": [
+    "When you read the Bible, do you slow down enough to notice small details and ask why they are there?",
+    "How does knowing that Jesus argued like a Jewish teacher change the way you read His debates?"
+   ],
+   "quiz": [
+    {
+     "q": "What does the Hebrew verb darash mean?",
+     "options": [
+      "To seek or search out",
+      "To sing",
+      "To forget",
+      "To build"
+     ],
+     "a": 0,
+     "why": "Darash means to seek or inquire; midrash is the searching of Scripture (Ezra 7:10)."
+    },
+    {
+     "q": "Which rule says: if it is true in a small case, it is even more true in a big one?",
+     "options": [
+      "Gezerah shavah",
+      "Sod",
+      "Kal va-chomer",
+      "Targum"
+     ],
+     "a": 2,
+     "why": "Kal va-chomer (\"light and heavy\"); Jesus uses it in Matthew 7:11: \"how much more\"."
+    },
+    {
+     "q": "How does Paul link Genesis 15:6 and Psalm 32:1–2 in Romans 4?",
+     "options": [
+      "Both are about Moses",
+      "Both use the word \"counted\"",
+      "Both are prophecies of the Temple",
+      "Both mention Hagar"
+     ],
+     "a": 1,
+     "why": "This is gezerah shavah: two passages sharing a key word explain each other."
+    },
+    {
+     "q": "What is true about the PaRDeS framework?",
+     "options": [
+      "Jesus invented it",
+      "It is found in Genesis",
+      "It was written in the Mishnah",
+      "It is a medieval Jewish framework"
+     ],
+     "a": 3,
+     "why": "The four labels come from about the 13th century, though plain and searched-out readings are much older."
+    }
+   ],
+   "terms": [
+    {
+     "term": "Midrash (מִדְרָשׁ)",
+     "def": "Searching out the meaning of Scripture; also the books that collect these explanations."
+    },
+    {
+     "term": "Halakhah",
+     "def": "Teaching on how to walk, that is, how to live out the Torah in daily life."
+    },
+    {
+     "term": "Aggadah",
+     "def": "Stories, parables and sayings that teach faith and character."
+    },
+    {
+     "term": "Mishnah and Talmud",
+     "def": "The Mishnah (about AD 200) collects oral teaching; the Talmud adds later discussion of it."
+    },
+    {
+     "term": "Targum",
+     "def": "An Aramaic translation of the Bible read in the synagogue, often with added explanation."
+    },
+    {
+     "term": "Kal va-chomer",
+     "def": "\"Light and heavy\": reasoning from a smaller case to a greater one (\"how much more\")."
+    }
+   ],
+   "related": [
+    "g-02",
+    "s-scripture",
+    "b-midrash-stories"
+   ]
+  },
+  {
+   "id": "b-midrash-stories",
+   "book": "world",
+   "order": 110,
+   "num": 11,
+   "title": "Midrashic Stories Behind the New Testament",
+   "subtitle": "Jewish traditions the apostles knew, and sometimes quoted",
+   "nutshell": "Alongside the Bible, Jews told and retold stories that filled in its gaps: Abraham smashing idols, a rock that followed Israel, magicians who opposed Moses. These are Jewish traditions, not Scripture. Yet the New Testament writers knew some of them and used them to make their point.",
+   "bigIdea": "Some puzzling New Testament verses become clear once we know the Jewish stories their first readers already knew.",
+   "skeleton": [
+    "Jews told stories that filled in gaps in the Bible",
+    "These traditions are not Scripture, but many are very old",
+    "Some explain famous Jewish ideas about Abraham, Moses and Sinai",
+    "New Testament writers sometimes refer to them directly",
+    "Knowing them clears up puzzling verses",
+    "Scripture stays the standard; the stories are background"
+   ],
+   "sections": [
+    {
+     "h": "Stories that fill the gaps",
+     "p": [
+      "The Bible often tells a story briefly. Why did God call Abraham? What happened to Moses' body? Jewish teachers searched the text (see the chapter on midrash) and passed on stories that answered such questions. Some were meant as history, others as teaching pictures.",
+      "These stories appear in books such as **Genesis Rabbah**, **Sifre**, the **Talmud**, the **Targums**, and older Jewish writings like **1 Enoch**. They were written down at different times, but many were told for generations before."
+     ]
+    },
+    {
+     "h": "Tradition, not Scripture",
+     "p": [
+      "> These stories are **Jewish traditions, not Scripture**. Christians do not have to believe every detail. But when a New Testament writer mentions one, it shows the story was known in the first century, and it helps us see what the writer meant.",
+      "Using a story does not make every part of it inspired. When Paul quotes a Greek poet (Acts 17:28), he is not approving all of that poet's ideas. In the same way, Jude can quote a line from 1 Enoch because it fits the truth he is teaching."
+     ]
+    },
+    {
+     "h": "Stories about Abraham, Moses and Sinai",
+     "p": [
+      "Many traditions explain the big moments of Israel's story: Abraham turning from idols, Israel stepping into the Red Sea, the giving of the Torah at Sinai, and Isaac on the altar. They show how Jews understood faith, courage and God's choice of Israel.",
+      "Several of them echo in the New Testament's teaching: faith that trusts God's promise (Heb 11:17–19), the Torah offered and the gospel going to all nations, and God's presence among those gathered around His word (Matt 18:20)."
+     ]
+    },
+    {
+     "h": "Traditions the New Testament mentions",
+     "p": [
+      "Some New Testament verses name details found nowhere in the Old Testament. Paul names **Jannes and Jambres**, the magicians who opposed Moses (2 Tim 3:8). Jude tells of **Michael** disputing with the devil over Moses' body (Jude 9) and quotes a prophecy of **Enoch** (Jude 14–15). Stephen and Paul say the Law was given **through angels** (Acts 7:53; Gal 3:19).",
+      "Paul says the **rock** that gave Israel water \"followed them\" (1 Cor 10:4), a well-known tradition. Jesus speaks of the scribes sitting on **Moses' seat** (Matt 23:2). In each case the writer assumes the readers already know the story."
+     ]
+    },
+    {
+     "h": "Reading them wisely",
+     "p": [
+      "These stories help us in three ways. They explain puzzling verses. They show that the apostles were deeply at home in Jewish thinking. And they show how the apostles took familiar stories and pointed them to Jesus: \"the Rock was Christ\" (1 Cor 10:4).",
+      "At the same time, Scripture remains the standard. We use these traditions as background, like a map of the world the first readers lived in, not as a new Bible."
+     ]
+    }
+   ],
+   "diagrams": [
+    {
+     "type": "cards",
+     "title": "Stories behind the New Testament (1): named in the text",
+     "after": 3,
+     "cards": [
+      {
+       "t": "The rock that followed",
+       "front": "Did a rock really follow Israel?",
+       "back": "A Jewish tradition said the well that gave Israel water in the desert travelled with them through all their journeys, like a rock rolling along. Paul uses this known story and says the true Rock was Christ.",
+       "source": "Tosefta Sukkah 3:11",
+       "echo": "1 Corinthians 10:4"
+      },
+      {
+       "t": "Jannes and Jambres",
+       "front": "Who were the magicians who opposed Moses?",
+       "back": "Exodus does not name Pharaoh's magicians. Jewish tradition gave them names, Jannes and Jambres. Paul uses them as a picture of people who oppose the truth.",
+       "source": "Targum Pseudo-Jonathan on Exodus 7:11",
+       "echo": "2 Timothy 3:8"
+      },
+      {
+       "t": "Michael and Moses' body",
+       "front": "Why would an angel argue over a dead body?",
+       "back": "Deuteronomy says God buried Moses and no one knows his grave. A tradition told of Michael and the devil disputing over the body. Michael did not dare to accuse, but said, \"The Lord rebuke you.\"",
+       "source": "A lost writing, often called the Assumption of Moses",
+       "echo": "Jude 9"
+      },
+      {
+       "t": "Enoch's prophecy",
+       "front": "Where does Jude's quote from Enoch come from?",
+       "back": "Genesis says only that Enoch walked with God. The book of 1 Enoch, known among Jews before Jesus, opens with a prophecy of the Lord coming with His holy ones to judge. Jude quotes it.",
+       "source": "1 Enoch 1:9",
+       "echo": "Jude 14–15"
+      },
+      {
+       "t": "The Law through angels",
+       "front": "Were angels present at Sinai?",
+       "back": "Exodus does not say so plainly, but Jewish teaching, drawing on Deuteronomy 33:2 and Psalm 68:17, held that angels took part when God gave the Law. The New Testament repeats this.",
+       "source": "Jewish teaching on Deut 33:2; Ps 68:17",
+       "echo": "Acts 7:53; Galatians 3:19; Hebrews 2:2"
+      },
+      {
+       "t": "Moses' seat",
+       "front": "What is 'Moses' seat'?",
+       "back": "Teachers of the Torah were seen as carrying on Moses' teaching authority. A Jewish text also speaks of a 'seat of Moses', and stone seats have been found in ancient synagogues, though what they were called is debated.",
+       "source": "Pesikta de-Rav Kahana 1:7; synagogue finds",
+       "echo": "Matthew 23:2–3"
+      }
+     ]
+    },
+    {
+     "type": "cards",
+     "title": "Stories behind the New Testament (2): echoes of faith",
+     "after": 2,
+     "cards": [
+      {
+       "t": "Abraham and the idols",
+       "front": "Why did Abraham leave his father's house?",
+       "back": "Abraham's father Terah made idols. Young Abraham smashed them, put the hammer in the hand of the largest idol, and asked his father how a lifeless idol could do anything. He turned from idols to the living God.",
+       "source": "Genesis Rabbah 38:13",
+       "echo": "Joshua 24:2; 1 Thessalonians 1:9"
+      },
+      {
+       "t": "Nachshon steps in",
+       "front": "Who went into the sea first?",
+       "back": "One tradition says the tribes hesitated at the Red Sea until Nachshon of Judah walked in. Only when the water reached his neck did the sea split. Faith stepped forward before seeing the way.",
+       "source": "Talmud Sotah 37a",
+       "echo": "Hebrews 11:29"
+      },
+      {
+       "t": "Torah offered to the nations",
+       "front": "Was Israel the only nation offered the Torah?",
+       "back": "A midrash says God first offered the Torah to other nations, who refused it, and then Israel accepted. Another tradition says God's voice at Sinai went out in the languages of all nations.",
+       "source": "Sifre Deuteronomy 343; Talmud Shabbat 88b",
+       "echo": "Acts 2:5–11 (many see an echo)"
+      },
+      {
+       "t": "Isaac's willingness",
+       "front": "Was Isaac a small boy on the altar?",
+       "back": "Jewish traditions picture Isaac as a grown man who willingly offered himself and asked to be bound well. The binding (the Akedah) became a great picture of faith and self-giving.",
+       "source": "Targums on Genesis 22; Genesis Rabbah 56",
+       "echo": "Hebrews 11:17–19"
+      },
+      {
+       "t": "God's presence with two or three",
+       "front": "When is God's presence among people?",
+       "back": "The Mishnah teaches that when two sit together and words of Torah are between them, the Shekhinah (God's presence) rests among them. Jesus says something similar about Himself.",
+       "source": "Mishnah Avot 3:2 (and 3:6)",
+       "echo": "Matthew 18:20"
+      }
+     ]
+    },
+    {
+     "type": "flow",
+     "title": "From a story to a New Testament verse",
+     "after": 4,
+     "steps": [
+      {
+       "t": "A gap in Scripture",
+       "d": "Example: Israel had water from a rock more than once (Ex 17; Num 20)."
+      },
+      {
+       "t": "A tradition grows",
+       "d": "Teachers say the water source travelled with Israel."
+      },
+      {
+       "t": "It is passed on",
+       "d": "Told in synagogues and later written in the Tosefta."
+      },
+      {
+       "t": "The apostle uses it",
+       "d": "Paul: \"they drank from the spiritual Rock that followed them\"."
+      },
+      {
+       "t": "It points to Christ",
+       "d": "\"And the Rock was Christ\" (1 Cor 10:4)."
+      }
+     ]
+    },
+    {
+     "type": "timeline",
+     "title": "When the traditions were written down",
+     "after": 1,
+     "note": "Dates are approximate. A late book can still keep an older story.",
+     "events": [
+      {
+       "when": "3rd–1st c. BC",
+       "t": "1 Enoch",
+       "d": "Parts found among the Dead Sea Scrolls."
+      },
+      {
+       "when": "About 30–100 AD",
+       "t": "New Testament",
+       "d": "Shows some traditions were already well known."
+      },
+      {
+       "when": "About AD 200",
+       "t": "Mishnah",
+       "d": "Includes Avot (\"Sayings of the Fathers\")."
+      },
+      {
+       "when": "3rd–4th c. AD",
+       "t": "Tosefta, Mekhilta, Sifra, Sifre",
+       "d": "Early collections of teaching and midrash."
+      },
+      {
+       "when": "About AD 400–500",
+       "t": "Genesis Rabbah, Jerusalem Talmud",
+       "d": "Large collections of stories and discussion."
+      },
+      {
+       "when": "About AD 500–600",
+       "t": "Babylonian Talmud",
+       "d": "The largest collection of Jewish teaching."
+      },
+      {
+       "when": "Later centuries",
+       "t": "Targum Pseudo-Jonathan",
+       "d": "Final form is late, but keeps many older traditions."
+      }
+     ]
+    }
+   ],
+   "verses": [
+    {
+     "ref": "1 Corinthians 10:4",
+     "text": "They drank from the spiritual Rock that followed them, and the Rock was Christ."
+    },
+    {
+     "ref": "2 Timothy 3:8",
+     "text": "Just as Jannes and Jambres opposed Moses, so these men also oppose the truth."
+    },
+    {
+     "ref": "Jude 9",
+     "text": "Michael… disputing about the body of Moses… said, \"The Lord rebuke you.\""
+    },
+    {
+     "ref": "Matthew 18:20",
+     "text": "Where two or three are gathered in my name, there am I among them."
+    }
+   ],
+   "keyPoints": [
+    "Jewish traditions filled in gaps in the Bible's stories.",
+    "They are not Scripture, but many were known in Jesus' day.",
+    "The New Testament mentions some directly: Jannes and Jambres, Michael, Enoch, the following rock.",
+    "Knowing them explains puzzling verses and shows the apostles' Jewish world.",
+    "The apostles used familiar stories to point to Jesus."
+   ],
+   "reflect": [
+    "Which of these stories helps you understand a verse you once found strange?",
+    "How can you enjoy such traditions while keeping Scripture as your final guide?"
+   ],
+   "quiz": [
+    {
+     "q": "Where are the names Jannes and Jambres found in the New Testament?",
+     "options": [
+      "Genesis 22",
+      "Matthew 2",
+      "2 Timothy 3:8",
+      "Revelation 12"
+     ],
+     "a": 2,
+     "why": "Paul names them in 2 Timothy 3:8; Exodus does not name Pharaoh's magicians, but Jewish tradition did."
+    },
+    {
+     "q": "What does Jude 14–15 quote?",
+     "options": [
+      "A prophecy found in 1 Enoch",
+      "The book of Esther",
+      "A Roman law",
+      "A psalm of David"
+     ],
+     "a": 0,
+     "why": "Jude 14–15 matches 1 Enoch 1:9, a Jewish writing known before Jesus."
+    },
+    {
+     "q": "How should Christians treat these stories?",
+     "options": [
+      "As equal to Scripture",
+      "As useful background, not Scripture",
+      "As forbidden to read",
+      "As later Christian inventions"
+     ],
+     "a": 1,
+     "why": "They are Jewish traditions; they help explain the New Testament, but Scripture stays the standard."
+    },
+    {
+     "q": "What did Paul say about the rock that followed Israel?",
+     "options": [
+      "It was a myth to reject",
+      "It was Moses' staff",
+      "It was the Temple",
+      "The Rock was Christ"
+     ],
+     "a": 3,
+     "why": "In 1 Corinthians 10:4 Paul uses the known tradition and points it to Christ."
+    }
+   ],
+   "terms": [
+    {
+     "term": "Tradition",
+     "def": "Teaching or stories handed down over generations, outside the written Bible."
+    },
+    {
+     "term": "Genesis Rabbah",
+     "def": "A Jewish collection of midrash on the book of Genesis."
+    },
+    {
+     "term": "1 Enoch",
+     "def": "An ancient Jewish book written before Jesus, quoted in Jude 14–15."
+    },
+    {
+     "term": "Akedah",
+     "def": "Hebrew for \"binding\": the story of Isaac bound on the altar (Gen 22)."
+    },
+    {
+     "term": "Shekhinah",
+     "def": "A Jewish word for God's dwelling presence among His people."
+    }
+   ],
+   "related": [
+    "b-midrash",
+    "g-03"
+   ]
+  }
+ ],
+ "glossary": []
+}
