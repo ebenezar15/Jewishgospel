@@ -1,0 +1,396 @@
+{
+  "chapters": [
+    {
+      "id": "b-history", "book": "world", "order": 10, "num": 1,
+      "title": "Between the Testaments: from Exile to AD 135",
+      "subtitle": "The 600 years that set the stage for Jesus",
+      "nutshell": "Between the last prophets and the birth of Jesus, Israel passed from Persian to Greek to Jewish to Roman rule. These centuries gave the New Testament its world: synagogues, Pharisees, Herod's Temple, Roman soldiers and a deep hope for God's Messiah.",
+      "bigIdea": "The 'silent' years between the Testaments were full of events that explain almost every page of the Gospels.",
+      "skeleton": [
+        "Exile and return under Persia (586–332 BC)",
+        "Greek rule after Alexander (332–167 BC)",
+        "The Maccabees revolt and win freedom (167–63 BC)",
+        "Rome takes control and Herod rules (63–4 BC)",
+        "Jesus and the apostles live under Rome",
+        "Two failed revolts end with the Temple and Jerusalem lost (AD 66–135)"
+      ],
+      "sections": [
+        {"h": "Exile and return", "p": [
+          "In 586 BC Babylon destroyed Jerusalem and Solomon's Temple and took many Judeans into exile. In 539 BC Persia conquered Babylon, and King Cyrus allowed the exiles to go home (Ezra 1:1–4). They rebuilt a smaller **Second Temple**, finished about 516 BC. Ezra and Nehemiah taught the Torah and rebuilt the walls. For about two hundred years Judea was a small, quiet province of the Persian Empire."
+        ]},
+        {"h": "The Greeks arrive", "p": [
+          "In 332 BC **Alexander the Great** swept through the land. After his early death his generals divided the empire. Judea was ruled first by the **Ptolemies** of Egypt (about 301–198 BC) and then by the **Seleucids** of Syria. Greek language, cities, theatres and gymnasiums spread everywhere. In Alexandria, Jews translated the Torah into Greek (the **Septuagint**), the Bible the apostles often quoted."
+        ]},
+        {"h": "Antiochus, the Maccabees and Hanukkah", "p": [
+          "In 167 BC the Seleucid king **Antiochus IV** banned circumcision, Sabbath and Torah reading, and set up a pagan altar in the Temple. A priest named Mattathias and his sons, led by **Judah the Maccabee** ('the hammer'), rebelled. In 164 BC they cleansed and rededicated the Temple (1 Maccabees 4:36–59). Jews still remember this as **Hanukkah**, the Feast of Dedication that Jesus attended (John 10:22).",
+          "The Maccabees' family, the **Hasmoneans**, then ruled an independent Jewish kingdom for about eighty years. But they also took the office of High Priest, and quarrels about this helped give rise to groups like the Pharisees, Sadducees and Essenes."
+        ]},
+        {"h": "Rome and King Herod", "p": [
+          "In 63 BC two Hasmonean brothers were fighting for the throne. The Roman general **Pompey** came, captured Jerusalem and even walked into the Holy of Holies. Judea now belonged to Rome. In 40 BC the Roman Senate named **Herod** 'king of the Jews', and he ruled from 37 to 4 BC. He was a brilliant builder and a cruel ruler. Jesus was born near the end of his reign (Matthew 2:1)."
+        ]},
+        {"h": "Jesus, the war and the end of the Temple", "p": [
+          "After Herod, Rome ruled Judea through governors such as **Pontius Pilate** (AD 26–36). Anger at Roman rule grew until the **Jewish War** broke out in AD 66. In AD 70 the Roman general Titus destroyed Jerusalem and the Temple, as Jesus had warned (Luke 19:41–44). The last rebels died at **Masada** in AD 73 or 74.",
+          "> A second revolt led by **Simon bar Kokhba** (AD 132–135) also failed. Rome rebuilt Jerusalem as a pagan city called Aelia Capitolina and banned Jews from it. Judaism continued around the Torah, the synagogue and the rabbis; the church spread across the empire."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "timeline", "after": 0, "title": "From Exile to Bar Kokhba",
+         "note": "Dates before Christ are approximate where marked 'c.'.",
+         "events": [
+          {"when": "586 BC", "t": "Jerusalem falls", "d": "Babylon destroys the First Temple; exile begins."},
+          {"when": "538 BC", "t": "Cyrus lets exiles return", "d": "Persian rule; Ezra 1."},
+          {"when": "c. 516 BC", "t": "Second Temple finished", "d": "Smaller than Solomon's (Ezra 6:15; Haggai 2:3)."},
+          {"when": "332 BC", "t": "Alexander the Great", "d": "Greek rule and Greek culture begin."},
+          {"when": "c. 250 BC", "t": "Septuagint begun", "d": "The Torah translated into Greek in Alexandria."},
+          {"when": "167 BC", "t": "Antiochus IV defiles the Temple", "d": "The Maccabean revolt starts."},
+          {"when": "164 BC", "t": "Temple rededicated", "d": "The first Hanukkah (1 Maccabees 4)."},
+          {"when": "63 BC", "t": "Pompey takes Jerusalem", "d": "Judea comes under Rome."},
+          {"when": "37–4 BC", "t": "Herod the Great", "d": "Rebuilds the Temple; Jesus born near the end (Matthew 2)."},
+          {"when": "c. AD 30", "t": "Jesus crucified and raised", "d": "Under Pilate; the church begins at Pentecost."},
+          {"when": "AD 70", "t": "Temple destroyed", "d": "Titus burns Jerusalem in the Jewish War."},
+          {"when": "AD 73/74", "t": "Masada falls", "d": "The last rebel fortress."},
+          {"when": "AD 132–135", "t": "Bar Kokhba revolt", "d": "Jews banned from Jerusalem afterwards."}
+         ]},
+        {"type": "flow", "after": 3, "title": "How Israel came under Rome",
+         "steps": [
+          {"t": "Hasmonean kingdom", "d": "Independent Jewish rule after the Maccabees."},
+          {"t": "Brothers' civil war", "d": "Hyrcanus II and Aristobulus II fight for the throne."},
+          {"t": "Both ask Rome for help", "d": "Pompey is already nearby in Syria."},
+          {"t": "Pompey takes Jerusalem (63 BC)", "d": "Judea must pay tribute to Rome."},
+          {"t": "Herod made king (40 BC)", "d": "A 'client king' who serves Rome."},
+          {"t": "Direct Roman governors (AD 6)", "d": "After Herod's son Archelaus is removed."}
+         ]},
+        {"type": "map", "after": 4, "title": "Places of this story",
+         "places": [
+          {"id": "jerusalem", "d": "Cleansed by the Maccabees, taken by Pompey, destroyed by Titus in AD 70.", "refs": "Luke 19:41–44"},
+          {"id": "qumran", "d": "A community by the Dead Sea that hid the Dead Sea Scrolls before the war.", "refs": "Dead Sea Scrolls"},
+          {"id": "masada", "d": "Herod's desert fortress; the last rebels fell here in AD 73/74.", "refs": "Josephus, Jewish War 7"},
+          {"id": "herodium", "d": "Herod's hilltop palace-fortress near Bethlehem, where he was buried.", "refs": "Matthew 2:1"},
+          {"id": "caesarea", "d": "Herod's harbour city; later the seat of Roman governors like Pilate.", "refs": "Acts 23:33"},
+          {"id": "sepphoris", "d": "Galilee's capital, rebuilt by Herod Antipas, an hour's walk from Nazareth.", "refs": "Luke 3:1"}
+         ]}
+      ],
+      "verses": [
+        {"ref": "Ezra 1:3", "text": "Whoever is among you of all his people… let him go up to Jerusalem."},
+        {"ref": "John 10:22", "text": "At that time the Feast of Dedication took place at Jerusalem. It was winter."},
+        {"ref": "Galatians 4:4", "text": "But when the fullness of time had come, God sent forth his Son."},
+        {"ref": "Luke 19:43–44", "text": "They will not leave one stone upon another in you."}
+      ],
+      "keyPoints": [
+        "Israel was ruled by Persia, then Greeks, then the Hasmoneans, then Rome.",
+        "Hanukkah remembers the Maccabees rededicating the Temple in 164 BC.",
+        "Pompey brought Judea under Rome in 63 BC; Herod ruled as Rome's king.",
+        "The Temple was destroyed in AD 70, as Jesus foretold.",
+        "Many New Testament groups and customs grew out of these centuries."
+      ],
+      "reflect": [
+        "God seemed silent for centuries, yet He was preparing 'the fullness of time'. Where might He be quietly at work in your life?",
+        "The Maccabees chose faithfulness over comfort. What would that look like for you today?"
+      ],
+      "quiz": [
+        {"q": "Which feast remembers the rededication of the Temple by the Maccabees?", "options": ["Passover", "Pentecost", "Hanukkah", "Purim"], "a": 2, "why": "Hanukkah (Dedication) recalls 164 BC; Jesus was in the Temple at this feast (John 10:22)."},
+        {"q": "Who brought Judea under Roman control in 63 BC?", "options": ["Pompey", "Alexander", "Titus", "Cyrus"], "a": 0, "why": "Pompey captured Jerusalem during a Hasmonean civil war."},
+        {"q": "When was the Second Temple destroyed?", "options": ["586 BC", "AD 70", "164 BC", "AD 135"], "a": 1, "why": "Titus destroyed it in AD 70 during the Jewish War."},
+        {"q": "What is the Septuagint?", "options": ["A Roman law", "A Maccabean army", "A Herodian palace", "The Greek translation of the Hebrew Scriptures"], "a": 3, "why": "It was made in Alexandria and often quoted by New Testament writers."}
+      ],
+      "terms": [
+        {"term": "Second Temple", "def": "The Temple rebuilt after the exile (c. 516 BC), later enlarged by Herod; destroyed AD 70."},
+        {"term": "Maccabees", "def": "The family of Judah 'the hammer', who led the revolt against Antiochus IV."},
+        {"term": "Hasmoneans", "def": "The Maccabees' dynasty, which ruled Judea c. 140–63 BC."},
+        {"term": "Septuagint", "def": "The Greek translation of the Hebrew Bible, begun in Alexandria in the 3rd century BC."},
+        {"term": "Client king", "def": "A local king who ruled with Rome's permission and served Rome's interests, like Herod."}
+      ],
+      "related": ["g-01", "g-07", "b-rome"]
+    },
+    {
+      "id": "b-gospels", "book": "world", "order": 20, "num": 2,
+      "title": "Background to the Gospels",
+      "subtitle": "How Jesus' words became four books",
+      "nutshell": "Jesus taught as a Jewish rabbi, and his disciples remembered and passed on his words. Within a few decades these memories were written down as four Gospels, each telling the one story for a different audience.",
+      "bigIdea": "Four Gospels give four portraits of one Jesus, each rooted in the Jewish world.",
+      "skeleton": [
+        "Jesus teaches in memorable Jewish ways",
+        "Disciples memorise and pass on his words",
+        "The Gospels are written, roughly AD 60–100",
+        "Each Gospel speaks to its own audience",
+        "Matthew, Mark and Luke are closely related; John is different",
+        "Each is deeply Jewish in its own way"
+      ],
+      "sections": [
+        {"h": "From Jesus' lips to the page", "p": [
+          "Jesus did not write a book. He taught in short sayings, parables and vivid pictures that were easy to remember, as Jewish teachers did. His disciples lived with him and repeated his words. Jewish students were trained to memorise their teacher's words carefully. The Mishnah begins: 'Moses **received** the Torah from Sinai and **handed it on**…' (Avot 1:1). Paul uses the same language: 'I delivered to you… what I also received' (1 Corinthians 15:3)."
+        ]},
+        {"h": "When were they written?", "p": [
+          "Luke says that many had already written accounts, based on eyewitnesses (Luke 1:1–4). Most scholars date Mark around AD 65–70, Matthew and Luke around AD 70–90, and John around AD 90–100. Some date them earlier. These dates are **estimates**, not certainties. Either way, they were written within living memory of Jesus, when eyewitnesses were still alive."
+        ]},
+        {"h": "Who wrote them, and for whom?", "p": [
+          "The Gospels themselves do not name their authors, but early church tradition is strong. **Matthew** the tax collector wrote for Jewish believers. **Mark**, Peter's companion, wrote in Rome for Gentile believers. **Luke**, a doctor and Paul's companion, wrote for Theophilus and the wider Greek world. **John**, 'the disciple whom Jesus loved', wrote last, traditionally from Ephesus. Around AD 180 Irenaeus already spoke of exactly four Gospels."
+        ]},
+        {"h": "Three alike, one different", "p": [
+          "Matthew, Mark and Luke share many stories, often in the same order and words. They are called the **Synoptic Gospels** ('seen together'). A widely held view is that Mark was written first and Matthew and Luke used it, along with other sources; but this is a scholarly theory, and others are proposed.",
+          "**John** is different. It tells fewer miracles, calls them 'signs', and gives long speeches of Jesus. It follows the Jewish feasts: three Passovers, Tabernacles and Hanukkah."
+        ]},
+        {"h": "Each one deeply Jewish", "p": [
+          "**Matthew** shows Jesus fulfilling the Scriptures ('this was to fulfil…') and teaching the Torah from a mountain like a new Moses. **Mark** explains Jewish customs and Aramaic words for non-Jewish readers (Mark 5:41; 7:3–4). **Luke** begins and ends in the Temple (Luke 1:8–9; 24:53) and shows God welcoming outsiders. **John** presents Jesus as the meaning of the feasts: the Passover Lamb, the living water and the light of the world."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "flow", "after": 0, "title": "From Jesus to your Bible",
+         "steps": [
+          {"t": "Jesus teaches", "d": "Parables and sayings in Galilee and Judea, c. AD 28–30."},
+          {"t": "Disciples remember", "d": "They memorise and repeat his words, as Jewish students did."},
+          {"t": "Oral teaching", "d": "The apostles preach and teach in the churches (Acts 2:42)."},
+          {"t": "Written Gospels", "d": "Mark, Matthew, Luke and John write it down (c. AD 60–100)."},
+          {"t": "Copied and shared", "d": "Hand-copied on papyrus and read aloud in gatherings."}
+         ]},
+        {"type": "table", "after": 2, "title": "Four Gospels at a glance",
+         "note": "Authors and audiences follow early church tradition; symbols are a later tradition.",
+         "cols": ["", "Matthew", "Mark", "Luke", "John"],
+         "rows": [
+          {"h": "Written for", "cells": ["Jewish believers", "Romans and Gentiles", "Theophilus and Greeks", "All believers, Jews and Greeks"]},
+          {"h": "Traditional author", "cells": ["Matthew (Levi), tax collector", "John Mark, Peter's helper", "Luke, Paul's doctor friend", "John, the beloved disciple"]},
+          {"h": "Emphasis", "cells": ["Jesus the promised King", "Jesus the suffering Servant", "Jesus the Saviour of all", "Jesus the Son who reveals God"]},
+          {"h": "Opens with", "cells": ["Family line from Abraham", "John the Baptist in the wilderness", "A priest in the Temple", "'In the beginning was the Word'"]},
+          {"h": "Jewish feature", "cells": ["Fulfilled Scripture, Torah teaching", "Explains customs, Aramaic words", "Temple frame, Jerusalem focus", "Jewish feasts structure the story"]},
+          {"h": "Symbol", "cells": ["Man", "Lion", "Ox", "Eagle"]}
+         ]},
+        {"type": "timeline", "after": 1, "title": "When the New Testament was written",
+         "note": "Most dates are scholarly ranges; some date the Gospels earlier.",
+         "events": [
+          {"when": "c. AD 30", "t": "Death and resurrection of Jesus", "d": "Under Pontius Pilate."},
+          {"when": "c. AD 50", "t": "Paul's first letters", "d": "1 Thessalonians is probably the earliest NT book."},
+          {"when": "c. AD 65–70", "t": "Mark", "d": "Often thought the first Gospel."},
+          {"when": "AD 70", "t": "Temple destroyed", "d": "A turning point for Jews and Christians."},
+          {"when": "c. AD 70–90", "t": "Matthew and Luke", "d": "Luke continues with Acts."},
+          {"when": "c. AD 90–100", "t": "John", "d": "Traditionally the last Gospel."}
+         ]}
+      ],
+      "verses": [
+        {"ref": "Luke 1:1–2", "text": "Just as those who from the beginning were eyewitnesses and ministers of the word have delivered them to us."},
+        {"ref": "1 Corinthians 15:3", "text": "For I delivered to you as of first importance what I also received."},
+        {"ref": "John 20:31", "text": "These are written so that you may believe that Jesus is the Christ, the Son of God."},
+        {"ref": "Matthew 5:17", "text": "I have not come to abolish them but to fulfil them."}
+      ],
+      "keyPoints": [
+        "Jesus' words were carefully remembered and passed on, as Jewish teaching was.",
+        "The Gospels were written within living memory of Jesus, probably AD 60–100.",
+        "Each Gospel was written for a particular audience.",
+        "Matthew, Mark and Luke are closely related; Mark-first is a common view, not a certainty.",
+        "John is structured around the Jewish feasts."
+      ],
+      "reflect": [
+        "Which Gospel do you know best? What might you learn from reading one of the others?",
+        "The first disciples memorised Jesus' words. Which saying of Jesus would you like to know by heart?"
+      ],
+      "quiz": [
+        {"q": "What does 'Synoptic' mean?", "options": ["Written first", "Seen together", "Sent to Rome", "Full of signs"], "a": 1, "why": "Matthew, Mark and Luke can be 'seen together' because they share much material."},
+        {"q": "Which Gospel is built around Jewish feasts such as Passover and Tabernacles?", "options": ["Matthew", "Mark", "Luke", "John"], "a": 3, "why": "John mentions three Passovers, Tabernacles (John 7) and Hanukkah (John 10:22)."},
+        {"q": "Which Gospel begins and ends in the Temple?", "options": ["Luke", "Mark", "John", "Matthew"], "a": 0, "why": "It opens with Zechariah serving in the Temple and ends with the disciples praising God there."},
+        {"q": "How sure are the dates of the Gospels?", "options": ["Exactly known", "Unknown within a century", "Estimates within a range", "Written on the books"], "a": 2, "why": "Scholars give ranges, such as Mark c. AD 65–70; some date them earlier."}
+      ],
+      "terms": [
+        {"term": "Gospel", "def": "'Good news'; also the name for the four books about Jesus' life, death and resurrection."},
+        {"term": "Oral tradition", "def": "Teaching passed on by memory and speech before it was written."},
+        {"term": "Synoptic Gospels", "def": "Matthew, Mark and Luke, which share many stories and words."},
+        {"term": "Eyewitness", "def": "Someone who saw the events; Luke builds on their testimony (Luke 1:2)."},
+        {"term": "Fulfilment", "def": "Matthew's theme: Jesus brings the Scriptures to their full meaning."}
+      ],
+      "related": ["g-intro", "g-04", "s-teach"]
+    },
+    {
+      "id": "b-land", "book": "world", "order": 30, "num": 3,
+      "title": "The Land: Geography of Jesus' World",
+      "subtitle": "Hills, lakes, deserts and roads",
+      "nutshell": "Jesus' land was small, about the size of a few Indian districts, but full of contrasts: green Galilee, rocky Judea, a freshwater lake and the salty Dead Sea. Knowing its regions, roads and people helps the Gospel stories come alive.",
+      "bigIdea": "The geography of the land shapes the movements and meaning of Jesus' ministry.",
+      "skeleton": [
+        "A small land between sea and desert",
+        "Many regions with different rulers and peoples",
+        "Main roads link Egypt and Syria",
+        "Jews and Samaritans avoid each other",
+        "Jesus' ministry centres on the Sea of Galilee",
+        "His last journey goes 'up' to Jerusalem"
+      ],
+      "sections": [
+        {"h": "A small land of contrasts", "p": [
+          "From Dan in the north to Beersheba in the south is only about 240 km. Yet the land changes quickly: the Mediterranean coast, the central hill country, the deep Jordan valley, and the wilderness to the east. The **Sea of Galilee** lies about 210 m below sea level, and the **Dead Sea**, about 430 m below, is the lowest place on earth. Rain falls in winter; summers are dry."
+        ]},
+        {"h": "The regions", "p": [
+          "In Jesus' day the land was a patchwork. **Galilee** and **Perea** (across the Jordan) were ruled by Herod Antipas. **Judea**, **Samaria** and **Idumea** were under a Roman governor. **Gaulanitis**, north-east of the lake, belonged to Herod's son Philip. The **Decapolis** ('ten cities') was a group of Greek cities, and **Phoenicia** with Tyre and Sidon lay on the coast. Jesus visited them all (Mark 7:24, 31)."
+        ]},
+        {"h": "Roads and travel", "p": [
+          "Three main routes ran north–south. The **coastal road**, later called the Via Maris ('way of the sea', compare Isaiah 9:1), linked Egypt and Syria. The **ridge route** ran along the hilltops through Shechem, Bethel, Jerusalem and Hebron, the road of the patriarchs. The **Jordan valley route** ran beside the river. Most people walked about 30 km a day, often in groups for safety (Luke 2:44; 10:30)."
+        ]},
+        {"h": "Samaria, and going 'up' to Jerusalem", "p": [
+          "The Samaritans worshipped on Mount Gerizim, not in Jerusalem, and centuries of hostility divided them from Jews: 'Jews have no dealings with Samaritans' (John 4:9). Galilean pilgrims often went around Samaria through the Jordan valley, though some went straight through. Jesus did both (Luke 9:51–53; John 4:4).",
+          "Jerusalem stands about 750 m above sea level, and Jericho about 250 m below. So pilgrims really did 'go up' to Jerusalem: a climb of about 1,000 m in 25 km of desert road, the setting of the Good Samaritan story (Luke 10:30)."
+        ]},
+        {"h": "Lake and wilderness", "p": [
+          "The **Sea of Galilee** is a freshwater lake about 21 km long. Its towns, Capernaum, Bethsaida and Magdala, lived by fishing and trade. Winds from the hills can raise sudden storms (Mark 4:37). Most of Jesus' miracles happened around this lake.",
+          "East of Jerusalem the **Judean wilderness** drops to the Dead Sea: bare hills, caves and silence. Here David hid, John the Baptist preached, and Jesus was tested for forty days (Mark 1:12–13)."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "map", "after": 1, "title": "Jesus' land and his last journey",
+         "note": "The route follows Jesus from Galilee to Jerusalem by way of the Jordan valley (Mark 10:1; John 10:40; Luke 19).",
+         "places": [
+          {"id": "nazareth", "d": "Jesus' hometown, a small village in the Galilean hills.", "refs": "Luke 4:16"},
+          {"id": "cana", "d": "Water turned into wine at a wedding: the first sign.", "refs": "John 2:1–11"},
+          {"id": "capernaum", "d": "Jesus' base by the lake; Peter's home.", "refs": "Mark 2:1"},
+          {"id": "magdala", "d": "A fishing town; home of Mary Magdalene.", "refs": "Luke 8:2"},
+          {"id": "bethsaida", "d": "Fishing town of Peter, Andrew and Philip; across the border in Philip's territory.", "refs": "John 1:44"},
+          {"id": "caesarea-philippi", "d": "A pagan city at the foot of Mount Hermon, where Peter confessed Jesus as Messiah.", "refs": "Matthew 16:13–16"},
+          {"id": "tyre", "d": "A Gentile port city in Phoenicia; Jesus heals a Syrophoenician woman's daughter nearby.", "refs": "Mark 7:24–30"},
+          {"id": "gadara", "d": "A Greek city of the Decapolis, near where Jesus freed a man from demons.", "refs": "Matthew 8:28"},
+          {"id": "gerizim", "d": "The Samaritans' holy mountain, near Jacob's well.", "refs": "John 4:20"},
+          {"id": "bethany-beyond", "d": "Where John baptised, across the Jordan; Jesus stayed here before his last journey.", "refs": "John 1:28; 10:40"},
+          {"id": "jericho", "d": "Oasis city below sea level; Zacchaeus and blind Bartimaeus.", "refs": "Luke 19:1–10"},
+          {"id": "bethany", "d": "Village of Mary, Martha and Lazarus, on the Mount of Olives.", "refs": "John 11:1; 12:1"},
+          {"id": "jerusalem", "d": "The holy city and the Temple; Jesus' death and resurrection.", "refs": "Luke 9:51"},
+          {"id": "bethlehem", "d": "David's town and Jesus' birthplace.", "refs": "Luke 2:4–7"}
+         ],
+         "route": ["capernaum", "bethany-beyond", "jericho", "bethany", "jerusalem"]},
+        {"type": "table", "after": 1, "title": "The regions in Jesus' day",
+         "cols": ["", "Ruler", "People", "Gospel moment"],
+         "rows": [
+          {"h": "Galilee", "cells": ["Herod Antipas", "Mostly Jewish villages, farmers, fishers", "Most of Jesus' ministry"]},
+          {"h": "Judea", "cells": ["Roman governor (Pilate)", "Jews; Temple priests in Jerusalem", "Birth, death and resurrection"]},
+          {"h": "Samaria", "cells": ["Roman governor", "Samaritans", "Woman at the well (John 4)"]},
+          {"h": "Perea", "cells": ["Herod Antipas", "Jews, east of the Jordan", "Teaching on the way (Mark 10:1)"]},
+          {"h": "Idumea", "cells": ["Roman governor", "Edomite descendants, Herod's family origin", "Crowds come from there (Mark 3:8)"]},
+          {"h": "Decapolis", "cells": ["Free Greek cities under Syria", "Mostly Gentiles", "Demon-possessed man freed (Mark 5)"]},
+          {"h": "Gaulanitis", "cells": ["Herod Philip", "Mixed Jews and Gentiles", "Peter's confession (Matthew 16)"]},
+          {"h": "Phoenicia", "cells": ["Province of Syria", "Gentiles of Tyre and Sidon", "Syrophoenician woman (Mark 7)"]}
+         ]},
+        {"type": "compare", "after": 4, "title": "Galilee and Judea",
+         "left": {"label": "Galilee", "items": ["Green hills, fertile valleys, a large lake", "Farmers and fishers in villages", "Ruled by Herod Antipas", "Gentile neighbours all around", "Galilean accent (Matthew 26:73)", "Where Jesus called his disciples"]},
+         "right": {"label": "Judea", "items": ["Rocky hills and desert", "Shepherds, priests and city dwellers", "Ruled by a Roman governor", "Centred on the Temple", "Proud of its learning and priesthood", "Where Jesus died and rose"]}}
+      ],
+      "verses": [
+        {"ref": "Isaiah 9:1", "text": "The way of the sea, the land beyond the Jordan, Galilee of the nations."},
+        {"ref": "John 4:9", "text": "For Jews have no dealings with Samaritans."},
+        {"ref": "Luke 9:51", "text": "He set his face to go to Jerusalem."},
+        {"ref": "Psalm 122:4", "text": "To which the tribes go up, the tribes of the LORD."}
+      ],
+      "keyPoints": [
+        "The land is small but varied, from the coast to the deep Jordan valley.",
+        "Different regions had different rulers: Herod's sons or a Roman governor.",
+        "Jews and Samaritans were divided; Jesus crossed that line.",
+        "Pilgrims climbed about 1,000 m from Jericho 'up' to Jerusalem.",
+        "Most of Jesus' ministry centred on the towns around the Sea of Galilee."
+      ],
+      "reflect": [
+        "Jesus went to Gentile and Samaritan areas that others avoided. Who are the 'Samaritans' near you?",
+        "Jesus 'set his face' to go up to Jerusalem. What hard road is God asking you to walk faithfully?"
+      ],
+      "quiz": [
+        {"q": "Who ruled Galilee in Jesus' adult life?", "options": ["Pontius Pilate", "Herod Antipas", "Herod Philip", "Caesar Augustus"], "a": 1, "why": "Antipas ruled Galilee and Perea from 4 BC to AD 39."},
+        {"q": "Why did pilgrims say they 'went up' to Jerusalem?", "options": ["It was further north", "It was on a river", "It sits high in the hills", "It was the largest city"], "a": 2, "why": "Jerusalem is about 750 m above sea level; Jericho is far below."},
+        {"q": "Where did the Samaritans worship?", "options": ["Mount Gerizim", "Mount Tabor", "Mount Carmel", "Mount Hermon"], "a": 0, "why": "The woman at the well speaks of 'this mountain' (John 4:20)."},
+        {"q": "What was the Decapolis?", "options": ["A Roman legion", "A Jewish council", "A desert road", "A group of Greek cities"], "a": 3, "why": "'Ten cities' east of the Jordan, mostly Gentile, such as Gadara and Gerasa."}
+      ],
+      "terms": [
+        {"term": "Galilee", "def": "The northern region around the lake where Jesus grew up and did most of his ministry."},
+        {"term": "Judea", "def": "The southern hill country around Jerusalem."},
+        {"term": "Samaritans", "def": "People of Samaria who worshipped on Mount Gerizim and accepted only the five books of Moses."},
+        {"term": "Decapolis", "def": "'Ten cities': Greek cities, mostly east of the Jordan."},
+        {"term": "Via Maris", "def": "'Way of the sea': later name for the main coastal road linking Egypt and Syria."}
+      ],
+      "related": ["b-history", "b-rome"]
+    },
+    {
+      "id": "b-rome", "book": "world", "order": 40, "num": 4,
+      "title": "Rome: Empire, Emperor and Everyday Power",
+      "subtitle": "Who was really in charge, and how the Gospel answered",
+      "nutshell": "In Jesus' day Rome ruled the whole Mediterranean world. Emperors called themselves 'son of god', 'lord' and 'saviour' and announced their 'good news'. The New Testament used these very words to proclaim that Jesus, not Caesar, is the true Lord.",
+      "bigIdea": "The Gospel announced a King whose kingdom answers Rome's power with the cross and the resurrection.",
+      "skeleton": [
+        "Rome ruled through emperors, governors and client kings",
+        "Taxes and toll collectors reached every village",
+        "Soldiers and crucifixion kept order by fear",
+        "Roman peace, roads and Greek helped the Gospel spread",
+        "Emperor titles were used for Jesus",
+        "Paul's Roman citizenship shaped his mission"
+      ],
+      "sections": [
+        {"h": "Emperors and governors", "p": [
+          "**Augustus** became the first emperor in 27 BC; his census is in Luke 2:1. **Tiberius** ruled during Jesus' ministry (Luke 3:1). Rome governed through layers of power. A **client king** like Herod ruled with Rome's permission. Later Judea had a Roman **prefect**, such as **Pontius Pilate** (AD 26–36); an inscription found at Caesarea gives him this title. The governor alone could order an execution (John 18:31)."
+        ]},
+        {"h": "Taxes and toll collectors", "p": [
+          "Rome demanded tribute from every province. A census in AD 6 sparked a revolt led by Judas the Galilean (Acts 5:37). Besides land and head taxes, there were tolls on goods at roads and harbours. Local men bought the right to collect them and took extra for themselves, so **tax collectors** were hated as greedy collaborators. Yet Jesus called Matthew (Matthew 9:9) and ate with Zacchaeus (Luke 19:1–10).",
+          "When asked about tribute, Jesus held up a denarius with Caesar's image: 'Render to Caesar the things that are Caesar's, and to God the things that are God's' (Mark 12:17)."
+        ]},
+        {"h": "Soldiers and the cross", "p": [
+          "Roman soldiers were everywhere. A **centurion** commanded about eighty men. Some centurions in the Gospels and Acts showed great faith (Matthew 8:5–13; Acts 10). **Crucifixion** was Rome's punishment for slaves and rebels: public, slow and shameful, a warning to everyone passing by. The Roman orator Cicero called it 'the most cruel and terrible punishment'. Roman citizens were normally spared it.",
+          "> That Jesus died this death, and that a centurion said, 'Truly this man was the Son of God' (Mark 15:39), was a shock to the whole Roman world."
+        ]},
+        {"h": "Roman peace, roads and Greek", "p": [
+          "The **Pax Romana** (Roman peace) meant fewer wars between nations, though it was kept by force. Roman roads and safe sea routes linked the cities of the empire. Across the East, ordinary people spoke **common Greek** (koinē). This is why the New Testament was written in Greek, and why Paul could travel and preach from Jerusalem to Rome."
+        ]},
+        {"h": "Caesar's words, Christ's claims", "p": [
+          "Emperors were honoured with grand titles. Augustus was called 'son of god' (son of the deified Julius Caesar), 'saviour' and 'lord'. An inscription from Priene (9 BC) called his birthday the beginning of 'good news' (euangelia) for the world. The apostles used the same words for Jesus: 'good news… a Saviour, who is Christ the Lord' (Luke 2:10–11). Confessing 'Jesus is Lord' (Romans 10:9) meant Caesar was not the ultimate lord (Acts 17:7)."
+        ]},
+        {"h": "Paul the Roman citizen", "p": [
+          "Paul was born a Roman citizen (Acts 22:25–29). Citizens could not be beaten without trial and could appeal to the emperor. Paul used these rights to protect the young church (Acts 16:37) and to bring the Gospel to Rome itself (Acts 25:11). He was proud of his citizenship, yet wrote that 'our citizenship is in heaven' (Philippians 3:20)."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "pyramid", "after": 0, "title": "Who held power in the Roman world",
+         "levels": [
+          {"t": "Emperor", "d": "Supreme ruler, honoured as divine; Augustus, Tiberius."},
+          {"t": "Senators and equestrians", "d": "Wealthy noble classes who filled the top offices; Pilate was an equestrian."},
+          {"t": "Governors and client kings", "d": "Pilate in Judea; Herod Antipas in Galilee."},
+          {"t": "Local elites", "d": "In Judea, the priestly aristocracy and wealthy landowners."},
+          {"t": "Free poor", "d": "Farmers, fishers, craftsmen and day labourers: most people."},
+          {"t": "Slaves", "d": "Perhaps a large share of the population in cities; owned as property."}
+         ]},
+        {"type": "timeline", "after": 4, "title": "Emperors and the New Testament",
+         "events": [
+          {"when": "27 BC–AD 14", "t": "Augustus", "d": "Census at Jesus' birth (Luke 2:1)."},
+          {"when": "AD 14–37", "t": "Tiberius", "d": "John the Baptist and Jesus' ministry (Luke 3:1)."},
+          {"when": "AD 37–41", "t": "Caligula", "d": "Tries to place his statue in the Temple."},
+          {"when": "AD 41–54", "t": "Claudius", "d": "Famine (Acts 11:28); Jews expelled from Rome (Acts 18:2)."},
+          {"when": "AD 54–68", "t": "Nero", "d": "Paul appeals to Caesar (Acts 25:11); persecution after the fire of Rome in AD 64."},
+          {"when": "AD 69–79", "t": "Vespasian", "d": "His son Titus destroys the Temple in AD 70."},
+          {"when": "AD 81–96", "t": "Domitian", "d": "Traditional setting for John's Revelation."}
+         ]},
+        {"type": "compare", "after": 4, "title": "Caesar's claims and the Gospel's claims",
+         "left": {"label": "Caesar", "items": ["'Son of god'", "'Saviour' bringing peace by victory", "'Lord' of the world", "'Good news' of his birth and victories", "Peace kept by soldiers and crosses", "Rules from a throne in Rome"]},
+         "right": {"label": "Jesus", "items": ["Son of God (Mark 1:1)", "Saviour who brings peace by his own death (Colossians 1:20)", "Lord of all (Philippians 2:11)", "Good news of God's kingdom (Mark 1:14–15)", "Peace made through the cross", "Reigns as the risen King, serving others (Mark 10:42–45)"]}}
+      ],
+      "verses": [
+        {"ref": "Luke 2:1", "text": "In those days a decree went out from Caesar Augustus that all the world should be registered."},
+        {"ref": "Mark 12:17", "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."},
+        {"ref": "Mark 15:39", "text": "Truly this man was the Son of God!"},
+        {"ref": "Philippians 2:11", "text": "Every tongue confess that Jesus Christ is Lord."}
+      ],
+      "keyPoints": [
+        "Rome ruled through emperors, governors like Pilate and client kings like Herod.",
+        "Tax collectors were seen as greedy collaborators, yet Jesus welcomed them.",
+        "Crucifixion was a public warning for rebels and slaves.",
+        "Roman roads, peace and common Greek helped the Gospel spread.",
+        "'Son of God', 'Lord', 'Saviour' and 'good news' were also imperial words."
+      ],
+      "reflect": [
+        "Which 'Caesars' (powers, pressures, idols) ask for your loyalty today?",
+        "Jesus' kingdom comes through service and the cross. How can you use any power you have to serve?"
+      ],
+      "quiz": [
+        {"q": "Which emperor ordered the census in Luke 2?", "options": ["Tiberius", "Nero", "Augustus", "Claudius"], "a": 2, "why": "Luke 2:1 names Caesar Augustus."},
+        {"q": "What was Pontius Pilate's role?", "options": ["Roman governor (prefect) of Judea", "High Priest", "Client king of Galilee", "Emperor"], "a": 0, "why": "He governed Judea for Rome from AD 26 to 36."},
+        {"q": "Why was crucifixion used?", "options": ["To honour heroes", "Only for religious crimes", "It was the quickest death", "As public terror for slaves and rebels"], "a": 3, "why": "It was slow and public, meant to warn everyone against rebellion."},
+        {"q": "Which word did Rome use for the emperor's birthday and the apostles use for Jesus' message?", "options": ["Torah", "Good news (euangelion)", "Shalom", "Kingdom"], "a": 1, "why": "The Priene inscription calls Augustus' birthday 'good news'; the Gospel is the true good news."}
+      ],
+      "terms": [
+        {"term": "Prefect / procurator", "def": "Roman governor of a smaller province such as Judea; Pilate was a prefect."},
+        {"term": "Tax collector (publican)", "def": "A local man who collected tolls for Rome and often overcharged."},
+        {"term": "Centurion", "def": "A Roman officer commanding about eighty soldiers."},
+        {"term": "Pax Romana", "def": "'Roman peace': the stability of the empire, kept by military force."},
+        {"term": "Emperor cult", "def": "Worship and honour given to the emperor as divine or 'son of god'."},
+        {"term": "Roman citizenship", "def": "Legal status with rights such as fair trial and appeal to Caesar (Acts 22:25–29)."}
+      ],
+      "related": ["s-gospel", "s-kingdom", "g-07"]
+    }
+  ],
+  "glossary": []
+}
