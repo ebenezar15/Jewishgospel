@@ -84,6 +84,24 @@
      ]
     },
     {
+     "h": "What translators miss — and why",
+     "p": [
+      "English has one main verb for all of this, **forgive**, and translators use it for *nasa*, *salach*, *aphiēmi*, *charizomai* and *apolyō* alike. This is not a mistake. “Forgive” is clear to every reader, and a Bible full of “lifting” and “releasing” would sound strange in English. But the pictures disappear. “Forgiving iniquity” in Exodus 34:7 (KJV, ESV, NIV) is literally **lifting** iniquity, and “whose transgression is forgiven” in Psalm 32:1 is literally “whose transgression is **lifted**”.",
+      "The Greek side has the same problem. *Aphesis* becomes “forgiveness” or “remission” in Acts 2:38, but “deliverance” or “liberty” in Luke 4:18. Each choice fits its verse, yet English readers never see that Jesus' Jubilee sermon and the apostles' preaching of forgiveness use **one word**. The KJV's “remission of sins” came through the Latin Vulgate's *remissio*, a word that once meant letting a debt go but now sounds medical.",
+      "Romans 3:25 shows how careful translation can recover a lost detail. The KJV said “remission of sins that are past”, blurring Paul's rare word *paresis* with *aphesis*. Most modern versions say God “passed over” (ESV) or “left unpunished” (NIV) former sins, which shows that Paul meant patient **passing over**, the Greek echo of Hebrew *avar*.",
+      "Finally, the Lord's Prayer. Matthew's Greek says “debts” and Luke's says “sins”, and good translations keep both. Many English churches pray “trespasses”, a word that comes from William Tyndale's early translation and the Anglican Prayer Book. It is a fine word, but it hides the **debt** picture that Jesus' hearers knew from the Aramaic *ḥova*."
+     ]
+    },
+    {
+     "h": "The culture behind the words",
+     "p": [
+      "Israel was a land of small farms, heavy loads and written records. People carried water jars, sacks of grain and bundles of wood, so “lifting” a burden was an everyday kindness. Debts were recorded on scrolls and tablets that could be washed or scraped clean. And the Torah built **release** into the calendar: every seventh year debts were to be let go (Deuteronomy 15:1–2), and every fiftieth year the Jubilee returned land to its families (Leviticus 25:10).",
+      "Forgiveness was also deeply **communal**. On Yom Kippur the high priest laid his hands on a goat, confessed the sins of the whole people, and the goat “bore” (*nasa*) them away into the wilderness (Leviticus 16:21–22). In a village culture of honour and shame, being forgiven meant being restored to your place at the family table and in the community, not only feeling better inside.",
+      "In the Greco-Roman world, *aphiēmi* and *apolyō* were the language of contracts and courts: cancelling a debt, dropping a charge, releasing a prisoner. *Charis* was the language of **patronage**: a benefactor gave a gift freely, and the receiver responded with loyalty and thanks. So when Paul says “forgiving one another, as God in Christ forgave (*charizomai*) you” (Ephesians 4:32), Greek-speaking believers heard of a generous Benefactor whose free gift created a grateful family.",
+      "Jesus' own parables come straight out of this world: creditors and debtors (Luke 7:41–43), a king settling accounts (Matthew 18:23–35), a manager reducing debts (Luke 16:1–8). His hearers knew what it was to owe money they could never repay. For them, “release” was not an abstract idea; it was **the best news a debtor could hear**."
+     ]
+    },
+    {
      "h": "Living it out",
      "p": [
       "Common Western thinking can make forgiveness either a private feeling or a courtroom ruling where someone else is punished in our place. The Jewish lens shows something warmer and more practical: **God really lets go**, and he invites us to do the same. Forgiveness is a release that restores relationships.",
@@ -103,7 +121,9 @@
        "pron": "sa-LAKH",
        "gloss": "to pardon",
        "refs": "Numbers 14:19–20",
-       "note": "In the Hebrew Bible only God is ever the subject of this verb."
+       "note": "In the Hebrew Bible only God is ever the subject of this verb.",
+       "missed": "English lets anyone “forgive”, so readers miss that salach is reserved for God, which is why the scribes' question in Mark 2:7 was so sharp.",
+       "culture": "Israel asked for pardon as a covenant people, in the Temple and later in the synagogue, not only as private individuals."
       },
       {
        "lang": "he",
@@ -112,7 +132,9 @@
        "pron": "se-lee-KHAH",
        "gloss": "pardon, forgiveness",
        "refs": "Psalm 130:4",
-       "note": "Gives its name to the Selichot prayers before the High Holy Days."
+       "note": "Gives its name to the Selichot prayers before the High Holy Days.",
+       "missed": "Versions rightly say “forgiveness” in Psalm 130:4, but readers lose the link to the Selichot prayers that Jews still pray.",
+       "culture": "In the weeks before Rosh Hashanah many Jews rise before dawn to recite Selichot together in the synagogue."
       },
       {
        "lang": "he",
@@ -121,7 +143,9 @@
        "pron": "na-SA",
        "gloss": "to lift up, carry away",
        "refs": "Exodus 34:7; Psalm 32:1; Micah 7:18",
-       "note": "Sin is pictured as a heavy load that God lifts and carries off."
+       "note": "Sin is pictured as a heavy load that God lifts and carries off.",
+       "missed": "“Forgive” in Exodus 34:7 and Psalm 32:1 hides the physical picture: the same verb is used for lifting and carrying a load.",
+       "culture": "People carried water, grain and wood on their backs, so lifting someone's load was a vivid act of help; the Yom Kippur goat “shall bear (nasa) all their iniquities” away (Leviticus 16:22)."
       },
       {
        "lang": "he",
@@ -130,7 +154,9 @@
        "pron": "kip-PER",
        "gloss": "to cover, purge, atone",
        "refs": "Leviticus 16:30",
-       "note": "The Temple word for cleansing, at the heart of Yom Kippur."
+       "note": "The Temple word for cleansing, at the heart of Yom Kippur.",
+       "missed": "“Atone” (from “at-one”) is a good English word, but it hides the Temple picture of cleansing and purging what sin has defiled.",
+       "culture": "On Yom Kippur the high priest sprinkled blood to cleanse the sanctuary and the people; after the Temple fell, fasting, prayer and repentance took its place."
       },
       {
        "lang": "he",
@@ -139,7 +165,9 @@
        "pron": "ma-KHAH",
        "gloss": "to wipe out, blot out",
        "refs": "Psalm 51:1, 9; Isaiah 43:25",
-       "note": "Like wiping a writing tablet clean so the record is gone."
+       "note": "Like wiping a writing tablet clean so the record is gone.",
+       "missed": "“Blot out” is close, but modern readers may not hear that it was the word for erasing writing: “blot me out of your book” (Exodus 32:32).",
+       "culture": "Ink on leather or papyrus could be washed off; in Numbers 5:23 a priest writes words and then wipes (machah) them into water."
       },
       {
        "lang": "he",
@@ -148,7 +176,9 @@
        "pron": "ka-SAH",
        "gloss": "to cover",
        "refs": "Psalm 32:1; 85:2",
-       "note": "God covers sin so that it no longer stands between him and his people."
+       "note": "God covers sin so that it no longer stands between him and his people.",
+       "missed": "“Cover” can sound like a cover-up; in the psalms it means God no longer looks at the sin or holds it up against us.",
+       "culture": "In an honour-and-shame culture, covering another's shame was an act of kindness (Genesis 9:23), and “love covers all offences” (Proverbs 10:12)."
       },
       {
        "lang": "he",
@@ -157,7 +187,9 @@
        "pron": "a-VAR",
        "gloss": "to pass over",
        "refs": "Micah 7:18",
-       "note": "God walks on by the offence instead of holding it against us."
+       "note": "God walks on by the offence instead of holding it against us.",
+       "missed": "Some versions say “pardons” in Micah 7:18 and lose the picture of walking past an offence without stopping.",
+       "culture": "Where feuds between families could last for generations, to “pass over” a wrong meant refusing to settle the score."
       },
       {
        "lang": "he",
@@ -166,7 +198,9 @@
        "pron": "me-khee-LAH",
        "gloss": "letting go of a claim",
        "refs": "Rabbinic Hebrew; Amidah prayer",
-       "note": "Later Hebrew word for waiving a debt, used for forgiveness between people."
+       "note": "Later Hebrew word for waiving a debt, used for forgiveness between people.",
+       "missed": "English “forgiveness” mixes God's pardon and people's letting go; later Hebrew keeps them apart with different words.",
+       "culture": "Before Yom Kippur Jews traditionally go to family, friends and neighbours to ask for mechilah face to face."
       },
       {
        "lang": "ar",
@@ -175,7 +209,9 @@
        "pron": "kho-VA",
        "gloss": "debt; sin",
        "refs": "Behind Matthew 6:12",
-       "note": "In Aramaic the same word means both debt and sin."
+       "note": "In Aramaic the same word means both debt and sin.",
+       "missed": "Translating Matthew 6:12 as “debts” and Luke 11:4 as “sins” is faithful to the Greek, but it splits what was probably one Aramaic word.",
+       "culture": "Many Galilean farmers lived in debt to landowners and feared losing land or family to debt-slavery, so “release of debts” was very good news."
       },
       {
        "lang": "gr",
@@ -184,7 +220,9 @@
        "pron": "a-FEE-ay-mee",
        "gloss": "to let go, release, forgive",
        "refs": "Matthew 6:12; Mark 2:5",
-       "note": "Also used for leaving nets and cancelling debts."
+       "note": "Also used for leaving nets and cancelling debts.",
+       "missed": "“Forgive” hides that the same verb means “leave” and “let go”, so readers miss the link between leaving nets and letting go of debts.",
+       "culture": "In Greek legal and business documents the verb was used for releasing someone from a debt, a charge or an obligation."
       },
       {
        "lang": "gr",
@@ -193,7 +231,9 @@
        "pron": "A-fe-sis",
        "gloss": "release, liberty, forgiveness",
        "refs": "Luke 4:18; Acts 2:38",
-       "note": "The Septuagint's word for the Jubilee and Sabbath-year release."
+       "note": "The Septuagint's word for the Jubilee and Sabbath-year release.",
+       "missed": "English says “liberty” or “deliverance” in Luke 4:18 but “forgiveness” or “remission” in Acts 2:38, so the Jubilee link disappears.",
+       "culture": "Every seventh year debts were to be released (Deuteronomy 15:1–2); by Jesus' day the rabbinic prosbul, credited to Hillel, let lenders still collect (Mishnah Shevi'it 10:3)."
       },
       {
        "lang": "gr",
@@ -202,7 +242,9 @@
        "pron": "kha-REE-zo-my",
        "gloss": "to forgive freely, as a gift",
        "refs": "Luke 7:42–43; Ephesians 4:32; Colossians 2:13",
-       "note": "Built on charis, grace: forgiveness is an undeserved gift."
+       "note": "Built on charis, grace: forgiveness is an undeserved gift.",
+       "missed": "“Forgive” hides that this verb is built on charis, gift; the KJV's “he frankly forgave them both” (Luke 7:42) kept a little of the sense of a free gift.",
+       "culture": "In the Greco-Roman world charis was the language of benefactors who gave gifts and of the gratitude owed in return."
       },
       {
        "lang": "gr",
@@ -211,7 +253,9 @@
        "pron": "a-po-LOO-oh",
        "gloss": "to release, set loose",
        "refs": "Luke 6:37",
-       "note": "The ordinary word for releasing a prisoner."
+       "note": "The ordinary word for releasing a prisoner.",
+       "missed": "In Luke 6:37 most versions say “forgive”, but it is the everyday word for releasing a prisoner or dismissing a crowd.",
+       "culture": "Pilate's custom of releasing (apolyō) one prisoner at Passover (Mark 15:6) shows its ordinary legal sense."
       },
       {
        "lang": "gr",
@@ -220,7 +264,51 @@
        "pron": "PA-re-sis",
        "gloss": "passing over",
        "refs": "Romans 3:25",
-       "note": "Used only once in the New Testament, echoing the Hebrew avar."
+       "note": "Used only once in the New Testament, echoing the Hebrew avar.",
+       "missed": "The KJV's “remission of sins that are past” (Romans 3:25) blurs paresis with aphesis; most modern versions say God “passed over” or “left unpunished” those sins.",
+       "culture": "In Greek it could describe letting a matter go unpunished for a time, like a ruler postponing a penalty."
+      }
+     ]
+    },
+    {
+     "type": "renderings",
+     "title": "How translators handled it",
+     "after": 3,
+     "rows": [
+      {
+       "verse": "Exodus 34:7",
+       "original": "נֹשֵׂא עָוֹן וָפֶשַׁע וְחַטָּאָה",
+       "literal": "lifting iniquity and transgression and sin",
+       "common": "forgiving iniquity and transgression and sin (KJV)",
+       "why": "“Forgiving” gives the meaning in one clear word, but the picture of God picking up the load and carrying it is lost."
+      },
+      {
+       "verse": "Psalm 32:1",
+       "original": "אַשְׁרֵי נְשׂוּי־פֶּשַׁע כְּסוּי חֲטָאָה",
+       "literal": "happy is the one lifted of transgression, covered of sin",
+       "common": "Blessed is he whose transgression is forgiven, whose sin is covered (KJV)",
+       "why": "Two pictures stand side by side, lifting and covering; English keeps “covered” but turns “lifted” into the general word “forgiven”."
+      },
+      {
+       "verse": "Matthew 6:12",
+       "original": "ἄφες ἡμῖν τὰ ὀφειλήματα ἡμῶν",
+       "literal": "release for us our debts",
+       "common": "forgive us our debts (KJV); many churches pray “trespasses”",
+       "why": "“Forgive” is right, but “release” would keep the echo of Jubilee; “trespasses” comes from Tyndale's early translation and the Anglican Prayer Book."
+      },
+      {
+       "verse": "Luke 4:18",
+       "original": "κηρύξαι αἰχμαλώτοις ἄφεσιν",
+       "literal": "to proclaim release to captives",
+       "common": "to preach deliverance to the captives (KJV)",
+       "why": "“Deliverance” fits this verse well, but because aphesis becomes “forgiveness” elsewhere, readers never see it is one word."
+      },
+      {
+       "verse": "Romans 3:25",
+       "original": "διὰ τὴν πάρεσιν τῶν προγεγονότων ἁμαρτημάτων",
+       "literal": "because of the passing over of sins committed before",
+       "common": "for the remission of sins that are past (KJV); “he had passed over former sins” (ESV)",
+       "why": "The KJV followed the Latin remissio; modern versions say “passed over” to show Paul chose a different word from aphesis."
       }
      ]
     },
@@ -372,6 +460,17 @@
      ],
      "a": 2,
      "why": "Yom Kippur does not atone for sins against a neighbour until you make peace with them, just as Jesus teaches in Matthew 5:23–24."
+    },
+    {
+     "q": "Why does the same Greek word aphesis appear as “deliverance/liberty” in Luke 4:18 but “forgiveness/remission” in Acts 2:38?",
+     "options": [
+      "They are two different Greek words",
+      "Translators chose the English word that fits each verse, which hides that it is one word",
+      "The Septuagint changed the word",
+      "Luke wrote one and someone else wrote the other"
+     ],
+     "a": 1,
+     "why": "Both verses use aphesis, “release”. Each English choice fits its context, but readers lose the link between Jubilee release and forgiveness."
     }
    ],
    "terms": [
@@ -484,6 +583,22 @@
      ]
     },
     {
+     "h": "What translators miss — and why",
+     "p": [
+      "The single English word **punish** stands in for many different words: *paqad*, *avon*, *yasar*, *kolasis*, *timōria* and *dikē*. Translators reach for it because it is clear in context. The NIV's “punishing the children for the sin of the parents” (Exodus 20:5) helps readers who would find the KJV's “visiting the iniquity” puzzling. But “visiting” keeps something precious: the same God who “visits” wrongs also “visited” Sarah with a son (Genesis 21:1). Both choices are honest; each hides something.",
+      "*Avon* is a good example of a word that English must split. In Genesis 4:13 most versions say “My punishment is greater than I can bear”, though the word also means “iniquity”, and the verb “bear” is *nasa*, the word for lifting away sin. Some ancient Jewish translations read Cain's words as a confession: “My sin is too great to be forgiven.” The translator has to choose one meaning; the Hebrew holds both.",
+      "The KJV's “chastening” and “chastisement” for *musar* and *paideia* were good English in 1611. They come through French from the Latin *castigare*, “to correct, to make pure”. Today they sound like beating. Modern versions (ESV, NIV) say **“discipline”**, which is closer to the training of a child. In the Greek words, *kolasis* and *timōria* both become “punishment”, *dikē* becomes “punished”, and *ekdikēsis* becomes “vengeance”, so English readers cannot see the differences the Greek makes."
+     ]
+    },
+    {
+     "h": "The culture behind the words",
+     "p": [
+      "In Israel, discipline belonged first to the **family**. Fathers and mothers taught their children at home, “when you sit in your house, and when you walk by the way” (Deuteronomy 6:7), and Proverbs is written as a parent speaking to a son. Correction was meant to be private and honest: “You shall not hate your brother in your heart, but you shall reason frankly with your neighbour” (Leviticus 19:17). Jesus follows the same order: “go and tell him his fault, between you and him alone” (Matthew 18:15).",
+      "Public justice happened at the **town gate**, where elders heard cases with witnesses (Ruth 4:1–2). The Torah's system of justice had no prison sentences; the aim was restitution, protection of the weak and the restoring of order. The refining fire of *tsaraph* came from the busy workshops of silversmiths, and the touchstone of *basanos* from the market, where every trader tested coins and gold.",
+      "In the Greco-Roman world, *paideia* was the word for education and civilised culture, and every well-off household had a *paidagōgos* to guide its boys. Greek honour culture also knew *timōria*, vengeance that restored a family's honour. And Rome ruled by public penalties: flogging and crucifixion were meant to shame and terrify. Jesus' first hearers lived under that system, which is why the gospel's picture of a Father who disciplines in love sounded so different."
+     ]
+    },
+    {
      "h": "Common misunderstandings and living it out",
      "p": [
       "A common Western picture treats God's punishment as mainly about satisfying offended honour, with pain as an end in itself. The Hebrew and Jewish lens does not deny that God judges or that sin has real and serious consequences. But it insists that God judges **as a father, a refiner and a rescuer**: to stop evil, defend the weak, and bring his children home.",
@@ -503,7 +618,9 @@
        "pron": "pa-KAD",
        "gloss": "to visit, attend to",
        "refs": "Genesis 21:1; Exodus 20:5; 34:7",
-       "note": "God attends to people's needs and to their wrongs alike."
+       "note": "God attends to people's needs and to their wrongs alike.",
+       "missed": "The KJV's “visiting the iniquity” keeps the verb, but versions that say “punishing” (NIV, Exodus 20:5) lose the link with God “visiting” Sarah in blessing.",
+       "culture": "A paqid was an overseer (Genesis 41:34); a “visit” was what a lord or official made to inspect, count, reward or call to account."
       },
       {
        "lang": "he",
@@ -512,7 +629,9 @@
        "pron": "a-VON",
        "gloss": "iniquity; its consequence",
        "refs": "Genesis 4:13",
-       "note": "One word for sin and the harm that grows out of it."
+       "note": "One word for sin and the harm that grows out of it.",
+       "missed": "English must choose “iniquity”, “guilt” or “punishment”, so readers rarely see that Cain's “punishment” (Genesis 4:13) is the same word as “iniquity”.",
+       "culture": "Israel thought of a wrong as a weight that clung to a person, family or land until it was dealt with; the Yom Kippur goat carried the avonot away."
       },
       {
        "lang": "he",
@@ -521,7 +640,9 @@
        "pron": "ya-SAR",
        "gloss": "to discipline, train",
        "refs": "Deuteronomy 8:5",
-       "note": "What a father does to raise a wise child."
+       "note": "What a father does to raise a wise child.",
+       "missed": "“Chasten” or “punish” can make yasar sound like pain only, but it also means “instruct”: God “instructs” the farmer how to plough and sow (Isaiah 28:26).",
+       "culture": "Fathers taught their sons a trade and the Torah at home (Deuteronomy 6:7); discipline happened inside a loving household."
       },
       {
        "lang": "he",
@@ -530,7 +651,9 @@
        "pron": "moo-SAR",
        "gloss": "discipline, instruction",
        "refs": "Proverbs 1:2; 3:11",
-       "note": "Teaching and correction in a single word."
+       "note": "Teaching and correction in a single word.",
+       "missed": "English splits musar into “instruction”, “discipline”, “correction” and “chastisement”, so one idea is broken into four.",
+       "culture": "Proverbs reflects home and school settings where a father or teacher trains a “son”; later Jewish ethical teaching is still called musar."
       },
       {
        "lang": "he",
@@ -539,7 +662,9 @@
        "pron": "to-KHA-khat",
        "gloss": "correction, rebuke",
        "refs": "Proverbs 3:11",
-       "note": "Showing clearly where someone went wrong so they can change."
+       "note": "Showing clearly where someone went wrong so they can change.",
+       "missed": "“Reproof” sounds harsh and old-fashioned; its root is used for arguing a case and showing what is right: “Come now, let us reason together” (Isaiah 1:18).",
+       "culture": "Leviticus 19:17 commands Israelites to rebuke a neighbour rather than hate him in their heart; honest correction was a duty of love."
       },
       {
        "lang": "he",
@@ -548,7 +673,9 @@
        "pron": "tsa-RAF",
        "gloss": "to refine, smelt",
        "refs": "Zechariah 13:9; Malachi 3:3",
-       "note": "Melting metal to remove waste and keep the silver."
+       "note": "Melting metal to remove waste and keep the silver.",
+       "missed": "“Refine” survives in English, but readers rarely picture the smith's furnace, the patience it needs and its aim of keeping the metal.",
+       "culture": "Goldsmiths and silversmiths (tsorfim) worked in Jerusalem near the Temple (Nehemiah 3:8, 31), melting ore and skimming off the dross."
       },
       {
        "lang": "he",
@@ -557,7 +684,9 @@
        "pron": "sha-FAT",
        "gloss": "to judge, set right",
        "refs": "Psalm 82:3",
-       "note": "Judging in Hebrew is often rescuing the weak."
+       "note": "Judging in Hebrew is often rescuing the weak.",
+       "missed": "“Judge” in English suggests a courtroom and a sentence; shaphat also means to rule, to defend and to rescue.",
+       "culture": "Elders sat at the town gate to hear cases (Ruth 4:1–2; Deuteronomy 21:19), and the “judges” of Israel were deliverers in war."
       },
       {
        "lang": "gr",
@@ -566,7 +695,9 @@
        "pron": "KO-la-sis",
        "gloss": "punishment, correction",
        "refs": "Matthew 25:46; 1 John 4:18",
-       "note": "Its verb first meant to prune or check growth."
+       "note": "Its verb first meant to prune or check growth.",
+       "missed": "“Punishment” (Matthew 25:46 in most versions) cannot show the word's older sense of pruning and correcting; how far that sense applies here is debated.",
+       "culture": "Greek farmers “checked” (kolazō) the growth of trees and vines by pruning, and teachers used the word for correcting pupils."
       },
       {
        "lang": "gr",
@@ -575,7 +706,9 @@
        "pron": "tee-mo-REE-a",
        "gloss": "retribution, penalty",
        "refs": "Hebrews 10:29",
-       "note": "In classical Greek, payback for the punisher's satisfaction."
+       "note": "In classical Greek, payback for the punisher's satisfaction.",
+       "missed": "Hebrews 10:29 is also translated “punishment”, so English readers cannot see that the Greek word differs from Matthew 25:46.",
+       "culture": "In Greek honour culture timōria was vengeance that restored the honour (timē) of the injured party; the two words are related."
       },
       {
        "lang": "gr",
@@ -584,7 +717,9 @@
        "pron": "pay-DAY-a",
        "gloss": "child-training, discipline",
        "refs": "Hebrews 12:5–11",
-       "note": "From pais, child; the Greek for Hebrew musar."
+       "note": "From pais, child; the Greek for Hebrew musar.",
+       "missed": "The KJV's “chastening” and “chastisement” (Hebrews 12:5–8) now sound like beating; paideia is the whole upbringing of a child.",
+       "culture": "In the Greek world paideia meant education and culture; the paidagōgos was the slave who walked boys to school (Galatians 3:24)."
       },
       {
        "lang": "gr",
@@ -593,7 +728,9 @@
        "pron": "DEE-kay",
        "gloss": "justice, penalty",
        "refs": "2 Thessalonians 1:9; Jude 7",
-       "note": "The penalty that justice requires."
+       "note": "The penalty that justice requires.",
+       "missed": "“Punished” (2 Thessalonians 1:9) hides that dikē means “justice”, the penalty that a just verdict requires.",
+       "culture": "Dikē was also the Greek name for Justice pictured as a goddess; the islanders of Malta say “Justice has not allowed him to live” (Acts 28:4)."
       },
       {
        "lang": "gr",
@@ -602,7 +739,9 @@
        "pron": "ek-DEE-kay-sis",
        "gloss": "vindication, justice done",
        "refs": "Luke 18:7; Romans 12:19",
-       "note": "Often justice for the wronged, left in God's hands."
+       "note": "Often justice for the wronged, left in God's hands.",
+       "missed": "“Vengeance” (Romans 12:19) sounds like personal revenge; the word is about justice done for the one who was wronged.",
+       "culture": "The widow in Jesus' parable keeps asking the judge, “Give me justice (ekdikēson) against my adversary” (Luke 18:3); KJV says “Avenge me”."
       },
       {
        "lang": "gr",
@@ -611,7 +750,51 @@
        "pron": "ba-sa-NEE-zo",
        "gloss": "to test; to torment",
        "refs": "Matthew 14:24; Revelation 14:10",
-       "note": "From basanos, a touchstone for testing gold."
+       "note": "From basanos, a touchstone for testing gold.",
+       "missed": "“Torment” is right in Revelation, but readers do not hear its root in testing; the same verb describes a boat “tossed” by waves (Matthew 14:24 KJV).",
+       "culture": "Merchants rubbed gold on a dark touchstone (basanos) to test it; later the word was used for questioning slaves under torture in court."
+      }
+     ]
+    },
+    {
+     "type": "renderings",
+     "title": "How translators handled it",
+     "after": 5,
+     "rows": [
+      {
+       "verse": "Exodus 20:5",
+       "original": "פֹּקֵד עֲוֹן אָבֹת עַל־בָּנִים",
+       "literal": "attending to the iniquity of fathers upon sons",
+       "common": "visiting the iniquity of the fathers upon the children (KJV); “punishing the children for the sin of the parents” (NIV)",
+       "why": "NIV's “punishing” makes the sense plain; KJV's “visiting” keeps the link with God “visiting” his people in blessing."
+      },
+      {
+       "verse": "Genesis 4:13",
+       "original": "גָּדוֹל עֲוֹנִי מִנְּשֹׂא",
+       "literal": "my iniquity is too great to bear (or: to be lifted)",
+       "common": "My punishment is greater than I can bear (KJV)",
+       "why": "Avon covers both guilt and its result, so translators must choose; some ancient Jewish translations read it as “my sin is too great to be forgiven”."
+      },
+      {
+       "verse": "Proverbs 3:11",
+       "original": "מוּסַר יְהוָה בְּנִי אַל־תִּמְאָס",
+       "literal": "the training of the LORD, my son, do not reject",
+       "common": "My son, despise not the chastening of the LORD (KJV); “discipline” (ESV, NIV)",
+       "why": "“Chastening” was good 1611 English for correction, but today it sounds like beating; “discipline” is closer to training."
+      },
+      {
+       "verse": "Matthew 25:46",
+       "original": "εἰς κόλασιν αἰώνιον",
+       "literal": "into the kolasis of the age (eternal)",
+       "common": "into everlasting punishment (KJV)",
+       "why": "“Punishment” is the normal sense in first-century Greek; the older sense of pruning is debated, so most translators rightly do not build on it."
+      },
+      {
+       "verse": "Hebrews 12:5",
+       "original": "μὴ ὀλιγώρει παιδείας κυρίου",
+       "literal": "do not think lightly of the Lord's child-training",
+       "common": "despise not thou the chastening of the Lord (KJV); “discipline” (ESV, NIV)",
+       "why": "Hebrews quotes the Septuagint of Proverbs 3:11, where paideia stands for musar; “discipline” keeps the family picture better than “chastening”."
       }
      ]
     },
@@ -652,7 +835,7 @@
     {
      "type": "compare",
      "title": "Two pictures of God's punishment",
-     "after": 7,
+     "after": 9,
      "left": {
       "label": "Common Western assumption",
       "items": [
@@ -768,6 +951,17 @@
      ],
      "a": 2,
      "why": "Refining removes dross and purifies the silver; God's people then “call upon my name”."
+    },
+    {
+     "q": "Why do modern versions often say “discipline” where the KJV said “chastening” (Proverbs 3:11; Hebrews 12:5)?",
+     "options": [
+      "Because the Hebrew word changed",
+      "Because “chastening” now sounds like beating, while musar and paideia mean training",
+      "Because “discipline” is a Greek word",
+      "Because the KJV mistranslated the verse"
+     ],
+     "a": 1,
+     "why": "“Chastening” (from Latin castigare, to correct) was fine in 1611, but today “discipline” better conveys the child-training of musar and paideia."
     }
    ],
    "terms": [
@@ -887,6 +1081,23 @@
      ]
     },
     {
+     "h": "What translators miss — and why",
+     "p": [
+      "The word *nefesh* shows how a long chain of translation can shape our thinking. The Septuagint rendered it *psychē*, the Latin Vulgate *anima*, and English “soul”. Each step was reasonable, but by the time it reached English, “soul” carried centuries of Greek philosophy: an invisible, immortal part living inside the body. So when the KJV says “man became a living soul” (Genesis 2:7), readers imagine something added. Modern versions say **“a living being”** (NIV) or “a living creature” (ESV) to recover the Hebrew picture of the whole breathing person.",
+      "The same word can even be translated two ways in one sentence. In Mark 8:35–36 the KJV says “whosoever will save his **life** shall lose it” and then “lose his own **soul**”, though Jesus uses *psychē* both times. Translators change words for good English style, but readers may think Jesus has moved from earthly life to the afterlife, when he is speaking of **one self** that can be saved or lost.",
+      "With *sarx*, translators face a real problem: in modern English “flesh” sounds like skin and muscle, and Paul clearly does not mean the body is evil. So the 1984 NIV and the NLT chose “sinful nature”. The aim was good, but “nature” can suggest a fixed evil part of us, and it hides the link with “the Word became flesh”. The 2011 NIV mostly returned to “flesh”, as the ESV, NASB and NRSV do, and readers must learn its meaning from context.",
+      "Finally, *basar* in “all flesh” becomes “all people” in the NIV (Isaiah 40:5; Joel 2:28). That is clear and correct, but it loses the bodily, fragile picture: God's glory is seen by frail creatures, and his Spirit is poured out on **flesh**."
+     ]
+    },
+    {
+     "h": "The culture behind the words",
+     "p": [
+      "In an Israelite village, a person belonged to a household, a clan and a tribe, and family was described in bodily terms: “my bone and my flesh”. Land, name and inheritance passed through these bonds. Meat was precious and usually eaten at a sacrifice or a feast, so *basar* on the table meant celebration, and the body was something to be washed, clothed, fed and finally buried with one's ancestors.",
+      "Jewish life has always honoured the body. Every morning the blessing *Asher Yatzar* thanks God for the body's workings; the dead are buried, not burned, in hope of the resurrection (Daniel 12:2); and marriage and children are seen as a command and a blessing (Genesis 1:28). There was no ideal of escaping the body to become spiritual.",
+      "The Greek world Paul wrote to felt differently. Plato reported the saying that the body (*sōma*) is a tomb (*sēma*) for the soul, and many educated people thought of the flesh as low and the soul as divine. At the same time cities honoured athletes in the gymnasium and sold temple-offered meat in the market. Into this world Paul brought a Jewish message: the body is the Spirit's temple, and **God will raise it**."
+     ]
+    },
+    {
      "h": "Living it out",
      "p": [
       "If the body is a temple, we honour God by caring for it: rest, food, work and touch are not unspiritual. If “all flesh” is frail like grass, we can be gentle with human weakness, our own and others'. And if “flesh” in Paul means life lived by our own strength, then the answer is not hating our bodies but **walking by the Spirit** (Galatians 5:16), letting God's Spirit produce “love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control” (Galatians 5:22–23) in our everyday, bodily lives."
@@ -905,7 +1116,9 @@
        "pron": "ba-SAR",
        "gloss": "flesh, body; human frailty; kin",
        "refs": "Genesis 2:23; Isaiah 40:5–6; Ezekiel 36:26; Joel 2:28",
-       "note": "Weak but not evil; “all flesh” means all people or all creatures."
+       "note": "Weak but not evil; “all flesh” means all people or all creatures.",
+       "missed": "English “flesh” sounds either like meat or like sinful desire, so basar's warm senses of family and human frailty are easily lost.",
+       "culture": "Meat (basar) was eaten mainly at feasts and sacrifices, and a person's identity came from the household and clan, their “bone and flesh”."
       },
       {
        "lang": "he",
@@ -914,7 +1127,9 @@
        "pron": "she-AYR",
        "gloss": "flesh, meat; blood relative",
        "refs": "Leviticus 18:6; Psalm 78:27",
-       "note": "Like basar, it can mean a close family member."
+       "note": "Like basar, it can mean a close family member.",
+       "missed": "Translations rightly say “close relative” in Leviticus 18:6, so readers do not see it is a word for flesh and meat (Psalm 78:27 “he rained flesh”).",
+       "culture": "The marriage laws of Leviticus 18 protected the household by forbidding unions with one's “near flesh”."
       },
       {
        "lang": "he",
@@ -923,7 +1138,9 @@
        "pron": "NE-fesh",
        "gloss": "living being, the whole person",
        "refs": "Genesis 2:7",
-       "note": "The man did not receive a nefesh; he became one."
+       "note": "The man did not receive a nefesh; he became one.",
+       "missed": "The KJV's “a living soul” (Genesis 2:7) makes readers picture an invisible part inside; the ESV says “a living creature” and the NIV “a living being”.",
+       "culture": "Nefesh first means throat or breath (Isaiah 5:14 “Sheol has enlarged its appetite”); in a hot, dry land, thirst and breath were the plainest signs of life."
       },
       {
        "lang": "he",
@@ -932,7 +1149,9 @@
        "pron": "ROO-akh",
        "gloss": "breath, wind, spirit",
        "refs": "Joel 2:28; Ezekiel 36:27",
-       "note": "God's Spirit is poured out on flesh, not kept away from it."
+       "note": "God's Spirit is poured out on flesh, not kept away from it.",
+       "missed": "English must choose “wind”, “breath” or “spirit”, but Hebrew hears all three at once, as in Ezekiel 37.",
+       "culture": "In a land that depended on rain, the west wind from the sea brought life, while the east wind from the desert withered crops."
       },
       {
        "lang": "he",
@@ -941,7 +1160,9 @@
        "pron": "YAY-tser ha-RA",
        "gloss": "the evil inclination",
        "refs": "Genesis 6:5; 8:21",
-       "note": "The pull toward selfishness and sin in every person."
+       "note": "The pull toward selfishness and sin in every person.",
+       "missed": "Genesis 6:5 says “imagination” (KJV), “intention” (ESV) or “inclination” (NIV, NRSV); none shows that yetzer means something shaped, from the verb used of a potter.",
+       "culture": "The rabbis pictured life as a lifelong struggle in which Torah study, prayer and good habits help a person rule the evil inclination."
       },
       {
        "lang": "he",
@@ -950,7 +1171,9 @@
        "pron": "YAY-tser ha-TOV",
        "gloss": "the good inclination",
        "refs": "Mishnah Berakhot 9:5",
-       "note": "The pull toward God and goodness; both are to serve love for God."
+       "note": "The pull toward God and goodness; both are to serve love for God.",
+       "missed": "Western theology often speaks of a single “sinful nature”, which loses the Jewish picture of two pulls inside the same person.",
+       "culture": "Jewish tradition teaches that the good inclination grows strong as a child reaches maturity, around the age of bar mitzvah."
       },
       {
        "lang": "gr",
@@ -959,7 +1182,9 @@
        "pron": "SARKS",
        "gloss": "flesh; human life on its own",
        "refs": "John 1:14; Romans 8:4–9; Galatians 5:16–24",
-       "note": "The Septuagint word for basar; in Paul often life apart from God's Spirit."
+       "note": "The Septuagint word for basar; in Paul often life apart from God's Spirit.",
+       "missed": "The 1984 NIV and the NLT often render sarx “sinful nature”; the 2011 NIV mostly returned to “flesh”, because “nature” can suggest a fixed evil part of us.",
+       "culture": "In Greek philosophy flesh was often despised as the soul's prison; Paul uses the word in a Jewish way, for human life without God's Spirit."
       },
       {
        "lang": "gr",
@@ -968,7 +1193,9 @@
        "pron": "SO-ma",
        "gloss": "body",
        "refs": "1 Corinthians 6:19; 15:44; Romans 12:1",
-       "note": "The body is good, a temple of the Spirit, and will be raised."
+       "note": "The body is good, a temple of the Spirit, and will be raised.",
+       "missed": "“Body” is accurate, but readers shaped by Greek ideas may hear “shell”; Paul's sōma is the whole person living in the world.",
+       "culture": "Greek cities admired the athlete's body, yet many thinkers hoped the soul would escape it; Paul's teaching on bodily resurrection made Athenians laugh (Acts 17:32)."
       },
       {
        "lang": "gr",
@@ -977,7 +1204,9 @@
        "pron": "KRE-as",
        "gloss": "meat",
        "refs": "Romans 14:21; 1 Corinthians 8:13",
-       "note": "Flesh as food, with no moral meaning."
+       "note": "Flesh as food, with no moral meaning.",
+       "missed": "Older English used “flesh” for meat (KJV “It is good neither to eat flesh”, Romans 14:21), which can be confused with Paul's moral “flesh”.",
+       "culture": "In Greek cities much of the meat sold in the market (makellon, 1 Corinthians 10:25) had first been offered in a temple, which is why meat troubled the Corinthians."
       },
       {
        "lang": "gr",
@@ -986,7 +1215,51 @@
        "pron": "psoo-KHAY",
        "gloss": "life, living self",
        "refs": "Mark 8:35",
-       "note": "Usually the Greek for nefesh: the whole life, not a ghost inside."
+       "note": "Usually the Greek for nefesh: the whole life, not a ghost inside.",
+       "missed": "Translators switch between “life” and “soul” for the same word (Mark 8:35–36 KJV), so readers miss that Jesus is speaking of one thing.",
+       "culture": "Platonic thinking made psychē an immortal soul that leaves the body; in Jewish Greek it usually translated nefesh, the living self."
+      }
+     ]
+    },
+    {
+     "type": "renderings",
+     "title": "How translators handled it",
+     "after": 5,
+     "rows": [
+      {
+       "verse": "Genesis 2:7",
+       "original": "וַיְהִי הָאָדָם לְנֶפֶשׁ חַיָּה",
+       "literal": "and the man became a living nefesh (a breathing, living being)",
+       "common": "man became a living soul (KJV); “a living being” (NIV)",
+       "why": "“Soul” came down through Greek psychē and Latin anima; modern versions changed it so readers do not picture a separate ghost inside."
+      },
+      {
+       "verse": "Joel 2:28",
+       "original": "אֶשְׁפּוֹךְ אֶת־רוּחִי עַל־כָּל־בָּשָׂר",
+       "literal": "I will pour out my Spirit on all flesh",
+       "common": "I will pour out my spirit upon all flesh (KJV); “on all people” (NIV)",
+       "why": "“All people” is clearer, but it loses the striking picture of God's Spirit filling frail human flesh."
+      },
+      {
+       "verse": "Genesis 6:5",
+       "original": "כָל־יֵצֶר מַחְשְׁבֹת לִבּוֹ",
+       "literal": "every shaping (form) of the thoughts of his heart",
+       "common": "every imagination of the thoughts of his heart (KJV); “every inclination” (NIV)",
+       "why": "“Imagination” (from Latin imago, image) is not far from yetzer, something formed in the mind; “inclination” stresses its pull."
+      },
+      {
+       "verse": "Galatians 5:16",
+       "original": "ἐπιθυμίαν σαρκὸς οὐ μὴ τελέσητε",
+       "literal": "you will not carry out the desire of the flesh",
+       "common": "ye shall not fulfil the lust of the flesh (KJV); “the desires of the sinful nature” (NIV 1984)",
+       "why": "“Sinful nature” tried to show Paul did not mean the body, but it can suggest an evil part of us; the 2011 NIV returned to “flesh”."
+      },
+      {
+       "verse": "Mark 8:35–36",
+       "original": "ὃς γὰρ ἐὰν θέλῃ τὴν ψυχὴν αὐτοῦ σῶσαι… ζημιωθῆναι τὴν ψυχὴν αὐτοῦ",
+       "literal": "whoever wants to save his psychē… to forfeit his psychē",
+       "common": "save his life… lose his own soul (KJV)",
+       "why": "The KJV uses “life” in verse 35 and “soul” in verse 36 for the same word, so readers think Jesus changes subject."
       }
      ]
     },
@@ -1154,6 +1427,17 @@
      ],
      "a": 2,
      "why": "The body is a temple of the Holy Spirit and will be raised (1 Corinthians 15:44)."
+    },
+    {
+     "q": "Why did some translations render Paul's sarx as “sinful nature”?",
+     "options": [
+      "Because sarx literally means “nature”",
+      "To show that Paul did not mean the physical body is evil",
+      "Because the Septuagint used that phrase",
+      "Because Paul never used the word “flesh”"
+     ],
+     "a": 1,
+     "why": "Translators wanted to avoid the idea that the body is evil, but “nature” can suggest a fixed evil part of us; many versions keep “flesh”."
     }
    ],
    "terms": [

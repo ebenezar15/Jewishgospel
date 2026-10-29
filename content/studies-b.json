@@ -79,6 +79,23 @@
      ]
     },
     {
+     "h": "What translators miss — and why",
+     "p": [
+      "English inherited two families of words. From Old English came *rightwise*, which became **“righteous”**. From Latin, through French, came **“just”, “justice” and “justify”** (from *iustitia* and *iustificare*). Translators use “righteousness” for the noun and “justify” for the verb, simply because English has no natural verb “to righteous”. The result is that readers rarely notice that “the righteousness of God” (Romans 3:21) and “the justifier” (Romans 3:26, KJV) belong to one Greek word family.",
+      "The Latin *iustificare* sounds like “to make just”, and this fed a long debate in the Western church: does God **declare** people righteous or **make** them righteous? The Hebrew *hitsdiq* can lean either way depending on context: judges “declare” the innocent in the right (Deuteronomy 25:1), while the Servant will “make many to be accounted righteous” (Isaiah 53:11, ESV). Scholars still discuss how the two belong together.",
+      "Some words have shifted in English since 1611. The KJV’s “let judgment run down as waters” (Amos 5:24) meant justice; today “judgment” sounds like condemnation, so modern versions say “justice”. Translators also recognise that God’s *tsedakah* is often his saving action, so some versions (e.g. NRSV) say “my deliverance” in Isaiah 46:13. In Greek, *dikaiosynē* is almost always “righteousness”, which hides that hungering for it (Matthew 5:6) is also hungering for **justice**.",
+      "Scholars also debate a small Greek phrase, *pistis Christou* (Romans 3:22; Galatians 2:16): does it mean “faith **in** Christ” or “the faithfulness **of** Christ”? Most versions choose the first; some, like the NRSV, give the second in a footnote. Both are possible Greek, and both fit the Jewish idea of *emunah* as steady trust and faithfulness."
+     ]
+    },
+    {
+     "h": "The culture behind the words",
+     "p": [
+      "In Israel, justice was done at the **city gate**. There were no professional lawyers: elders sat on the benches, witnesses spoke, and the judge’s task was to declare the innocent party in the right and to protect those with no one to speak for them (Ruth 4:1–11; Deuteronomy 25:1). To be “righteous” was to be loyal in your relationships: to your family, your clan, the guest under your roof, the poor in your town.",
+      "Righteousness was also built into farming life. Corners of the field were left for the poor, and gleaners could gather what the reapers dropped (Leviticus 19:9–10; Ruth 2). Every third year a tithe was stored “for the Levite, the sojourner, the fatherless and the widow” (Deuteronomy 14:28–29). This is why *tsedakah* could later simply mean **giving to the poor**: it was what a right-living community did.",
+      "In the Greco-Roman world, *dikaiosynē* was a civic virtue discussed by philosophers, and Rome was proud of its law and of *Iustitia*, Justice, pictured as a goddess. When Paul wrote to believers in Rome that “the righteousness of God is revealed” in the gospel (Romans 1:17), his readers lived under Caesar’s justice. Paul announced a different justice: **God’s faithful action to put the world right**, starting with the crucified and risen Jesus."
+     ]
+    },
+    {
      "h": "Beyond a courtroom only",
      "p": [
       "Many Western explanations treat justification **only** as a legal transaction in a heavenly court: a verdict changes, but nothing else need change. The courtroom picture is truly in the Bible (Deuteronomy 25:1). But in Hebrew thought the judge’s task is to **set things right**, and the verdict restores a person to their rightful place in the community.",
@@ -99,7 +116,9 @@
        "pron": "tsa-DAHK",
        "gloss": "to be in the right",
        "refs": "Genesis 38:26; 1 Samuel 24:17",
-       "note": "Used of the person who is in the right within a relationship or a dispute."
+       "note": "Used of the person who is in the right within a relationship or a dispute.",
+       "missed": "English must choose “righteous” or “just”, and “more righteous than I” (Genesis 38:26) sounds like moral perfection rather than being in the right in a relationship.",
+       "culture": "Disputes were settled at the town gate before the elders; the one found “in the right” won the case and kept his good name."
       },
       {
        "lang": "he",
@@ -108,7 +127,9 @@
        "pron": "hits-DEEK",
        "gloss": "to declare righteous, vindicate",
        "refs": "Deuteronomy 25:1; Isaiah 53:11",
-       "note": "The causative form: to pronounce someone in the right or to make them righteous."
+       "note": "The causative form: to pronounce someone in the right or to make them righteous.",
+       "missed": "Today “justify” means “give reasons for” or “excuse”; in Hebrew it means to declare someone in the right or to vindicate them.",
+       "culture": "Judges at the gate were warned not to “justify the wicked” for a bribe (Exodus 23:7–8; Isaiah 5:23)."
       },
       {
        "lang": "he",
@@ -117,7 +138,9 @@
        "pron": "tse-dah-KAH",
        "gloss": "righteousness; later, charity",
        "refs": "Genesis 15:6; Psalm 98:2",
-       "note": "Right living and God’s faithful saving acts; in later Hebrew, giving to the poor."
+       "note": "Right living and God’s faithful saving acts; in later Hebrew, giving to the poor.",
+       "missed": "“Righteousness” sounds like a private moral record; tsedakah includes God’s saving acts, so some versions (e.g. NRSV) say “deliverance” in Isaiah 46:13.",
+       "culture": "Jewish homes and synagogues keep a tsedakah box, and many families put coins in it before lighting the Sabbath candles."
       },
       {
        "lang": "he",
@@ -126,7 +149,9 @@
        "pron": "tsah-DEEK",
        "gloss": "a righteous person",
        "refs": "Habakkuk 2:4; Psalm 1:6",
-       "note": "Someone who keeps faith with God and people."
+       "note": "Someone who keeps faith with God and people.",
+       "missed": "“Righteous man” can sound like “self-righteous”; a tsaddiq is someone loyal to God and generous to neighbours.",
+       "culture": "In later Jewish life “tsaddik” became a title of honour, and tradition speaks of hidden righteous people for whose sake the world stands."
       },
       {
        "lang": "he",
@@ -135,7 +160,9 @@
        "pron": "mish-PAHT",
        "gloss": "justice, a right ruling",
        "refs": "Amos 5:24; Micah 6:8",
-       "note": "Justice that sets things right, especially for the weak."
+       "note": "Justice that sets things right, especially for the weak.",
+       "missed": "The KJV’s “let judgment run down as waters” (Amos 5:24) now sounds like condemnation; mishpat is justice that sets things right.",
+       "culture": "Mishpat was the duty of kings and elders: to rescue the robbed and to protect the stranger, the orphan and the widow (Jeremiah 22:3)."
       },
       {
        "lang": "gr",
@@ -144,7 +171,9 @@
        "pron": "dee-kai-OH-oh",
        "gloss": "to justify, vindicate, put right",
        "refs": "Romans 3:24–28; 5:1; James 2:21–24; Luke 18:14",
-       "note": "To declare someone in the right and treat them as such."
+       "note": "To declare someone in the right and treat them as such.",
+       "missed": "Modern English “justify” has lost the sense of “put right”, so some scholars prefer “vindicate” or “set right” to convey Paul’s meaning.",
+       "culture": "In Greek cities verdicts were given in public law courts; in Paul’s Jewish world a verdict also restored a person’s standing in the community."
       },
       {
        "lang": "gr",
@@ -153,7 +182,9 @@
        "pron": "dee-kai-oh-SOO-nay",
        "gloss": "righteousness and justice",
        "refs": "Matthew 5:6; 6:33; Romans 1:17",
-       "note": "One Greek word that covers both English ideas."
+       "note": "One Greek word that covers both English ideas.",
+       "missed": "English Bibles almost always say “righteousness”, so “hunger and thirst for justice” (Matthew 5:6) is hidden; the Latin iustitia kept both senses.",
+       "culture": "For Greeks, dikaiosynē was one of the chief civic virtues; for Jews reading the Septuagint, it was God’s covenant faithfulness and human loyalty to it."
       },
       {
        "lang": "gr",
@@ -162,7 +193,9 @@
        "pron": "dee-KAI-oh-sis",
        "gloss": "justification",
        "refs": "Romans 4:25; 5:18",
-       "note": "Paul links it to Jesus’ resurrection."
+       "note": "Paul links it to Jesus’ resurrection.",
+       "missed": "“Justification” sounds like a technical term of doctrine; Romans 4:25 ties it to the resurrection as God’s public verdict on Jesus.",
+       "culture": "In an honour-and-shame world, crucifixion declared a man cursed and worthless; the resurrection reads as God reversing that public verdict."
       },
       {
        "lang": "gr",
@@ -171,14 +204,58 @@
        "pron": "DEE-kai-os",
        "gloss": "righteous, just",
        "refs": "Matthew 1:19; Romans 1:17",
-       "note": "The Greek word for a tsaddiq, a righteous person."
+       "note": "The Greek word for a tsaddiq, a righteous person.",
+       "missed": "Joseph is “a just man” (KJV, ESV), “righteous” (NRSV) or “faithful to the law” (NIV) in Matthew 1:19; English must pick, while Greek means all of these.",
+       "culture": "Joseph’s righteousness is shown in honour-and-shame terms: he did not want to put Mary to public shame."
+      }
+     ]
+    },
+    {
+     "type": "renderings",
+     "title": "How translators handled it",
+     "after": 5,
+     "rows": [
+      {
+       "verse": "Genesis 15:6",
+       "original": "וַיַּחְשְׁבֶהָ לּוֹ צְדָקָה",
+       "literal": "and he reckoned it to him as righteousness (right standing)",
+       "common": "he counted it to him for righteousness (KJV)",
+       "why": "“Righteousness” is the traditional word; it can sound like moral merit, while tsedakah here is right standing in a covenant relationship."
+      },
+      {
+       "verse": "Amos 5:24",
+       "original": "וְיִגַּל כַּמַּיִם מִשְׁפָּט וּצְדָקָה כְּנַחַל אֵיתָן",
+       "literal": "let justice roll like waters, and righteousness like an ever-flowing stream",
+       "common": "let judgment run down as waters (KJV); “let justice roll on like a river” (NIV)",
+       "why": "In 1611 “judgment” meant justice; today it sounds like condemnation, so modern versions say “justice”."
+      },
+      {
+       "verse": "Matthew 5:6",
+       "original": "οἱ πεινῶντες καὶ διψῶντες τὴν δικαιοσύνην",
+       "literal": "those hungering and thirsting for righteousness-and-justice",
+       "common": "they which do hunger and thirst after righteousness (KJV)",
+       "why": "“Righteousness” keeps the link with God’s character, but English readers lose the longing for justice that Jesus’ poor hearers felt."
+      },
+      {
+       "verse": "Romans 3:28",
+       "original": "δικαιοῦσθαι πίστει ἄνθρωπον χωρὶς ἔργων νόμου",
+       "literal": "a person is set right by trust, apart from works of the law",
+       "common": "a man is justified by faith without the deeds of the law (KJV)",
+       "why": "English borrowed “justify” from Latin because it has no verb from “righteous”, so the link with “righteousness” in Romans 3:21–26 is hidden."
+      },
+      {
+       "verse": "Matthew 1:19",
+       "original": "Ἰωσὴφ… δίκαιος ὢν",
+       "literal": "Joseph… being righteous/just",
+       "common": "being a just man (KJV); “faithful to the law” (NIV)",
+       "why": "The NIV explains what Joseph’s righteousness meant in practice; the Greek simply calls him dikaios, a tsaddiq."
       }
      ]
     },
     {
      "type": "compare",
      "title": "Two ways to hear “justified”",
-     "after": 7,
+     "after": 9,
      "left": {
       "label": "Courtroom only",
       "items": [
@@ -332,6 +409,17 @@
      ],
      "a": 1,
      "why": "Paul links dikaiōsis, justification, to the resurrection: God vindicated Jesus, and we share in it."
+    },
+    {
+     "q": "Why do English Bibles say “righteousness” for the noun but “justify” for the verb, when Greek uses one word family?",
+     "options": [
+      "Because the Greek words are unrelated",
+      "Because English has no natural verb from “righteous”, so it borrowed “justify” from Latin",
+      "Because Paul invented a new verb",
+      "Because the Septuagint used two different families"
+     ],
+     "a": 1,
+     "why": "Dikaiosynē and dikaioō share one root. English mixes an Old English family (righteous) with a Latin one (just, justify), which hides the link."
     }
    ],
    "terms": [
@@ -445,6 +533,22 @@
      ]
     },
     {
+     "h": "What translators miss — and why",
+     "p": [
+      "English has two sets of holiness words: the Old English **“holy” and “hallow”**, and the Latin **“sanctify”, “sanctification” and “saint”** (from *sanctus*). Translators use both, partly for variety and partly because of tradition. The KJV says “Hallowed be thy name” (Matthew 6:9) but “Sanctify them through thy truth” (John 17:17), though both are *hagiazō*. The same happens with Hebrew *qiddesh*, rendered “sanctify”, “consecrate”, “hallow”, “dedicate” or “keep holy” in different verses.",
+      "The word **“saint”** has changed most. In the Middle Ages it came to mean a specially holy person, honoured after death. So when Paul writes to ordinary believers as *hagioi*, translators feel they must help. The KJV writes “called to be saints” (Romans 1:7; 1 Corinthians 1:2), printing “to be” in italics to show it was added. The NIV says “called to be his holy people”. Both try to make the sense clear, but “to be” can sound like a future goal, when Paul says they **already are** God’s holy ones.",
+      "Translators also face the problem that “holy” in modern English sounds like “very good” or “very religious”. The Hebrew root means **set apart**, which is why the same root can even name a woman set apart for pagan temple service (Genesis 38:21). The Septuagint translators chose the Greek *hagios* rather than *hieros*, the usual word for pagan temples and rites, which shows how carefully they tried to keep the Hebrew sense."
+     ]
+    },
+    {
+     "h": "The culture behind the words",
+     "p": [
+      "Holiness in Israel could be **seen and walked through**. The Temple had zones: the court of the Gentiles, the court of the women, the court of Israel, the court of the priests, the Holy Place and finally the Holy of Holies, which only the high priest entered, once a year. Vessels, garments, oil and offerings were marked as holy, and the priests taught the people to tell holy from common (Leviticus 10:10).",
+      "Holiness also lived in **the calendar and the kitchen**. The Sabbath set apart time every week; food laws set apart the table; blessings turned ordinary acts into service. After the Temple fell, the rabbis applied Ezekiel’s phrase “a little sanctuary” (Ezekiel 11:16) to the synagogue, and Jewish teaching came to see the home, with its table, as a small sanctuary too. Marriage itself was *kiddushin*, a setting apart.",
+      "In the Greco-Roman world, “holy” things were temples, statues and rituals for the city’s gods. Religion was mainly about performing the right rites; it did not usually demand a changed moral life. So when Paul told Gentile converts that holiness meant sexual faithfulness, honest business and love for one another (1 Thessalonians 4:3–9), it was a new idea. And calling slaves, craftsmen and freedmen in Corinth “saints” gave them a **new, dignified identity**: people who belong to God."
+     ]
+    },
+    {
      "h": "Living it out",
      "p": [
       "A common Western picture makes holiness private and inward, a matter of feelings or of keeping away from the world. The Jewish lens brings it back into the kitchen, the market and the family. Holiness is **belonging to God** and letting that show in how you speak, work, spend, eat, love and rest.",
@@ -465,7 +569,9 @@
        "pron": "kah-DAHSH",
        "gloss": "to be set apart, holy",
        "refs": "Exodus 29:37; Leviticus 10:10",
-       "note": "The root: belonging to God and dedicated to His purpose."
+       "note": "The root: belonging to God and dedicated to His purpose.",
+       "missed": "English “holy” sounds like “very pious” or “morally perfect”; qadash is first about being set apart and belonging to God.",
+       "culture": "Israel lived with daily lines between holy and common: Temple vessels, the Sabbath, tithes, firstborn animals and first fruits."
       },
       {
        "lang": "he",
@@ -474,7 +580,9 @@
        "pron": "kid-DESH",
        "gloss": "to consecrate, make holy",
        "refs": "Genesis 2:3; Leviticus 20:7–8",
-       "note": "God sanctified the seventh day and He sanctifies His people."
+       "note": "God sanctified the seventh day and He sanctifies His people.",
+       "missed": "“Sanctify” and “hallow” are church words; “consecrate” or “set apart” is closer, and English hides that Kiddush and kiddushin share this verb.",
+       "culture": "Priests were consecrated with washing, special garments and anointing oil (Exodus 29); Jewish homes “sanctify” the Sabbath every Friday evening."
       },
       {
        "lang": "he",
@@ -483,7 +591,9 @@
        "pron": "kah-DOHSH",
        "gloss": "holy",
        "refs": "Leviticus 19:2; Isaiah 6:3",
-       "note": "Describes God, and the people who belong to Him."
+       "note": "Describes God, and the people who belong to Him.",
+       "missed": "The same root names a woman set apart for pagan temple service (Genesis 38:21), which shows that its basic sense is “set apart”, not automatically “good”.",
+       "culture": "Isaiah heard the seraphim’s “Holy, holy, holy” in the Temple (Isaiah 6:3); it became the Kedushah of synagogue prayer."
       },
       {
        "lang": "he",
@@ -492,7 +602,9 @@
        "pron": "keh-doo-SHAH",
        "gloss": "holiness",
        "refs": "Later Hebrew; the Amidah prayer",
-       "note": "Also the name of the “Holy, holy, holy” section of the Amidah."
+       "note": "Also the name of the “Holy, holy, holy” section of the Amidah.",
+       "missed": "English “holiness” sounds like a private feeling; kedushah is a status and a way of life shared by a whole community.",
+       "culture": "The Kedushah is said standing with feet together, and many worshippers rise on their toes at each “Holy”, imitating the angels."
       },
       {
        "lang": "he",
@@ -501,7 +613,9 @@
        "pron": "kid-DOOSH",
        "gloss": "sanctification; the Sabbath blessing",
        "refs": "Jewish practice; compare Exodus 20:8",
-       "note": "The blessing said over wine to welcome the Sabbath."
+       "note": "The blessing said over wine to welcome the Sabbath.",
+       "missed": "No English Bible uses the word, so Christians rarely connect “keep it holy” with a family blessing at the dinner table.",
+       "culture": "On Friday night the head of the household lifts a cup of wine and blesses God who “sanctified the Sabbath” before the family eats together."
       },
       {
        "lang": "he",
@@ -510,7 +624,9 @@
        "pron": "kid-DOOSH hah-SHEM",
        "gloss": "sanctifying God’s name",
        "refs": "Rooted in Leviticus 22:32",
-       "note": "Living so that God is honoured; its opposite is Chillul HaShem."
+       "note": "Living so that God is honoured; its opposite is Chillul HaShem.",
+       "missed": "“Hallowed be thy name” sounds like words of praise only; Jewish ears also hear a call to live so that God is honoured.",
+       "culture": "In an honour-and-shame culture a family’s name rose or fell by its members’ behaviour, and God’s name among the nations depended on Israel (Ezekiel 36:22–23)."
       },
       {
        "lang": "he",
@@ -519,7 +635,9 @@
        "pron": "khil-LOOL hah-SHEM",
        "gloss": "profaning God’s name",
        "refs": "Rooted in Leviticus 22:32",
-       "note": "Behaviour that brings dishonour on God’s reputation."
+       "note": "Behaviour that brings dishonour on God’s reputation.",
+       "missed": "“Profane” today suggests swearing; chillul means making something common or treating it as worthless.",
+       "culture": "Rabbinic teaching treats dishonest dealing by a person known as religious as one of the gravest wrongs, because it shames God in public."
       },
       {
        "lang": "he",
@@ -528,7 +646,9 @@
        "pron": "kid-doo-SHEEN",
        "gloss": "betrothal, marriage",
        "refs": "Jewish practice; a Mishnah tractate",
-       "note": "The bride is “set apart” for one person."
+       "note": "The bride is “set apart” for one person.",
+       "missed": "English “betrothal” or “engagement” is weaker; in Jewish law kiddushin is already a binding marriage bond.",
+       "culture": "The groom gives the bride a ring and says, “Behold, you are consecrated to me by this ring according to the law of Moses and Israel.”"
       },
       {
        "lang": "gr",
@@ -537,7 +657,9 @@
        "pron": "hah-gee-AHD-zoh",
        "gloss": "to sanctify, consecrate",
        "refs": "John 17:17–19; 1 Thessalonians 5:23; Matthew 6:9",
-       "note": "The Greek verb used for qiddesh."
+       "note": "The Greek verb used for qiddesh.",
+       "missed": "“Sanctify” (from Latin sanctificare) and “hallow” (Old English) are two English words for one Greek verb, so readers miss the link between “hallowed be thy name” and “sanctify them”.",
+       "culture": "Greek religion used hieros for temples and rites; the Septuagint mostly chose the rarer hagios family for God’s holiness, avoiding pagan associations."
       },
       {
        "lang": "gr",
@@ -546,7 +668,9 @@
        "pron": "hah-gee-ahs-MOS",
        "gloss": "sanctification",
        "refs": "1 Thessalonians 4:3; Hebrews 12:14",
-       "note": "Holiness as a way of life."
+       "note": "Holiness as a way of life.",
+       "missed": "The KJV says “sanctification” in 1 Thessalonians 4:3 but “holiness” in Hebrews 12:14, so readers do not see it is one word.",
+       "culture": "Greek cities widely accepted sexual freedom for men; Paul’s call to hagiasmos in sexual life and honest dealing was strikingly countercultural."
       },
       {
        "lang": "gr",
@@ -555,7 +679,9 @@
        "pron": "HAH-gee-os",
        "gloss": "holy; plural “saints”",
        "refs": "Romans 1:7; 1 Corinthians 1:2",
-       "note": "“The saints” are all of God’s people."
+       "note": "“The saints” are all of God’s people.",
+       "missed": "“Saint” in English came to mean an exceptionally holy person honoured after death, while hoi hagioi meant all believers.",
+       "culture": "In Jewish usage “holy ones” (qedoshim) described Israel and the angels; Paul gives this title to ordinary Gentile believers, slaves and artisans included."
       },
       {
        "lang": "gr",
@@ -564,14 +690,58 @@
        "pron": "hah-gee-oh-SOO-nay",
        "gloss": "holiness",
        "refs": "2 Corinthians 7:1; 1 Thessalonians 3:13",
-       "note": "Holiness as a quality that grows to completion."
+       "note": "Holiness as a quality that grows to completion.",
+       "missed": "It is translated “holiness” like hagiasmos, so the difference between holiness as a quality and holiness as a process is hidden.",
+       "culture": "In Romans 1:4, “the Spirit of holiness” (pneuma hagiōsynēs) is a Hebrew-style phrase, like the Hebrew “his holy Spirit” (Isaiah 63:10)."
+      }
+     ]
+    },
+    {
+     "type": "renderings",
+     "title": "How translators handled it",
+     "after": 5,
+     "rows": [
+      {
+       "verse": "Genesis 2:3",
+       "original": "וַיְקַדֵּשׁ אֹתוֹ",
+       "literal": "and he set it apart",
+       "common": "and sanctified it (KJV); “made it holy” (NIV)",
+       "why": "“Sanctified” is the traditional church word; “set apart” would show plainly that the first holy thing in the Bible is time, belonging to God."
+      },
+      {
+       "verse": "Exodus 20:8",
+       "original": "זָכוֹר אֶת־יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ",
+       "literal": "remember the Sabbath day, to set it apart",
+       "common": "Remember the sabbath day, to keep it holy (KJV)",
+       "why": "“Keep it holy” is clear, but readers miss that the Hebrew verb is the source of Kiddush, the blessing that sets the Sabbath apart at the family table."
+      },
+      {
+       "verse": "Matthew 6:9",
+       "original": "ἁγιασθήτω τὸ ὄνομά σου",
+       "literal": "let your name be treated as holy",
+       "common": "Hallowed be thy name (KJV)",
+       "why": "“Hallowed” is an old English word kept for its beauty and familiarity; it hides that it is the same verb as “sanctify” in John 17:17."
+      },
+      {
+       "verse": "Romans 1:7",
+       "original": "κλητοῖς ἁγίοις",
+       "literal": "called holy ones",
+       "common": "called to be saints (KJV, with “to be” in italics); “called to be his holy people” (NIV)",
+       "why": "The KJV added “to be” for smooth English, marked in italics; it can sound like a future goal, though Paul says they already are holy ones."
+      },
+      {
+       "verse": "1 Thessalonians 4:3",
+       "original": "τοῦτο γάρ ἐστιν θέλημα τοῦ θεοῦ, ὁ ἁγιασμὸς ὑμῶν",
+       "literal": "for this is God’s will: your being made holy",
+       "common": "this is the will of God, even your sanctification (KJV)",
+       "why": "“Sanctification” sounds like a doctrine; Paul immediately applies it to sexual faithfulness and honest dealing (4:3–6)."
       }
      ]
     },
     {
      "type": "compare",
      "title": "Two pictures of holiness",
-     "after": 7,
+     "after": 9,
      "left": {
       "label": "Common Western assumption",
       "items": [
@@ -725,6 +895,17 @@
      ],
      "a": 1,
      "why": "The groom says, “You are consecrated to me”: she is set apart for him alone — a picture of holiness as faithful belonging."
+    },
+    {
+     "q": "In Romans 1:7 the KJV prints “called to be saints” with “to be” in italics. What does that show?",
+     "options": [
+      "The words are in the Greek",
+      "The translators added them for smooth English",
+      "They were added by a later scribe",
+      "They are quoted from Isaiah"
+     ],
+     "a": 1,
+     "why": "The Greek says simply “called holy ones”. The KJV marks added words in italics; Paul means believers already are God’s holy people."
     }
    ],
    "terms": [
@@ -840,6 +1021,23 @@
      ]
     },
     {
+     "h": "What translators miss — and why",
+     "p": [
+      "The English word “kingdom” is old and good: *king* plus *-dom*, the realm or rule of a king. But today it mostly suggests a country, like the United Kingdom. *Malkhut* and *basileia* mean first **reign, kingship, royal power**. Translators keep “kingdom” in famous phrases such as “thy kingdom come” because readers know and love them, and changing them would cause confusion. In some places they choose “reign”, “royal power” or, in Luke 19:12, “to have himself appointed king” (NIV), which shows they know the word’s range.",
+      "“Kingdom of heaven” is another case. Matthew’s Greek says “the kingdom of the **heavens**”, a plural that follows the Hebrew *shamayim*, which is always plural in form. English simplifies it to “heaven”, and readers easily hear a destination after death rather than a reverent way of saying “God”. Mark and Luke, writing for many Gentile readers, simply say “kingdom of God”.",
+      "Luke 17:21 shows a real translation choice. The Greek *entos hymōn* can mean “within you” or “among you”. The KJV followed the Latin Vulgate’s *intra vos*, “within you”, and this shaped centuries of inward, private readings. Many modern versions say “in the midst of you” (ESV) or “in your midst” (NIV), because Jesus is speaking to Pharisees and pointing to his own presence. Both are possible Greek; context decides.",
+      "Finally, Exodus 19:6. The Hebrew says “a kingdom of priests”, but the Septuagint rendered it “a royal priesthood”, and 1 Peter 2:9 quotes the Greek. Revelation 1:6 also differs: the KJV’s “kings and priests” follows later Greek manuscripts, while modern versions, following older manuscripts, read “a kingdom, priests”. These differences are honest, and knowing them helps us hear the link with Sinai."
+     ]
+    },
+    {
+     "h": "The culture behind the words",
+     "p": [
+      "In the ancient Near East a king was a **shepherd, judge and warrior** for his people. Israel had a mixed view of human kings: Gideon refused the crown, saying “the LORD will rule over you” (Judges 8:23), and Samuel warned what kings would take (1 Samuel 8:10–18). From early on, Israel confessed that God was its true King. The image of a **yoke** came from farming: oxen under the yoke walk where the farmer leads, which is why “taking on the yoke of the kingdom” meant accepting God’s direction.",
+      "By Jesus’ day the Jewish people had lived for centuries under foreign empires: Babylon, Persia, the Greek kingdoms and now Rome. Herod and his sons ruled only with Rome’s permission, and heavy taxes pressed on farmers. Hopes for God’s kingdom took different shapes: some waited and prayed, some looked for a warrior Messiah, some took up arms. The Kaddish prayer’s plea, “may He establish His kingdom in your lifetime”, expressed a longing that was **very practical and very political**.",
+      "In the Greco-Roman world, the emperor was *basileus* and “lord”, and his victories and birthdays were proclaimed as “good news” (*euangelion*), as in the Priene inscription about Augustus. So when Jesus announced “the kingdom of God is at hand” and the apostles spoke of “another king, Jesus” (Acts 17:7), it sounded like a challenge to Caesar. That is why the charge nailed to the cross read “The King of the Jews”. Yet Jesus’ kingdom came not by the sword but by **service, forgiveness and the cross**."
+     ]
+    },
+    {
      "h": "An upside-down kingdom",
      "p": [
       "When Jesus says, “My kingdom is not of this world” (John 18:36), He is talking about where His kingship **comes from** and what it is like, not saying it has nothing to do with earth. His kingdom does not work like Rome’s. The poor, the mourners, the meek and the persecuted are blessed (Matthew 5:3–10). Children are the model citizens (Mark 10:14–15). The great are those who serve, because “the Son of Man came not to be served but to serve” (Mark 10:42–45).",
@@ -860,7 +1058,9 @@
        "pron": "mal-KHOOT",
        "gloss": "kingship, reign, kingdom",
        "refs": "Psalm 145:11–13; Psalm 103:19",
-       "note": "God’s active royal rule more than a territory."
+       "note": "God’s active royal rule more than a territory.",
+       "missed": "In modern English “kingdom” sounds like a territory with borders; malkhut is first “kingship” or “reign”, which is why some verses read better as “reign” or “dominion”.",
+       "culture": "Ancient Near Eastern records dated events by a king’s reign, as in “the third year of the reign (malkhut) of Jehoiakim” (Daniel 1:1)."
       },
       {
        "lang": "he",
@@ -869,7 +1069,9 @@
        "pron": "mahm-lah-KHAH",
        "gloss": "kingdom",
        "refs": "Exodus 19:6; 1 Chronicles 29:11",
-       "note": "Israel was called “a kingdom of priests”."
+       "note": "Israel was called “a kingdom of priests”.",
+       "missed": "“Kingdom of priests” can sound like a state ruled by priests; it means a royal people serving as priests for the nations. The Septuagint’s “royal priesthood” shaped 1 Peter 2:9.",
+       "culture": "Priests stood between God and the people, teaching and offering sacrifices; Israel as a whole was to play that role among the nations."
       },
       {
        "lang": "he",
@@ -878,7 +1080,9 @@
        "pron": "MEH-lekh",
        "gloss": "king",
        "refs": "Psalm 47:7; Zechariah 14:9",
-       "note": "The verb malakh means “to reign”: “The LORD reigns!” (Psalm 93:1)."
+       "note": "The verb malakh means “to reign”: “The LORD reigns!” (Psalm 93:1).",
+       "missed": "English “king” suggests crowns and palaces; Israel’s ideal king was a shepherd who read and obeyed the Torah (Deuteronomy 17:18–20).",
+       "culture": "Near Eastern kings were often called shepherds of their people, and David the shepherd boy became Israel’s model king."
       },
       {
        "lang": "ar",
@@ -887,7 +1091,9 @@
        "pron": "mal-KHOO",
        "gloss": "kingdom (Aramaic)",
        "refs": "Daniel 7:14, 27",
-       "note": "The everlasting kingdom given to the “son of man” and to God’s people."
+       "note": "The everlasting kingdom given to the “son of man” and to God’s people.",
+       "missed": "English Bibles translate Aramaic and Hebrew alike as “kingdom”, so readers do not notice that Daniel switches into Aramaic (Daniel 2:4–7:28).",
+       "culture": "Aramaic was the international language of Babylon and Persia; Daniel’s vision of God’s kingdom is told in the very language of the empires it replaces."
       },
       {
        "lang": "he",
@@ -896,7 +1102,9 @@
        "pron": "mal-KHOOT shah-MAH-yim",
        "gloss": "kingdom of heaven",
        "refs": "Mishnah Berakhot 2:2",
-       "note": "A rabbinic phrase; “heaven” is a respectful way of saying “God”."
+       "note": "A rabbinic phrase; “heaven” is a respectful way of saying “God”.",
+       "missed": "“Kingdom of heaven” sounds like a place in the sky; “heaven” here is a reverent way of saying “God”.",
+       "culture": "Jews avoided pronouncing the divine name and often said “Heaven”, “the Place” or “the Holy One, blessed be He” instead."
       },
       {
        "lang": "gr",
@@ -905,7 +1113,9 @@
        "pron": "bah-see-LAY-ah",
        "gloss": "kingship, reign, kingdom",
        "refs": "Mark 1:15; Matthew 6:10; Luke 19:12",
-       "note": "Used for both “kingdom of God” and “kingdom of heaven”."
+       "note": "Used for both “kingdom of God” and “kingdom of heaven”.",
+       "missed": "“Kingdom” hides that basileia can mean “royal power” (Luke 19:12, NIV “to have himself appointed king”), so “thy kingdom come” is God’s rule arriving, not a country.",
+       "culture": "In the Greek East the emperor was called basileus, and the Priene inscription (9 BC) hailed Augustus’ birthday as the beginning of “good news” for the world."
       },
       {
        "lang": "gr",
@@ -914,7 +1124,9 @@
        "pron": "bah-see-LEFS",
        "gloss": "king",
        "refs": "Mark 15:26; Revelation 19:16",
-       "note": "“King of the Jews”; “King of kings”."
+       "note": "“King of the Jews”; “King of kings”.",
+       "missed": "“King of the Jews” on the cross was mockery and a charge of rebellion; English readers often miss its political edge.",
+       "culture": "Herod held the title “king” only with Rome’s approval; claiming kingship without Caesar’s permission was treason (John 19:12)."
       },
       {
        "lang": "gr",
@@ -923,7 +1135,51 @@
        "pron": "bah-see-LEW-oh",
        "gloss": "to reign",
        "refs": "1 Corinthians 15:25; Revelation 11:15",
-       "note": "Christ reigns now and will reign for ever."
+       "note": "Christ reigns now and will reign for ever.",
+       "missed": "“Reign” is accurate, but we rarely notice it is the verb of “kingdom”, which shows that the kingdom is about God actively reigning.",
+       "culture": "Roman coins and inscriptions celebrated the reign of Caesar; Revelation’s “he shall reign for ever and ever” (11:15) answers the empire’s claims."
+      }
+     ]
+    },
+    {
+     "type": "renderings",
+     "title": "How translators handled it",
+     "after": 5,
+     "rows": [
+      {
+       "verse": "Psalm 145:13",
+       "original": "מַלְכוּתְךָ מַלְכוּת כָּל־עֹלָמִים",
+       "literal": "your kingship is a kingship of all ages",
+       "common": "Thy kingdom is an everlasting kingdom (KJV)",
+       "why": "“Kingdom” is the traditional word, but the parallel line “your dominion endures” shows the psalm means God’s reign, not a territory."
+      },
+      {
+       "verse": "Exodus 19:6",
+       "original": "מַמְלֶכֶת כֹּהֲנִים",
+       "literal": "a kingdom of priests",
+       "common": "a kingdom of priests (KJV); the Septuagint has “a royal priesthood”, quoted in 1 Peter 2:9",
+       "why": "The Septuagint rendered it basileion hierateuma, “royal priesthood”; Peter quotes the Greek, so English readers may not see he is citing Sinai."
+      },
+      {
+       "verse": "Matthew 4:17",
+       "original": "ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν",
+       "literal": "for the reign of the heavens has come near",
+       "common": "the kingdom of heaven is at hand (KJV)",
+       "why": "The Greek plural “heavens” follows Hebrew shamayim; translators simplify to “heaven”, and readers easily hear a destination after death."
+      },
+      {
+       "verse": "Luke 17:21",
+       "original": "ἡ βασιλεία τοῦ θεοῦ ἐντὸς ὑμῶν ἐστιν",
+       "literal": "the kingdom of God is within / among you",
+       "common": "the kingdom of God is within you (KJV); “in the midst of you” (ESV)",
+       "why": "The KJV followed the Latin intra vos; many modern versions choose “in your midst”, since Jesus is speaking to Pharisees and points to his own presence."
+      },
+      {
+       "verse": "Luke 19:12",
+       "original": "λαβεῖν ἑαυτῷ βασιλείαν",
+       "literal": "to receive royal power for himself",
+       "common": "to receive for himself a kingdom (KJV); “to have himself appointed king” (NIV)",
+       "why": "The NIV makes clear that the nobleman went to receive kingship, not land; Jesus’ hearers knew Herod’s sons had travelled to Rome for exactly this."
       }
      ]
     },
@@ -1085,6 +1341,17 @@
      ],
      "a": 2,
      "why": "Jesus showed God’s reign breaking in (Luke 11:20), and we still pray “Your kingdom come” (Matthew 6:10)."
+    },
+    {
+     "q": "Why does Matthew’s Greek say “kingdom of the heavens” (plural)?",
+     "options": [
+      "Because there are several heavens to visit after death",
+      "Because it follows the Hebrew shamayim, which is always plural in form",
+      "Because Matthew misunderstood Mark",
+      "Because Greek has no singular for “heaven”"
+     ],
+     "a": 1,
+     "why": "Matthew’s phrase mirrors the Hebrew malkhut shamayim; “heavens” is a reverent way of saying “God”, not a list of places."
     }
    ],
    "terms": [
