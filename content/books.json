@@ -51,6 +51,13 @@
       "title": "Hebrew & Greek Word Studies",
       "headline": "The words behind the Bible's big ideas",
       "blurb": "Each Hebrew and Greek word behind the Bible's key ideas: its deep meaning, what translations miss and why, and the culture behind it."
+    },
+    {
+      "id": "world",
+      "short": "World",
+      "title": "The World Behind the Bible",
+      "headline": "Gospels, land, Temple, Rome and midrash",
+      "blurb": "The Jewish and Roman world behind the Gospels: history, places, groups, feasts, daily life and the Jewish stories the New Testament echoes. Maps, timelines, family trees and story cards."
     }
   ]
 }

@@ -582,6 +582,100 @@ footer { border-top: 1px solid var(--line); padding-block: 26px; color: var(--mu
 :root[lang="ta"] .eyebrow, :root[lang="ta"] .tag, :root[lang="ta"] small { letter-spacing: .02em; }
 :root[lang="ta"] .prose { line-height: 1.85; }
 @media (max-width: 620px) { .lang-switch button { padding: 6px 8px; font-size: 12px; } .top .wrap { gap: 6px; } .icon-btn { width: 36px; height: 36px; } }
+/* ---------- world behind the bible: visuals ---------- */
+.mapbox { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 16px; align-items: start; }
+.mapsvg { width: 100%; height: auto; max-height: 620px; border-radius: 16px; background: var(--surface); border: 1px solid var(--line); display: block; }
+.mapsvg .land { fill: color-mix(in oklch, var(--line) 55%, var(--surface)); }
+.mapsvg .sea { fill: var(--accent-soft); }
+.mapsvg .lake { fill: var(--accent-soft); stroke: var(--accent); stroke-width: 1.5; }
+.mapsvg .river { fill: none; stroke: var(--accent); stroke-width: 2.2; stroke-linecap: round; opacity: .7; }
+.mapsvg .region { fill: var(--muted); font: 700 13px var(--font-ui); letter-spacing: .14em; text-transform: uppercase; text-anchor: middle; opacity: .55; }
+.mapsvg .water { fill: var(--accent); font: italic 600 12px var(--font-ui); text-anchor: middle; opacity: .7; }
+.mapsvg .route { fill: none; stroke: var(--gold); stroke-width: 3.5; stroke-dasharray: 10 7; stroke-linecap: round; animation: march 1.2s linear infinite; }
+@keyframes march { to { stroke-dashoffset: -17; } }
+.mapsvg .pin { cursor: pointer; }
+.mapsvg .pin circle { fill: var(--accent); stroke: var(--surface); stroke-width: 3; transition: r .2s; }
+.mapsvg .pin text.n { fill: var(--accent-fg); font: 800 11px var(--font-ui); text-anchor: middle; dominant-baseline: central; pointer-events: none; }
+.mapsvg .pin text.l { fill: var(--fg); font: 700 13px var(--font-ui); paint-order: stroke; stroke: var(--surface); stroke-width: 4px; stroke-linejoin: round; }
+.mapsvg .pin[aria-pressed="true"] circle { fill: var(--gold); r: 15; }
+.mapsvg .pin:focus-visible circle { stroke: var(--gold); }
+.play .mapsvg .pin { animation: pinDrop .5s var(--ease) both; animation-delay: calc(var(--i) * .06s); }
+@keyframes pinDrop { from { opacity: 0; transform: translateY(-14px); } }
+.place-list { display: grid; gap: 6px; max-height: 620px; overflow: auto; padding: 0; margin: 0; list-style: none; }
+.place-list li { padding: 9px 12px; border-radius: 12px; background: var(--sunk); cursor: pointer; font-size: 14px; color: var(--muted); transition: background .2s, transform .2s var(--ease); }
+.place-list li b { color: var(--fg); display: flex; gap: 8px; align-items: baseline; font-size: 15px; }
+.place-list li b i { font-style: normal; font-size: 11px; font-weight: 800; color: var(--accent-fg); background: var(--accent); border-radius: 999px; min-width: 20px; height: 20px; display: inline-grid; place-items: center; flex-shrink: 0; }
+.place-list li .refs { display: block; font-size: 12px; font-weight: 700; color: var(--accent); margin-top: 2px; }
+.place-list li.on { background: var(--accent-soft); color: var(--fg); transform: translateX(3px); }
+.place-list li a { font-size: 12px; font-weight: 700; text-decoration: none; }
+.wheel-wrap { display: grid; grid-template-columns: minmax(0, 320px) minmax(0, 1fr); gap: 20px; align-items: center; }
+.wheel-svg { width: 100%; max-width: 320px; aspect-ratio: 1; justify-self: center; overflow: visible; }
+.wheel-svg .seg { cursor: pointer; transition: transform .3s var(--ease); transform-origin: 160px 160px; }
+.wheel-svg .seg path { fill: color-mix(in oklch, var(--accent) calc(18% + var(--k) * 6%), var(--surface)); stroke: var(--surface); stroke-width: 3; }
+.wheel-svg .seg text { fill: var(--fg); font: 800 15px var(--font-ui); text-anchor: middle; dominant-baseline: central; pointer-events: none; }
+.wheel-svg .seg[aria-pressed="true"] { transform: scale(1.06); }
+.wheel-svg .seg[aria-pressed="true"] path { fill: var(--gold); }
+.wheel-svg .hub { fill: var(--surface); stroke: var(--line); }
+.wheel-svg .hubt { fill: var(--muted); font: 700 13px var(--font-ui); text-anchor: middle; }
+.wheel-svg .spin { transform-origin: 160px 160px; animation: spin 80s linear infinite; }
+.wheel-detail { border-radius: 16px; padding: 16px 18px; background: var(--sunk); display: grid; gap: 6px; min-height: 160px; }
+.wheel-detail small { font-size: 12px; font-weight: 800; color: var(--accent); letter-spacing: .06em; text-transform: uppercase; }
+:root[lang="ta"] .wheel-detail small { text-transform: none; letter-spacing: 0; }
+.wheel-detail h4 { font-size: 20px; }
+.wheel-detail .nt { padding: 10px 12px; border-radius: 10px; background: var(--accent-soft); font-size: 14px; font-weight: 600; }
+.wheel-dots { display: flex; flex-wrap: wrap; gap: 6px; }
+.wheel-dots button { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 4px 10px; font-size: 12px; font-weight: 700; color: var(--muted); }
+.wheel-dots button[aria-pressed="true"] { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); }
+.ft, .ft ul { list-style: none; margin: 0; padding: 0; }
+.ft { display: flex; justify-content: center; min-width: max-content; padding: 6px 4px 4px; }
+.ft ul { display: flex; justify-content: center; padding-top: 22px; position: relative; }
+.ft li { position: relative; padding: 22px 6px 0; display: flex; flex-direction: column; align-items: center; }
+.ft > li { padding-top: 0; }
+.ft li::before, .ft li::after { content: ""; position: absolute; top: 0; width: 50%; height: 22px; border-top: 2px solid var(--line); }
+.ft li::before { right: 50%; } .ft li::after { left: 50%; border-left: 2px solid var(--line); }
+.ft li:only-child::before, .ft li:only-child::after { border-top: 0; }
+.ft li:first-child::before, .ft li:last-child::after { border-top: 0; }
+.ft li:last-child::before { border-right: 2px solid var(--line); border-radius: 0 8px 0 0; }
+.ft li:first-child::after { border-radius: 8px 0 0 0; }
+.ft > li::before, .ft > li::after { display: none; }
+.ft ul::before { content: ""; position: absolute; top: 0; left: 50%; height: 22px; border-left: 2px solid var(--line); }
+.ft-node { border-radius: 12px; padding: 9px 12px; background: var(--surface); border: 1.5px solid var(--line); max-width: 190px; text-align: center; font-size: 14px; transition: border-color .2s, transform .2s var(--ease); }
+.ft-node:hover { border-color: var(--accent); transform: translateY(-2px); }
+.ft-node b { display: block; color: var(--accent); }
+.ft-node small { display: block; color: var(--muted); font-size: 12px; line-height: 1.35; margin-top: 2px; }
+.ft > li > .ft-node { background: var(--accent); border-color: var(--accent); }
+.ft > li > .ft-node b, .ft > li > .ft-node small { color: var(--accent-fg); }
+.play .ft-node { animation: rise .5s var(--ease) both; animation-delay: calc(var(--i) * .07s); }
+.pyr { display: grid; gap: 6px; justify-items: center; }
+.pyr-l { width: calc(34% + var(--k) * (66% / var(--n))); max-width: 100%; border-radius: 10px; padding: 10px 14px; text-align: center; background: color-mix(in oklch, var(--accent) calc(90% - var(--k) * 12%), var(--surface)); color: var(--accent-fg); cursor: pointer; transition: transform .2s var(--ease); }
+.pyr-l:hover { transform: scale(1.02); }
+.pyr-l b { display: block; font-size: 15px; }
+.pyr-l small { display: block; font-size: 13px; opacity: .92; line-height: 1.35; }
+.pyr-l.light { color: var(--fg); }
+.play .pyr-l { animation: zoomIn .5s var(--ease) both; animation-delay: calc(var(--k) * .1s); }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; perspective: 1200px; }
+.fcard { position: relative; min-height: 230px; border: 0; padding: 0; background: none; text-align: left; transform-style: preserve-3d; transition: transform .6s var(--ease); cursor: pointer; }
+.fcard.flipped { transform: rotateY(180deg); }
+.fcard .side { position: absolute; inset: 0; border-radius: 16px; padding: 16px; backface-visibility: hidden; -webkit-backface-visibility: hidden; display: flex; flex-direction: column; gap: 8px; border: 1px solid var(--line); overflow: auto; }
+.fcard .front { background: linear-gradient(160deg, var(--accent-soft), var(--surface)); }
+.fcard .front b { font-size: 17px; line-height: 1.3; }
+.fcard .front p { color: var(--muted); font-size: 14px; }
+.fcard .front small { margin-top: auto; font-size: 12px; font-weight: 700; color: var(--accent); }
+.fcard .back { background: var(--surface); transform: rotateY(180deg); font-size: 14px; line-height: 1.5; }
+.fcard .back .src, .fcard .back .echo { font-size: 12.5px; border-radius: 8px; padding: 6px 9px; }
+.fcard .back .src { background: var(--gold-soft); }
+.fcard .back .echo { background: var(--accent-soft); font-weight: 600; }
+.play .fcard { animation: rise .5s var(--ease) both; animation-delay: calc(var(--i) * .08s); }
+.gtable { width: 100%; border-collapse: separate; border-spacing: 0; font-size: 14px; min-width: 560px; }
+.gtable th, .gtable td { padding: 10px 12px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); }
+.gtable thead th { background: var(--accent); color: var(--accent-fg); font-weight: 800; position: sticky; top: 0; }
+.gtable thead th:first-child { border-top-left-radius: 12px; } .gtable thead th:last-child { border-top-right-radius: 12px; }
+.gtable tbody th { background: var(--sunk); font-weight: 800; position: sticky; left: 0; min-width: 120px; }
+.gtable tbody tr:hover td { background: var(--accent-soft); }
+.play .gtable tbody tr { animation: rise .45s var(--ease) both; animation-delay: calc(var(--i) * .06s); }
+@media (max-width: 760px) { .mapbox, .wheel-wrap { grid-template-columns: minmax(0, 1fr); } .place-list { max-height: 320px; } }
+.toc-book { flex-wrap: wrap; }
+.toc-book button { flex: 1 1 calc(50% - 6px); }
 :root.calm *, :root.calm *::before, :root.calm *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
 </style>
 
@@ -682,10 +776,10 @@ const I18N = {
     mapT: 'Big-picture map', mapD: 'See how every chapter connects, as one flowchart.',
     glT: 'Glossary', glD: 'Plain definitions for every key term in both books.',
     qzT: 'Mixed quiz', qzD: 'Ten random questions drawn from every topic.',
-    tags: { flow: 'Flowchart', compare: 'Two lenses', timeline: 'Timeline', cycle: 'Cycle', tree: 'Mind map', layers: 'Layers', wordroot: 'Word anatomy', lexicon: 'Word list', renderings: 'Translations', spectrum: 'Spectrum', skeleton: 'Skeleton', constellation: 'Constellation' },
+    tags: { flow: 'Flowchart', compare: 'Two lenses', timeline: 'Timeline', cycle: 'Cycle', tree: 'Mind map', layers: 'Layers', wordroot: 'Word anatomy', lexicon: 'Word list', renderings: 'Translations', map: 'Map', wheel: 'Calendar', familytree: 'Family tree', pyramid: 'Society', cards: 'Story cards', table: 'Comparison', atlas: 'Atlas', spectrum: 'Spectrum', skeleton: 'Skeleton', constellation: 'Constellation' },
     step: 'STEP', rootL: 'ROOT', bone: 'BONE', bonesTitle: 'The bones of this chapter', bigIdea: 'So the big idea is',
     replay: '↻ Replay', replayAria: 'Replay animation', focusLens: 'Focus Hebrew lens', bothLens: 'Show both lenses',
-    studyOf: (n, t) => `Journey 3 · Word study ${n} of ${t}`, studiesBtn: 'Open the word studies', lostL: 'Lost in translation:', cultureL: 'Culture:', literallyL: 'Literally', commonL: 'Usually rendered', whyL: 'Why:', lexTag: 'Word list', relatedH: 'Read more in this app', langHe: 'Hebrew', langGr: 'Greek', langAr: 'Aramaic', all: 'All',
+    studyOf: (n, t) => `Journey 3 · Word study ${n} of ${t}`, studiesBtn: 'Open the word studies', worldOf: (n, t) => `Journey 4 · Topic ${n} of ${t}`, worldBtn: 'Explore the world of the Bible', tapFlip: 'Tap to flip ↻', sourceL: 'Source:', echoL: 'New Testament link:', atlasH: 'Every place in this app', atlasP: 'Tap a pin or a name to see why it matters, then open the topic.', lostL: 'Lost in translation:', cultureL: 'Culture:', literallyL: 'Literally', commonL: 'Usually rendered', whyL: 'Why:', lexTag: 'Word list', relatedH: 'Read more in this app', langHe: 'Hebrew', langGr: 'Greek', langAr: 'Aramaic', all: 'All',
     wordOf: n => `Journey 1 · Word ${n} of 15`, beforeWords: 'Journey 1 · Before the words', chapterN: n => `Chapter ${n}`,
     say: 'say:', root: 'root', usually: 'Usually translated', fuller: 'Fuller Hebrew meaning', fullerStudy: 'Fuller meaning',
     listen: '▶ Listen', stop: '■ Stop', skeletonBtn: 'Skeleton', quizBtn: n => `Quiz (${n})`, nutshell: 'In a nutshell',
@@ -731,10 +825,10 @@ const I18N = {
     mapT: 'முழுச் சித்திர வரைபடம்', mapD: 'ஒவ்வொரு அதிகாரமும் எப்படி இணைகிறது என்பதை ஒரே பாய்வுப்படமாகப் பாருங்கள்.',
     glT: 'சொற்களஞ்சியம்', glD: 'இரு புத்தகங்களிலும் உள்ள ஒவ்வொரு முக்கியச் சொல்லுக்கும் எளிய விளக்கம்.',
     qzT: 'கலவை வினாடி வினா', qzD: 'எல்லாத் தலைப்புகளிலிருந்தும் எடுக்கப்பட்ட பத்து கேள்விகள்.',
-    tags: { flow: 'பாய்வுப்படம்', compare: 'இரு கண்ணோட்டங்கள்', timeline: 'காலவரிசை', cycle: 'சுழற்சி', tree: 'மன வரைபடம்', layers: 'அடுக்குகள்', wordroot: 'சொல்லின் அமைப்பு', lexicon: 'சொற்பட்டியல்', renderings: 'மொழிபெயர்ப்புகள்', spectrum: 'அளவுகோல்', skeleton: 'எலும்புக்கூடு', constellation: 'நட்சத்திரக் கூட்டம்' },
+    tags: { flow: 'பாய்வுப்படம்', compare: 'இரு கண்ணோட்டங்கள்', timeline: 'காலவரிசை', cycle: 'சுழற்சி', tree: 'மன வரைபடம்', layers: 'அடுக்குகள்', wordroot: 'சொல்லின் அமைப்பு', lexicon: 'சொற்பட்டியல்', renderings: 'மொழிபெயர்ப்புகள்', map: 'வரைபடம்', wheel: 'நாட்காட்டி', familytree: 'குடும்ப மரம்', pyramid: 'சமூக அடுக்கு', cards: 'கதை அட்டைகள்', table: 'ஒப்பீடு', atlas: 'நில வரைபடம்', spectrum: 'அளவுகோல்', skeleton: 'எலும்புக்கூடு', constellation: 'நட்சத்திரக் கூட்டம்' },
     step: 'படி', rootL: 'வேர்', bone: 'எலும்பு', bonesTitle: 'இந்த அதிகாரத்தின் எலும்புகள்', bigIdea: 'ஆகவே முக்கியக் கருத்து',
     replay: '↻ மீண்டும்', replayAria: 'அசைவூட்டத்தை மீண்டும் காட்டு', focusLens: 'எபிரெயக் கண்ணோட்டம் மட்டும்', bothLens: 'இரண்டையும் காட்டு',
-    studyOf: (n, t) => `பயணம் 3 · சொல் ஆய்வு ${n} / ${t}`, studiesBtn: 'சொல் ஆய்வுகளைத் திறங்கள்', lostL: 'மொழிபெயர்ப்பில் இழந்தது:', cultureL: 'பண்பாடு:', literallyL: 'நேரடிப் பொருள்', commonL: 'வழக்கமான மொழிபெயர்ப்பு', whyL: 'ஏன்:', lexTag: 'சொற்பட்டியல்', relatedH: 'இந்தச் செயலியில் மேலும் வாசியுங்கள்', langHe: 'எபிரெயம்', langGr: 'கிரேக்கம்', langAr: 'அரமேயம்', all: 'எல்லாம்',
+    studyOf: (n, t) => `பயணம் 3 · சொல் ஆய்வு ${n} / ${t}`, studiesBtn: 'சொல் ஆய்வுகளைத் திறங்கள்', worldOf: (n, t) => `பயணம் 4 · தலைப்பு ${n} / ${t}`, worldBtn: 'வேதாகம உலகை ஆராயுங்கள்', tapFlip: 'புரட்டத் தொடுங்கள் ↻', sourceL: 'மூலம்:', echoL: 'புதிய ஏற்பாட்டு இணைப்பு:', atlasH: 'இந்தச் செயலியிலுள்ள எல்லா இடங்களும்', atlasP: 'ஒரு குறியையோ பெயரையோ தொட்டு அதன் முக்கியத்துவத்தைப் பாருங்கள்; பின்னர் தலைப்பைத் திறங்கள்.', lostL: 'மொழிபெயர்ப்பில் இழந்தது:', cultureL: 'பண்பாடு:', literallyL: 'நேரடிப் பொருள்', commonL: 'வழக்கமான மொழிபெயர்ப்பு', whyL: 'ஏன்:', lexTag: 'சொற்பட்டியல்', relatedH: 'இந்தச் செயலியில் மேலும் வாசியுங்கள்', langHe: 'எபிரெயம்', langGr: 'கிரேக்கம்', langAr: 'அரமேயம்', all: 'எல்லாம்',
     wordOf: n => `பயணம் 1 · சொல் ${n} / 15`, beforeWords: 'பயணம் 1 · சொற்களுக்கு முன்', chapterN: n => `அதிகாரம் ${n}`,
     say: 'உச்சரிப்பு:', root: 'வேர்', usually: 'வழக்கமான மொழிபெயர்ப்பு', fuller: 'முழுமையான எபிரெய அர்த்தம்', fullerStudy: 'முழுமையான அர்த்தம்',
     listen: '▶ கேளுங்கள்', stop: '■ நிறுத்து', skeletonBtn: 'எலும்புக்கூடு', quizBtn: n => `வினாடி வினா (${n})`, nutshell: 'சுருக்கமாக',
@@ -831,6 +925,56 @@ const toggleDone = id => { done.has(id) ? done.delete(id) : done.add(id); store.
 /* ---------- toast ---------- */
 function toast(msg) { $$('.toast').forEach(x => x.remove()); const el = document.createElement('div'); el.className = 'toast'; el.textContent = msg; document.body.append(el); setTimeout(() => el.remove(), 2200); }
 
+/* ---------- the land: places and outline (lat, lon) ---------- */
+const PLACES = {
+  jerusalem: [31.778, 35.235, 'Jerusalem', 'எருசலேம்'], bethlehem: [31.705, 35.2, 'Bethlehem', 'பெத்லகேம்'], nazareth: [32.699, 35.303, 'Nazareth', 'நாசரேத்'],
+  capernaum: [32.88, 35.575, 'Capernaum', 'கப்பர்நகூம்'], bethsaida: [32.91, 35.63, 'Bethsaida', 'பெத்சாயிதா'], cana: [32.747, 35.342, 'Cana', 'கானா'],
+  magdala: [32.825, 35.517, 'Magdala', 'மகதலா'], tiberias: [32.795, 35.531, 'Tiberias', 'திபேரியா'], sepphoris: [32.753, 35.28, 'Sepphoris', 'செப்போரிஸ்'],
+  nain: [32.63, 35.35, 'Nain', 'நாயீன்'], 'mt-tabor': [32.687, 35.39, 'Mt Tabor', 'தாபோர் மலை'], jericho: [31.871, 35.444, 'Jericho', 'எரிகோ'],
+  bethany: [31.771, 35.262, 'Bethany', 'பெத்தானியா'], 'bethany-beyond': [31.837, 35.55, 'Bethany beyond Jordan', 'யோர்தானுக்கு அக்கரையிலுள்ள பெத்தானியா'],
+  emmaus: [31.839, 34.989, 'Emmaus', 'எம்மாவு'], caesarea: [32.5, 34.892, 'Caesarea', 'செசரியா'], joppa: [32.054, 34.752, 'Joppa', 'யோப்பா'],
+  samaria: [32.276, 35.197, 'Samaria (Sebaste)', 'சமாரியா (செபஸ்தே)'], shechem: [32.213, 35.282, 'Shechem / Sychar', 'சீகேம் / சீகார்'],
+  gerizim: [32.199, 35.273, 'Mt Gerizim', 'கெரிசீம் மலை'], 'caesarea-philippi': [33.248, 35.694, 'Caesarea Philippi', 'பிலிப்புச் செசரியா'],
+  hermon: [33.416, 35.857, 'Mt Hermon', 'எர்மோன் மலை'], gadara: [32.655, 35.678, 'Gadara', 'கதரா'], gerasa: [32.272, 35.891, 'Gerasa', 'கெரசா'],
+  qumran: [31.741, 35.459, 'Qumran', 'கும்ரான்'], masada: [31.316, 35.354, 'Masada', 'மசாதா'], hebron: [31.532, 35.099, 'Hebron', 'எப்ரோன்'],
+  gaza: [31.5, 34.46, 'Gaza', 'காசா'], beersheba: [31.25, 34.79, 'Beersheba', 'பெயெர்செபா'], tyre: [33.27, 35.2, 'Tyre', 'தீரு'], sidon: [33.56, 35.37, 'Sidon', 'சீதோன்'],
+  megiddo: [32.585, 35.185, 'Megiddo', 'மெகிதோ'], carmel: [32.73, 35.05, 'Mt Carmel', 'கர்மேல் மலை'], bethel: [31.93, 35.22, 'Bethel', 'பெத்தேல்'],
+  shiloh: [32.055, 35.29, 'Shiloh', 'சீலோ'], machaerus: [31.56, 35.63, 'Machaerus', 'மாக்கேரஸ்'], herodium: [31.666, 35.241, 'Herodium', 'ஏரோதியம்']
+};
+const MAP_W = 625, MAP_H = 1060;
+const WHEEL_DATA = [];
+const px = (lat, lon) => [(lon - 34.2) * 338, (33.65 - lat) * 400];
+const pts = a => a.map(([la, lo]) => px(la, lo).map(v => v.toFixed(1)).join(',')).join(' ');
+const COAST = [[33.65, 35.4], [33.56, 35.37], [33.4, 35.25], [33.27, 35.19], [33.1, 35.1], [32.93, 35.07], [32.83, 34.98], [32.73, 34.95], [32.61, 34.92], [32.5, 34.89], [32.33, 34.85], [32.1, 34.78], [32.05, 34.75], [31.8, 34.64], [31.67, 34.55], [31.52, 34.44], [31.35, 34.3], [31.0, 34.2]];
+const GALILEE = [[32.89, 35.6], [32.86, 35.64], [32.78, 35.65], [32.71, 35.58], [32.76, 35.53], [32.8, 35.52], [32.86, 35.54]];
+const DEADSEA = [[31.76, 35.49], [31.7, 35.58], [31.4, 35.57], [31.0, 35.5], [31.0, 35.38], [31.45, 35.4], [31.62, 35.43]];
+const JORDAN = [[33.25, 35.65], [33.05, 35.62], [32.89, 35.6], null, [32.71, 35.57], [32.5, 35.56], [32.2, 35.53], [31.95, 35.52], [31.76, 35.52]];
+const REGIONS = [['galilee', 32.88, 35.32, 'Galilee', 'கலிலேயா'], ['samaria', 32.2, 35.08, 'Samaria', 'சமாரியா'], ['judea', 31.62, 34.98, 'Judea', 'யூதேயா'],
+  ['idumea', 31.22, 34.98, 'Idumea', 'இதுமேயா'], ['decapolis', 32.48, 35.86, 'Decapolis', 'தெக்கப்போலி'], ['perea', 31.98, 35.74, 'Perea', 'பெரேயா'],
+  ['phoenicia', 33.42, 35.5, 'Phoenicia', 'பெனிக்கேயா'], ['gaulanitis', 33.02, 35.82, 'Gaulanitis', 'கவுலானித்தி']];
+const WATERS = [[32.4, 34.5, 'Great Sea', 'மத்தியதரைக் கடல்'], [32.8, 35.59, 'Sea of Galilee', 'கலிலேயாக் கடல்'], [31.45, 35.49, 'Dead Sea', 'உப்புக்கடல்'], [32.35, 35.6, 'Jordan', 'யோர்தான்']];
+const placeName = id => (PLACES[id] || [0, 0, id, id])[lang === 'ta' ? 3 : 2];
+function mapSVG(places, route, cls) {
+  const ids = [...new Set([...places.map(p => p.id), ...(route || [])])].filter(id => PLACES[id]);
+  const xy = ids.map(id => px(PLACES[id][0], PLACES[id][1]));
+  let [x0, y0, x1, y1] = xy.length ? [Math.min(...xy.map(p => p[0])), Math.min(...xy.map(p => p[1])), Math.max(...xy.map(p => p[0])), Math.max(...xy.map(p => p[1]))] : [0, 0, MAP_W, MAP_H];
+  const pad = 70; x0 -= pad; y0 -= pad; x1 += pad + 80; y1 += pad;
+  let w = Math.max(320, x1 - x0), h = Math.max(380, y1 - y0);
+  const cx = (x0 + x1) / 2, cy = (y0 + y1) / 2; x0 = Math.max(0, cx - w / 2); y0 = Math.max(0, cy - h / 2); w = Math.min(w, MAP_W - x0); h = Math.min(h, MAP_H - y0);
+  const jordan = []; let seg = []; JORDAN.forEach(p => { if (!p) { jordan.push(seg); seg = []; } else seg.push(p); }); jordan.push(seg);
+  const nameOf = (r) => r[lang === 'ta' ? 4 : 3];
+  return `<svg class="mapsvg ${cls || ''}" viewBox="${x0.toFixed(0)} ${y0.toFixed(0)} ${w.toFixed(0)} ${h.toFixed(0)}" role="img" aria-label="${esc(t('tags').map)}">
+    <rect class="land" x="0" y="0" width="${MAP_W}" height="${MAP_H}"/>
+    <polygon class="sea" points="0,0 ${pts(COAST)} 0,${MAP_H}"/>
+    <polygon class="lake" points="${pts(GALILEE)}"/><polygon class="lake" points="${pts(DEADSEA)}"/>
+    ${jordan.map(sg => `<polyline class="river" points="${pts(sg)}"/>`).join('')}
+    ${REGIONS.map(r => { const [x, y] = px(r[1], r[2]); return `<text class="region" x="${x}" y="${y}">${esc(nameOf(r))}</text>`; }).join('')}
+    ${WATERS.map(r => { const [x, y] = px(r[0], r[1]); return `<text class="water" x="${x}" y="${y}">${esc(r[lang === 'ta' ? 3 : 2])}</text>`; }).join('')}
+    ${route && route.length > 1 ? `<polyline class="route" points="${route.filter(id => PLACES[id]).map(id => px(PLACES[id][0], PLACES[id][1]).join(',')).join(' ')}"/>` : ''}
+    ${places.filter(p => PLACES[p.id]).map((p, i) => { const [x, y] = px(PLACES[p.id][0], PLACES[p.id][1]); return `<g class="pin" data-i="${i}" role="button" tabindex="0" aria-pressed="false" aria-label="${esc(placeName(p.id))}" style="--i:${i}"><circle cx="${x}" cy="${y}" r="11"/><text class="n" x="${x}" y="${y}">${i + 1}</text><text class="l" x="${x + 16}" y="${y + 5}">${esc(placeName(p.id))}</text></g>`; }).join('')}
+  </svg>`;
+}
+
 /* ---------- diagram renderers ---------- */
 const R = {
   flow: d => `<div class="flow">${d.steps.map((s, i) => `<div class="step" style="--i:${i}"><div class="node"><span class="si">${t('step')} ${i + 1}</span><b>${md(s.t)}</b>${s.d ? `<p>${md(s.d)}</p>` : ''}</div><div class="arr">${ARROW}</div></div>`).join('')}</div>`,
@@ -861,6 +1005,22 @@ const R = {
     return `${langs.length > 1 ? `<div class="lex-filter"><button class="chip accent" data-lex="all">${t('all')}</button>${langs.map(l => `<button class="chip" data-lex="${l}">${L[l] || l}</button>`).join('')}</div>` : ''}<div class="lex">${d.words.map((w, i) => `<div class="lex-row" data-lang="${esc(w.lang)}" style="--i:${i}"><div class="lex-word"><span class="w ${w.lang === 'gr' ? 'gr' : 'he'}" lang="${w.lang === 'gr' ? 'grc' : 'he'}">${esc(w.word)}</span><span class="lang ${w.lang === 'gr' ? 'gr-l' : ''}">${L[w.lang] || w.lang}</span></div><div class="lex-body"><span class="lx-tl">${esc(w.translit)}${w.pron ? `<small>${esc(w.pron)}</small>` : ''}</span><span class="gl">${md(w.gloss)}</span>${w.note ? `<p>${md(w.note)}</p>` : ''}${w.missed ? `<p class="lx-x"><b>${t('lostL')}</b> ${md(w.missed)}</p>` : ''}${w.culture ? `<p class="lx-x"><b>${t('cultureL')}</b> ${md(w.culture)}</p>` : ''}${w.refs ? `<span class="refs">${esc(w.refs)}</span>` : ''}</div></div>`).join('')}</div>`; },
   renderings: d => `<div class="rend">${d.rows.map((r, i) => `<div class="rend-row" style="--i:${i}"><div class="rend-top"><cite>${esc(r.verse)}</cite>${r.original ? `<span class="rend-orig ${/[\u0590-\u05FF]/.test(r.original) ? 'he' : 'gr'}">${esc(r.original)}</span>` : ''}</div>
     <div class="rend-grid"><div><small>${t('literallyL')}</small><b>${md(r.literal)}</b></div><div><small>${t('commonL')}</small><span>${md(r.common)}</span></div></div>${r.why ? `<p class="rend-why"><b>${t('whyL')}</b> ${md(r.why)}</p>` : ''}</div>`).join('')}</div>`,
+  map: d => { const places = (d.places || []).filter(p => PLACES[p.id]);
+    return `<div class="mapbox">${mapSVG(places, d.route)}<ol class="place-list">${places.map((p, i) => `<li data-i="${i}"><b><i>${i + 1}</i>${esc(placeName(p.id))}</b>${p.d ? md(p.d) : ''}${p.refs ? `<span class="refs">${esc(p.refs)}</span>` : ''}${p.link ? ` <a href="#c-${p.link}">→</a>` : ''}</li>`).join('')}</ol></div>`; },
+  wheel: d => { const n = d.items.length, R = 150, r0 = 58, C = 160;
+    const arc = (a0, a1, ro, ri) => { const p = (a, rr) => [C + rr * Math.cos(a), C + rr * Math.sin(a)]; const [x0, y0] = p(a0, ro), [x1, y1] = p(a1, ro), [x2, y2] = p(a1, ri), [x3, y3] = p(a0, ri); const lg = a1 - a0 > Math.PI ? 1 : 0; return `M${x0},${y0} A${ro},${ro} 0 ${lg} 1 ${x1},${y1} L${x2},${y2} A${ri},${ri} 0 ${lg} 0 ${x3},${y3} Z`; };
+    return `<div class="wheel-wrap"><svg class="wheel-svg" viewBox="0 0 320 320" role="img" aria-label="${esc(d.title)}"><g class="spin"><circle cx="160" cy="160" r="156" fill="none" stroke="var(--gold)" stroke-dasharray="2 8"/></g>
+      ${d.items.map((it, i) => { const a0 = -Math.PI / 2 + i * 2 * Math.PI / n + .015, a1 = -Math.PI / 2 + (i + 1) * 2 * Math.PI / n - .015, am = (a0 + a1) / 2, tr = (R + r0) / 2;
+        return `<g class="seg" data-i="${i}" role="button" tabindex="0" aria-pressed="${i === 0}" aria-label="${esc(plain(it.t))}" style="--k:${i % 4}"><path d="${arc(a0, a1, R, r0)}"/><text x="${C + tr * Math.cos(am)}" y="${C + tr * Math.sin(am)}">${i + 1}</text></g>`; }).join('')}
+      <circle class="hub" cx="160" cy="160" r="52"/><text class="hubt" x="160" y="164">${esc(d.center || '')}</text></svg>
+      <div><div class="wheel-detail" aria-live="polite"></div><div class="wheel-dots" style="margin-top:10px">${d.items.map((it, i) => `<button data-i="${i}" aria-pressed="${i === 0}">${i + 1}. ${esc(plain(it.t))}</button>`).join('')}</div></div>
+      </div>`.replace('<div class="wheel-wrap">', `<div class="wheel-wrap" data-w="${WHEEL_DATA.push(d.items) - 1}">`); },
+  familytree: d => { const kids = {}; d.people.forEach(p => { (kids[p.parent ?? ''] = kids[p.parent ?? ''] || []).push(p); }); let k = 0;
+    const node = p => `<li><div class="ft-node" style="--i:${k++}"><b>${md(p.t)}</b>${p.d ? `<small>${md(p.d)}</small>` : ''}</div>${kids[p.id]?.length ? `<ul>${kids[p.id].map(node).join('')}</ul>` : ''}</li>`;
+    return `<ul class="ft">${(kids[''] || []).map(node).join('')}</ul>`; },
+  pyramid: d => `<div class="pyr" style="--n:${Math.max(1, d.levels.length - 1)}">${d.levels.map((l, k) => `<div class="pyr-l ${k / d.levels.length > .6 ? 'light' : ''}" style="--k:${k}"><b>${md(l.t)}</b>${l.d ? `<small>${md(l.d)}</small>` : ''}</div>`).join('')}</div>`,
+  cards: d => `<div class="cards">${d.cards.map((c, i) => `<button class="fcard" style="--i:${i}" aria-label="${esc(plain(c.t))}"><span class="side front"><b>${md(c.t)}</b>${c.front ? `<p>${md(c.front)}</p>` : ''}<small>${t('tapFlip')}</small></span><span class="side back"><span>${md(c.back)}</span>${c.source ? `<span class="src"><b>${t('sourceL')}</b> ${md(c.source)}</span>` : ''}${c.echo ? `<span class="echo">${t('echoL')} ${md(c.echo)}</span>` : ''}</span></button>`).join('')}</div>`,
+  table: d => `<table class="gtable"><thead><tr>${d.cols.map(c => `<th>${esc(c)}</th>`).join('')}</tr></thead><tbody>${d.rows.map((r, i) => `<tr style="--i:${i}"><th>${md(r.h)}</th>${r.cells.map(c => `<td>${md(c)}</td>`).join('')}</tr>`).join('')}</tbody></table>`,
   spectrum: d => `<div class="spec"><div class="bar">${d.points.map((p, i) => `<span class="pt" style="left:${p.pos}%;--i:${i}"></span><span class="pl ${i % 2 ? 'up' : ''}" style="left:${Math.min(88, Math.max(12, p.pos))}%">${md(p.t)}</span>`).join('')}</div><div class="ends"><span>${esc(d.left)}</span><span>${esc(d.right)}</span></div></div>`
 };
 function diagram(d) {
@@ -882,6 +1042,20 @@ function wireDiagrams(scope) {
     let k = 0; const n = $$('.cn', w).length;
     const timer = setInterval(() => { if (!document.body.contains(w)) return clearInterval(timer); if (w.matches(':hover')) return; k = (k + 1) % n; sel(k); }, 3200);
   });
+  $$('.mapbox', scope).forEach(m => {
+    const sel = i => { $$('.pin', m).forEach(g => g.setAttribute('aria-pressed', g.dataset.i == i)); $$('.place-list li', m).forEach(li => { const on = li.dataset.i == i; li.classList.toggle('on', on); if (on) li.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); }); };
+    m.addEventListener('click', e => { if (e.target.closest('a')) return; const el = e.target.closest('[data-i]'); if (el) sel(el.dataset.i); });
+    m.addEventListener('keydown', e => { const el = e.target.closest('.pin'); if (el && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); sel(el.dataset.i); } });
+  });
+  $$('.wheel-wrap', scope).forEach(w => {
+    const items = WHEEL_DATA[+w.dataset.w] || [], det = $('.wheel-detail', w);
+    const sel = i => { const it = items[i]; $$('[data-i]', w).forEach(g => g.setAttribute('aria-pressed', g.dataset.i == i));
+      det.innerHTML = `${it.when ? `<small>${esc(it.when)}</small>` : ''}<h4>${md(it.t)}</h4>${it.d ? `<p>${md(it.d)}</p>` : ''}${it.nt ? `<div class="nt">${md(it.nt)}</div>` : ''}`; };
+    w.addEventListener('click', e => { const el = e.target.closest('[data-i]'); if (el) sel(+el.dataset.i); });
+    w.addEventListener('keydown', e => { const el = e.target.closest('.seg'); if (el && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); sel(+el.dataset.i); } });
+    sel(0);
+  });
+  $$('.cards', scope).forEach(c => c.addEventListener('click', e => { const b = e.target.closest('.fcard'); if (b) b.classList.toggle('flipped'); }));
   $$('.lex-filter', scope).forEach(f => f.addEventListener('click', e => { const b = e.target.closest('[data-lex]'); if (!b) return; $$('[data-lex]', f).forEach(x => x.classList.toggle('accent', x === b)); $$('.lex-row', f.parentElement).forEach(r => { r.hidden = b.dataset.lex !== 'all' && r.dataset.lang !== b.dataset.lex; }); }));
   $$('[data-replay]', scope).forEach(b => b.addEventListener('click', () => { const f = b.closest('.dia'); f.classList.remove('play'); void f.offsetWidth; f.classList.add('play'); }));
   $$('[data-lens]', scope).forEach(b => b.addEventListener('click', () => { const f = b.closest('.dia'); const on = f.classList.toggle('lens-toggle'); b.textContent = on ? t('bothLens') : t('focusLens'); }));
@@ -905,7 +1079,7 @@ const shortName = c => c.book === 'words' && c.hebrew ? c.translit : c.title;
 let lensTimer;
 function viewHome() {
   setNav('home');
-  const words = chaptersOf('words'), gospel = chaptersOf('gospel'), studies = chaptersOf('studies'), sb = bookOf('studies');
+  const words = chaptersOf('words'), gospel = chaptersOf('gospel'), studies = chaptersOf('studies'), sb = bookOf('studies'), world = chaptersOf('world'), wob = bookOf('world');
   const total = D.chapters.length, n = D.chapters.filter(c => done.has(c.id)).length;
   const pct = total ? Math.round(n / total * 100) : 0, C = 2 * Math.PI * 26;
   const orbit = 'אבגדהוזחטיכלמנסעפצקרשת'.split('');
@@ -946,6 +1120,9 @@ function viewHome() {
   ${studies.length ? `<div class="section-head"><div><div class="eyebrow">${t('journey', 3)} · ${esc(sb?.title || '')}</div><h2>${esc(sb?.headline || '')}</h2><p>${esc(sb?.blurb || '')}</p></div><a class="btn small" href="#c-${studies[0].id}">${t('studiesBtn')}</a></div>
   <div class="word-grid stagger">${studies.map(c => `<a class="wcard scard" href="#c-${c.id}">${done.has(c.id) ? '<span class="done-tick">✓</span>' : ''}<span class="num">${String(c.num).padStart(2, '0')}</span><span class="pair"><span class="gr">${esc(c.greek || '')}</span><span class="he">${esc(c.hebrew || '')}</span></span><b style="text-transform:none;letter-spacing:0;font-size:17px">${esc(c.title)}</b><span class="sub">${esc(c.subtitle)}</span></a>`).join('')}</div>` : ''}
 
+  ${world.length ? `<div class="section-head"><div><div class="eyebrow">${t('journey', 4)} · ${esc(wob?.title || '')}</div><h2>${esc(wob?.headline || '')}</h2><p>${esc(wob?.blurb || '')}</p></div><a class="btn small" href="#map">${t('tags').atlas}</a></div>
+  <div class="word-grid stagger">${world.map(c => `<a class="wcard" href="#c-${c.id}">${done.has(c.id) ? '<span class="done-tick">✓</span>' : ''}<span class="num">${String(c.num).padStart(2, '0')} · ${esc((c.diagrams || []).map(d => t('tags')[d.type]).filter(Boolean).slice(0, 2).join(' · '))}</span><b style="text-transform:none;letter-spacing:0;font-size:17px">${esc(c.title)}</b><span class="sub">${esc(c.subtitle)}</span></a>`).join('')}</div>` : ''}
+
   <div class="section-head"><div><div class="eyebrow">${t('toolsEyebrow')}</div><h2>${t('toolsH')}</h2></div></div>
   <div class="tools stagger">
     ${tool('#words', t('fcT'), t('fcD'), '<path d="M4 6h12v12H4z"/><path d="M8 3h12v12"/>')}
@@ -978,7 +1155,7 @@ function viewChapter(id) {
   const list = chaptersOf(c.book), i = list.indexOf(c), prev = list[i - 1], next = list[i + 1];
   const b = bookOf(c.book);
   const placed = {}; (c.diagrams || []).forEach(d => { const at = d.after ?? (c.sections.length - 1); (placed[at] = placed[at] || []).push(d); });
-  const eyebrow = c.book === 'studies' ? t('studyOf', c.num, list.length) : c.book === 'words' ? (c.hebrew ? t('wordOf', c.num) : t('beforeWords')) : `${t('journey', 2)} · ${esc(c.part)}${c.num ? ` · ${t('chapterN', c.num)}` : ''}`;
+  const eyebrow = c.book === 'world' ? t('worldOf', c.num, list.length) : c.book === 'studies' ? t('studyOf', c.num, list.length) : c.book === 'words' ? (c.hebrew ? t('wordOf', c.num) : t('beforeWords')) : `${t('journey', 2)} · ${esc(c.part)}${c.num ? ` · ${t('chapterN', c.num)}` : ''}`;
   main.innerHTML = `<div class="view reader">
   <nav class="toc" id="toc" aria-label="${t('chaptersAria')}">${tocHTML(c.book, c.id)}</nav>
   <article class="article">
@@ -1079,7 +1256,16 @@ function viewMap() {
   <div class="map">${keys.map((key, pi) => { const cs = g.filter(c => pkey(c) === key), meta = partMeta(gb, key); return `${pi ? `<div class="map-arrow"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 4v16M6 14l6 6 6-6"/></svg></div>` : ''}
     <div class="map-part"><div class="mp-label"><small>${meta.num === '0' ? t('start') : t('part') + ' ' + esc(meta.num)}</small><b>${esc(cs[0].part)}</b></div><div class="map-nodes">${cs.map((c, k) => `<a href="#c-${c.id}">${esc(c.title)}</a>${k < cs.length - 1 ? '<span class="to">→</span>' : ''}`).join('')}</div></div>`; }).join('')}</div>
   ${gb?.thesis ? `<p class="dia-note">${md(gb.thesis)}</p>` : ''}</div>
-  ${chaptersOf('studies').length ? `<div class="dia" style="margin-top:30px"><div class="dia-head"><span class="tag">${t('tags').tree}</span><h3>${esc(bookOf('studies')?.title || '')}</h3></div><div class="tree"><div class="root">${esc(bookOf('studies')?.headline || '')}</div><div class="stem"></div><div class="branches">${chaptersOf('studies').map((c, i) => `<a class="br" href="#c-${c.id}" style="--i:${i};text-decoration:none;color:inherit"><b>${esc(c.title)}</b><ul><li><span class="he">${esc(c.hebrew || '')}</span> · <span class="gr">${esc(c.greek || '')}</span></li></ul></a>`).join('')}</div></div></div>` : ''}</div>`;
+  ${chaptersOf('studies').length ? `<div class="dia" style="margin-top:30px"><div class="dia-head"><span class="tag">${t('tags').tree}</span><h3>${esc(bookOf('studies')?.title || '')}</h3></div><div class="tree"><div class="root">${esc(bookOf('studies')?.headline || '')}</div><div class="stem"></div><div class="branches">${chaptersOf('studies').map((c, i) => `<a class="br" href="#c-${c.id}" style="--i:${i};text-decoration:none;color:inherit"><b>${esc(c.title)}</b><ul><li><span class="he">${esc(c.hebrew || '')}</span> · <span class="gr">${esc(c.greek || '')}</span></li></ul></a>`).join('')}</div></div></div>` : ''}
+  ${atlasHTML()}</div>`;
+  wireDiagrams(main);
+}
+function atlasHTML() {
+  const seen = new Map();
+  chaptersOf('world').forEach(c => (c.diagrams || []).filter(d => d.type === 'map').forEach(d => d.places.forEach(p => { if (PLACES[p.id] && !seen.has(p.id)) seen.set(p.id, { ...p, link: c.id }); })));
+  if (!seen.size) return '';
+  const places = [...seen.values()];
+  return `<div class="dia" data-anim style="margin-top:30px"><div class="dia-head"><span class="tag">${t('tags').atlas}</span><h3>${t('atlasH')}</h3></div><p class="dia-note" style="margin:0 0 12px">${t('atlasP')}</p>${R.map({ places })}</div>`;
 }
 
 function viewGlossary() {
