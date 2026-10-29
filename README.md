@@ -14,6 +14,9 @@ An interactive study app that explains two books in plain language:
 Every topic has a plain-English explanation, an animated "skeleton" of the argument, flowcharts and other diagrams,
 key passages, take-aways, reflection questions and a quiz. There are also flashcards, a big-picture map, a glossary,
 search, read-aloud, progress tracking and seven colour schemes with light/dark mode.
+4. **The World Behind the Bible**: 11 visual topics on the background to the Gospels, the land, history between the
+   Testaments, Rome, Jewish groups, the Temple, the feasts, the Herods, daily life, midrash and midrashic stories, with an
+   interactive map, a feast wheel, family tree, social pyramid, story cards and comparison tables.
 
 The whole app is available in **English and Tamil (தமிழ்)**. Switch with the EN | தமிழ் control in the top-right corner;
 the choice and your reading progress are remembered.

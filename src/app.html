@@ -584,7 +584,7 @@ footer { border-top: 1px solid var(--line); padding-block: 26px; color: var(--mu
 @media (max-width: 620px) { .lang-switch button { padding: 6px 8px; font-size: 12px; } .top .wrap { gap: 6px; } .icon-btn { width: 36px; height: 36px; } }
 /* ---------- world behind the bible: visuals ---------- */
 .mapbox { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 16px; align-items: start; }
-.mapsvg { width: 100%; height: auto; max-height: 620px; border-radius: 16px; background: var(--surface); border: 1px solid var(--line); display: block; }
+.mapsvg { width: 100%; height: auto; max-height: 620px; border-radius: 16px; background: color-mix(in oklch, var(--line) 55%, var(--surface)); border: 1px solid var(--line); display: block; }
 .mapsvg .land { fill: color-mix(in oklch, var(--line) 55%, var(--surface)); }
 .mapsvg .sea { fill: var(--accent-soft); }
 .mapsvg .lake { fill: var(--accent-soft); stroke: var(--accent); stroke-width: 1.5; }
@@ -616,7 +616,7 @@ footer { border-top: 1px solid var(--line); padding-block: 26px; color: var(--mu
 .wheel-svg .seg[aria-pressed="true"] { transform: scale(1.06); }
 .wheel-svg .seg[aria-pressed="true"] path { fill: var(--gold); }
 .wheel-svg .hub { fill: var(--surface); stroke: var(--line); }
-.wheel-svg .hubt { fill: var(--muted); font: 700 13px var(--font-ui); text-anchor: middle; }
+.wheel-svg .hubt { fill: var(--muted); font: 700 12px var(--font-ui); text-anchor: middle; }
 .wheel-svg .spin { transform-origin: 160px 160px; animation: spin 80s linear infinite; }
 .wheel-detail { border-radius: 16px; padding: 16px 18px; background: var(--sunk); display: grid; gap: 6px; min-height: 160px; }
 .wheel-detail small { font-size: 12px; font-weight: 800; color: var(--accent); letter-spacing: .06em; text-transform: uppercase; }
@@ -1012,7 +1012,7 @@ const R = {
     return `<div class="wheel-wrap"><svg class="wheel-svg" viewBox="0 0 320 320" role="img" aria-label="${esc(d.title)}"><g class="spin"><circle cx="160" cy="160" r="156" fill="none" stroke="var(--gold)" stroke-dasharray="2 8"/></g>
       ${d.items.map((it, i) => { const a0 = -Math.PI / 2 + i * 2 * Math.PI / n + .015, a1 = -Math.PI / 2 + (i + 1) * 2 * Math.PI / n - .015, am = (a0 + a1) / 2, tr = (R + r0) / 2;
         return `<g class="seg" data-i="${i}" role="button" tabindex="0" aria-pressed="${i === 0}" aria-label="${esc(plain(it.t))}" style="--k:${i % 4}"><path d="${arc(a0, a1, R, r0)}"/><text x="${C + tr * Math.cos(am)}" y="${C + tr * Math.sin(am)}">${i + 1}</text></g>`; }).join('')}
-      <circle class="hub" cx="160" cy="160" r="52"/><text class="hubt" x="160" y="164">${esc(d.center || '')}</text></svg>
+      <circle class="hub" cx="160" cy="160" r="52"/>${(() => { const w = String(d.center || '').split(' '), h = Math.ceil(w.length / 2), ln = w.length > 2 ? [w.slice(0, h).join(' '), w.slice(h).join(' ')] : [w.join(' ')]; return ln.map((l, i) => `<text class="hubt" x="160" y="${164 + (i - (ln.length - 1) / 2) * 16}">${esc(l)}</text>`).join(''); })()}</svg>
       <div><div class="wheel-detail" aria-live="polite"></div><div class="wheel-dots" style="margin-top:10px">${d.items.map((it, i) => `<button data-i="${i}" aria-pressed="${i === 0}">${i + 1}. ${esc(plain(it.t))}</button>`).join('')}</div></div>
       </div>`.replace('<div class="wheel-wrap">', `<div class="wheel-wrap" data-w="${WHEEL_DATA.push(d.items) - 1}">`); },
   familytree: d => { const kids = {}; d.people.forEach(p => { (kids[p.parent ?? ''] = kids[p.parent ?? ''] || []).push(p); }); let k = 0;
