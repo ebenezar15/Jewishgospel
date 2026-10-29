@@ -1,0 +1,440 @@
+{
+  "chapters": [
+    {
+      "id": "b-groups", "book": "world", "order": 50, "num": 5,
+      "title": "Pharisees, Sadducees, Essenes and Others",
+      "subtitle": "Who was who in the Jewish world of Jesus",
+      "nutshell": "First-century Judaism was not one single block. It had several schools and groups that argued about Scripture, purity, the Temple and Rome. Knowing who they were helps you hear the Gospel debates as a family conversation, not as 'Jesus versus the Jews'.",
+      "bigIdea": "Jesus stood inside a lively Jewish world of many voices, and His sharpest debates were with people who shared His love for the Torah.",
+      "skeleton": [
+        "Judaism in Jesus' day had many groups, all loyal to the one God and the Torah",
+        "Pharisees taught the people; Sadducees ran the Temple",
+        "Essenes withdrew to live in strict purity; revolutionaries wanted to fight Rome",
+        "Around them stood priests, scribes, Samaritans, ordinary people and Gentile God-fearers",
+        "The synagogue was the meeting place where Scripture was read and explained",
+        "Jesus' debates are an argument inside the family"
+      ],
+      "sections": [
+        {"h": "Many voices, one people", "p": [
+          "When we read the Gospels, it is easy to imagine 'the Jews' as one group with one opinion. In fact, the Jewish historian **Josephus** (late first century) describes several 'schools of thought': Pharisees, Sadducees and Essenes, plus a 'fourth philosophy' of rebels against Rome (*Antiquities* 18.11–25). All of them worshipped the one God, kept the Sabbath and honoured the Torah. They disagreed about how to live it out."
+        ]},
+        {"h": "Pharisees and Sadducees", "p": [
+          "The **Pharisees** were respected teachers among ordinary people. They held to the written Torah and also to the 'tradition of the elders' (Mark 7:3), and they believed in the resurrection and angels (Acts 23:8). Paul was a Pharisee (Philippians 3:5), and so were Nicodemus and Gamaliel (John 3:1; Acts 5:34).",
+          "The **Sadducees** were mostly wealthy priestly families linked to the Temple. They rejected the Pharisees' oral traditions and denied the resurrection (Mark 12:18). Because they held power, they usually worked with Rome to keep order. After the Temple fell in AD 70, they disappeared."
+        ]},
+        {"h": "Essenes, rebels and Herodians", "p": [
+          "The **Essenes** lived by strict rules of purity and shared property. Many scholars link them with the community at **Qumran**, near the Dead Sea, where the **Dead Sea Scrolls** were found from 1947 onward — though this link is still discussed. They believed the Jerusalem priesthood was corrupt. The New Testament never names them.",
+          "Others wanted to throw off Rome by force, like Judas the Galilean (Acts 5:37). A party called the **Zealots** appears clearly during the war of AD 66–70; Simon 'the Zealot' (Luke 6:15) may have been a rebel or simply 'zealous'. The **Herodians** (Mark 3:6; 12:13) were supporters of Herod's family."
+        ]},
+        {"h": "Priests, scribes and ordinary people", "p": [
+          "**Priests** and **Levites** served in the Temple by turns (Luke 1:8; 10:31–32). **Scribes** were experts in the Law who copied, taught and applied it; many were Pharisees (Mark 2:16). The **Samaritans** worshipped on Mount Gerizim and accepted only the five books of Moses (John 4:20).",
+          "Most people were farmers, fishers and workers. Later rabbis called less strict common folk *am ha-aretz*, 'people of the land' (compare John 7:49). **Tax collectors and 'sinners'** were seen as outsiders (Mark 2:15–16). Some Gentiles, called **God-fearers**, joined synagogue worship without becoming Jews, like Cornelius (Acts 10:2)."
+        ]},
+        {"h": "The synagogue: the village meeting place", "p": [
+          "Every town had a **synagogue** (Greek for 'gathering'). On the Sabbath people prayed, read the Torah and the Prophets, and heard an explanation (Luke 4:16–21; Acts 15:21). A local leader ran it, like Jairus (Mark 5:22). Jesus taught in synagogues across Galilee, and Paul began in synagogues in every city."
+        ]},
+        {"h": "An argument inside the family", "p": [
+          "> Jesus said: 'The scribes and the Pharisees sit on Moses' seat, so do and observe whatever they tell you, but not the works they do' (Matthew 23:2–3). He respected their teaching while criticising hypocrisy.",
+          "Jesus agreed with the Pharisees on the resurrection and on many points of the Law, and some Pharisees warned Him of danger (Luke 13:31). His strong words are like a prophet speaking to his own people. Later Jewish writings also criticise hypocritical Pharisees. Reading the Gospels as a family debate keeps us from turning them into an excuse for contempt."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "table", "title": "The main groups at a glance", "after": 2,
+         "note": "A simplified summary; each group had its own variety.",
+         "cols": ["", "Pharisees", "Sadducees", "Essenes", "Zealots", "Samaritans"],
+         "rows": [
+           {"h": "Who they were", "cells": ["Lay teachers, popular with ordinary people", "Priestly and wealthy families", "Strict communities living apart", "Rebels ready to fight", "A neighbouring people with their own temple"]},
+           {"h": "Scripture", "cells": ["Written Torah plus oral tradition", "Written Torah; rejected oral tradition", "Scripture plus their own writings", "Torah, read as a call to fight", "Only the five books of Moses"]},
+           {"h": "Resurrection?", "cells": ["Yes", "No", "Hoped for future life", "Varied", "Varied; sources unclear"]},
+           {"h": "Attitude to Rome", "cells": ["Endured it, waited for God", "Worked with it", "Withdrew from it", "Fought it", "Kept apart from Jews and Rome"]},
+           {"h": "Centre", "cells": ["Synagogue and home", "Jerusalem Temple", "Qumran and other towns", "Galilee and Judean hills", "Mount Gerizim"]},
+           {"h": "New Testament example", "cells": ["Nicodemus, Gamaliel, Paul", "High priest Caiaphas, Acts 4:1", "Not named in the NT", "Judas the Galilean, Acts 5:37", "The woman at the well, John 4"]}
+         ]},
+        {"type": "map", "title": "Where the groups were based", "after": 3,
+         "places": [
+           {"id": "jerusalem", "d": "The Temple, run by the Sadducees and priests; Pharisees and scribes also taught here.", "refs": "Acts 23:6–8"},
+           {"id": "qumran", "d": "Community by the Dead Sea where the Dead Sea Scrolls were found.", "refs": "Dead Sea Scrolls"},
+           {"id": "gerizim", "d": "The Samaritans' holy mountain and the site of their former temple.", "refs": "John 4:20"},
+           {"id": "samaria", "d": "Region of the Samaritans between Galilee and Judea.", "refs": "John 4:4–9"},
+           {"id": "capernaum", "d": "Fishing town with a synagogue where Jesus taught and healed.", "refs": "Mark 1:21"},
+           {"id": "nazareth", "d": "Jesus' home village; He read Isaiah in its synagogue.", "refs": "Luke 4:16"},
+           {"id": "magdala", "d": "Lakeside town where a first-century synagogue has been excavated.", "refs": "Luke 8:2"}
+         ]},
+        {"type": "tree", "title": "The people around Jesus", "after": 4,
+         "root": "The Jewish world of the first century",
+         "branches": [
+           {"t": "Schools of thought", "children": ["Pharisees", "Sadducees", "Essenes", "Revolutionaries"]},
+           {"t": "Temple and Law", "children": ["High priest and chief priests", "Priests and Levites", "Scribes (teachers of the Law)"]},
+           {"t": "Political", "children": ["Herodians", "Tax collectors working for Rome"]},
+           {"t": "Ordinary people", "children": ["Farmers and fishers", "'People of the land'", "'Sinners' and outcasts"]},
+           {"t": "Neighbours", "children": ["Samaritans", "Gentile God-fearers"]}
+         ]},
+        {"type": "compare", "title": "Pharisees: cartoon or reality?", "after": 5,
+         "left": {"label": "Common picture", "items": ["Cold legalists", "Enemies of Jesus from start to end", "Hated by the people", "Earning salvation by rules"]},
+         "right": {"label": "Historical picture", "items": ["Teachers who wanted all Israel to live holy lives", "Some opposed Him, some warned or followed Him", "Respected by ordinary people (Josephus)", "Keeping God's commands as a response to His covenant"]}}
+      ],
+      "verses": [
+        {"ref": "Matthew 23:2–3", "text": "The scribes and the Pharisees sit on Moses' seat, so do and observe whatever they tell you, but not the works they do."},
+        {"ref": "Acts 23:8", "text": "For the Sadducees say that there is no resurrection, nor angel, nor spirit, but the Pharisees acknowledge them all."},
+        {"ref": "Philippians 3:5", "text": "...as to the law, a Pharisee."},
+        {"ref": "John 4:9", "text": "For Jews have no dealings with Samaritans."}
+      ],
+      "keyPoints": [
+        "Judaism in Jesus' day had several groups, all devoted to the one God and the Torah.",
+        "Pharisees were popular teachers who believed in the resurrection; Paul was one of them.",
+        "Sadducees were the priestly elite of the Temple and denied the resurrection.",
+        "The Essenes, often linked with Qumran and the Dead Sea Scrolls, lived apart in strict purity.",
+        "Jesus' debates with Pharisees are an argument within the family, not a rejection of His own people."
+      ],
+      "reflect": [
+        "Which group do you find yourself most like: the careful teacher, the comfortable leader, the one who withdraws, or the one who fights?",
+        "How does seeing the Pharisees fairly change the way you read Jesus' warnings about hypocrisy?"
+      ],
+      "quiz": [
+        {"q": "Which group denied the resurrection?", "options": ["Pharisees", "Sadducees", "Essenes", "God-fearers"], "a": 1, "why": "Acts 23:8 and Mark 12:18 say the Sadducees denied the resurrection."},
+        {"q": "Where were the Dead Sea Scrolls found?", "options": ["Capernaum", "Mount Gerizim", "Jerusalem", "Near Qumran"], "a": 3, "why": "They were found in caves near Qumran by the Dead Sea from 1947 onward."},
+        {"q": "What did Jesus tell His followers about the Pharisees' teaching in Matthew 23:2–3?", "options": ["Do what they teach, but not what they do", "Ignore all of it", "Only follow the Sadducees", "Leave the synagogue"], "a": 0, "why": "He respected their teaching from 'Moses' seat' while criticising hypocrisy."},
+        {"q": "Who was a God-fearer?", "options": ["A Temple priest", "A Samaritan leader", "A Gentile who worshipped Israel's God, like Cornelius", "A Zealot rebel"], "a": 2, "why": "God-fearers were Gentiles attached to the synagogue (Acts 10:2)."}
+      ],
+      "terms": [
+        {"term": "Pharisees", "def": "Popular lay teachers who kept the written Torah and the oral tradition and believed in the resurrection."},
+        {"term": "Sadducees", "def": "Priestly, wealthy families linked to the Temple who rejected oral tradition and the resurrection."},
+        {"term": "Essenes", "def": "A strict Jewish movement living in pure communities; often linked with Qumran."},
+        {"term": "Scribes", "def": "Experts who copied, taught and applied the Law of Moses."},
+        {"term": "Synagogue", "def": "A local gathering place for prayer, reading and teaching Scripture."},
+        {"term": "God-fearers", "def": "Gentiles who worshipped Israel's God in the synagogue without fully becoming Jews."}
+      ],
+      "related": ["s-teach", "b-midrash", "g-07"]
+    },
+    {
+      "id": "b-temple", "book": "world", "order": 60, "num": 6,
+      "title": "The Temple: Heart of Jewish Life",
+      "subtitle": "The house of God where heaven and earth met",
+      "nutshell": "For Jews in Jesus' day, the Temple in Jerusalem was the place where God's presence dwelt among His people. Its courts, priests, daily offerings and festivals shaped the whole year. Many Gospel scenes happen there, and its destruction in AD 70 changed Jewish and Christian faith forever.",
+      "bigIdea": "The Temple was the meeting place of God and Israel, and the New Testament presents Jesus and His people as the place where God now dwells.",
+      "skeleton": [
+        "Herod rebuilt the Second Temple on a huge scale",
+        "Its courts moved step by step closer to God's presence",
+        "Priests served in turns, offering sacrifices morning and afternoon",
+        "Pilgrims came for the great feasts and paid the Temple tax",
+        "Jesus taught, cleansed and spoke about the Temple; the veil tore at His death",
+        "The Temple fell in AD 70, and faith had to find its centre anew"
+      ],
+      "sections": [
+        {"h": "Herod's great Temple", "p": [
+          "The Temple of Jesus' day was the **Second Temple**, first rebuilt after the exile (Ezra 6:15). About 20/19 BC, **Herod the Great** began a huge rebuilding. Work went on for decades — 'it has taken forty-six years to build this temple' (John 2:20). The platform still stands in Jerusalem; its western retaining wall is today called the Western Wall."
+        ]},
+        {"h": "Courts: closer and closer to God", "p": [
+          "The Temple was built in rings of holiness. Anyone could enter the large **Court of the Gentiles**. A low barrier (the *soreg*) carried warning signs in Greek: no foreigner may pass, on pain of death. Two of these stone inscriptions have been found. Paul was accused of bringing a Gentile past it (Acts 21:28–29).",
+          "Inside lay the **Court of the Women**, with the offering boxes where the poor widow gave two coins (Mark 12:41–44); then the **Court of Israel**, the **Court of the Priests** with the great altar, the **Holy Place** with the lampstand, and finally the **Holy of Holies**, entered only by the high priest on the Day of Atonement (Leviticus 16)."
+        ]},
+        {"h": "Priests, prayers and daily offerings", "p": [
+          "Priests were divided into **24 courses** (1 Chronicles 24), each serving a week at a time. Zechariah, John the Baptist's father, was chosen by lot to offer incense while the people prayed outside (Luke 1:8–10).",
+          "Every day a lamb was offered in the morning and another in the afternoon — the **Tamid**, 'continual' offering (Exodus 29:38–42). These became the hours of prayer: 'Peter and John were going up to the temple at the hour of prayer, the ninth hour' (Acts 3:1), about 3 pm."
+        ]},
+        {"h": "Pilgrims, tax and money changers", "p": [
+          "Three times a year Israel went up for **Passover, Shavuot and Sukkot** (Deuteronomy 16:16); Jesus' family went every Passover (Luke 2:41). Each Jewish man paid a yearly **half-shekel** Temple tax (Exodus 30:13; Matthew 17:24–27).",
+          "Pilgrims needed approved coins and animals for sacrifice, so traders and **money changers** worked in the outer court. Jesus overturned their tables, quoting Isaiah 56:7, 'My house shall be called a house of prayer for all the nations', and Jeremiah 7:11 (Mark 11:15–17)."
+        ]},
+        {"h": "Jesus and the Temple", "p": [
+          "Jesus was presented there as a baby (Luke 2:22), taught in its courts, and called it 'my Father's house' (Luke 2:49). He also warned that not one stone would remain on another (Mark 13:2). When He died, 'the curtain of the temple was torn in two, from top to bottom' (Mark 15:38). Hebrews sees this as a new way into God's presence (Hebrews 10:19–20)."
+        ]},
+        {"h": "AD 70 and after", "p": [
+          "In AD 70 Roman armies under Titus burned the Temple. Jewish tradition remembers this on the fast of **Tisha B'Av**. Without sacrifices, Jewish teachers taught that prayer, Torah study and deeds of loving-kindness carry on the Temple's work, citing Hosea 6:6, 'I desire mercy, not sacrifice'.",
+          "> The New Testament speaks of Jesus' body as the Temple (John 2:19–21) and of His people as 'God's temple' where the Spirit dwells (1 Corinthians 3:16)."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "layers", "title": "The courts of Herod's Temple", "after": 1,
+         "note": "From the outside in: each step was holier and fewer people could enter.",
+         "layers": [
+           {"t": "Court of the Gentiles", "d": "Open to all nations; site of trading and teaching."},
+           {"t": "Soreg barrier", "d": "Warning inscriptions: no foreigner beyond this point."},
+           {"t": "Court of the Women", "d": "Open to all Jewish men and women; offering boxes."},
+           {"t": "Court of Israel", "d": "Jewish men stood here to watch the offerings."},
+           {"t": "Court of the Priests", "d": "The great altar and the basin for washing."},
+           {"t": "Holy Place", "d": "Lampstand, table of bread and incense altar; priests only."},
+           {"t": "Holy of Holies", "d": "Behind the veil; the high priest entered once a year."}
+         ]},
+        {"type": "flow", "title": "A day in the Temple", "after": 2,
+         "note": "Simplified from the description in Mishnah Tamid.",
+         "steps": [
+           {"t": "Dawn", "d": "Priests cast lots for duties and clean the altar."},
+           {"t": "Morning offering", "d": "The first Tamid lamb is offered; incense is burned."},
+           {"t": "Priestly blessing", "d": "The priests bless the people (Numbers 6:24–26)."},
+           {"t": "Through the day", "d": "Private offerings, vows and thanksgiving sacrifices."},
+           {"t": "Afternoon offering", "d": "The second lamb, around the ninth hour (3 pm), the hour of prayer."},
+           {"t": "Evening", "d": "The gates close; the altar fire keeps burning (Leviticus 6:13)."}
+         ]},
+        {"type": "timeline", "title": "From Tabernacle to the fall of the Temple", "after": 4,
+         "events": [
+           {"when": "Wilderness", "t": "Tabernacle", "d": "A movable tent of meeting (Exodus 25–40)."},
+           {"when": "c. 960 BC", "t": "Solomon's Temple", "d": "The first Temple is built (1 Kings 6)."},
+           {"when": "586 BC", "t": "Destroyed by Babylon", "d": "Jerusalem falls; the people go into exile."},
+           {"when": "516/515 BC", "t": "Second Temple", "d": "Rebuilt after the return (Ezra 6:15)."},
+           {"when": "167–164 BC", "t": "Defiled and rededicated", "d": "Antiochus IV defiles it; the Maccabees cleanse it (Hanukkah)."},
+           {"when": "c. 20/19 BC", "t": "Herod rebuilds", "d": "A vast expansion begins (John 2:20)."},
+           {"when": "c. AD 30", "t": "Jesus in the Temple", "d": "Teaching, cleansing, and the torn veil (Mark 11; 15:38)."},
+           {"when": "AD 70", "t": "Destroyed by Rome", "d": "Titus' army burns the Temple."}
+         ]},
+        {"type": "map", "title": "Temples, rivals and the pilgrim road", "after": 3,
+         "places": [
+           {"id": "shiloh", "d": "Where the Tabernacle stood in the days of the judges.", "refs": "1 Samuel 1:3"},
+           {"id": "jerusalem", "d": "Home of Solomon's, the Second and Herod's Temple.", "refs": "Mark 11:15–17"},
+           {"id": "gerizim", "d": "The Samaritans' rival holy mountain.", "refs": "John 4:20–21"},
+           {"id": "qumran", "d": "A community that rejected the Jerusalem priests of its day.", "refs": "Dead Sea Scrolls"},
+           {"id": "nazareth", "d": "Jesus' family set out from here for Passover.", "refs": "Luke 2:41"},
+           {"id": "jericho", "d": "Last stop on the Jordan valley road before the climb to Jerusalem.", "refs": "Luke 10:30–31"},
+           {"id": "bethany", "d": "Village near Jerusalem where Jesus stayed during the feast.", "refs": "Mark 11:11"}
+         ],
+         "route": ["nazareth", "jericho", "bethany", "jerusalem"]}
+      ],
+      "verses": [
+        {"ref": "Mark 11:17", "text": "Is it not written, 'My house shall be called a house of prayer for all the nations'?"},
+        {"ref": "Luke 1:9", "text": "He was chosen by lot to enter the temple of the Lord and burn incense."},
+        {"ref": "Mark 15:38", "text": "And the curtain of the temple was torn in two, from top to bottom."},
+        {"ref": "John 2:19", "text": "Destroy this temple, and in three days I will raise it up."},
+        {"ref": "1 Corinthians 3:16", "text": "Do you not know that you are God's temple and that God's Spirit dwells in you?"}
+      ],
+      "keyPoints": [
+        "Herod's Temple was a vast rebuilding of the Second Temple, begun about 20/19 BC.",
+        "Its courts formed rings of holiness, from the Court of the Gentiles to the Holy of Holies.",
+        "Morning and afternoon offerings set the daily hours of prayer.",
+        "Jesus honoured the Temple as His Father's house, cleansed it, and foretold its fall.",
+        "After AD 70, both Jews and Christians found new ways to live without the Temple."
+      ],
+      "reflect": [
+        "If you are 'God's temple', what in your life is like the busy outer court, and what is like the quiet inner sanctuary?",
+        "Jesus wanted a 'house of prayer for all nations'. Who might feel shut out of your church today?"
+      ],
+      "quiz": [
+        {"q": "Who could enter the Holy of Holies?", "options": ["Any priest", "The high priest, on the Day of Atonement", "Jewish men at Passover", "The king"], "a": 1, "why": "Only the high priest entered, once a year on Yom Kippur (Leviticus 16)."},
+        {"q": "What was the 'ninth hour' in Acts 3:1?", "options": ["Midnight", "The time the gates opened", "The afternoon hour of prayer, about 3 pm", "The start of the Sabbath"], "a": 2, "why": "It matched the afternoon Tamid offering, a set hour of prayer."},
+        {"q": "Where did the poor widow give her two coins?", "options": ["At the offering boxes in the Temple", "In the synagogue at Nazareth", "At the altar", "At the Pool of Siloam"], "a": 0, "why": "Mark 12:41–44 places her at the Temple treasury."},
+        {"q": "In what year did the Romans destroy the Temple?", "options": ["586 BC", "164 BC", "AD 135", "AD 70"], "a": 3, "why": "Titus' army burned it in AD 70."}
+      ],
+      "terms": [
+        {"term": "Second Temple", "def": "The Temple rebuilt after the exile and greatly expanded by Herod; destroyed in AD 70."},
+        {"term": "Soreg", "def": "The low barrier with warning signs that Gentiles were not allowed to pass."},
+        {"term": "Holy of Holies", "def": "The innermost room of the Temple, behind the veil."},
+        {"term": "Tamid", "def": "The 'continual' offering of a lamb every morning and afternoon."},
+        {"term": "Priestly courses", "def": "The 24 groups of priests who served in the Temple by turns."},
+        {"term": "Half-shekel", "def": "The yearly Temple tax paid by each Jewish man."}
+      ],
+      "related": ["w-kadosh", "g-10", "s-sacrifice"]
+    },
+    {
+      "id": "b-feasts", "book": "world", "order": 70, "num": 7,
+      "title": "The Jewish Year: Sabbath and Feasts",
+      "subtitle": "The rhythm of time that Jesus lived by",
+      "nutshell": "Jesus lived by a Jewish calendar of weekly Sabbaths and yearly feasts. Each feast retold part of Israel's story with God. The Gospels often place Jesus' words and deeds at these feasts, so knowing them unlocks their meaning.",
+      "bigIdea": "The Sabbath and the feasts were Israel's way of remembering God's saving acts, and the New Testament shows Jesus filling them with new meaning.",
+      "skeleton": [
+        "The Jewish year follows the moon and the harvests",
+        "The Sabbath is the weekly gift of rest",
+        "Spring feasts remember the Exodus and the first harvest",
+        "Autumn feasts call for repentance, atonement and joy",
+        "Later feasts, Hanukkah and Purim, remember rescue",
+        "Jesus' life is woven through these feasts"
+      ],
+      "sections": [
+        {"h": "A calendar of moon and harvest", "p": [
+          "The Jewish month begins with the new moon, and a month is added in some years so the feasts stay in their seasons. The year of feasts begins in spring with **Nisan** (Exodus 12:2), while the new year is celebrated in autumn in **Tishrei**. Leviticus 23 lists the 'appointed times' of the LORD. Three of them were **pilgrim feasts**, when people went up to Jerusalem (Deuteronomy 16:16), singing the Psalms of Ascents (Psalms 120–134)."
+        ]},
+        {"h": "Shabbat: the weekly feast", "p": [
+          "The **Sabbath** runs from Friday sunset to Saturday sunset. It remembers creation (Exodus 20:8–11) and freedom from slavery (Deuteronomy 5:12–15). It is not a burden but a gift and a delight (Isaiah 58:13).",
+          "Jesus went to the synagogue on the Sabbath 'as was his custom' (Luke 4:16). His Sabbath debates were about how to keep it, not whether to: 'The Sabbath was made for man, not man for the Sabbath' (Mark 2:27). Healing on the Sabbath showed its purpose — rest and restoration."
+        ]},
+        {"h": "Spring: Passover to Pentecost", "p": [
+          "**Passover** (Nisan 14) remembers the lamb's blood and Israel's escape from Egypt (Exodus 12). It flows into the seven days of **Unleavened Bread**. **Firstfruits** offered the first sheaf of barley; Paul calls the risen Jesus 'the firstfruits of those who have fallen asleep' (1 Corinthians 15:20).",
+          "Fifty days later came **Shavuot** ('Weeks'), called **Pentecost** in Greek. It celebrated the wheat harvest, and Jewish tradition later linked it with the giving of the Torah at Sinai. On this feast the Spirit came on the disciples (Acts 2)."
+        ]},
+        {"h": "Autumn: Trumpets, Atonement, Tabernacles", "p": [
+          "The **Feast of Trumpets** (Tishrei 1, today Rosh Hashanah) begins ten days of soul-searching. Then comes **Yom Kippur**, the Day of Atonement (Leviticus 16), a day of fasting, confession and cleansing.",
+          "Five days later, **Sukkot** (Tabernacles) is the most joyful feast: families live in booths for a week. The Mishnah describes priests pouring water at the altar and giant lamps lighting the Temple courts (Sukkah 4–5). At this feast Jesus cried, 'If anyone thirsts, let him come to me and drink' (John 7:37–39) and 'I am the light of the world' (John 8:12)."
+        ]},
+        {"h": "Winter: Hanukkah and Purim", "p": [
+          "**Hanukkah** (Kislev 25) remembers the Maccabees cleansing and rededicating the Temple in 164 BC (1 Maccabees 4:52–59). John mentions it: 'It was the Feast of Dedication at Jerusalem. It was winter' (John 10:22). **Purim** (Adar 14) celebrates the rescue of the Jews in the book of Esther (Esther 9)."
+        ]},
+        {"h": "Jesus and the Passover meal", "p": [
+          "The Last Supper took place at Passover time. Matthew, Mark and Luke present it as a Passover meal, while John places Jesus' death as the lambs were prepared (John 19:14); scholars still discuss how to fit these together.",
+          "> The oldest written description of the Passover meal (Mishnah Pesachim 10) is from about AD 200, so we should not assume every later custom was already in place. Still, the cups, the bread, the story and the hymns echo through the Gospel accounts."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "wheel", "title": "The feasts of the Jewish year", "after": 0,
+         "center": "Shabbat every seventh day",
+         "items": [
+           {"t": "Passover", "when": "Nisan 14 (Mar/Apr)", "d": "The Passover lamb and the Exodus from Egypt (Exodus 12).", "nt": "The Last Supper and Jesus' death (Mark 14:12; 1 Corinthians 5:7)."},
+           {"t": "Unleavened Bread", "when": "Nisan 15–21", "d": "Seven days without yeast, remembering the hurried escape.", "nt": "'Let us celebrate the festival... with the unleavened bread of sincerity' (1 Corinthians 5:8)."},
+           {"t": "Firstfruits", "when": "During Unleavened Bread", "d": "The first sheaf of barley is offered to God (Leviticus 23:10–11).", "nt": "The risen Christ as 'the firstfruits' (1 Corinthians 15:20)."},
+           {"t": "Shavuot / Pentecost", "when": "Sivan 6 (May/Jun)", "d": "Wheat harvest, fifty days after Passover; later linked with Sinai.", "nt": "The Spirit poured out (Acts 2:1–4)."},
+           {"t": "Trumpets", "when": "Tishrei 1 (Sep/Oct)", "d": "Shofar blasts call the people to remember and return (Leviticus 23:24).", "nt": "The trumpet at the resurrection (1 Thessalonians 4:16)."},
+           {"t": "Yom Kippur", "when": "Tishrei 10", "d": "Day of Atonement: fasting, confession, the high priest in the Holy of Holies.", "nt": "Christ as high priest entering the holy place (Hebrews 9:11–12)."},
+           {"t": "Sukkot / Tabernacles", "when": "Tishrei 15–22", "d": "Living in booths; water-pouring and great lamps in the Temple.", "nt": "Living water and the light of the world (John 7:37–39; 8:12)."},
+           {"t": "Hanukkah", "when": "Kislev 25 (Dec)", "d": "Rededication of the Temple by the Maccabees (1 Maccabees 4).", "nt": "Jesus in the Temple at the Feast of Dedication (John 10:22)."},
+           {"t": "Purim", "when": "Adar 14 (Feb/Mar)", "d": "Rescue of the Jews in the days of Esther (Esther 9).", "nt": "Not named in the NT; a reminder of God's hidden care."}
+         ]},
+        {"type": "flow", "title": "The Passover meal and the Last Supper", "after": 5,
+         "note": "Order based on Mishnah Pesachim 10 (c. AD 200); first-century details are uncertain.",
+         "steps": [
+           {"t": "First cup and blessing", "d": "The meal opens with a cup of wine (compare Luke 22:17)."},
+           {"t": "Dipping and bitter herbs", "d": "Food dipped in a bowl recalls the bitterness of slavery (Mark 14:20)."},
+           {"t": "Telling the story", "d": "Questions are asked and the Exodus is retold (Exodus 12:26–27)."},
+           {"t": "Unleavened bread", "d": "Bread is blessed and broken; Jesus says, 'This is my body' (Luke 22:19)."},
+           {"t": "Cup after supper", "d": "The 'cup of blessing'; Jesus speaks of the new covenant (Luke 22:20; 1 Corinthians 10:16)."},
+           {"t": "Hallel psalms", "d": "Psalms 113–118 are sung; 'when they had sung a hymn' (Mark 14:26)."}
+         ]},
+        {"type": "compare", "title": "What the feasts remembered and how the NT echoes them", "after": 4,
+         "left": {"label": "In Israel's story", "items": ["Passover: freedom from slavery", "Firstfruits: the first of the harvest", "Shavuot: harvest and covenant", "Yom Kippur: cleansing of the people", "Sukkot: God's care in the wilderness"]},
+         "right": {"label": "In the New Testament", "items": ["Jesus' death as Passover lamb (1 Corinthians 5:7)", "Jesus raised as firstfruits (1 Corinthians 15:20)", "The Spirit given at Pentecost (Acts 2)", "Christ the high priest (Hebrews 9)", "Living water and light (John 7–8)"]}}
+      ],
+      "verses": [
+        {"ref": "Leviticus 23:2", "text": "These are the appointed feasts of the LORD that you shall proclaim as holy convocations."},
+        {"ref": "Mark 2:27", "text": "The Sabbath was made for man, not man for the Sabbath."},
+        {"ref": "1 Corinthians 5:7", "text": "For Christ, our Passover lamb, has been sacrificed."},
+        {"ref": "John 7:37", "text": "On the last day of the feast, the great day, Jesus stood up and cried out, 'If anyone thirsts, let him come to me and drink.'"},
+        {"ref": "John 10:22", "text": "At that time the Feast of Dedication took place at Jerusalem. It was winter."}
+      ],
+      "keyPoints": [
+        "The Jewish calendar follows the moon and the harvests, and the Sabbath is its weekly heartbeat.",
+        "Passover, Shavuot and Sukkot were the three pilgrim feasts.",
+        "Jesus' death and resurrection happened at Passover; the Spirit came at Pentecost.",
+        "At Sukkot Jesus spoke of living water and the light of the world.",
+        "Details of the first-century Passover meal are partly uncertain, but its themes echo in the Last Supper."
+      ],
+      "reflect": [
+        "How could a weekly day of rest become a delight rather than a rule for you?",
+        "Which feast's story speaks most to where you are in life right now?"
+      ],
+      "quiz": [
+        {"q": "When does the Jewish Sabbath begin?", "options": ["Sunday morning", "Saturday noon", "Friday at sunset", "At midnight on Friday"], "a": 2, "why": "The Jewish day begins at evening, so the Sabbath runs from Friday sunset to Saturday sunset."},
+        {"q": "At which feast did the Spirit come in Acts 2?", "options": ["Shavuot (Pentecost)", "Passover", "Sukkot", "Hanukkah"], "a": 0, "why": "Pentecost is the Greek name for Shavuot, fifty days after Passover."},
+        {"q": "Which feast is the 'Feast of Dedication' in John 10:22?", "options": ["Purim", "Yom Kippur", "Trumpets", "Hanukkah"], "a": 3, "why": "Hanukkah means 'dedication' and remembers the rededication of the Temple."},
+        {"q": "At which feast did Jesus say, 'If anyone thirsts, let him come to me'?", "options": ["Passover", "Sukkot (Tabernacles)", "Purim", "Firstfruits"], "a": 1, "why": "John 7:2, 37 sets it at Sukkot, the feast of water-pouring."}
+      ],
+      "terms": [
+        {"term": "Shabbat", "def": "The Sabbath, the seventh day of rest, from Friday sunset to Saturday sunset."},
+        {"term": "Pesach", "def": "Passover, remembering the Exodus from Egypt."},
+        {"term": "Shavuot", "def": "The Feast of Weeks, fifty days after Passover; Pentecost in Greek."},
+        {"term": "Sukkot", "def": "The Feast of Tabernacles, when families live in booths for a week."},
+        {"term": "Hanukkah", "def": "The Feast of Dedication, remembering the cleansing of the Temple in 164 BC."},
+        {"term": "Pilgrim feasts", "def": "The three feasts when Israel went up to Jerusalem: Passover, Shavuot and Sukkot."}
+      ],
+      "related": ["g-15", "s-pray", "b-temple"]
+    },
+    {
+      "id": "b-herods", "book": "world", "order": 80, "num": 8,
+      "title": "The Herods: A Family in the Gospels",
+      "subtitle": "One family, many rulers, from Bethlehem to Paul's trial",
+      "nutshell": "Several different men called 'Herod' appear in the New Testament. They belong to one ruling family that served Rome for over a century. Knowing who is who makes many stories in the Gospels and Acts much clearer.",
+      "bigIdea": "The Herods held power by building great cities and pleasing Rome, while the true King came as a child they could not destroy.",
+      "skeleton": [
+        "Herod the Great ruled the whole land as Rome's client king",
+        "After his death his kingdom was divided among three sons",
+        "Antipas ruled Galilee in the time of John the Baptist and Jesus",
+        "His grandson Agrippa I persecuted the church",
+        "Agrippa II heard Paul's defence",
+        "Their power faded as God's kingdom spread"
+      ],
+      "sections": [
+        {"h": "Herod the Great", "p": [
+          "Herod came from an Idumean family that had become Jewish. Rome named him 'King of the Jews' in 40 BC, and he took Jerusalem in 37 BC. He was a brilliant builder — the Temple, the port of **Caesarea**, and fortress-palaces at **Masada**, **Herodium** and **Machaerus**. He was also fearful and cruel: he executed his wife Mariamne and three of his sons.",
+          "This is the Herod of Matthew 2, who tried to kill the child born in Bethlehem. He died in 4 BC (the most common dating) and was buried at Herodium, where his tomb was identified in 2007."
+        ]},
+        {"h": "A kingdom split in three", "p": [
+          "Rome divided Herod's land between three sons. **Archelaus** ruled Judea and Samaria so harshly that Joseph avoided him and settled in Nazareth (Matthew 2:22–23); Rome removed him in AD 6 and put Judea under Roman governors, later including Pilate.",
+          "**Philip** ruled the northeast quietly and rebuilt Caesarea Philippi, where Peter confessed Jesus as the Messiah (Matthew 16:13–16). **Herod Antipas** received Galilee and Perea."
+        ]},
+        {"h": "Herod Antipas, John and Jesus", "p": [
+          "Antipas is 'Herod the tetrarch' of the Gospels. He rebuilt **Sepphoris**, near Nazareth, and founded **Tiberias** on the Sea of Galilee. He married **Herodias**, his brother's wife, and John the Baptist condemned it (Mark 6:17–18). Herodias's daughter danced, and John was beheaded; Josephus says this happened at Machaerus.",
+          "Jesus called Antipas 'that fox' (Luke 13:32). During Jesus' trial Pilate sent Him to Antipas, who mocked Him (Luke 23:7–12). Rome exiled Antipas in AD 39."
+        ]},
+        {"h": "Agrippa I and Agrippa II", "p": [
+          "**Agrippa I**, a grandson of Herod the Great, briefly ruled almost all of his grandfather's kingdom (AD 41–44). He killed James the brother of John and imprisoned Peter, then died suddenly at Caesarea (Acts 12). Josephus also describes his sudden death there.",
+          "His son **Agrippa II**, with his sister **Bernice**, heard Paul's defence at Caesarea. Agrippa said, 'In a short time would you persuade me to be a Christian?' (Acts 26:28). Another sister, Drusilla, was married to the governor Felix (Acts 24:24)."
+        ]},
+        {"h": "Two kinds of kingship", "p": [
+          "> The Herods built palaces, ports and fortresses, but their rule depended on Rome and often on fear. The Gospels set beside them a King born in a village, who was mocked by Antipas yet raised by God.",
+          "Their story also helps us read the Gospels carefully: when you see the name 'Herod', ask which one — the father, the son, or the grandson."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "familytree", "title": "Herod's family in the New Testament", "after": 1,
+         "note": "Only members who appear in the New Testament or explain it are shown.",
+         "people": [
+           {"id": "herod", "t": "Herod the Great", "d": "King 37–4 BC; Matthew 2", "parent": null},
+           {"id": "archelaus", "t": "Archelaus", "d": "Ruled Judea 4 BC–AD 6; Matthew 2:22", "parent": "herod"},
+           {"id": "antipas", "t": "Herod Antipas", "d": "Tetrarch of Galilee 4 BC–AD 39; Luke 23:7–12", "parent": "herod"},
+           {"id": "philip", "t": "Philip the tetrarch", "d": "Ruled the northeast 4 BC–AD 34; Luke 3:1", "parent": "herod"},
+           {"id": "herod-ii", "t": "Herod (called Philip in Mark 6:17)", "d": "Herodias's first husband; held no kingdom", "parent": "herod"},
+           {"id": "aristobulus", "t": "Aristobulus", "d": "Son by Mariamne; executed by his father 7 BC", "parent": "herod"},
+           {"id": "herodias", "t": "Herodias", "d": "Married her uncle, then Antipas; Mark 6:17–24", "parent": "aristobulus"},
+           {"id": "salome", "t": "Salome", "d": "The daughter who danced (named by Josephus); Mark 6:22", "parent": "herodias"},
+           {"id": "agrippa1", "t": "Herod Agrippa I", "d": "King AD 41–44; Acts 12", "parent": "aristobulus"},
+           {"id": "agrippa2", "t": "Agrippa II", "d": "Heard Paul at Caesarea; Acts 25–26", "parent": "agrippa1"},
+           {"id": "bernice", "t": "Bernice", "d": "Sister of Agrippa II; Acts 25:13", "parent": "agrippa1"},
+           {"id": "drusilla", "t": "Drusilla", "d": "Wife of the governor Felix; Acts 24:24", "parent": "agrippa1"}
+         ]},
+        {"type": "map", "title": "Herodian cities and fortresses", "after": 0,
+         "places": [
+           {"id": "jerusalem", "d": "Herod's Temple and palace; Antipas mocked Jesus here.", "refs": "Luke 23:7–12"},
+           {"id": "bethlehem", "d": "Herod ordered the killing of the young boys.", "refs": "Matthew 2:16"},
+           {"id": "herodium", "d": "Herod's hilltop palace-fortress and burial place.", "refs": "Josephus"},
+           {"id": "jericho", "d": "Herod's winter palaces; he died here in 4 BC.", "refs": "Josephus"},
+           {"id": "masada", "d": "Herod's desert fortress-palace, later the last rebel stronghold.", "refs": "Josephus"},
+           {"id": "machaerus", "d": "Fortress east of the Dead Sea where John the Baptist was executed (Josephus).", "refs": "Mark 6:27"},
+           {"id": "caesarea", "d": "Herod's harbour city; Agrippa I died and Agrippa II heard Paul here.", "refs": "Acts 12:19–23; 25:23"},
+           {"id": "sepphoris", "d": "Rebuilt by Antipas, a short walk from Nazareth.", "refs": "Josephus"},
+           {"id": "tiberias", "d": "Antipas's new capital on the Sea of Galilee.", "refs": "John 6:23"},
+           {"id": "caesarea-philippi", "d": "Philip's capital, where Peter confessed Jesus as the Messiah.", "refs": "Matthew 16:13–16"}
+         ]},
+        {"type": "timeline", "title": "The Herods and the New Testament", "after": 3,
+         "events": [
+           {"when": "40–37 BC", "t": "Herod becomes king", "d": "Named king by Rome; takes Jerusalem."},
+           {"when": "c. 20/19 BC", "t": "Temple rebuilding begins", "d": "His greatest building work."},
+           {"when": "c. 6–4 BC", "t": "Jesus is born", "d": "The wise men and the flight to Egypt (Matthew 2)."},
+           {"when": "4 BC", "t": "Herod dies", "d": "The kingdom is divided among his sons."},
+           {"when": "AD 6", "t": "Archelaus removed", "d": "Judea comes under Roman governors."},
+           {"when": "c. AD 28–29", "t": "John beheaded", "d": "Executed by Antipas (Mark 6:14–29)."},
+           {"when": "c. AD 30–33", "t": "Jesus before Antipas", "d": "Mocked and sent back to Pilate (Luke 23:7–12)."},
+           {"when": "AD 44", "t": "Agrippa I dies", "d": "After killing James (Acts 12:1–2, 23)."},
+           {"when": "c. AD 59–60", "t": "Paul before Agrippa II", "d": "Paul's defence at Caesarea (Acts 26)."}
+         ]}
+      ],
+      "verses": [
+        {"ref": "Matthew 2:1", "text": "Now after Jesus was born in Bethlehem of Judea in the days of Herod the king..."},
+        {"ref": "Mark 6:18", "text": "For John had been saying to Herod, 'It is not lawful for you to have your brother's wife.'"},
+        {"ref": "Luke 13:32", "text": "Go and tell that fox, 'Behold, I cast out demons and perform cures today and tomorrow.'"},
+        {"ref": "Acts 12:1–2", "text": "Herod the king laid violent hands on some who belonged to the church. He killed James the brother of John with the sword."},
+        {"ref": "Acts 26:28", "text": "In a short time would you persuade me to be a Christian?"}
+      ],
+      "keyPoints": [
+        "'Herod' in the New Testament means several different rulers from one family.",
+        "Herod the Great built the Temple and other great works, but ruled through fear.",
+        "Herod Antipas executed John the Baptist and mocked Jesus at His trial.",
+        "Agrippa I killed James; Agrippa II heard Paul's defence.",
+        "Their rule depended on Rome; the Gospels contrast them with Jesus, the true King."
+      ],
+      "reflect": [
+        "Herod the Great saw a baby as a threat. Where might you resist Jesus because He threatens your control?",
+        "Agrippa II heard the gospel clearly but held back. What keeps people today from responding?"
+      ],
+      "quiz": [
+        {"q": "Which Herod tried to kill the child Jesus?", "options": ["Herod Antipas", "Agrippa I", "Herod the Great", "Agrippa II"], "a": 2, "why": "Matthew 2 speaks of Herod the Great, who died in 4 BC."},
+        {"q": "Why did John the Baptist criticise Herod Antipas?", "options": ["He married his brother's wife, Herodias", "He built Tiberias", "He worked with Rome", "He refused to pay taxes"], "a": 0, "why": "Mark 6:18: 'It is not lawful for you to have your brother's wife.'"},
+        {"q": "Who killed James the brother of John?", "options": ["Archelaus", "Philip the tetrarch", "Pilate", "Herod Agrippa I"], "a": 3, "why": "Acts 12:1–2 names 'Herod the king', that is, Agrippa I."},
+        {"q": "Why did Joseph settle in Nazareth instead of Judea?", "options": ["Antipas invited him", "He feared Archelaus, who ruled Judea", "The Temple was closed", "Philip offered land"], "a": 1, "why": "Matthew 2:22 says he was afraid because Archelaus reigned in Judea."}
+      ],
+      "terms": [
+        {"term": "Client king", "def": "A local ruler who kept his throne by serving Rome's interests."},
+        {"term": "Tetrarch", "def": "Literally 'ruler of a fourth'; a title for a ruler of part of a kingdom, like Antipas and Philip."},
+        {"term": "Idumea", "def": "The region south of Judea, home of Herod's family (the biblical Edom)."},
+        {"term": "Herodium", "def": "Herod's palace-fortress near Bethlehem, where he was buried."},
+        {"term": "Machaerus", "def": "Herodian fortress east of the Dead Sea, where John the Baptist died."}
+      ],
+      "related": ["b-history", "b-rome"]
+    }
+  ],
+  "glossary": []
+}
