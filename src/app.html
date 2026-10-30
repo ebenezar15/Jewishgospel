@@ -674,6 +674,21 @@ footer { border-top: 1px solid var(--line); padding-block: 26px; color: var(--mu
 .gtable tbody tr:hover td { background: var(--accent-soft); }
 .play .gtable tbody tr { animation: rise .45s var(--ease) both; animation-delay: calc(var(--i) * .06s); }
 @media (max-width: 760px) { .mapbox, .wheel-wrap { grid-template-columns: minmax(0, 1fr); } .place-list { max-height: 320px; } }
+.ilin { display: grid; gap: 14px; }
+.ilin-words { display: flex; flex-wrap: wrap; gap: 8px; }
+.ilin-words.rtl { direction: rtl; }
+.ilw { display: grid; justify-items: center; gap: 4px; padding: 10px 12px; border-radius: 12px; background: var(--sunk); border: 1px solid var(--line); direction: ltr; min-width: 64px; }
+.ilw .w { font-size: 26px; font-weight: 700; color: var(--accent); line-height: 1.15; }
+.ilw .w.gr { color: var(--gold); }
+.ilw small { font-size: 12.5px; color: var(--muted); text-align: center; max-width: 130px; line-height: 1.3; }
+.play .ilw { animation: letterIn .6s var(--ease) both; animation-delay: calc(var(--i) * .07s); }
+.ilin-read { display: grid; gap: 8px; }
+.ilr { text-align: left; border: 1.5px solid var(--line); background: var(--surface); border-radius: 12px; padding: 10px 14px; display: grid; gap: 3px; transition: border-color .2s, background .2s; }
+.ilr small { font-size: 11px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+:root[lang="ta"] .ilr small { text-transform: none; letter-spacing: 0; }
+.ilr span { font-size: 17px; font-weight: 600; }
+.ilr em { font-style: normal; font-size: 13.5px; color: var(--muted); }
+.ilr.on { border-color: var(--accent); background: var(--accent-soft); }
 .toc-book { flex-wrap: wrap; }
 .toc-book button { flex: 1 1 calc(50% - 6px); }
 :root.calm *, :root.calm *::before, :root.calm *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
@@ -776,10 +791,10 @@ const I18N = {
     mapT: 'Big-picture map', mapD: 'See how every chapter connects, as one flowchart.',
     glT: 'Glossary', glD: 'Plain definitions for every key term in both books.',
     qzT: 'Mixed quiz', qzD: 'Ten random questions drawn from every topic.',
-    tags: { flow: 'Flowchart', compare: 'Two lenses', timeline: 'Timeline', cycle: 'Cycle', tree: 'Mind map', layers: 'Layers', wordroot: 'Word anatomy', lexicon: 'Word list', renderings: 'Translations', map: 'Map', wheel: 'Calendar', familytree: 'Family tree', pyramid: 'Society', cards: 'Story cards', table: 'Comparison', atlas: 'Atlas', spectrum: 'Spectrum', skeleton: 'Skeleton', constellation: 'Constellation' },
+    tags: { flow: 'Flowchart', compare: 'Two lenses', timeline: 'Timeline', cycle: 'Cycle', tree: 'Mind map', layers: 'Layers', wordroot: 'Word anatomy', lexicon: 'Word list', renderings: 'Translations', interlinear: 'Interlinear', map: 'Map', wheel: 'Calendar', familytree: 'Family tree', pyramid: 'Society', cards: 'Story cards', table: 'Comparison', atlas: 'Atlas', spectrum: 'Spectrum', skeleton: 'Skeleton', constellation: 'Constellation' },
     step: 'STEP', rootL: 'ROOT', bone: 'BONE', bonesTitle: 'The bones of this chapter', bigIdea: 'So the big idea is',
     replay: '↻ Replay', replayAria: 'Replay animation', focusLens: 'Focus Hebrew lens', bothLens: 'Show both lenses',
-    studyOf: (n, t) => `Journey 3 · Word study ${n} of ${t}`, studiesBtn: 'Open the word studies', worldOf: (n, t) => `Journey 4 · Topic ${n} of ${t}`, worldBtn: 'Explore the world of the Bible', tapFlip: 'Tap to flip ↻', sourceL: 'Source:', echoL: 'New Testament link:', atlasH: 'Every place in this app', atlasP: 'Tap a pin or a name to see why it matters, then open the topic.', lostL: 'Lost in translation:', cultureL: 'Culture:', literallyL: 'Literally', commonL: 'Usually rendered', whyL: 'Why:', lexTag: 'Word list', relatedH: 'Read more in this app', langHe: 'Hebrew', langGr: 'Greek', langAr: 'Aramaic', all: 'All',
+    studyOf: (n, t) => `Journey 3 · Word study ${n} of ${t}`, studiesBtn: 'Open the word studies', worldOf: (n, t) => `Journey 4 · Topic ${n} of ${t}`, textsOf: (n, t) => `Journey 5 · Topic ${n} of ${t}`, textsBtn: 'Start reading', worldBtn: 'Explore the world of the Bible', tapFlip: 'Tap to flip ↻', sourceL: 'Source:', echoL: 'New Testament link:', atlasH: 'Every place in this app', atlasP: 'Tap a pin or a name to see why it matters, then open the topic.', lostL: 'Lost in translation:', cultureL: 'Culture:', literallyL: 'Literally', commonL: 'Usually rendered', whyL: 'Why:', lexTag: 'Word list', relatedH: 'Read more in this app', langHe: 'Hebrew', langGr: 'Greek', langAr: 'Aramaic', all: 'All',
     wordOf: n => `Journey 1 · Word ${n} of 15`, beforeWords: 'Journey 1 · Before the words', chapterN: n => `Chapter ${n}`,
     say: 'say:', root: 'root', usually: 'Usually translated', fuller: 'Fuller Hebrew meaning', fullerStudy: 'Fuller meaning',
     listen: '▶ Listen', stop: '■ Stop', skeletonBtn: 'Skeleton', quizBtn: n => `Quiz (${n})`, nutshell: 'In a nutshell',
@@ -825,10 +840,10 @@ const I18N = {
     mapT: 'முழுச் சித்திர வரைபடம்', mapD: 'ஒவ்வொரு அதிகாரமும் எப்படி இணைகிறது என்பதை ஒரே பாய்வுப்படமாகப் பாருங்கள்.',
     glT: 'சொற்களஞ்சியம்', glD: 'இரு புத்தகங்களிலும் உள்ள ஒவ்வொரு முக்கியச் சொல்லுக்கும் எளிய விளக்கம்.',
     qzT: 'கலவை வினாடி வினா', qzD: 'எல்லாத் தலைப்புகளிலிருந்தும் எடுக்கப்பட்ட பத்து கேள்விகள்.',
-    tags: { flow: 'பாய்வுப்படம்', compare: 'இரு கண்ணோட்டங்கள்', timeline: 'காலவரிசை', cycle: 'சுழற்சி', tree: 'மன வரைபடம்', layers: 'அடுக்குகள்', wordroot: 'சொல்லின் அமைப்பு', lexicon: 'சொற்பட்டியல்', renderings: 'மொழிபெயர்ப்புகள்', map: 'வரைபடம்', wheel: 'நாட்காட்டி', familytree: 'குடும்ப மரம்', pyramid: 'சமூக அடுக்கு', cards: 'கதை அட்டைகள்', table: 'ஒப்பீடு', atlas: 'நில வரைபடம்', spectrum: 'அளவுகோல்', skeleton: 'எலும்புக்கூடு', constellation: 'நட்சத்திரக் கூட்டம்' },
+    tags: { flow: 'பாய்வுப்படம்', compare: 'இரு கண்ணோட்டங்கள்', timeline: 'காலவரிசை', cycle: 'சுழற்சி', tree: 'மன வரைபடம்', layers: 'அடுக்குகள்', wordroot: 'சொல்லின் அமைப்பு', lexicon: 'சொற்பட்டியல்', renderings: 'மொழிபெயர்ப்புகள்', interlinear: 'வரிக்குவரி', map: 'வரைபடம்', wheel: 'நாட்காட்டி', familytree: 'குடும்ப மரம்', pyramid: 'சமூக அடுக்கு', cards: 'கதை அட்டைகள்', table: 'ஒப்பீடு', atlas: 'நில வரைபடம்', spectrum: 'அளவுகோல்', skeleton: 'எலும்புக்கூடு', constellation: 'நட்சத்திரக் கூட்டம்' },
     step: 'படி', rootL: 'வேர்', bone: 'எலும்பு', bonesTitle: 'இந்த அதிகாரத்தின் எலும்புகள்', bigIdea: 'ஆகவே முக்கியக் கருத்து',
     replay: '↻ மீண்டும்', replayAria: 'அசைவூட்டத்தை மீண்டும் காட்டு', focusLens: 'எபிரெயக் கண்ணோட்டம் மட்டும்', bothLens: 'இரண்டையும் காட்டு',
-    studyOf: (n, t) => `பயணம் 3 · சொல் ஆய்வு ${n} / ${t}`, studiesBtn: 'சொல் ஆய்வுகளைத் திறங்கள்', worldOf: (n, t) => `பயணம் 4 · தலைப்பு ${n} / ${t}`, worldBtn: 'வேதாகம உலகை ஆராயுங்கள்', tapFlip: 'புரட்டத் தொடுங்கள் ↻', sourceL: 'மூலம்:', echoL: 'புதிய ஏற்பாட்டு இணைப்பு:', atlasH: 'இந்தச் செயலியிலுள்ள எல்லா இடங்களும்', atlasP: 'ஒரு குறியையோ பெயரையோ தொட்டு அதன் முக்கியத்துவத்தைப் பாருங்கள்; பின்னர் தலைப்பைத் திறங்கள்.', lostL: 'மொழிபெயர்ப்பில் இழந்தது:', cultureL: 'பண்பாடு:', literallyL: 'நேரடிப் பொருள்', commonL: 'வழக்கமான மொழிபெயர்ப்பு', whyL: 'ஏன்:', lexTag: 'சொற்பட்டியல்', relatedH: 'இந்தச் செயலியில் மேலும் வாசியுங்கள்', langHe: 'எபிரெயம்', langGr: 'கிரேக்கம்', langAr: 'அரமேயம்', all: 'எல்லாம்',
+    studyOf: (n, t) => `பயணம் 3 · சொல் ஆய்வு ${n} / ${t}`, studiesBtn: 'சொல் ஆய்வுகளைத் திறங்கள்', worldOf: (n, t) => `பயணம் 4 · தலைப்பு ${n} / ${t}`, textsOf: (n, t) => `பயணம் 5 · தலைப்பு ${n} / ${t}`, textsBtn: 'வாசிக்கத் தொடங்குங்கள்', worldBtn: 'வேதாகம உலகை ஆராயுங்கள்', tapFlip: 'புரட்டத் தொடுங்கள் ↻', sourceL: 'மூலம்:', echoL: 'புதிய ஏற்பாட்டு இணைப்பு:', atlasH: 'இந்தச் செயலியிலுள்ள எல்லா இடங்களும்', atlasP: 'ஒரு குறியையோ பெயரையோ தொட்டு அதன் முக்கியத்துவத்தைப் பாருங்கள்; பின்னர் தலைப்பைத் திறங்கள்.', lostL: 'மொழிபெயர்ப்பில் இழந்தது:', cultureL: 'பண்பாடு:', literallyL: 'நேரடிப் பொருள்', commonL: 'வழக்கமான மொழிபெயர்ப்பு', whyL: 'ஏன்:', lexTag: 'சொற்பட்டியல்', relatedH: 'இந்தச் செயலியில் மேலும் வாசியுங்கள்', langHe: 'எபிரெயம்', langGr: 'கிரேக்கம்', langAr: 'அரமேயம்', all: 'எல்லாம்',
     wordOf: n => `பயணம் 1 · சொல் ${n} / 15`, beforeWords: 'பயணம் 1 · சொற்களுக்கு முன்', chapterN: n => `அதிகாரம் ${n}`,
     say: 'உச்சரிப்பு:', root: 'வேர்', usually: 'வழக்கமான மொழிபெயர்ப்பு', fuller: 'முழுமையான எபிரெய அர்த்தம்', fullerStudy: 'முழுமையான அர்த்தம்',
     listen: '▶ கேளுங்கள்', stop: '■ நிறுத்து', skeletonBtn: 'எலும்புக்கூடு', quizBtn: n => `வினாடி வினா (${n})`, nutshell: 'சுருக்கமாக',
@@ -1020,6 +1035,8 @@ const R = {
     return `<ul class="ft">${(kids[''] || []).map(node).join('')}</ul>`; },
   pyramid: d => `<div class="pyr" style="--n:${Math.max(1, d.levels.length - 1)}">${d.levels.map((l, k) => `<div class="pyr-l ${k / d.levels.length > .6 ? 'light' : ''}" style="--k:${k}"><b>${md(l.t)}</b>${l.d ? `<small>${md(l.d)}</small>` : ''}</div>`).join('')}</div>`,
   cards: d => `<div class="cards">${d.cards.map((c, i) => `<button class="fcard" style="--i:${i}" aria-label="${esc(plain(c.t))}"><span class="side front"><b>${md(c.t)}</b>${c.front ? `<p>${md(c.front)}</p>` : ''}<small>${t('tapFlip')}</small></span><span class="side back"><span>${md(c.back)}</span>${c.source ? `<span class="src"><b>${t('sourceL')}</b> ${md(c.source)}</span>` : ''}${c.echo ? `<span class="echo">${t('echoL')} ${md(c.echo)}</span>` : ''}</span></button>`).join('')}</div>`,
+  interlinear: d => `<div class="ilin"><div class="ilin-words ${d.lang === 'he' ? 'rtl' : ''}">${d.words.map((x, i) => `<span class="ilw" style="--i:${i}"><span class="w ${d.lang === 'he' ? 'he' : 'gr'}" lang="${d.lang === 'he' ? 'he' : 'grc'}">${esc(x.w)}</span><small>${md(x.g)}</small></span>`).join('')}</div>
+    ${d.readings?.length ? `<div class="ilin-read">${d.readings.map((r, i) => `<button class="ilr${i === 0 ? ' on' : ''}" data-r="${i}"><small>${esc(r.label)}</small><span>${md(r.text)}</span>${r.note ? `<em>${md(r.note)}</em>` : ''}</button>`).join('')}</div>` : ''}</div>`,
   table: d => `<table class="gtable"><thead><tr>${d.cols.map(c => `<th>${esc(c)}</th>`).join('')}</tr></thead><tbody>${d.rows.map((r, i) => `<tr style="--i:${i}"><th>${md(r.h)}</th>${r.cells.map(c => `<td>${md(c)}</td>`).join('')}</tr>`).join('')}</tbody></table>`,
   spectrum: d => `<div class="spec"><div class="bar">${d.points.map((p, i) => `<span class="pt" style="left:${p.pos}%;--i:${i}"></span><span class="pl ${i % 2 ? 'up' : ''}" style="left:${Math.min(88, Math.max(12, p.pos))}%">${md(p.t)}</span>`).join('')}</div><div class="ends"><span>${esc(d.left)}</span><span>${esc(d.right)}</span></div></div>`
 };
@@ -1055,6 +1072,7 @@ function wireDiagrams(scope) {
     w.addEventListener('keydown', e => { const el = e.target.closest('.seg'); if (el && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); sel(+el.dataset.i); } });
     sel(0);
   });
+  $$('.ilin-read', scope).forEach(r => r.addEventListener('click', e => { const b = e.target.closest('.ilr'); if (b) $$('.ilr', r).forEach(x => x.classList.toggle('on', x === b)); }));
   $$('.cards', scope).forEach(c => c.addEventListener('click', e => { const b = e.target.closest('.fcard'); if (b) b.classList.toggle('flipped'); }));
   $$('.lex-filter', scope).forEach(f => f.addEventListener('click', e => { const b = e.target.closest('[data-lex]'); if (!b) return; $$('[data-lex]', f).forEach(x => x.classList.toggle('accent', x === b)); $$('.lex-row', f.parentElement).forEach(r => { r.hidden = b.dataset.lex !== 'all' && r.dataset.lang !== b.dataset.lex; }); }));
   $$('[data-replay]', scope).forEach(b => b.addEventListener('click', () => { const f = b.closest('.dia'); f.classList.remove('play'); void f.offsetWidth; f.classList.add('play'); }));
@@ -1079,7 +1097,7 @@ const shortName = c => c.book === 'words' && c.hebrew ? c.translit : c.title;
 let lensTimer;
 function viewHome() {
   setNav('home');
-  const words = chaptersOf('words'), gospel = chaptersOf('gospel'), studies = chaptersOf('studies'), sb = bookOf('studies'), world = chaptersOf('world'), wob = bookOf('world');
+  const words = chaptersOf('words'), gospel = chaptersOf('gospel'), studies = chaptersOf('studies'), sb = bookOf('studies'), world = chaptersOf('world'), wob = bookOf('world'), texts = chaptersOf('texts'), tb = bookOf('texts');
   const total = D.chapters.length, n = D.chapters.filter(c => done.has(c.id)).length;
   const pct = total ? Math.round(n / total * 100) : 0, C = 2 * Math.PI * 26;
   const orbit = 'אבגדהוזחטיכלמנסעפצקרשת'.split('');
@@ -1123,6 +1141,9 @@ function viewHome() {
   ${world.length ? `<div class="section-head"><div><div class="eyebrow">${t('journey', 4)} · ${esc(wob?.title || '')}</div><h2>${esc(wob?.headline || '')}</h2><p>${esc(wob?.blurb || '')}</p></div><a class="btn small" href="#map">${t('tags').atlas}</a></div>
   <div class="word-grid stagger">${world.map(c => `<a class="wcard" href="#c-${c.id}">${done.has(c.id) ? '<span class="done-tick">✓</span>' : ''}<span class="num">${String(c.num).padStart(2, '0')} · ${esc((c.diagrams || []).map(d => t('tags')[d.type]).filter(Boolean).slice(0, 2).join(' · '))}</span><b style="text-transform:none;letter-spacing:0;font-size:17px">${esc(c.title)}</b><span class="sub">${esc(c.subtitle)}</span></a>`).join('')}</div>` : ''}
 
+  ${texts.length ? `<div class="section-head"><div><div class="eyebrow">${t('journey', 5)} · ${esc(tb?.title || '')}</div><h2>${esc(tb?.headline || '')}</h2><p>${esc(tb?.blurb || '')}</p></div><a class="btn small" href="#c-${texts[0].id}">${t('textsBtn')}</a></div>
+  <div class="word-grid stagger">${texts.map(c => `<a class="wcard" href="#c-${c.id}">${done.has(c.id) ? '<span class="done-tick">✓</span>' : ''}<span class="num">${String(c.num).padStart(2, '0')} · ${esc((c.diagrams || []).map(d => t('tags')[d.type]).filter(Boolean).slice(0, 2).join(' · '))}</span><b style="text-transform:none;letter-spacing:0;font-size:17px">${esc(c.title)}</b><span class="sub">${esc(c.subtitle)}</span></a>`).join('')}</div>` : ''}
+
   <div class="section-head"><div><div class="eyebrow">${t('toolsEyebrow')}</div><h2>${t('toolsH')}</h2></div></div>
   <div class="tools stagger">
     ${tool('#words', t('fcT'), t('fcD'), '<path d="M4 6h12v12H4z"/><path d="M8 3h12v12"/>')}
@@ -1155,7 +1176,7 @@ function viewChapter(id) {
   const list = chaptersOf(c.book), i = list.indexOf(c), prev = list[i - 1], next = list[i + 1];
   const b = bookOf(c.book);
   const placed = {}; (c.diagrams || []).forEach(d => { const at = d.after ?? (c.sections.length - 1); (placed[at] = placed[at] || []).push(d); });
-  const eyebrow = c.book === 'world' ? t('worldOf', c.num, list.length) : c.book === 'studies' ? t('studyOf', c.num, list.length) : c.book === 'words' ? (c.hebrew ? t('wordOf', c.num) : t('beforeWords')) : `${t('journey', 2)} · ${esc(c.part)}${c.num ? ` · ${t('chapterN', c.num)}` : ''}`;
+  const eyebrow = c.book === 'texts' ? t('textsOf', c.num, list.length) : c.book === 'world' ? t('worldOf', c.num, list.length) : c.book === 'studies' ? t('studyOf', c.num, list.length) : c.book === 'words' ? (c.hebrew ? t('wordOf', c.num) : t('beforeWords')) : `${t('journey', 2)} · ${esc(c.part)}${c.num ? ` · ${t('chapterN', c.num)}` : ''}`;
   main.innerHTML = `<div class="view reader">
   <nav class="toc" id="toc" aria-label="${t('chaptersAria')}">${tocHTML(c.book, c.id)}</nav>
   <article class="article">

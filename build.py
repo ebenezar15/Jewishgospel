@@ -39,7 +39,7 @@ def tidy(chapters):
                 d["left"]["items"], d["right"]["items"] = d["left"]["items"][:n], d["right"]["items"][:n]
 
 books, chapters, glossary = load(os.path.join(ROOT, "content"))
-BOOK_ORDER = {"words": 0, "gospel": 1, "studies": 2, "world": 3}
+BOOK_ORDER = {"words": 0, "gospel": 1, "studies": 2, "world": 3, "texts": 4}
 chapters.sort(key=lambda c: (BOOK_ORDER.get(c["book"], 9), part_rank(c.get("part")), c.get("order", 0)))
 ids = [c["id"] for c in chapters]
 assert len(ids) == len(set(ids)), "duplicate chapter ids"
