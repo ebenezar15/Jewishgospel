@@ -1,0 +1,295 @@
+{
+  "chapters": [
+    {
+      "id": "b-preaching",
+      "book": "world",
+      "order": 120,
+      "num": 12,
+      "title": "Preaching and Teaching in Jewish Practice",
+      "subtitle": "How the synagogue taught Scripture, and how Jesus taught within that world",
+      "nutshell": "In Jesus' day, Scripture was read aloud in the synagogue, translated, and then explained in a sermon. Teachers sat to teach, students sat at their feet, and learning meant memorising, repeating and asking questions. Jesus taught inside this world, yet people noticed that he taught \"with authority\".",
+      "bigIdea": "Jesus' preaching and teaching make the most sense against the background of synagogue reading, sermon and study.",
+      "skeleton": [
+        "The synagogue service: prayer, reading, translation, sermon",
+        "The teacher sits; the disciple sits at his feet",
+        "Sermon forms: proem, legal question, hopeful ending, parable",
+        "Study by memory, repetition, questions and partners",
+        "Jesus teaches with authority"
+      ],
+      "sections": [
+        {
+          "h": "A Sabbath in the synagogue",
+          "p": [
+            "On the Sabbath the community gathered to pray and to hear Scripture. The service included the Shema, the prayer later called the Amidah, a reading from the Torah, a reading from the Prophets (the Haftarah) and often a sermon. Many details of the first-century order are known only from later Jewish sources, so the exact shape is debated, but the main parts are clear.",
+            "Because many people spoke Aramaic rather than Hebrew, a translator (the meturgeman) put the Torah into Aramaic one verse at a time, and the Prophets up to three verses at a time (Mishnah Megillah 4:4)."
+          ]
+        },
+        {
+          "h": "The teacher sat down",
+          "p": [
+            "In Nazareth Jesus stood up to read from Isaiah, gave the scroll back to the attendant and sat down; then he began to teach (Luke 4:16–21). Sitting was the posture of a teacher (Matt 5:1; 23:2). In Pisidian Antioch the synagogue rulers invited Paul to give \"a word of exhortation\" after the readings (Acts 13:15) — a common name for a sermon (compare Heb 13:22)."
+          ]
+        },
+        {
+          "h": "How a sermon was built",
+          "p": [
+            "Later rabbinic collections show set sermon forms. The petichta (proem) opened with a distant verse, often from the Writings, and wound its way to the day's reading. The yelammedenu sermon began with a legal question (\"Let our teacher instruct us…\"). Sermons often ended with a word of hope (chatimah). These forms are known from collections written down centuries after Jesus, so we cannot be sure how far they were used in his day.",
+            "Teachers loved the mashal (parable) followed by the nimshal (its application): \"To what may this be compared?\" Jesus' parables belong to this family."
+          ]
+        },
+        {
+          "h": "Learning at a teacher's feet",
+          "p": [
+            "A disciple (talmid) sat \"at the feet\" of a teacher (Luke 10:39; Acts 22:3; Mishnah Avot 1:4). Children learned to read Scripture in the beit sefer (house of the book); older students studied in the beit midrash (house of study). Learning was by memory, repetition and chanting aloud, with many questions. Later tradition prizes the chavruta, a study partner who argues the text with you.",
+            "Jesus gave his disciples authority to \"bind and loose\" (Matt 16:19; 18:18). Many scholars connect this with rabbinic usage, where \"binding\" and \"loosing\" meant forbidding and permitting."
+          ]
+        },
+        {
+          "h": "\"With authority, not as the scribes\"",
+          "p": [
+            "Jesus used the methods of his people — parables, questions, \"how much more\" arguments and Scripture quotations. What amazed his hearers was not a new method but his authority: he taught \"as one who had authority, and not as the scribes\" (Mark 1:22). Scribes usually supported a ruling by citing earlier teachers; Jesus said, \"But I say to you\" (Matt 5:22)."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "flow",
+          "title": "A synagogue service in Jesus' day (simplified)",
+          "note": "The order is reconstructed partly from later sources; local practice varied.",
+          "after": 0,
+          "steps": [
+            {"t": "Shema and blessings", "d": "\"Hear, O Israel…\" (Deut 6:4–9) with blessings before and after."},
+            {"t": "Prayer (Tefillah / Amidah)", "d": "Standing prayer of blessings; its fixed wording developed over time."},
+            {"t": "Torah reading", "d": "Several readers in turn; the scroll handed out by the attendant (Luke 4:17, 20)."},
+            {"t": "Meturgeman translates", "d": "Aramaic rendering, verse by verse for the Torah (Mishnah Megillah 4:4)."},
+            {"t": "Haftarah (Prophets)", "d": "A matching reading from the Prophets — as Jesus read Isaiah 61 (Luke 4:17–19)."},
+            {"t": "Sermon", "d": "A \"word of exhortation\" explaining the readings (Acts 13:15)."},
+            {"t": "Blessing", "d": "The service closed with a priestly blessing when a priest was present (Num 6:24–26)."}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Who is who in synagogue and study",
+          "after": 1,
+          "cols": ["Term", "Meaning", "Role", "New Testament link"],
+          "rows": [
+            {"h": "Darshan", "cells": ["one who seeks / expounds", "preacher who explains Scripture", "Acts 13:15 sermon"]},
+            {"h": "Maggid", "cells": ["one who tells", "popular storyteller-preacher (later term)", "compare parables, Mark 4:33"]},
+            {"h": "Meturgeman", "cells": ["translator", "puts readings into Aramaic", "Aramaic words in Mark 5:41"]},
+            {"h": "Chazzan", "cells": ["attendant", "cares for scrolls, hands them out", "Luke 4:20"]},
+            {"h": "Rosh ha-knesset", "cells": ["head of the assembly", "synagogue ruler, arranges the service", "Jairus Luke 8:41; Crispus Acts 18:8"]},
+            {"h": "Sofer", "cells": ["scribe", "expert in writing and the Law", "Mark 1:22"]},
+            {"h": "Rabbi", "cells": ["my great one / my master", "respectful title for a teacher", "John 1:38; 3:2"]},
+            {"h": "Talmid", "cells": ["learner, disciple", "follows and imitates a teacher", "Luke 10:39; Acts 22:3"]}
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "Six ways Jesus taught",
+          "after": 4,
+          "cards": [
+            {"t": "Parables (mashal)", "front": "\"What man of you, having a hundred sheep…?\"", "back": "A short story from daily life, followed by its point (nimshal). Rabbis used the same pattern: a king, a son, a field. Jesus' parables draw hearers in, then turn the story on them.", "source": "Luke 15:3–7; Mark 4:33–34", "echo": "Rabbinic parables often begin \"To what may this be compared?\""},
+            {"t": "Questions", "front": "\"Who do you say that I am?\"", "back": "Jesus asked questions and often answered a question with a question. This made people think for themselves, a hallmark of Jewish study.", "source": "Mark 8:29; 11:29–30", "echo": "Study in the beit midrash moved by question and answer."},
+            {"t": "\"How much more\"", "front": "\"If you then, who are evil, know how to give good gifts…\"", "back": "The light-and-heavy argument (kal va-chomer): if something is true in a small case, it is even more true in a great case.", "source": "Matt 7:11; 12:11–12", "echo": "The first of Hillel's rules of interpretation."},
+            {"t": "Vivid exaggeration", "front": "A camel through the eye of a needle", "back": "Startling pictures fix a truth in the memory: a log in your own eye, a camel through a needle. Hearers knew this was picture language, not literal instruction.", "source": "Mark 10:25; Matt 7:3–5", "echo": "Teachers used memorable sayings so students would never forget."},
+            {"t": "Acted lessons", "front": "He took a child and set him among them", "back": "Jesus taught by doing: placing a child in the middle, washing feet, cursing a fig tree. Like the prophets' signs, the action carried the message.", "source": "Mark 9:36–37; John 13:12–15; Mark 11:12–21", "echo": "Prophetic signs, e.g. Jeremiah's loincloth (Jer 13)."},
+            {"t": "\"Have you not read?\"", "front": "Arguing straight from Scripture", "back": "Jesus answered opponents by quoting and reasoning from the Torah, Prophets and Psalms, sometimes from a single word or tense of a verse.", "source": "Mark 12:26–27; Matt 22:41–45", "echo": "The same close reading is found in midrash."}
+          ]
+        },
+        {
+          "type": "map",
+          "title": "Where Jesus taught",
+          "after": 4,
+          "places": [
+            {"id": "nazareth", "d": "His home synagogue: he read Isaiah and preached that it was fulfilled.", "refs": "Luke 4:16–21"},
+            {"id": "capernaum", "d": "He taught in the synagogue on the Sabbath and people were amazed at his authority.", "refs": "Mark 1:21–22"},
+            {"id": "magdala", "d": "A first-century synagogue has been excavated here, showing what Galilean synagogues looked like.", "refs": "Matt 4:23"},
+            {"id": "jerusalem", "d": "As a boy he sat among the teachers in the Temple, listening and asking questions; later he taught daily in its courts.", "refs": "Luke 2:46; 19:47"}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Luke 4:20–21", "text": "He rolled up the scroll, gave it back to the attendant and sat down… \"Today this Scripture has been fulfilled in your hearing.\""},
+        {"ref": "Mark 1:22", "text": "He taught them as one who had authority, and not as the scribes."},
+        {"ref": "Acts 13:15", "text": "After the reading of the Law and the Prophets… \"If you have any word of exhortation for the people, say it.\""},
+        {"ref": "Acts 22:3", "text": "Brought up in this city at the feet of Gamaliel."}
+      ],
+      "keyPoints": [
+        "The synagogue service centred on prayer, reading Scripture, translating it and explaining it.",
+        "A teacher sat to teach; disciples sat at his feet and learned by memory, repetition and questions.",
+        "Rabbinic sermon forms (petichta, yelammedenu, hopeful ending) are known from later collections.",
+        "Jesus' parables, questions and \"how much more\" arguments are Jewish teaching methods.",
+        "What stood out was his authority: \"But I say to you.\""
+      ],
+      "reflect": [
+        "Which of Jesus' teaching methods helps you remember his words best, and why?",
+        "How could memorising, repeating and asking questions change the way you study Scripture?"
+      ],
+      "quiz": [
+        {"q": "What did the meturgeman do in the synagogue?", "options": ["Translated the reading into Aramaic", "Collected the offering", "Blew the shofar", "Led the singing"], "a": 0, "why": "He rendered the Hebrew reading into Aramaic, verse by verse for the Torah (Mishnah Megillah 4:4)."},
+        {"q": "What posture did a teacher take when teaching?", "options": ["Kneeling", "Walking", "Sitting", "Lying down"], "a": 2, "why": "Jesus sat down to teach (Luke 4:20; Matt 5:1); teachers sat on \"Moses' seat\" (Matt 23:2)."},
+        {"q": "A \"yelammedenu\" sermon begins with…", "options": ["A parable", "A legal question", "A song", "A prayer for rain"], "a": 1, "why": "It opens \"Let our teacher instruct us…\" with a question of law, then moves to the reading."},
+        {"q": "What amazed people about Jesus' teaching in Mark 1:22?", "options": ["He spoke Greek", "He used no Scripture", "He taught very briefly", "He taught with authority, not as the scribes"], "a": 3, "why": "He did not only quote earlier teachers; he spoke with his own authority."}
+      ],
+      "terms": [
+        {"term": "Meturgeman", "def": "The translator who rendered the Hebrew readings into Aramaic in the synagogue."},
+        {"term": "Petichta", "def": "A sermon \"opening\" that starts from a distant verse and leads to the day's reading."},
+        {"term": "Mashal / nimshal", "def": "A parable and its application."},
+        {"term": "Beit midrash", "def": "\"House of study\", where older students studied Scripture and tradition."},
+        {"term": "Chavruta", "def": "A study partner; learning in pairs by discussion and debate."},
+        {"term": "Binding and loosing", "def": "Rabbinic terms for forbidding and permitting; used by Jesus in Matt 16:19 and 18:18."}
+      ],
+      "related": ["s-preach", "s-teach", "b-midrash", "b-groups"]
+    },
+    {
+      "id": "b-lifecycle",
+      "book": "world",
+      "order": 130,
+      "num": 13,
+      "title": "From Birth to Death: Jewish Life Customs",
+      "subtitle": "The customs behind the births, weddings and funerals of the Gospels",
+      "nutshell": "A Jewish life in Jesus' day was marked by customs from the Torah and from tradition: circumcision and naming on the eighth day, purification and the Temple offering, schooling, betrothal and wedding, and careful burial and mourning. Knowing them makes many Gospel scenes come alive.",
+      "bigIdea": "From the eighth day to the ossuary, Jewish life customs explain much of what happens in the Gospels.",
+      "skeleton": [
+        "Birth, circumcision and naming",
+        "Purification and redeeming the firstborn",
+        "Growing up: weaning, school, trade",
+        "Betrothal and wedding",
+        "Sickness, old age, death and mourning"
+      ],
+      "sections": [
+        {
+          "h": "Birth and the eighth day",
+          "p": [
+            "A baby boy was circumcised on the eighth day (Gen 17:12; Lev 12:3), the sign of God's covenant with Abraham. The child was named at that time, as with John the Baptist and Jesus (Luke 1:59–63; 2:21).",
+            "After childbirth a mother waited 40 days for a son or 80 for a daughter, then brought an offering to the Temple: a lamb and a bird, or, if poor, two doves or two young pigeons (Lev 12). Mary and Joseph brought the poor family's offering (Luke 2:22–24). A firstborn son was redeemed for five shekels (Num 18:15–16)."
+          ]
+        },
+        {
+          "h": "Growing up",
+          "p": [
+            "Weaning could come at two or three years and was celebrated with a feast (Gen 21:8; compare 2 Macc 7:27). A later saying gives the stages of learning: Scripture at five, Mishnah at ten, the commandments at thirteen, marriage at eighteen (Mishnah Avot 5:21). Jesus went up to Jerusalem at twelve (Luke 2:42). The bar mitzvah ceremony itself is a later, medieval development.",
+            "Boys normally learned their father's trade; Jesus was known as the carpenter's son (Matt 13:55)."
+          ]
+        },
+        {
+          "h": "Betrothal and wedding",
+          "p": [
+            "Marriage had two stages. Betrothal (kiddushin or erusin) made the couple legally bound; ending it needed a divorce (Matt 1:18–19). A contract (ketubah) set out the husband's duties. Some months later the bridegroom brought the bride to his home under the canopy or bridal chamber (chuppah) — the wedding proper (nissuin) — followed by up to seven days of feasting (Judg 14:12).",
+            "The friend of the bridegroom helped arrange things and rejoiced at the groom's voice (John 3:29)."
+          ]
+        },
+        {
+          "h": "Home, sickness and old age",
+          "p": [
+            "Life centred on the home and the Sabbath meal. Visiting the sick was a deed of love; James tells elders to pray and anoint the sick with oil (Jas 5:14). The old were honoured: \"You shall rise up before the grey head\" (Lev 19:32)."
+          ]
+        },
+        {
+          "h": "Death, burial and mourning",
+          "p": [
+            "Burial was quick, usually the same day (compare Deut 21:23; Acts 5:6). The body was washed (Acts 9:37), wrapped in linen with spices (John 19:39–40) and laid in a family tomb cut in rock, often closed with a stone. About a year later the bones were gathered into a stone box (ossuary). Some scholars link \"let the dead bury their own dead\" (Matt 8:22) to this second burial.",
+            "Mourners tore their clothes, sat for seven days of mourning (shiva; Gen 50:10) while friends came to comfort them (John 11:19), and observed a lighter thirty-day period. Families hired mourning women and flute players (Jer 9:17; Matt 9:23)."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "timeline",
+          "title": "A Jewish life from day one to the ossuary",
+          "after": 1,
+          "events": [
+            {"when": "Day 1", "t": "Birth", "d": "Midwives helped; the baby was washed, rubbed with salt and wrapped in cloths (Ezek 16:4; Luke 2:7)."},
+            {"when": "Day 8", "t": "Circumcision and naming", "d": "Gen 17:12; Luke 1:59–63; 2:21."},
+            {"when": "Day 40 / 80", "t": "Mother's purification", "d": "Offering at the Temple; two birds if poor (Lev 12; Luke 2:22–24)."},
+            {"when": "1 month+", "t": "Redeeming the firstborn", "d": "Five shekels to a priest (Num 18:15–16)."},
+            {"when": "Age 2–3", "t": "Weaning feast", "d": "Gen 21:8; compare 2 Macc 7:27."},
+            {"when": "Age 5–10", "t": "School", "d": "Scripture at 5, Mishnah at 10 (Mishnah Avot 5:21 — a later saying)."},
+            {"when": "Age 12–13", "t": "Coming of age", "d": "Jesus in the Temple at 12 (Luke 2:42); \"commandments at 13\". Bar mitzvah ceremony is medieval."},
+            {"when": "Teens", "t": "Learning a trade", "d": "Usually the father's trade (Mark 6:3; Matt 13:55)."},
+            {"when": "About 18", "t": "Marriage", "d": "Betrothal, then wedding (Mishnah Avot 5:21; Matt 1:18)."},
+            {"when": "Old age", "t": "Honoured elders", "d": "Lev 19:32; sick visited and anointed (Jas 5:14)."},
+            {"when": "Death", "t": "Burial the same day", "d": "Washed, wrapped in linen with spices, laid in a tomb (Acts 9:37; John 19:40)."},
+            {"when": "About a year later", "t": "Second burial", "d": "Bones gathered into an ossuary in the family tomb."}
+          ]
+        },
+        {
+          "type": "cycle",
+          "title": "The stages of a wedding",
+          "center": "Marriage",
+          "center2": "two stages: betrothal, then wedding",
+          "after": 2,
+          "nodes": [
+            {"t": "Agreement", "d": "Families agree; a bride-price (mohar) is settled (Gen 34:12)."},
+            {"t": "Betrothal (kiddushin / erusin)", "d": "Legally binding; a ketubah lists the husband's duties (Matt 1:18)."},
+            {"t": "Waiting", "d": "Often about a year; the groom prepares a home (compare John 14:2–3)."},
+            {"t": "The groom comes", "d": "Night procession with lamps to fetch the bride (Matt 25:1–13)."},
+            {"t": "Chuppah (nissuin)", "d": "The bride enters the groom's home and bridal chamber; the marriage is complete."},
+            {"t": "Seven-day feast", "d": "Celebration with guests and the friend of the bridegroom (Judg 14:12; John 2:1–10; 3:29)."}
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "Burial and mourning",
+          "after": 4,
+          "steps": [
+            {"t": "Death", "d": "Eyes closed; relatives tear their clothes (Gen 37:34; 2 Sam 1:11)."},
+            {"t": "Preparing the body", "d": "Washed (Acts 9:37), anointed, wrapped in linen with spices (John 19:39–40)."},
+            {"t": "Procession", "d": "Same-day burial; flute players and wailing women (Jer 9:17; Matt 9:23; Luke 7:12)."},
+            {"t": "Rock tomb", "d": "Laid on a shelf in a family tomb; a stone rolled across the door (Mark 15:46)."},
+            {"t": "Shiva — 7 days", "d": "Mourners stay home; friends come to comfort (Gen 50:10; John 11:19)."},
+            {"t": "30 days", "d": "A lighter period of mourning (compare Deut 34:8)."},
+            {"t": "Ossuary", "d": "About a year later the bones are gathered into a stone box."}
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "Six Gospel scenes explained by life customs",
+          "after": 4,
+          "cards": [
+            {"t": "\"His name is John\"", "front": "Why were the neighbours surprised?", "back": "The name was given at the circumcision on the eighth day, and a boy was usually named after a relative. \"None of your relatives is called by this name,\" they said — so Zechariah's written answer amazed them.", "source": "Luke 1:59–63", "echo": "Circumcision on the eighth day, Gen 17:12."},
+            {"t": "Two young pigeons", "front": "What does Mary's offering tell us?", "back": "The Torah allowed a family who could not afford a lamb to bring two birds. Mary and Joseph brought the poor family's offering: the Son of God was born into a poor home.", "source": "Luke 2:22–24; Lev 12:8", "echo": "\"Though he was rich, yet for your sake he became poor\" (2 Cor 8:9)."},
+            {"t": "The boy in the Temple", "front": "Why is Jesus' age, twelve, mentioned?", "back": "A boy was nearing the age when he would take on the commandments. Jesus sits among the teachers, listening and asking questions — the way of a good student.", "source": "Luke 2:41–49", "echo": "\"Commandments at thirteen\" (Mishnah Avot 5:21)."},
+            {"t": "Wine runs out at Cana", "front": "Why was this so serious?", "back": "Wedding feasts could last days, and the host's family had to provide. Running out of wine brought public shame. Jesus quietly saves the family's honour with the best wine.", "source": "John 2:1–10", "echo": "The messianic banquet with abundant wine (Isa 25:6)."},
+            {"t": "Flute players at Jairus' house", "front": "Who were the noisy crowd?", "back": "Even poor families hired flute players and mourning women. When Jesus said the girl was sleeping, the hired mourners laughed at him.", "source": "Matt 9:23–24; Mark 5:38–40", "echo": "\"Call for the mourning women\" (Jer 9:17)."},
+            {"t": "Lazarus, four days", "front": "Why did so many people come to Martha and Mary?", "back": "Friends came to comfort the family during the seven days of mourning. Lazarus had been buried the same day and was four days in the tomb — beyond any doubt dead.", "source": "John 11:17–19, 39", "echo": "Seven days of mourning (Gen 50:10)."}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Luke 2:21", "text": "At the end of eight days, when he was circumcised, he was called Jesus."},
+        {"ref": "Luke 2:24", "text": "…to offer a sacrifice according to what is said in the Law of the Lord, \"a pair of turtledoves, or two young pigeons.\""},
+        {"ref": "John 3:29", "text": "The friend of the bridegroom, who stands and hears him, rejoices greatly at the bridegroom's voice."},
+        {"ref": "John 19:40", "text": "They took the body of Jesus and bound it in linen cloths with the spices, as is the burial custom of the Jews."},
+        {"ref": "Lev 19:32", "text": "You shall stand up before the grey head and honour the face of an old man."}
+      ],
+      "keyPoints": [
+        "Boys were circumcised and named on the eighth day.",
+        "Mary and Joseph brought the poor family's offering of two birds.",
+        "Marriage had two stages: a binding betrothal, then the wedding and feast.",
+        "Burial was quick, with washing, linen and spices; bones were later placed in an ossuary.",
+        "Seven days of mourning (shiva) and hired mourners appear in the Gospel stories."
+      ],
+      "reflect": [
+        "Which Gospel scene looks different to you now that you know the custom behind it?",
+        "What does Jesus' birth into a poor family, with its simple offering, say to you?"
+      ],
+      "quiz": [
+        {"q": "On which day was a Jewish boy circumcised and named?", "options": ["The eighth day", "The first day", "The fortieth day", "At thirteen years"], "a": 0, "why": "Gen 17:12; Luke 1:59; 2:21."},
+        {"q": "What did Mary and Joseph's offering of birds show?", "options": ["They were priests", "They were wealthy", "They were a poor family", "It was a feast day"], "a": 2, "why": "Two birds were allowed for those who could not afford a lamb (Lev 12:8; Luke 2:24)."},
+        {"q": "Why did Joseph plan to divorce Mary though they were not yet living together?", "options": ["Roman law required it", "Betrothal was already legally binding", "She was from another tribe", "The wedding feast had failed"], "a": 1, "why": "Betrothal (kiddushin/erusin) was a binding stage of marriage (Matt 1:18–19)."},
+        {"q": "What was an ossuary?", "options": ["A wedding canopy", "A synagogue scroll box", "A mourning garment", "A stone box for the bones in second burial"], "a": 3, "why": "About a year after death the bones were gathered into an ossuary."}
+      ],
+      "terms": [
+        {"term": "Brit milah", "def": "Circumcision, the covenant sign, on the eighth day."},
+        {"term": "Kiddushin / erusin", "def": "Betrothal, the first and legally binding stage of marriage."},
+        {"term": "Ketubah", "def": "The marriage contract listing the husband's duties."},
+        {"term": "Chuppah", "def": "The canopy or bridal chamber; the wedding proper (nissuin)."},
+        {"term": "Shiva", "def": "The seven days of mourning after a burial."},
+        {"term": "Ossuary", "def": "A stone box into which bones were gathered about a year after death."}
+      ],
+      "related": ["b-life", "b-feasts", "s-life"]
+    }
+  ],
+  "glossary": []
+}
