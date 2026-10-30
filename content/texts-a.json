@@ -1,0 +1,311 @@
+{
+  "chapters": [
+    {
+      "id": "t-translation",
+      "book": "texts",
+      "order": 10,
+      "num": 1,
+      "title": "How Translations Change Meaning — and Why the Bible Leaves Out Its Culture",
+      "subtitle": "From Hebrew and Greek to your Bible: what is gained, what is lost, and why",
+      "nutshell": "The Bible was written for people who already shared its culture, so it rarely explains customs. Then it travelled through many languages: Hebrew and Greek, then Latin, then English and Tamil. At each step translators had to make choices, and some words slowly took on new shades of meaning.",
+      "bigIdea": "Every translation is an honest attempt to carry meaning across a gap of language and culture, and knowing the gaps helps you hear the original voice.",
+      "skeleton": [
+        "The Bible speaks to insiders who already know the culture",
+        "Sometimes writers stop and explain customs for outsiders",
+        "The text travels: Hebrew → Greek → Latin → English",
+        "Translators choose between word-for-word and thought-for-thought",
+        "Some key words shifted meaning along the way — for understandable reasons",
+        "Using several translations and the original words gives a fuller picture"
+      ],
+      "sections": [
+        {
+          "h": "Written for insiders",
+          "p": [
+            "The Bible was first written for people who lived inside its world. They knew how a wedding worked, what a Samaritan was and why hands were washed before meals. Writers did not need to explain these things, just as a letter to your family does not explain your family's habits. Scholars call this “high-context” communication: much of the meaning sits in shared background, not in the words.",
+            "Yet sometimes the writers do stop to explain. Mark tells his non-Jewish readers how Pharisees wash hands, cups and pots (Mark 7:3–4). John explains that the stone jars at Cana were “for the Jewish rites of purification” (John 2:6) and that “Jews have no dealings with Samaritans” (John 4:9). These little notes show that the Gospels were already reaching outsiders."
+          ]
+        },
+        {
+          "h": "The long journey of the text",
+          "p": [
+            "The Old Testament was written mostly in Hebrew (with some Aramaic). From the 3rd century BC Jews in Egypt translated it into Greek; this is the Septuagint. The New Testament was written in Greek and often quoted that Greek Old Testament. Later the Western church used Latin, and Jerome's Vulgate (about AD 405) became its Bible for a thousand years.",
+            "The first complete English Bibles (Wycliffe, 1380s) were translated from the Latin. Tyndale (1526 onward) went back to the Greek and Hebrew. Words that had been shaped by Latin church use, however, often stayed in English Bibles, and many of them passed into other languages too."
+          ]
+        },
+        {
+          "h": "Word-for-word or thought-for-thought?",
+          "p": [
+            "No two languages match exactly. Translators must decide how closely to follow the original wording. A “formal” (word-for-word) translation keeps the shape of the original, even when it sounds stiff. A “dynamic” (thought-for-thought) translation rewrites the meaning in natural modern speech. A paraphrase goes further still.",
+            "Each approach has strengths. Word-for-word versions let you see repeated words and images; thought-for-thought versions are easier to understand at first reading. Reading two kinds side by side is one of the simplest ways to notice where the original says something richer than one English or Tamil word can hold."
+          ]
+        },
+        {
+          "h": "When words shifted meaning",
+          "p": [
+            "Some changes came through Latin. Greek *metanoia* means a change of mind and direction (like Hebrew *teshuvah*, “return”). Latin *paenitentia* could also mean regret or penalty, and medieval readers linked it to the church practice of penance. Tyndale rendered *ekklēsia* (“assembly”) as “congregation”, but later Bibles kept “church”, a word that had come to mean a building and an institution.",
+            "Other changes come from merging words. The KJV uses “hell” for Hebrew *Sheol* and Greek *Hades* (the grave or realm of the dead), *Gehenna* (the valley of Hinnom used as a picture of judgment) and *Tartarus* (2 Pet 2:4). These are different ideas in the original. Modern versions often keep the original names so readers can see the difference."
+          ]
+        },
+        {
+          "h": "Names, titles and a famous debate",
+          "p": [
+            "The Hebrew name Ya'akov became Greek Iakōbos and Latin Iacobus. In English the Old Testament form became “Jacob”, but later forms of the Latin name gave us “James” for the New Testament men. The brothers of Jesus and the apostles carried the patriarch's name (the Tamil Bible keeps யாக்கோபு for both). In Isaiah 14:12 the Hebrew means “shining one, son of the dawn”; Latin *lucifer* (“light-bringer”, the morning star) passed into the KJV and later became a name for Satan in Christian tradition.",
+            "God's personal name YHWH was not spoken aloud by Jews out of reverence; readers said *Adonai* (“my Lord”). The Septuagint used *kyrios* (“Lord”), and English Bibles print “LORD” in capitals. In Isaiah 7:14 the Hebrew *almah* means a young woman of marriageable age; the Septuagint chose *parthenos*, usually “virgin”, and Matthew 1:23 quotes it. Jewish readers stress the Hebrew word; Christians read the verse in the light of Jesus' birth. Both sides are reading real words honestly."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "flow",
+          "title": "The translation chain",
+          "after": 1,
+          "note": "Each step was done in good faith; each also added its own shades of meaning.",
+          "steps": [
+            {"t": "Hebrew and Aramaic", "d": "The Old Testament is written over many centuries."},
+            {"t": "Greek Septuagint", "d": "From the 3rd century BC, for Greek-speaking Jews in Egypt."},
+            {"t": "Greek New Testament", "d": "Written in the 1st century AD; often quotes the Septuagint."},
+            {"t": "Latin Vulgate", "d": "Jerome, about AD 405; the Western church's Bible for a thousand years."},
+            {"t": "English and other languages", "d": "Wycliffe from Latin (1380s); Tyndale from Greek and Hebrew (1526 on); KJV 1611."},
+            {"t": "Modern translations", "d": "Made from the Hebrew and Greek, using older manuscripts found since."}
+          ]
+        },
+        {
+          "type": "spectrum",
+          "title": "Translation philosophies",
+          "after": 2,
+          "note": "Placements are approximate. No version is perfectly one or the other.",
+          "left": "Word-for-word (formal)",
+          "right": "Thought-for-thought (dynamic) and paraphrase",
+          "points": [
+            {"pos": 4, "t": "Interlinear"},
+            {"pos": 16, "t": "NASB"},
+            {"pos": 30, "t": "KJV, ESV"},
+            {"pos": 55, "t": "NIV"},
+            {"pos": 76, "t": "NLT"},
+            {"pos": 94, "t": "The Message"}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Eight words that changed on the way",
+          "after": 4,
+          "note": "“Why” gives the usual honest reason, not a conspiracy.",
+          "cols": ["", "Original", "Literal sense", "Common rendering", "Why"],
+          "rows": [
+            {"h": "Repent", "cells": ["metanoia (Greek)", "change of mind and direction", "Latin paenitentia → “do penance”", "Latin word also meant regret or penalty"]},
+            {"h": "Church", "cells": ["ekklēsia (Greek)", "assembly, called-out gathering", "“church” (Tyndale: “congregation”)", "Tradition kept the familiar church word"]},
+            {"h": "Easter", "cells": ["pascha (Acts 12:4)", "Passover", "KJV “Easter”", "Older English used “Easter” for the Passover season"]},
+            {"h": "Hell", "cells": ["Sheol, Hades, Gehenna, Tartarus", "grave; realm of dead; Hinnom valley; deep abyss", "KJV “hell” for all", "One English word covered several ideas"]},
+            {"h": "Eternal", "cells": ["aiōnios (Greek)", "belonging to the age (to come)", "“eternal”, “everlasting”", "Latin aeternus; scholars debate its full range"]},
+            {"h": "Lucifer", "cells": ["helel ben shachar (Isa 14:12)", "shining one, son of dawn", "KJV “Lucifer”", "Latin word for the morning star kept as a name"]},
+            {"h": "James", "cells": ["Ya'akov → Iakōbos", "Jacob", "“James” in the New Testament", "Later Latin and French forms of the name"]},
+            {"h": "Virgin", "cells": ["almah (Isa 7:14)", "young woman of marriageable age", "LXX parthenos → “virgin”", "Septuagint choice, quoted in Matthew 1:23"]}
+          ]
+        },
+        {
+          "type": "tree",
+          "title": "Why translations differ",
+          "after": 4,
+          "root": "Why translations differ",
+          "branches": [
+            {"t": "Language limits", "children": ["No word matches exactly", "Grammar must be rearranged", "Wordplay is hard to carry over"]},
+            {"t": "Source texts", "children": ["Different manuscripts", "Septuagint or Hebrew?", "New finds like the Dead Sea Scrolls"]},
+            {"t": "Philosophy", "children": ["Word-for-word", "Thought-for-thought", "Paraphrase"]},
+            {"t": "Tradition", "children": ["Familiar church words kept", "Latin terms passed on", "Readers expect known wording"]},
+            {"t": "Theology", "children": ["Beliefs shape word choices", "Debated verses", "Notes and footnotes"]}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Nehemiah 8:8", "text": "They read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading."},
+        {"ref": "Mark 7:3", "text": "For the Pharisees, and all the Jews, except they wash their hands oft, eat not, holding the tradition of the elders."},
+        {"ref": "Acts 2:8", "text": "And how hear we every man in our own tongue, wherein we were born?"},
+        {"ref": "Matthew 1:23", "text": "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel."}
+      ],
+      "keyPoints": [
+        "The Bible assumes its readers know the culture, so it rarely explains customs.",
+        "Sometimes writers explain customs for outsiders, as in Mark 7:3–4 and John 4:9.",
+        "The text passed from Hebrew and Greek through Latin into English and other languages.",
+        "Translators balance word-for-word accuracy with natural, clear meaning.",
+        "Shifts like “penance”, “church” and “hell” have understandable reasons; comparing versions and original words helps."
+      ],
+      "reflect": [
+        "Which Bible word have you always understood one way that might have a richer meaning in the original?",
+        "How could reading two different kinds of translation side by side help your study this week?"
+      ],
+      "quiz": [
+        {"q": "Why does the Bible usually not explain its customs?", "options": ["Its first readers already shared the culture", "The writers did not know the customs", "Customs were forbidden to be written down", "Translators removed the explanations"], "a": 0, "why": "It was written for insiders (high-context), though sometimes writers explain customs for outsiders."},
+        {"q": "How did Tyndale translate ekklēsia?", "options": ["Temple", "Synagogue", "Congregation", "Kingdom"], "a": 2, "why": "Tyndale used “congregation”; later English Bibles kept the traditional word “church”."},
+        {"q": "What does the KJV word “Easter” in Acts 12:4 translate?", "options": ["Firstfruits", "Pascha, the Passover", "Pentecost", "Resurrection day"], "a": 1, "why": "The Greek is pascha; older English used “Easter” for that season. Most modern versions say Passover."},
+        {"q": "Which Bible word in Isaiah 7:14 is at the centre of a translation debate?", "options": ["Shalom", "Torah", "Messiah", "Almah"], "a": 3, "why": "Almah means a young woman of marriageable age; the Septuagint used parthenos, usually “virgin”."}
+      ],
+      "terms": [
+        {"term": "High-context", "def": "Communication where much of the meaning is in shared background that the writer does not spell out."},
+        {"term": "Formal equivalence", "def": "Word-for-word translation that keeps the shape of the original."},
+        {"term": "Dynamic equivalence", "def": "Thought-for-thought translation that puts the meaning in natural modern speech."},
+        {"term": "Vulgate", "def": "Jerome's Latin Bible (about AD 405), the Western church's main Bible for centuries."},
+        {"term": "Metanoia", "def": "Greek for a change of mind and direction; usually translated “repentance”."},
+        {"term": "Sheol", "def": "Hebrew name for the grave or the realm of the dead."}
+      ],
+      "related": ["s-scripture", "b-midrash", "w-intro", "g-38"]
+    },
+    {
+      "id": "t-septuagint",
+      "book": "texts",
+      "order": 40,
+      "num": 4,
+      "title": "The Septuagint and the Story of Bible Translations",
+      "subtitle": "From Alexandria to Tranquebar: how the Bible reached every language",
+      "nutshell": "The Septuagint is the Greek translation of the Hebrew Scriptures, made by Jews in Egypt before Jesus' time. The New Testament writers and the early church often used it. Alongside it stand the Hebrew Masoretic Text, the Dead Sea Scrolls and many later translations, right down to the Tamil Bible.",
+      "bigIdea": "God's word has always been translated so that ordinary people can hear it in their own language.",
+      "skeleton": [
+        "A legend of 72 elders, and what history actually shows",
+        "Why Greek-speaking Jews needed a Greek Bible",
+        "The New Testament and early church use the Septuagint",
+        "Hebrew copies: Masoretic Text and Dead Sea Scrolls",
+        "Latin, English and Tamil translations follow"
+      ],
+      "sections": [
+        {
+          "h": "A legend and the history",
+          "p": [
+            "The Letter of Aristeas tells a famous story. King Ptolemy II of Egypt wanted the Jewish Law for his great library in Alexandria, so 72 elders, six from each tribe, came from Jerusalem and translated it in 72 days. The name Septuagint (“seventy”, written LXX) comes from this story.",
+            "Historians think the story is idealised, but its core fits the evidence: the Torah was translated into Greek in Alexandria in the 3rd century BC. The other books followed over the next generations, mostly by about 100 BC. Different translators worked in different styles, some very literal, some free."
+          ]
+        },
+        {
+          "h": "Why a Greek Bible?",
+          "p": [
+            "After Alexander the Great, Greek became the common language of the eastern Mediterranean. Many Jews, especially in Egypt, spoke Greek better than Hebrew. They needed the Scriptures in the language they used every day, both in the synagogue and at home.",
+            "When the apostles wrote, the Septuagint was the Bible of most Greek-speaking Jews. The New Testament writers often quote it, sometimes where it differs from the Hebrew. The early church used it as its Old Testament. Partly because Christians used it, Jews later made new, more literal Greek versions: Aquila (about AD 130), Symmachus and Theodotion."
+          ]
+        },
+        {
+          "h": "The Hebrew text: Masoretes and Dead Sea Scrolls",
+          "p": [
+            "The Hebrew Bible most translations use today is the Masoretic Text. The Masoretes were Jewish scholars (7th–10th centuries AD) who added vowel signs, accents and careful notes to protect every letter. Its best complete copies are the Aleppo Codex (about AD 930) and the Leningrad Codex (AD 1008).",
+            "In 1947 the Dead Sea Scrolls were found near Qumran. The Great Isaiah Scroll is about 1,000 years older than the Leningrad Codex, yet it agrees with it to a remarkable degree, with mostly small differences. Some scrolls agree with the Septuagint against the Masoretic Text, showing that the Septuagint sometimes translated a different Hebrew copy."
+          ]
+        },
+        {
+          "h": "Other ancient versions",
+          "p": [
+            "The Samaritans kept their own Hebrew Torah, the Samaritan Pentateuch. Jews in Aramaic-speaking lands used Targums, Aramaic translations that often explain as they translate. Syriac-speaking Christians used the Peshitta. The earliest Latin versions (the Old Latin) were made from the Septuagint.",
+            "Around AD 382–405 Jerome made a fresh Latin translation. For most of the Old Testament he went back to the Hebrew, which he called the “Hebrew truth” (*Hebraica veritas*). His Vulgate became the Bible of the Western church."
+          ]
+        },
+        {
+          "h": "From the Reformation to the Tamil Bible",
+          "p": [
+            "Wycliffe's followers translated the Vulgate into English in the 1380s. After printing and Erasmus' Greek New Testament (1516), Tyndale translated from Greek (1526) and Luther gave Germans their Bible (New Testament 1522, whole Bible 1534). The King James Version followed in 1611; later came the RV (1881), RSV (1952), NASB (1971), NIV (1978) and ESV (2001), using older manuscripts found in the meantime.",
+            "In 1714 Bartholomäus Ziegenbalg, a German missionary at Tranquebar, published the Tamil New Testament, usually called the first Bible translation printed in an Indian language. Later revisions by Fabricius (18th century) and Rhenius (19th century) led to the Tamil Union Version (around the 1860s–1870s), still widely used through the Bible Society of India."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "timeline",
+          "title": "From 300 BC to today",
+          "after": 0,
+          "note": "Some dates are approximate.",
+          "events": [
+            {"when": "3rd c. BC", "t": "Torah into Greek", "d": "Alexandria, under the Ptolemies."},
+            {"when": "c. 100 BC", "t": "Most of the Septuagint complete", "d": "Prophets and Writings translated."},
+            {"when": "c. 125 BC", "t": "Great Isaiah Scroll copied", "d": "Later found at Qumran."},
+            {"when": "1st c. AD", "t": "New Testament written", "d": "Often quotes the Septuagint."},
+            {"when": "c. AD 130", "t": "Aquila's Greek version", "d": "A very literal Jewish revision."},
+            {"when": "c. AD 240", "t": "Origen's Hexapla", "d": "Hebrew and Greek versions in parallel columns."},
+            {"when": "c. AD 405", "t": "Jerome's Vulgate", "d": "Latin, mostly from the Hebrew."},
+            {"when": "AD 930 / 1008", "t": "Aleppo and Leningrad Codices", "d": "The best Masoretic manuscripts."},
+            {"when": "1380s–1611", "t": "English Bibles", "d": "Wycliffe, Tyndale (1526), KJV (1611)."},
+            {"when": "1714", "t": "Tamil New Testament", "d": "Ziegenbalg at Tranquebar."},
+            {"when": "1947", "t": "Dead Sea Scrolls found", "d": "Hebrew copies 1,000 years older than before."},
+            {"when": "1952–2001", "t": "Modern versions", "d": "RSV, NASB, NIV, ESV."}
+          ]
+        },
+        {
+          "type": "familytree",
+          "title": "A family tree of translations",
+          "after": 3,
+          "note": "Simplified: each version shows its main source only.",
+          "people": [
+            {"id": "heb", "t": "Hebrew Scriptures", "d": "The original Old Testament (with some Aramaic)", "parent": null},
+            {"id": "lxx", "t": "Septuagint (Greek)", "d": "3rd–1st c. BC, Alexandria", "parent": "heb"},
+            {"id": "oldlatin", "t": "Old Latin", "d": "2nd c. AD, from the Septuagint", "parent": "lxx"},
+            {"id": "targum", "t": "Targums (Aramaic)", "d": "Translation with explanation", "parent": "heb"},
+            {"id": "mt", "t": "Masoretic Text", "d": "Hebrew with vowels; codices AD 930 and 1008", "parent": "heb"},
+            {"id": "vulgate", "t": "Vulgate (Latin)", "d": "Jerome, c. AD 405, from the Hebrew", "parent": "heb"},
+            {"id": "wycliffe", "t": "Wycliffe Bible", "d": "1380s, English from the Latin", "parent": "vulgate"},
+            {"id": "gnt", "t": "Greek New Testament", "d": "1st c. AD manuscripts", "parent": null},
+            {"id": "tr", "t": "Textus Receptus", "d": "Printed Greek text from Erasmus (1516)", "parent": "gnt"},
+            {"id": "tyndale", "t": "Tyndale New Testament", "d": "1526, English from the Greek", "parent": "tr"},
+            {"id": "luther", "t": "Luther Bible", "d": "German, 1522 / 1534", "parent": "tr"},
+            {"id": "kjv", "t": "King James Version", "d": "1611", "parent": "tr"},
+            {"id": "tamil", "t": "Ziegenbalg's Tamil NT", "d": "1714, Tranquebar", "parent": "tr"},
+            {"id": "critical", "t": "Critical Greek text", "d": "Uses older manuscripts found later", "parent": "gnt"},
+            {"id": "modern", "t": "Modern versions", "d": "RSV, NASB, NIV, ESV", "parent": "critical"}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Three witnesses to the Old Testament",
+          "after": 2,
+          "cols": ["", "Masoretic Text", "Septuagint", "Dead Sea Scrolls"],
+          "rows": [
+            {"h": "What", "cells": ["Standard Jewish Hebrew text", "Greek translation by Jews", "Scrolls found near Qumran"]},
+            {"h": "When", "cells": ["Text old; codices AD 930 and 1008", "3rd–1st c. BC", "Copied c. 250 BC – AD 70"]},
+            {"h": "Language", "cells": ["Hebrew with vowel signs", "Greek", "Mostly Hebrew, some Aramaic and Greek"]},
+            {"h": "Used by", "cells": ["Synagogue; most modern Bibles", "Greek-speaking Jews; early church; NT", "A Jewish community in Judea"]},
+            {"h": "Why it matters", "cells": ["Careful, complete standard text", "Shows the Hebrew behind it; NT quotes", "1,000 years older; checks both"]}
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "How a Bible book reaches you",
+          "after": 4,
+          "steps": [
+            {"t": "Written", "d": "A prophet, poet or apostle writes in Hebrew, Aramaic or Greek."},
+            {"t": "Copied", "d": "Scribes copy it by hand for centuries."},
+            {"t": "Translated", "d": "Greek, Aramaic, Syriac, Latin versions spread it."},
+            {"t": "Compared", "d": "Scholars compare manuscripts and old versions."},
+            {"t": "Printed", "d": "Printing makes Bibles cheaper and identical."},
+            {"t": "In your language", "d": "English, Tamil and thousands of other languages."}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Isaiah 40:8", "text": "The grass withereth, the flower fadeth: but the word of our God shall stand for ever."},
+        {"ref": "Luke 4:17", "text": "And there was delivered unto him the book of the prophet Esaias."},
+        {"ref": "Acts 8:30", "text": "Understandest thou what thou readest?"},
+        {"ref": "2 Timothy 3:15", "text": "From a child thou hast known the holy scriptures, which are able to make thee wise unto salvation."}
+      ],
+      "keyPoints": [
+        "The Septuagint is the Greek Old Testament, begun in Alexandria in the 3rd century BC.",
+        "The legend of 72 elders is idealised, but the translation was real and widely used.",
+        "New Testament writers and the early church often quoted the Septuagint.",
+        "The Masoretic Text and the Dead Sea Scrolls show how carefully Hebrew Scripture was copied.",
+        "From Jerome to Tyndale to Ziegenbalg, translators worked so people could read God's word in their own language."
+      ],
+      "reflect": [
+        "What does it mean to you that the apostles read the Scriptures in translation?",
+        "How can you thank God for the people who translated the Bible into your language?"
+      ],
+      "quiz": [
+        {"q": "What does the name Septuagint mean?", "options": ["Greek", "Seventy", "Holy book", "Alexandria"], "a": 1, "why": "It means “seventy”, from the legend of the elders (LXX)."},
+        {"q": "Who added vowel signs and notes to the Hebrew text?", "options": ["The Masoretes", "The Sadducees", "Jerome", "The Samaritans"], "a": 0, "why": "The Masoretes worked from the 7th to the 10th centuries AD."},
+        {"q": "Why are the Dead Sea Scrolls important?", "options": ["They contain new Gospels", "They replaced the Septuagint", "They are much older Hebrew copies", "They were written by Jerome"], "a": 2, "why": "The Great Isaiah Scroll, for example, is about 1,000 years older than the Leningrad Codex."},
+        {"q": "Where did Ziegenbalg publish the Tamil New Testament in 1714?", "options": ["Madras", "Madurai", "Colombo", "Tranquebar"], "a": 3, "why": "Ziegenbalg worked at Tranquebar (Tharangambadi)."}
+      ],
+      "terms": [
+        {"term": "Septuagint (LXX)", "def": "The Greek translation of the Hebrew Scriptures made by Jews in Egypt."},
+        {"term": "Masoretic Text", "def": "The standard Hebrew text with vowels and notes, preserved by the Masoretes."},
+        {"term": "Dead Sea Scrolls", "def": "Ancient scrolls found near Qumran from 1947, including the oldest Bible manuscripts."},
+        {"term": "Targum", "def": "An Aramaic translation of Scripture, often with explanations."},
+        {"term": "Hexapla", "def": "Origen's six-column work comparing the Hebrew and Greek versions."},
+        {"term": "Vulgate", "def": "Jerome's Latin translation, made mostly from the Hebrew."}
+      ],
+      "related": ["t-translation", "t-isaiah53", "s-scripture"]
+    }
+  ],
+  "glossary": []
+}

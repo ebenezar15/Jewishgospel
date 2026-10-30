@@ -1,0 +1,356 @@
+{
+  "chapters": [
+    {
+      "id": "t-2tim316",
+      "book": "texts",
+      "order": 20,
+      "num": 2,
+      "title": "2 Timothy 3:16: ‘All Scripture Is God-Breathed’ or ‘Every God-Breathed Scripture’?",
+      "subtitle": "One verse, no verb, and two honest ways to translate it",
+      "nutshell": "Paul’s Greek sentence in 2 Timothy 3:16 has no verb, so every translator must decide where to put “is”. Most versions read “All Scripture is God-breathed and useful”; some older ones read “Every God-breathed Scripture is also useful”. Both are possible Greek, and both say that Scripture comes from God and equips his people.",
+      "bigIdea": "Whichever way the verse is read, Scripture is breathed out by God and given to make his people ready for every good work.",
+      "skeleton": [
+        "The Greek has no verb: translators must supply “is”",
+        "Reading A: “All Scripture is God-breathed and useful”",
+        "Reading B: “Every God-breathed Scripture is also useful”",
+        "Grammar and context lean towards A, but B is possible",
+        "For Timothy, “Scripture” meant the sacred writings of Israel",
+        "Either way: from God, and useful to equip"
+      ],
+      "sections": [
+        {
+          "h": "A sentence without a verb",
+          "p": [
+            "Greek often leaves out the little verb “is”, and the reader fills it in. 2 Timothy 3:16 begins with four words and no verb: πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος — “all/every scripture God-breathed and useful”. Then comes the list: for teaching, for reproof, for correction, for training in righteousness.",
+            "Where the translator puts “is” changes the shape of the sentence. This is not a matter of hidden motives; it is simply what happens when a verbless Greek sentence must become a full English (or Tamil) one."
+          ]
+        },
+        {
+          "h": "Two possible readings",
+          "p": [
+            "Reading A puts “is” after “Scripture”: “All Scripture is God-breathed and is useful.” Here both words — God-breathed and useful — are things said about Scripture. The KJV, NIV, ESV, NASB and RSV read it this way.",
+            "Reading B puts “is” after “God-breathed”: “Every God-breathed Scripture is also useful.” Here “God-breathed” describes Scripture, and the main statement is that it is useful. The Latin Vulgate, Tyndale, the English Revised Version (1881), the American Standard Version (1901) and the NEB read it this way."
+          ]
+        },
+        {
+          "h": "Weighing the grammar",
+          "p": [
+            "When two adjectives are joined by καί (“and”), the most natural reading is that both are said about the noun in the same way. A close parallel is 1 Timothy 4:4: “every creature of God is good, and nothing is to be rejected.” This favours Reading A.",
+            "Reading B must take καί to mean “also” (“is also useful”). Greek can do that, but it is less natural here. πᾶσα without the article can mean “every” (each passage of Scripture) or “all” (Scripture as a whole); either fits both readings."
+          ]
+        },
+        {
+          "h": "A rare word: theopneustos",
+          "p": [
+            "θεόπνευστος (theopneustos) joins θεός, “God”, and a form of πνέω, “to breathe”: literally “God-breathed”. This verse is the earliest known use of the word anywhere in Greek.",
+            "It recalls the picture of God’s breath giving life (Genesis 2:7) and creating by his word (Psalm 33:6). The English “inspired” comes from the Latin inspirata, “breathed into”; the Greek stresses that Scripture comes out from God’s own breath, which is why the ESV says “breathed out by God”."
+          ]
+        },
+        {
+          "h": "What “Scripture” meant to Timothy",
+          "p": [
+            "The verse before speaks of “the sacred writings” (ἱερὰ γράμματα) that Timothy had known “from childhood” (3:15), taught by his mother and grandmother (1:5). That means the Hebrew Bible — the Law, the Prophets and the Writings — which Jews of the Greek-speaking world often read in the Greek Septuagint.",
+            "The context stresses purpose: Scripture makes wise for salvation (3:15) and makes the person of God “complete, equipped for every good work” (3:17). Paul’s point is what Scripture does, because of where it comes from."
+          ]
+        },
+        {
+          "h": "A fair conclusion",
+          "p": [
+            "Both readings are grammatically possible. Most modern scholars and translations prefer Reading A, mainly because of the natural force of καί and parallels like 1 Timothy 4:4. The Tamil Union Version also follows A: “வேதவாக்கியங்களெல்லாம் தேவஆவியினால் அருளப்பட்டிருக்கிறது” (wording approximate).",
+            "Reading B does not mean that some Scripture is not inspired. It describes Scripture as God-breathed and then says it is also useful. Either way the verse teaches the same two things: Scripture comes from God, and it is given to teach, correct and equip."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "interlinear",
+          "title": "2 Timothy 3:16 word by word",
+          "lang": "gr",
+          "words": [
+            {"w": "πᾶσα", "g": "all / every"},
+            {"w": "γραφὴ", "g": "scripture (writing)"},
+            {"w": "θεόπνευστος", "g": "God-breathed"},
+            {"w": "καὶ", "g": "and / also"},
+            {"w": "ὠφέλιμος", "g": "useful, profitable"},
+            {"w": "πρὸς", "g": "for"},
+            {"w": "διδασκαλίαν", "g": "teaching"},
+            {"w": "πρὸς", "g": "for"},
+            {"w": "ἐλεγμόν", "g": "reproof"},
+            {"w": "πρὸς", "g": "for"},
+            {"w": "ἐπανόρθωσιν", "g": "correction (setting straight)"},
+            {"w": "πρὸς", "g": "for"},
+            {"w": "παιδείαν", "g": "training"},
+            {"w": "τὴν", "g": "the (one)"},
+            {"w": "ἐν", "g": "in"},
+            {"w": "δικαιοσύνῃ", "g": "righteousness"}
+          ],
+          "readings": [
+            {"label": "Reading A (KJV, NIV, ESV, NASB)", "text": "All Scripture **is** God-breathed and useful for teaching…", "note": "“is” added after “Scripture”; both adjectives are predicates."},
+            {"label": "Reading B (Vulgate, RV 1881, ASV 1901, NEB)", "text": "Every God-breathed Scripture **is** also useful for teaching…", "note": "“is” added after “God-breathed”; καί read as “also”."}
+          ],
+          "note": "There is no verb in the Greek. The bold “is” is supplied by the translator.",
+          "after": 0
+        },
+        {
+          "type": "table",
+          "title": "How versions read the verse",
+          "cols": ["Version", "Wording", "Reading"],
+          "rows": [
+            {"h": "Vulgate (c. 405)", "cells": ["omnis scriptura divinitus inspirata utilis est…", "B"]},
+            {"h": "Tyndale (1526)", "cells": ["All scripture given by inspiration of God is profitable…", "B"]},
+            {"h": "KJV (1611)", "cells": ["All scripture is given by inspiration of God, and is profitable", "A"]},
+            {"h": "RV (1881) / ASV (1901)", "cells": ["Every scripture inspired of God is also profitable", "B"]},
+            {"h": "RSV (1952)", "cells": ["All scripture is inspired by God and profitable (footnote: B)", "A"]},
+            {"h": "NEB (1961)", "cells": ["Every inspired scripture has its use", "B"]},
+            {"h": "NIV", "cells": ["All Scripture is God-breathed and is useful", "A"]},
+            {"h": "ESV (2001)", "cells": ["All Scripture is breathed out by God and profitable", "A"]},
+            {"h": "Tamil Union (approx.)", "cells": ["வேதவாக்கியங்களெல்லாம் தேவஆவியினால் அருளப்பட்டிருக்கிறது", "A"]}
+          ],
+          "note": "Older Vulgate editions differ slightly in wording; the sense is the same.",
+          "after": 1
+        },
+        {
+          "type": "flow",
+          "title": "How a translator decides",
+          "steps": [
+            {"t": "Notice the gap", "d": "The Greek has no verb; “is” must be supplied somewhere."},
+            {"t": "Test the grammar", "d": "Two adjectives joined by καί usually stand together as predicates."},
+            {"t": "Look for parallels", "d": "1 Timothy 4:4 has the same pattern: “every creature of God is good, and…”"},
+            {"t": "Read the context", "d": "3:15–17 stress what Scripture does: makes wise, equips for good work."},
+            {"t": "Choose and footnote", "d": "Pick the most natural reading; many Bibles note the other in the margin."}
+          ],
+          "after": 2
+        },
+        {
+          "type": "compare",
+          "title": "Reading A and Reading B side by side",
+          "left": {
+            "label": "Reading A",
+            "items": [
+              "“All Scripture is God-breathed and useful”",
+              "καί = “and”",
+              "Two things said about Scripture",
+              "Preferred by most modern scholars",
+              "Scripture is from God and useful"
+            ]
+          },
+          "right": {
+            "label": "Reading B",
+            "items": [
+              "“Every God-breathed Scripture is also useful”",
+              "καί = “also”",
+              "God-breathed describes; useful is the claim",
+              "Found in Vulgate, RV, ASV, NEB",
+              "Scripture is from God and useful"
+            ]
+          },
+          "note": "The last row is the same on both sides: the message survives either choice.",
+          "after": 5
+        }
+      ],
+      "verses": [
+        {"ref": "2 Timothy 3:16", "text": "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness."},
+        {"ref": "2 Timothy 3:15", "text": "From childhood you have been acquainted with the sacred writings, which are able to make you wise for salvation."},
+        {"ref": "2 Timothy 3:17", "text": "That the man of God may be complete, equipped for every good work."},
+        {"ref": "1 Timothy 4:4", "text": "For every creature of God is good, and nothing is to be rejected."},
+        {"ref": "Genesis 2:7", "text": "The LORD God formed the man of dust from the ground and breathed into his nostrils the breath of life."}
+      ],
+      "keyPoints": [
+        "The Greek of 2 Timothy 3:16 has no verb; every translation must supply “is”.",
+        "Reading A: “All Scripture is God-breathed and useful” (KJV, NIV, ESV).",
+        "Reading B: “Every God-breathed Scripture is also useful” (Vulgate, RV, ASV, NEB).",
+        "The grammar (καί joining two adjectives) and parallels like 1 Timothy 4:4 make A the more natural reading.",
+        "Either way, Scripture comes from God and is given to teach and equip; B does not imply that some Scripture is uninspired."
+      ],
+      "reflect": [
+        "Does it change how you read your Bible to know that translators sometimes must choose between two honest options?",
+        "Paul links God-breathed Scripture with being equipped for good works. Which good work is Scripture preparing you for now?"
+      ],
+      "quiz": [
+        {"q": "Why must translators add a word to 2 Timothy 3:16?", "options": ["The Greek sentence has no verb", "A word was lost from the manuscripts", "The Latin added a word", "Paul wrote in Hebrew"], "a": 0, "why": "The Greek simply says “all/every scripture God-breathed and useful”; “is” must be supplied."},
+        {"q": "Which version follows Reading B (“Every scripture inspired of God is also profitable”)?", "options": ["NIV", "ESV", "English Revised Version (1881)", "KJV"], "a": 2, "why": "The RV of 1881 and the ASV of 1901 chose Reading B."},
+        {"q": "What does θεόπνευστος literally mean?", "options": ["Holy writing", "God-breathed", "Spirit-filled teacher", "Ancient word"], "a": 1, "why": "It joins “God” and “breathe”; this verse is its earliest known use."},
+        {"q": "Which statement is a fair conclusion?", "options": ["Only Reading B is possible Greek", "Reading B means some Scripture is not inspired", "The verse is about the New Testament only", "Both readings are possible, and both say Scripture comes from God and is useful"], "a": 3, "why": "Most scholars prefer A, but both teach Scripture’s divine origin and usefulness."}
+      ],
+      "terms": [
+        {"term": "theopneustos (θεόπνευστος)", "def": "“God-breathed”; first known in 2 Timothy 3:16."},
+        {"term": "graphē (γραφή)", "def": "“Writing, scripture”; in the NT usually the sacred writings of Israel."},
+        {"term": "Predicative reading", "def": "The adjective says something about the noun: “Scripture is God-breathed”."},
+        {"term": "Attributive reading", "def": "The adjective describes the noun: “God-breathed Scripture”."},
+        {"term": "hiera grammata (ἱερὰ γράμματα)", "def": "“Sacred writings” Timothy knew from childhood (3:15)."}
+      ],
+      "related": ["s-scripture", "s-equip", "t-translation"]
+    },
+    {
+      "id": "t-isaiah53",
+      "book": "texts",
+      "order": 30,
+      "num": 3,
+      "title": "Isaiah 53:10: Why the Septuagint Reads Differently",
+      "subtitle": "Crushed or cleansed? How one verse reached us in different ancient forms",
+      "nutshell": "In the Hebrew text, Isaiah 53:10 says it was the LORD’s will “to crush” his servant; in the Greek Septuagint, the Lord wishes “to cleanse him from the blow”. Ancient copies and translations differ here because of an unclear Hebrew verse, translators’ choices and interpretation. Seeing why helps us read Isaiah 53 — and its use in the New Testament — more carefully.",
+      "bigIdea": "The ancient witnesses to Isaiah 53 differ in wording, but together they show how early readers heard the servant’s suffering as purifying and life-giving.",
+      "skeleton": [
+        "Hebrew (MT): the LORD willed to crush him; a guilt offering; he will see offspring",
+        "Greek (LXX): the Lord wishes to cleanse him; if you give an offering for sin",
+        "The Targum: the LORD’s will to refine and purify; applied to the Messiah",
+        "The Dead Sea scroll and LXX: “he will see light” in 53:11",
+        "Why ancient texts differ",
+        "How the New Testament reads Isaiah 53"
+      ],
+      "sections": [
+        {
+          "h": "One verse, two ancient forms",
+          "p": [
+            "The standard Hebrew text (the Masoretic Text, MT) of Isaiah 53:10 reads roughly: “Yet it was the LORD’s will to crush him; he made him sick; if (or when) his soul makes a guilt offering (asham), he will see offspring, he will prolong his days.”",
+            "The Greek Septuagint (LXX), translated in Alexandria about the 2nd century BC, reads: “And the Lord wishes to cleanse him from the blow; if you give an offering for sin, your soul will see long-lived offspring.” Same verse — but a very different picture."
+          ]
+        },
+        {
+          "h": "Four differences",
+          "p": [
+            "1) “Crush” vs “cleanse”: the Hebrew דַּכְּאוֹ comes from דכא, “crush”. One explanation, widely suggested, is that the translator read it in the light of the Aramaic root דכי, “to be clean, pure”. 2) “He made him sick” (הֶחֱלִי) vs “from the blow”: the translator may have read the word as a noun, “the sickness”.",
+            "3) תָּשִׂים can mean “you make” or “she makes” (nefesh, “soul”, is feminine — so “his soul makes”). The LXX chose “if you (plural) give”, addressing the people. 4) asham, a “guilt offering” (Leviticus 5), becomes simply “for sin”."
+          ]
+        },
+        {
+          "h": "The Targum and the Dead Sea scroll",
+          "p": [
+            "The Aramaic Targum of Isaiah, read in synagogues, paraphrases freely. In 53:10 it speaks of the LORD’s will “to refine and to purify” (wording approximate), applying it to the remnant of his people, and it names the servant as “my servant the Messiah” (52:13).",
+            "In 53:11 the Great Isaiah Scroll from Qumran (1QIsaᵃ, about 125 BC) and the LXX both say “he will see light”. The word “light” is not in the MT. This shows that some Hebrew copies older than the MT had a slightly different text."
+          ]
+        },
+        {
+          "h": "Why ancient texts differ",
+          "p": [
+            "Translators worked from the Hebrew copy in front of them (their Vorlage), which was not always identical to the later MT. They also made choices where the Hebrew is hard — and Isaiah 53:10 is one of the most difficult verses in the book. Finally, every translation is also an interpretation: the LXX and the Targum show how Jewish readers of their day understood the servant.",
+            "None of this means that someone tampered with the Bible. It is the normal life of an ancient text copied and translated by hand over many centuries."
+          ]
+        },
+        {
+          "h": "How the New Testament reads Isaiah 53",
+          "p": [
+            "The apostles saw Jesus in Isaiah 53. Philip explains Isaiah 53:7–8 to the Ethiopian official, quoted in its Greek form (Acts 8:32–35). Peter weaves 53:4–9 into his words on Christ’s suffering (1 Peter 2:22–25). Matthew applies 53:4 to Jesus’ healings, in wording closer to the Hebrew (Matthew 8:17).",
+            "So the NT writers used both Greek and Hebrew forms of Isaiah, choosing the wording that best served their teaching."
+          ]
+        },
+        {
+          "h": "Why it matters",
+          "p": [
+            "The Greek and Aramaic readings do not settle what the Hebrew means, and the Hebrew “crush” must be taken seriously. But they show that early Jewish readers heard this passage in terms of cleansing and purification, not only of punishment.",
+            "That fits a wider biblical theme taught elsewhere in this app: sacrifice is about cleansing and restoring (Leviticus 16:30; Hebrews 9:14) rather than appeasing an angry God. Read gently, Isaiah 53 holds both: the servant truly suffers, and through it many are made clean and righteous (53:11)."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "interlinear",
+          "title": "Isaiah 53:10 in Hebrew, word by word",
+          "lang": "he",
+          "words": [
+            {"w": "וַיהוָה", "g": "yet the LORD"},
+            {"w": "חָפֵץ", "g": "willed / was pleased"},
+            {"w": "דַּכְּאוֹ", "g": "to crush him"},
+            {"w": "הֶחֱלִי", "g": "he made (him) sick"},
+            {"w": "אִם־", "g": "if / when"},
+            {"w": "תָּשִׂים", "g": "you make / she makes"},
+            {"w": "אָשָׁם", "g": "guilt offering"},
+            {"w": "נַפְשׁוֹ", "g": "his soul"},
+            {"w": "יִרְאֶה", "g": "he will see"},
+            {"w": "זֶרַע", "g": "offspring (seed)"},
+            {"w": "יַאֲרִיךְ", "g": "he will prolong"},
+            {"w": "יָמִים", "g": "days"},
+            {"w": "וְחֵפֶץ", "g": "and the will of"},
+            {"w": "יְהוָה", "g": "the LORD"},
+            {"w": "בְּיָדוֹ", "g": "in his hand"},
+            {"w": "יִצְלָח", "g": "will prosper"}
+          ],
+          "readings": [
+            {"label": "Hebrew MT (literal)", "text": "Yet the LORD willed **to crush** him; he made him sick; if his soul makes a **guilt offering**, he will see offspring, he will prolong days…", "note": "The standard Hebrew text."},
+            {"label": "Septuagint (Greek)", "text": "And the Lord wishes **to cleanse** him from the blow; if **you** give an offering for sin, your soul will see long-lived offspring…", "note": "καὶ κύριος βούλεται καθαρίσαι αὐτὸν ἀπὸ τῆς πληγῆς"},
+            {"label": "Targum (Aramaic, paraphrase)", "text": "It was the LORD’s will **to refine and purify** the remnant of his people… they will see the kingdom of their Messiah…", "note": "Wording approximate; the Targum paraphrases freely."},
+            {"label": "KJV (1611)", "text": "Yet it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed…", "note": "Takes תָּשִׂים as “you make”."},
+            {"label": "NIV", "text": "Yet it was the LORD’s will to crush him and cause him to suffer, and though the LORD makes his life an offering for sin, he will see his offspring…", "note": "Takes the LORD as the one who makes the offering."}
+          ],
+          "note": "Hebrew is shown in reading order (right to left in the original).",
+          "after": 0
+        },
+        {
+          "type": "table",
+          "title": "Isaiah 53:10–11 in the ancient witnesses",
+          "cols": ["", "Hebrew MT", "Septuagint", "1QIsaᵃ", "Targum", "English (KJV/NIV)"],
+          "rows": [
+            {"h": "Language", "cells": ["Hebrew", "Greek", "Hebrew", "Aramaic", "English"]},
+            {"h": "Date of copy/form", "cells": ["Codices c. AD 930 / 1008", "Translated c. 2nd c. BC", "c. 125 BC", "Early centuries AD (older traditions)", "1611 / 1978"]},
+            {"h": "God’s will (53:10)", "cells": ["to crush him", "to cleanse him", "to crush him (close to MT)", "to refine and purify", "bruise / crush"]},
+            {"h": "The offering", "cells": ["asham, guilt offering", "“for sin”", "guilt offering", "paraphrased", "offering for sin"]},
+            {"h": "Who offers?", "cells": ["you / his soul", "you (plural)", "as MT", "paraphrased", "thou / the LORD"]},
+            {"h": "“Light” (53:11)", "cells": ["absent", "“to show him light”", "“he will see light”", "paraphrased", "KJV absent; NIV “light of life”"]}
+          ],
+          "note": "Simplified; the scroll has small spelling differences in 53:10.",
+          "after": 2
+        },
+        {
+          "type": "flow",
+          "title": "How a variant reading arises",
+          "steps": [
+            {"t": "A hard Hebrew text", "d": "Rare words and unclear grammar, as in Isaiah 53:10."},
+            {"t": "The translator’s copy", "d": "His Hebrew manuscript (Vorlage) may differ slightly from later ones."},
+            {"t": "Reading the letters", "d": "Unpointed letters (no vowels) can be read in more than one way."},
+            {"t": "Interpreting the meaning", "d": "Knowledge of Aramaic and current beliefs shape the choice."},
+            {"t": "A new form of the verse", "d": "The translation is copied and read for centuries, alongside the Hebrew."}
+          ],
+          "after": 3
+        },
+        {
+          "type": "timeline",
+          "title": "How Isaiah 53 reached us",
+          "events": [
+            {"when": "8th c. BC", "t": "Isaiah’s ministry", "d": "Isaiah prophesies in Jerusalem (many scholars date chapters 40–66 later; debated)."},
+            {"when": "c. 2nd c. BC", "t": "Septuagint of Isaiah", "d": "Isaiah translated into Greek, probably in Alexandria."},
+            {"when": "c. 125 BC", "t": "Great Isaiah Scroll (1QIsaᵃ)", "d": "Complete Isaiah copied; found at Qumran in 1947."},
+            {"when": "AD 30–100", "t": "New Testament", "d": "Isaiah 53 applied to Jesus (Acts 8; 1 Peter 2; Matthew 8)."},
+            {"when": "Early centuries AD", "t": "Targum of Isaiah", "d": "Aramaic paraphrase takes shape from older synagogue tradition."},
+            {"when": "7th–10th c. AD", "t": "The Masoretes", "d": "Scholars add vowels and notes to fix the reading of the Hebrew."},
+            {"when": "c. AD 930 / 1008", "t": "Aleppo and Leningrad Codices", "d": "The great complete Masoretic manuscripts."}
+          ],
+          "after": 4
+        }
+      ],
+      "verses": [
+        {"ref": "Isaiah 53:10", "text": "Yet it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed."},
+        {"ref": "Isaiah 53:5", "text": "He was wounded for our transgressions, he was bruised for our iniquities… and with his stripes we are healed."},
+        {"ref": "Isaiah 53:11", "text": "He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many."},
+        {"ref": "Acts 8:35", "text": "Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus."},
+        {"ref": "1 Peter 2:24", "text": "Who his own self bare our sins in his own body on the tree… by whose stripes ye were healed."}
+      ],
+      "keyPoints": [
+        "The Hebrew of Isaiah 53:10 says the LORD willed “to crush” his servant; the Septuagint says “to cleanse him from the blow”.",
+        "One widely suggested explanation: the translator read the Hebrew in the light of an Aramaic root meaning “to be pure”.",
+        "The Targum speaks of refining and purifying and applies the passage to the Messiah and the people.",
+        "The Great Isaiah Scroll and the LXX add “light” in 53:11, showing that Hebrew copies once differed slightly.",
+        "Different copies, hard Hebrew and interpretation explain the differences — not tampering."
+      ],
+      "reflect": [
+        "How does it help you to know that early readers heard Isaiah 53 in terms of cleansing as well as suffering?",
+        "Philip began “at the same scripture” and preached Jesus. How would you explain Isaiah 53 to someone today?"
+      ],
+      "quiz": [
+        {"q": "What does the Septuagint say in Isaiah 53:10 where the Hebrew says “to crush him”?", "options": ["To exalt him", "To cleanse him from the blow", "To abandon him", "To bless him"], "a": 1, "why": "The LXX reads καθαρίσαι αὐτὸν ἀπὸ τῆς πληγῆς, “to cleanse him from the blow”."},
+        {"q": "Which word is found in 1QIsaᵃ and the LXX of Isaiah 53:11 but not in the MT?", "options": ["Offspring", "Days", "Sin", "Light"], "a": 3, "why": "Both read “he will see light” (LXX: “to show him light”)."},
+        {"q": "Why can תָּשִׂים be translated in two ways?", "options": ["It can mean “you make” or “she (his soul) makes”", "It is a Greek word", "It was added by the Masoretes", "It means both “light” and “dark”"], "a": 0, "why": "The same Hebrew form serves for “you” (masc.) and “she”; nefesh (soul) is feminine."},
+        {"q": "Which is NOT a reason ancient texts of Isaiah differ?", "options": ["Different Hebrew copies", "Hard Hebrew wording", "Deliberate tampering by the church", "Translators’ interpretation"], "a": 2, "why": "The differences come from copies, difficulty and interpretation — the normal history of a text."}
+      ],
+      "terms": [
+        {"term": "Masoretic Text (MT)", "def": "The standard Hebrew text, fixed with vowels by the Masoretes (7th–10th c. AD)."},
+        {"term": "Septuagint (LXX)", "def": "The ancient Greek translation of the Hebrew Scriptures."},
+        {"term": "Targum", "def": "An Aramaic translation-paraphrase read in the synagogue."},
+        {"term": "1QIsaᵃ", "def": "The Great Isaiah Scroll from Qumran Cave 1, about 125 BC."},
+        {"term": "Vorlage", "def": "The source copy a translator worked from."},
+        {"term": "asham (אָשָׁם)", "def": "The “guilt offering” of Leviticus 5; used in Isaiah 53:10."}
+      ],
+      "related": ["g-22", "g-12", "s-sacrifice", "t-septuagint"]
+    }
+  ],
+  "glossary": []
+}
