@@ -1,0 +1,318 @@
+{
+  "chapters": [
+    {
+      "id": "b-wedding", "book": "world", "order": 140, "num": 14,
+      "title": "Jewish Wedding Customs",
+      "subtitle": "From betrothal to the feast: the picture behind many Gospel scenes",
+      "nutshell": "A Jewish wedding in Jesus' day came in two stages: a legally binding betrothal, then, often about a year later, the groom came to bring his bride home for a week of feasting. Jesus and the apostles used this picture again and again, and the Bible as a whole describes God and his people as a husband and bride.",
+      "bigIdea": "Knowing how a Jewish wedding worked turns many Gospel sayings from puzzles into vivid pictures of God's love and faithfulness.",
+      "skeleton": [
+        "The match and the bride-price",
+        "Betrothal: already bound",
+        "The waiting year and the groom's preparations",
+        "The night procession and the canopy",
+        "Seven days of feasting",
+        "God and his people as bridegroom and bride"
+      ],
+      "sections": [
+        {"h": "Match, gifts and contract", "p": [
+          "Marriages were usually arranged by families (*shiddukhin*, the match). Abraham sends his servant to find a bride for Isaac (Gen 24). The groom's family paid a bride-price, the *mohar* (Gen 34:12; Ex 22:16–17), and gifts were given to the bride and her family (Gen 24:53).",
+          "A written marriage contract, the *ketubah*, protected the wife, especially if she was divorced or widowed. Its formal rabbinic form comes later, but the book of Tobit already mentions writing a marriage contract (Tobit 7:13)."
+        ]},
+        {"h": "Betrothal: already husband and wife", "p": [
+          "The first stage, betrothal (*erusin* or *kiddushin*, \"setting apart\"), was far stronger than a modern engagement. The couple were legally bound and called husband and wife, though they did not yet live together. Ending it needed a divorce. That is why Joseph, betrothed to Mary, planned to \"divorce her quietly\" (Matt 1:18–19).",
+          "Then came a waiting period, often about a year for a young bride (Mishnah Ketubot 5:2 gives twelve months to prepare). The groom prepared a home, often a room added to his father's house. Many readers see an echo of this in Jesus' words, \"I go to prepare a place for you… I will come again and take you to myself\" (John 14:2–3)."
+        ]},
+        {"h": "The procession, the canopy and the feast", "p": [
+          "On the wedding day the groom, with his friends, came to fetch the bride, often in the evening. Lamps and torches lit a joyful procession back to his home (Matt 25:1–13). The \"friend of the bridegroom\" (*shoshbin* in later Jewish sources) helped arrange everything and rejoiced at the groom's voice (John 3:29).",
+          "The bride, veiled (Gen 24:65), entered the bridal chamber or canopy, the *chuppah* (Ps 19:5; Joel 2:16). Feasting lasted seven days (Gen 29:27; Judg 14:12), with plenty of wine; running out was a real shame (John 2:1–11). Guests were expected to come properly dressed (Matt 22:11–12). Some customs familiar today, such as the seven blessings (*sheva berakhot*) recorded in the Talmud and breaking a glass (widespread from the Middle Ages), are later developments."
+        ]},
+        {"h": "When marriage broke down", "p": [
+          "The Torah allowed a man to give his wife a certificate of divorce, the *get* (Deut 24:1). In Jesus' day the schools of Shammai and Hillel argued about the words \"something indecent\": Shammai allowed divorce only for sexual unfaithfulness; Hillel allowed it for almost any reason (Mishnah Gittin 9:10). The Pharisees' question \"for any cause?\" (Matt 19:3–9) steps right into this debate.",
+          "Levirate marriage protected a childless widow: her husband's brother married her to carry on the dead man's name (Deut 25:5–10). Ruth's story shows a related custom, and the Sadducees used the law in their trick question about the resurrection (Matt 22:24)."
+        ]},
+        {"h": "The great wedding: God and his people", "p": [
+          "The prophets picture God as Israel's husband: \"I will betroth you to me forever… in faithfulness\" (Hos 2:19–20); \"I remember… your love as a bride\" (Jer 2:2); \"as the bridegroom rejoices over the bride, so shall your God rejoice over you\" (Isa 62:5). Rabbinic tradition even pictures the giving of the Torah at Sinai as a wedding day (for example, Mishnah Taanit 4:8 reads Song 3:11 this way).",
+          "The New Testament continues the picture: Christ loves the church as a husband loves his bride (Eph 5:25–32), and history ends with \"the marriage supper of the Lamb\" and the holy city \"prepared as a bride adorned for her husband\" (Rev 19:7–9; 21:2). The waiting, the preparing and the joyful arrival all speak of hope."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "flow", "title": "The stages of a Jewish wedding", "after": 1, "steps": [
+          {"t": "Match (shiddukhin)", "d": "Families agree; bride-price (mohar) and gifts (Gen 24; 34:12)."},
+          {"t": "Contract (ketubah)", "d": "The husband's duties written down to protect the wife (Tobit 7:13)."},
+          {"t": "Betrothal (erusin / kiddushin)", "d": "Legally married; ending it needs a divorce (Matt 1:18–19)."},
+          {"t": "Waiting and preparing", "d": "About a year; the groom prepares a home (John 14:2–3 — an echo many see)."},
+          {"t": "Night procession", "d": "The groom comes with friends; lamps light the way (Matt 25:1–13)."},
+          {"t": "Canopy (chuppah)", "d": "The veiled bride is brought into the bridal chamber (Ps 19:5; Joel 2:16)."},
+          {"t": "Seven-day feast", "d": "Food, wine and joy for a week (Gen 29:27; John 2:1–11)."}
+        ]},
+        {"type": "timeline", "title": "The year from betrothal to the feast", "after": 1, "events": [
+          {"when": "Day of betrothal", "t": "Kiddushin", "d": "A gift or document before witnesses; the couple are now legally bound."},
+          {"when": "The waiting months", "t": "Living apart", "d": "The bride stays with her family; unfaithfulness counts as adultery (Deut 22:23–24)."},
+          {"when": "During the year", "t": "Preparing", "d": "The bride prepares her clothes and household goods; the groom prepares a home (Mishnah Ketubot 5:2)."},
+          {"when": "Wedding evening", "t": "The groom comes", "d": "Often at night, with shouting and lamps: \"Here is the bridegroom!\" (Matt 25:6)."},
+          {"when": "Days 1–7", "t": "The feast", "d": "Seven days of celebration (Judg 14:12); the guests rejoice with the groom (Mark 2:19)."}
+        ]},
+        {"type": "cards", "title": "Six New Testament scenes explained by wedding customs", "after": 2, "cards": [
+          {"t": "Joseph's dilemma", "front": "Why \"divorce\" a woman he had not married yet?", "back": "Betrothal was legal marriage. Joseph could only end it with a divorce. He chose to do it quietly to spare Mary public shame, until the angel spoke.", "source": "Betrothal law; Deut 22:23–24", "echo": "Matt 1:18–25"},
+          {"t": "Water into wine", "front": "Why did running out of wine matter so much?", "back": "Hospitality and honour were at stake for a whole week of feasting. Jesus' first sign saves a family from shame and gives the best wine last.", "source": "Seven-day wedding feast", "echo": "John 2:1–11"},
+          {"t": "The friend of the bridegroom", "front": "John the Baptist calls himself the groom's friend.", "back": "The groom's friend arranged the wedding and brought the couple together, then stepped back with joy. John sees his role the same way: Jesus is the groom.", "source": "The shoshbin (later term)", "echo": "John 3:29–30"},
+          {"t": "No fasting at a wedding", "front": "Why don't Jesus' disciples fast?", "back": "Wedding guests were excused from fasting and sorrow while the feast lasted. Jesus says: while the bridegroom is with them, it is time to celebrate.", "source": "Wedding joy", "echo": "Mark 2:18–20"},
+          {"t": "The ten virgins", "front": "Why lamps, oil and a midnight arrival?", "back": "The bride's companions waited to join the groom's procession. Nobody knew exactly when he would come, so wise ones carried extra oil.", "source": "Night procession", "echo": "Matt 25:1–13"},
+          {"t": "The wedding garment", "front": "Why was a guest thrown out for his clothes?", "back": "Coming to a king's wedding feast in ordinary dirty clothes insulted the host. The guest had accepted the invitation but not its honour.", "source": "Wedding etiquette", "echo": "Matt 22:11–14"}
+        ]},
+        {"type": "compare", "title": "Ancient Jewish wedding vs modern Western wedding", "after": 4, "left": {"label": "Ancient Jewish wedding", "items": [
+          "Usually arranged by families",
+          "Betrothal = legal marriage",
+          "About a year between the two stages",
+          "Bride-price and written contract",
+          "The groom comes to fetch the bride",
+          "Feast lasts seven days"
+        ]}, "right": {"label": "Modern Western wedding", "items": [
+          "Usually chosen by the couple",
+          "Engagement is only a promise",
+          "Length of engagement varies",
+          "Gifts; contract rarely used",
+          "The bride walks to the groom",
+          "Reception lasts one day"
+        ]}}
+      ],
+      "verses": [
+        {"ref": "Hosea 2:19", "text": "I will betroth you to me forever; I will betroth you to me in righteousness and in justice, in steadfast love and in mercy."},
+        {"ref": "Isaiah 62:5", "text": "As the bridegroom rejoices over the bride, so shall your God rejoice over you."},
+        {"ref": "John 14:3", "text": "And if I go and prepare a place for you, I will come again and will take you to myself."},
+        {"ref": "Revelation 19:9", "text": "Blessed are those who are invited to the marriage supper of the Lamb."}
+      ],
+      "keyPoints": [
+        "A Jewish wedding had two stages: betrothal (legally binding) and the wedding itself, often about a year later.",
+        "Joseph needed a \"divorce\" because betrothal was already marriage.",
+        "The groom came, often at night, with friends and lamps to bring his bride home for a seven-day feast.",
+        "Some customs (seven blessings, breaking the glass) are later; the core stages are biblical.",
+        "Scripture uses the wedding to picture God's faithful love for his people and the hope of Christ's return."
+      ],
+      "reflect": [
+        "Betrothal meant being fully committed while still waiting. How does that picture your life with Christ now?",
+        "Which wedding image (the waiting bride, the coming groom, the feast) speaks most to you, and why?"
+      ],
+      "quiz": [
+        {"q": "Why did Joseph plan to \"divorce\" Mary?", "options": ["They were already living together", "Betrothal was a legally binding marriage", "Roman law required it", "Her family demanded it"], "a": 1, "why": "Betrothal (kiddushin) was legal marriage, so only a divorce could end it (Matt 1:18–19)."},
+        {"q": "How long did a wedding feast usually last?", "options": ["One evening", "Three days", "Seven days", "Forty days"], "a": 2, "why": "Seven days of feasting appear in Gen 29:27 and Judg 14:12."},
+        {"q": "What is the chuppah?", "options": ["The wedding canopy or bridal chamber", "The bride-price", "The divorce certificate", "The groom's friend"], "a": 0, "why": "Ps 19:5 and Joel 2:16 use this word for the groom's and bride's chamber."},
+        {"q": "Which custom is clearly a later (medieval) development?", "options": ["Betrothal", "The night procession", "The bride-price", "Breaking a glass"], "a": 3, "why": "Breaking a glass became widespread in the Middle Ages; the other customs appear in the Bible."}
+      ],
+      "terms": [
+        {"term": "Kiddushin / erusin", "def": "Betrothal: the first, legally binding stage of marriage."},
+        {"term": "Mohar", "def": "The bride-price paid by the groom's family (Gen 34:12)."},
+        {"term": "Ketubah", "def": "The marriage contract setting out the husband's duties to his wife."},
+        {"term": "Chuppah", "def": "The wedding canopy or bridal chamber (Ps 19:5)."},
+        {"term": "Get", "def": "A certificate of divorce (Deut 24:1)."},
+        {"term": "Levirate marriage", "def": "A brother marrying his dead brother's childless widow (Deut 25:5–10)."}
+      ],
+      "related": ["b-life", "b-lifecycle", "s-love", "w-brit"]
+    },
+    {
+      "id": "b-parables", "book": "world", "order": 150, "num": 15,
+      "title": "How Parables Work: The Jewish Mashal",
+      "subtitle": "Picture, twist, verdict: Jesus taught in a well-known Jewish way",
+      "nutshell": "Jesus' parables belong to a Jewish tradition called the mashal: a short comparison or story that makes the listener pass judgement and then turns the judgement back on them. Old Testament prophets used it, later rabbis used it widely, and Jesus used it with surprising power.",
+      "bigIdea": "A parable is not a nice illustration but an invitation and a challenge: it draws you in and asks where you stand.",
+      "skeleton": [
+        "Mashal and nimshal",
+        "Old Testament parables",
+        "Rabbinic king parables",
+        "Why Jesus taught in parables",
+        "How to read a parable"
+      ],
+      "sections": [
+        {"h": "Mashal: comparison, proverb, riddle, story", "p": [
+          "The Hebrew word *mashal* means a comparison. It covers proverbs (the book of Proverbs is *Mishlei*), riddles, taunts and stories. Psalm 78:2 says, \"I will open my mouth in a parable\", and Matthew sees Jesus' teaching as fulfilling it (Matt 13:34–35).",
+          "The Greek Bible (Septuagint) usually translates *mashal* with *parabolē*, \"something thrown alongside\": a picture placed next to a truth so that we see the truth more clearly. In rabbinic teaching the story (*mashal*) is often followed by its application (*nimshal*): \"So it is with…\"."
+        ]},
+        {"h": "Parables in the Old Testament", "p": [
+          "The most famous is Nathan's story to King David (2 Sam 12:1–7): a rich man steals a poor man's only lamb. David angrily judges the rich man, and Nathan says, \"You are the man!\" The listener has already passed sentence on himself.",
+          "Jotham's fable (Judg 9:7–15) has trees looking for a king: the useful trees refuse, and only the thornbush accepts. It warns Shechem about Abimelech. Isaiah's vineyard song (Isa 5:1–7) works the same way."
+        ]},
+        {"h": "Rabbinic king parables", "p": [
+          "Later rabbinic collections contain hundreds of parables, many beginning \"It is like a king who…\". The king stands for God; his son, servants, friends or a banquet carry the point. These are written down after the New Testament, so they show a shared Jewish way of teaching rather than direct borrowing either way.",
+          "One is attributed to Yochanan ben Zakkai (Talmud Shabbat 153a): a king invited his servants to a banquet without fixing the hour. The wise dressed and waited; the foolish carried on working and came in dirty clothes. Compare Matt 22:1–14 and 25:1–13. Another (Sifre on Deuteronomy, on 32:9, often cited) tells of a king who leased his field to tenants who robbed him, until his son grew up and received it. Compare the wicked tenants (Mark 12:1–12)."
+        ]},
+        {"h": "Why did Jesus teach in parables?", "p": [
+          "In Mark 4:10–12 Jesus quotes Isaiah 6:9–10: to outsiders everything comes in parables, \"so that they may indeed see but not perceive\". This sounds harsh. Isaiah's words describe what his preaching would expose: a people already hardening. Parables work the same way: to the open-hearted they reveal; to those who refuse, the story stays only a story.",
+          "Matthew puts it as \"because seeing they do not see\" (Matt 13:13). Jesus still explains to anyone who asks (Mark 4:34), and \"he who has ears to hear, let him hear\" is an invitation, not a closed door."
+        ]},
+        {"h": "How to read a parable", "p": [
+          "Look for the main point rather than a meaning for every detail; some parables do contain allegory, but not every object stands for something. Watch for the twist or shock ending: the hero is a Samaritan, the workers hired last are paid first, the father runs.",
+          "Notice how the story makes you the judge (\"Which of these was a neighbour?\" Luke 10:36), and then ask how the verdict applies to you. Often the parable ends open: will the older brother go in? The answer is left to the listener."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "flow", "title": "How a parable works", "after": 0, "steps": [
+          {"t": "Picture", "d": "An everyday scene: a farmer, a lost coin, a wedding, a king."},
+          {"t": "Twist", "d": "Something surprising: an unexpected hero, a shocking reward, an extravagant act."},
+          {"t": "Listener's verdict", "d": "You are drawn in to judge: \"That man deserves to die!\" (2 Sam 12:5)."},
+          {"t": "Application (nimshal)", "d": "The verdict turns back on you: \"You are the man!\""},
+          {"t": "Response", "d": "An invitation to repent, trust and act: \"Go and do likewise\" (Luke 10:37)."}
+        ]},
+        {"type": "table", "title": "Old Testament and rabbinic examples", "after": 2, "cols": ["", "Source", "The story", "The point"], "rows": [
+          {"h": "Nathan's ewe lamb", "cells": ["2 Sam 12:1–7", "Rich man takes poor man's only lamb", "David judges himself"]},
+          {"h": "Jotham's trees", "cells": ["Judg 9:7–15", "Only the thornbush agrees to be king", "Warning against Abimelech"]},
+          {"h": "The vineyard song", "cells": ["Isa 5:1–7", "Loved vineyard yields wild grapes", "Israel's failure to bear justice"]},
+          {"h": "The wise woman of Tekoa", "cells": ["2 Sam 14:1–20", "A widow's two sons", "Bring Absalom home"]},
+          {"h": "The king's banquet", "cells": ["Talmud Shabbat 153a", "Guests ready or in dirty clothes", "Be ready to meet God"]},
+          {"h": "The king's field", "cells": ["Sifre Deut (on 32:9)", "Tenants rob; the son inherits", "Israel as God's portion"]}
+        ]},
+        {"type": "compare", "title": "Rabbinic king parable vs Jesus' parable", "after": 2, "left": {"label": "Rabbinic king parable", "items": [
+          "Opens \"It is like a king who…\"",
+          "Everyday or royal scene",
+          "Usually followed by a nimshal",
+          "Mostly explains a verse of Torah",
+          "Centre: God and Israel, the Torah",
+          "Written down later (c. AD 200–600)"
+        ]}, "right": {"label": "Jesus' parable", "items": [
+          "Opens \"The kingdom of God is like…\"",
+          "Everyday or royal scene",
+          "Sometimes explained, often left open",
+          "Mostly announces God's kingdom",
+          "Centre: God's reign arriving in Jesus",
+          "Told c. AD 30, written in the Gospels"
+        ]}},
+        {"type": "tree", "title": "Kinds of parable", "after": 4, "root": "Mashal / parabolē", "branches": [
+          {"t": "Proverb / saying", "children": ["\"Physician, heal yourself\" (Luke 4:23)", "Salt and light (Matt 5:13–14)"]},
+          {"t": "Similitude", "children": ["A typical event: mustard seed, leaven", "\"The kingdom is like…\""]},
+          {"t": "Story parable", "children": ["A one-off story: the lost son", "The wedding banquet"]},
+          {"t": "Example story", "children": ["A model to follow or avoid", "Good Samaritan; rich fool"]},
+          {"t": "Allegory", "children": ["Several details carry meaning", "The sower explained (Mark 4:13–20)"]}
+        ]}
+      ],
+      "verses": [
+        {"ref": "Psalm 78:2", "text": "I will open my mouth in a parable; I will utter dark sayings from of old."},
+        {"ref": "2 Samuel 12:7", "text": "Nathan said to David, \"You are the man!\""},
+        {"ref": "Mark 4:33–34", "text": "With many such parables he spoke the word to them, as they were able to hear it… privately to his own disciples he explained everything."},
+        {"ref": "Luke 10:36–37", "text": "\"Which of these three, do you think, proved to be a neighbour?\"… \"You go, and do likewise.\""}
+      ],
+      "keyPoints": [
+        "Mashal is a broad Hebrew word for comparison, proverb, riddle and story; Greek parabolē translates it.",
+        "Old Testament prophets used parables to make listeners judge themselves (Nathan, Jotham, Isaiah).",
+        "Rabbis later told many \"king parables\"; they share Jesus' form but centre on Torah and Israel.",
+        "Parables reveal to the open and hide from the hardened (Mark 4:10–12; Isa 6:9–10).",
+        "Read for the main point, the twist and the verdict, then ask how it applies to you."
+      ],
+      "reflect": [
+        "Which parable has turned the verdict back on you, like Nathan's \"You are the man\"?",
+        "Do you come to Jesus' parables asking what they mean, or also what they ask of you?"
+      ],
+      "quiz": [
+        {"q": "What does nimshal mean?", "options": ["A king", "The application of a parable", "A riddle", "A banquet"], "a": 1, "why": "The mashal is the story; the nimshal applies it: \"So it is with…\"."},
+        {"q": "Which Old Testament parable made a king condemn himself?", "options": ["Jotham's trees", "Isaiah's vineyard", "Nathan's ewe lamb", "Ezekiel's eagles"], "a": 2, "why": "David judged the rich man, and Nathan said, \"You are the man!\" (2 Sam 12:7)."},
+        {"q": "What does Greek parabolē literally suggest?", "options": ["Something thrown alongside", "A hidden secret", "A long speech", "A holy story"], "a": 0, "why": "Para = beside, bolē = throw: a picture placed next to a truth."},
+        {"q": "Which Old Testament passage does Jesus quote in Mark 4:12?", "options": ["Psalm 23", "Genesis 1", "Daniel 7", "Isaiah 6:9–10"], "a": 3, "why": "Isaiah's call speaks of seeing but not perceiving, hearing but not understanding."}
+      ],
+      "terms": [
+        {"term": "Mashal", "def": "Hebrew: comparison, proverb, riddle or parable."},
+        {"term": "Nimshal", "def": "The application that follows a mashal."},
+        {"term": "Parabolē", "def": "Greek \"thrown alongside\"; the Septuagint's word for mashal."},
+        {"term": "King parable", "def": "A rabbinic parable in which a king stands for God."},
+        {"term": "Allegory", "def": "A story in which many details stand for something else."}
+      ],
+      "related": ["b-preaching", "b-midrash", "s-teach", "s-kingdom"]
+    },
+    {
+      "id": "b-parables-2", "book": "world", "order": 160, "num": 16,
+      "title": "Jesus' Parables in Their World",
+      "subtitle": "Sixteen parables and the cultural detail that changes how they read",
+      "nutshell": "Jesus' first hearers knew farming, village honour, money, Temple life and wedding customs from daily life. When we recover those details, familiar parables regain their surprise, humour and challenge.",
+      "bigIdea": "The cultural background is not decoration: it often carries the very twist that makes the parable work.",
+      "skeleton": [
+        "Farm, field and kitchen",
+        "Honour, shame and the village",
+        "Money, debts and wages",
+        "Roads, Temple and the world to come"
+      ],
+      "sections": [
+        {"h": "Farm, field and kitchen", "p": [
+          "Galilee's soil is full of rock, paths cross the fields and thorns grow fast; a farmer scattered seed widely and expected losses. Mustard was a fast-spreading garden plant, not a majestic tree, and leaven was usually a picture of corruption. Jesus chose humble, even surprising images for God's kingdom."
+        ]},
+        {"h": "Honour, shame and the village", "p": [
+          "Village life ran on honour. A host had to feed a midnight guest, even if it meant waking a neighbour. A dignified father did not run, yet in Luke 15 he does. A Samaritan was the last person a Jewish listener expected as the hero. The shock is part of the message."
+        ]},
+        {"h": "Money, debts and wages", "p": [
+          "A denarius was a day's wage for a labourer (Matt 20:2). A talent was a vast sum, roughly 15–20 years of such wages. Many parables use money to show God's grace and our accountability: debts cancelled, wages given generously, gifts that must be used."
+        ]},
+        {"h": "Roads, Temple and the world to come", "p": [
+          "The steep, lonely road from Jerusalem down to Jericho, the hours of prayer at the Temple, and Jewish pictures of the afterlife (Abraham's side, Hades) all shape what the first hearers pictured. The details are real; the point is always about God and how we respond to him."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "cards", "title": "Parables of field, feast and kingdom", "after": 0, "cards": [
+          {"t": "The sower (Mark 4:3–8)", "front": "Why sow on paths and rocks?", "back": "Some ancient sources suggest seed was sown first and ploughed in afterwards, so the paths might later be ploughed up (this is debated). Galilee's thin soil over limestone explains the rocky ground. A harvest of thirty to a hundredfold was remarkable (Gen 26:12).", "source": "Galilean farming", "echo": "God's word bears huge fruit despite losses."},
+          {"t": "The mustard seed (Mark 4:30–32)", "front": "Why a mustard \"tree\"?", "back": "Mustard was a fast-spreading plant that grows into a large bush, not a cedar. Prophets used the great cedar for kingdoms (Ezek 17:22–24). Jesus pictures God's kingdom as small, humble and unstoppable.", "source": "Plants of Galilee", "echo": "Small beginnings, great ending."},
+          {"t": "The leaven (Matt 13:33)", "front": "A woman hides leaven in three measures of flour.", "back": "Leaven usually stood for corruption (1 Cor 5:6–8), so the image is surprising. Three seahs is roughly 25–40 litres of flour, bread for over a hundred people, the amount Sarah baked for guests (Gen 18:6).", "source": "Bread-making; Passover leaven", "echo": "The hidden kingdom transforms everything."},
+          {"t": "Treasure and pearl (Matt 13:44–46)", "front": "Why was treasure hidden in a field?", "back": "In a land of wars and no banks, people buried valuables in the ground. A finder who bought the field gained what was in it. Both men give everything for something worth more.", "source": "Buried hoards", "echo": "The kingdom is worth all you have."},
+          {"t": "The wicked tenants (Mark 12:1–12)", "front": "Who were these tenants?", "back": "Much Galilean land belonged to absentee landlords who leased it to tenant farmers. Jesus begins with the words of Isaiah's vineyard song (Isa 5:1–2), so the leaders knew he meant them. The son sent last is killed.", "source": "Land-leasing; Isa 5", "echo": "Israel's leaders and the beloved Son."},
+          {"t": "The ten virgins (Matt 25:1–13)", "front": "Why did they need extra oil?", "back": "The bride's companions waited to escort the groom's night procession with lamps or torches. The groom's arrival time was uncertain; small lamps burned out. The foolish were not ready when he came.", "source": "Wedding procession", "echo": "Be ready for the coming of the Son of Man."},
+          {"t": "The wedding banquet (Matt 22:1–14)", "front": "Why did the guests get two invitations?", "back": "A first invitation went out early; a second call announced that the feast was ready (compare Esther 5:8; 6:14). Refusing the second call after accepting the first was a deep insult. Guests were also expected to come properly dressed.", "source": "Double invitation; wedding etiquette", "echo": "God's invitation and the right response."},
+          {"t": "The talents (Matt 25:14–30)", "front": "How much was a talent?", "back": "A talent was about 6,000 denarii, roughly 15–20 years of a labourer's wages (estimates vary). Even the servant with one talent held a fortune. Burying money was considered a safe way to protect a deposit.", "source": "Ancient money", "echo": "Use generously what God has entrusted to you."}
+        ]},
+        {"type": "cards", "title": "Parables of grace, honour and money", "after": 2, "cards": [
+          {"t": "Lost sheep, coin, son (Luke 15)", "front": "Why would a father run?", "back": "A shepherd who lost a sheep bore the shame; the woman's coin may have been part of her dowry or savings (a common suggestion). A respected older man running in public lost dignity, yet the father runs to reach his son first.", "source": "Village honour and shame", "echo": "God seeks the lost and takes the shame himself."},
+          {"t": "The good Samaritan (Luke 10:30–37)", "front": "Why a priest, a Levite and a Samaritan?", "back": "The road drops about 1,000 m over some 25 km through lonely, robber-infested country. The priest and Levite may have feared corpse impurity. Jews and Samaritans were bitter enemies, yet the Samaritan shows mercy.", "source": "The Jericho road; purity laws", "echo": "Who proved to be a neighbour?"},
+          {"t": "Workers in the vineyard (Matt 20:1–16)", "front": "Why did everyone get a denarius?", "back": "A denarius was a fair day's wage, and the Torah required paying labourers before sunset (Deut 24:15). Day labourers lived hand to mouth; an hour's pay could not feed a family. The owner is generous, not unjust.", "source": "Daily wages", "echo": "The last will be first."},
+          {"t": "The rich man and Lazarus (Luke 16:19–31)", "front": "What is \"Abraham's side\"?", "back": "Jesus uses Jewish pictures of the afterlife: the righteous resting beside Abraham as at a banquet, the wicked in Hades, a great gulf between. Some Jewish texts also describe separate places for the dead (1 Enoch 22).", "source": "Jewish afterlife imagery", "echo": "Listen to Moses and the Prophets now."},
+          {"t": "The shrewd manager (Luke 16:1–9)", "front": "Why cut the debts?", "back": "Debts were often recorded in oil and wheat. Some suggest the manager removed his own commission or hidden interest, which the Torah forbade (Deut 23:19), so he won friends at no legal loss. The details are debated.", "source": "Debts and interest", "echo": "Use wealth wisely for the age to come."},
+          {"t": "The persistent widow (Luke 18:1–8)", "front": "Why a widow and a judge?", "back": "Widows had no husband to defend them, and the Torah charged judges to protect them (Ex 22:22; Deut 10:18). This judge cares for no one. If even he gives in, how much more will God answer.", "source": "Judges and widows", "echo": "Always pray and do not lose heart."},
+          {"t": "Pharisee and tax collector (Luke 18:9–14)", "front": "Why both at the Temple to pray?", "back": "Many gathered at the hours of prayer, linked to the daily offering (Acts 3:1). The tax collector's cry can be read \"make atonement for me\" (Greek hilasthēti), fitting that setting. He goes home justified.", "source": "Temple prayer times", "echo": "Whoever humbles himself will be exalted."},
+          {"t": "Friend at midnight (Luke 11:5–8)", "front": "Why wake a neighbour for bread?", "back": "A guest's arrival made the whole village's honour depend on the host's welcome. The sleeping neighbour gets up because of his friend's boldness or to avoid shame (the Greek word is debated).", "source": "Village hospitality", "echo": "Ask, seek, knock."}
+        ]},
+        {"type": "map", "title": "Places behind the parables", "after": 3, "places": [
+          {"id": "jerusalem", "d": "Starting point of the Samaritan story, about 750 m above sea level; the Temple where the Pharisee and tax collector prayed.", "refs": "Luke 10:30; 18:10"},
+          {"id": "bethany", "d": "On the Mount of Olives, at the start of the road down to Jericho.", "refs": "John 11:18"},
+          {"id": "jericho", "d": "About 250 m below sea level: the road drops roughly 1,000 m through desert hills.", "refs": "Luke 10:30"},
+          {"id": "capernaum", "d": "Jesus' base by the lake, among fishers and farmers.", "refs": "Mark 2:1"},
+          {"id": "magdala", "d": "A fishing town on the lakeshore; boats and nets appear in Jesus' sayings.", "refs": "Matt 13:47"},
+          {"id": "nazareth", "d": "A hill village of farmers and builders where Jesus grew up.", "refs": "Luke 4:16"},
+          {"id": "bethsaida", "d": "Fishing village near fields and pasture on the lake's north shore.", "refs": "Mark 8:22"}
+        ], "route": ["jerusalem", "bethany", "jericho"]},
+        {"type": "table", "title": "Money and measures in the parables (approximate)", "after": 3, "cols": ["", "What it was", "Rough value", "In the Gospels"], "rows": [
+          {"h": "Denarius", "cells": ["Roman silver coin", "A labourer's day wage", "Matt 20:2; Luke 10:35"]},
+          {"h": "Drachma", "cells": ["Greek silver coin", "About one denarius", "Luke 15:8"]},
+          {"h": "Mina", "cells": ["Unit of money", "100 drachmas, about four months' wages", "Luke 19:13"]},
+          {"h": "Talent", "cells": ["Large unit of silver", "About 6,000 denarii, 15–20 years' wages", "Matt 18:24; 25:15"]},
+          {"h": "Lepton", "cells": ["Smallest bronze coin", "About 1/128 of a denarius", "Mark 12:42"]},
+          {"h": "Seah (measure)", "cells": ["Dry measure of flour", "Roughly 7–13 litres (estimates vary)", "Matt 13:33"]}
+        ]}
+      ],
+      "verses": [
+        {"ref": "Matthew 13:33", "text": "The kingdom of heaven is like leaven that a woman took and hid in three measures of flour, till it was all leavened."},
+        {"ref": "Luke 15:20", "text": "While he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him."},
+        {"ref": "Luke 10:36", "text": "Which of these three, do you think, proved to be a neighbour to the man who fell among the robbers?"},
+        {"ref": "Matthew 20:15", "text": "Am I not allowed to do what I choose with what belongs to me? Or do you begrudge my generosity?"}
+      ],
+      "keyPoints": [
+        "Farming details (rocky soil, mustard, leaven) make Jesus' kingdom images humble and surprising.",
+        "Honour and shame explain the running father, the friend at midnight and the Samaritan hero.",
+        "A denarius was a day's wage; a talent was a fortune of roughly 15–20 years' wages.",
+        "Temple, wedding and afterlife imagery come straight from Jewish life.",
+        "The background often carries the twist; the point is always God and our response."
+      ],
+      "reflect": [
+        "Which parable read differently to you once you knew its background?",
+        "Where do you see yourself in Luke 15: the lost, the older brother or the seeking father?"
+      ],
+      "quiz": [
+        {"q": "Roughly how much was a talent worth?", "options": ["One day's wage", "About 15–20 years of a labourer's wages", "About a month's wages", "A single bronze coin"], "a": 1, "why": "A talent was about 6,000 denarii; estimates of years vary with working days."},
+        {"q": "Why might the father running in Luke 15 surprise first hearers?", "options": ["Running was forbidden on the Sabbath", "He was too sick to run", "A dignified older man running in public lost honour", "Fathers never met sons"], "a": 2, "why": "In an honour culture he gives up dignity to reach his son first."},
+        {"q": "Leaven in Scripture usually stands for…", "options": ["Corruption or sin", "Joy", "The Holy Spirit only", "Wealth"], "a": 0, "why": "Compare 1 Cor 5:6–8; Jesus' positive use is therefore surprising."},
+        {"q": "How far does the road from Jerusalem to Jericho descend?", "options": ["About 50 m", "About 200 m", "It climbs uphill", "About 1,000 m"], "a": 3, "why": "From about 750 m above sea level to about 250 m below."}
+      ],
+      "terms": [
+        {"term": "Denarius", "def": "Roman silver coin; a labourer's day wage."},
+        {"term": "Talent", "def": "A very large sum of money, about 6,000 denarii."},
+        {"term": "Seah", "def": "A dry measure; \"three measures\" of flour is a huge batch."},
+        {"term": "Abraham's side (bosom)", "def": "Jewish picture of the righteous dead resting with Abraham."},
+        {"term": "Honour and shame", "def": "The social values that shaped village life and many parable twists."}
+      ],
+      "related": ["b-parables", "b-life", "s-kingdom", "g-49"]
+    }
+  ],
+  "glossary": []
+}
