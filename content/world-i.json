@@ -1,0 +1,197 @@
+{
+  "chapters": [
+    {
+      "id": "b-festivals",
+      "book": "world",
+      "order": 240,
+      "num": 24,
+      "title": "The Festival Year: Timeline and Reasons",
+      "subtitle": "When each feast and fast falls, when it began, and why it is kept",
+      "nutshell": "Israel's year runs on a moon-and-sun calendar, and every feast and fast in it has reasons: the farming season, a memory from history, and a spiritual lesson. Some come straight from the Torah's 'appointed times'; others were added later by the Jewish people to remember victories and disasters.",
+      "bigIdea": "The Jewish year turns time itself into a teacher: each season retells what God has done and points to what he will do.",
+      "skeleton": [
+        "Months begin at the new moon; a leap month keeps the feasts in their seasons",
+        "The year has two beginnings: Nisan in spring and Tishri in autumn",
+        "Spring: Passover, the Omer count and Shavuot",
+        "Summer fasts mourn the fallen Temple; autumn brings Trumpets, Yom Kippur and Sukkot",
+        "Winter adds later feasts: Hanukkah, Tu BiShvat and Purim",
+        "Each day is kept for reasons of season, history and spiritual meaning"
+      ],
+      "sections": [
+        {
+          "h": "A year set by the moon and the sun",
+          "p": [
+            "Each Jewish month begins at the new moon, called Rosh Chodesh ('head of the month'). The Torah marks it with trumpets and offerings (Num 10:10; 28:11). Twelve moon-months are about eleven days shorter than a sun-year, so the festivals would slowly drift out of their seasons.",
+            "To stop that drift, a thirteenth month (a second Adar) is added about seven times in every nineteen years. In earlier times the court in Jerusalem decided this by watching the barley and the season; later the cycle was fixed by calculation. This is why Passover always falls in spring, but on a different Western date each year."
+          ]
+        },
+        {
+          "h": "Two beginnings and three kinds of reasons",
+          "p": [
+            "God told Moses that the month of the Exodus would be 'the beginning of months' (Ex 12:2). So the biblical count of months starts in spring with Nisan. But the year number changes in autumn, on Tishri 1, which the Mishnah calls the new year for years (Mishnah Rosh Hashanah 1:1). The year has two beginnings: one for redemption, one for creation and judgement.",
+            "Almost every festival is kept for three kinds of reasons at once. First, the farming season: barley, wheat, fruit and the autumn harvest. Second, history: the Exodus, the wilderness, the Temple's fall. Third, spiritual meaning: freedom, repentance, joy and trust. The table below shows all three side by side."
+          ]
+        },
+        {
+          "h": "Spring: Passover, the Omer and Shavuot",
+          "p": [
+            "Passover (Nisan 14–15) remembers the night God brought Israel out of Egypt, and the seven days of Unleavened Bread follow (Lev 23:5–8). It falls at the barley harvest. The first sheaf (the Omer) was waved before God, and from that day fifty days were counted (Lev 23:9–16). The exact starting day was debated: the Pharisees counted from Nisan 16, the Sadducees from a Sunday.",
+            "The count ends at Shavuot, the Feast of Weeks (Sivan 6), the wheat harvest. Because Israel reached Sinai in the third month (Ex 19:1), Jewish tradition later linked Shavuot with the giving of the Torah. The chapter 'The Feasts and Jesus' shows how Jesus fulfils these days; here the point is the order: freedom first, then the gift of God's word."
+          ]
+        },
+        {
+          "h": "Summer fasts and the autumn festivals",
+          "p": [
+            "In summer come two fasts of grief. The 17th of Tammuz recalls the walls of Jerusalem being broken through, and Tisha B'Av (Av 9) mourns the destruction of the First Temple (586 BC) and the Second (AD 70). Zechariah already knew fasts in the 4th, 5th, 7th and 10th months, and promised they would one day become feasts of joy (Zech 8:19).",
+            "Autumn opens with the trumpet blasts of Tishri 1 (Lev 23:24), now called Rosh Hashanah. Later tradition made the next ten days the Days of Awe, a time of repentance leading to Yom Kippur (Tishri 10), the Day of Atonement (Lev 16). Five days later Sukkot (Tishri 15–21) celebrates the final harvest while families live in booths, remembering the wilderness. Shemini Atzeret (Tishri 22) closes the season; Simchat Torah, a medieval addition, rejoices over finishing the yearly Torah reading."
+          ]
+        },
+        {
+          "h": "Winter: later feasts and fasts",
+          "p": [
+            "The winter days are not in Leviticus 23. Hanukkah (Kislev 25, eight days) remembers the rededication of the Temple in 164 BC after the Maccabees' victory (1 Macc 4:52–59); Jesus was in the Temple at this feast (John 10:22). The fast of 10 Tevet remembers the day Babylon began the siege of Jerusalem (2 Kings 25:1).",
+            "Tu BiShvat (Shevat 15) began as a date for counting the age of fruit trees for tithes (Mishnah Rosh Hashanah 1:1); eating fruits and planting trees are later customs. Purim (Adar 14) celebrates Esther's rescue of the Jews in Persia, with the reading of the scroll, gifts and great joy (Esther 9:20–28)."
+          ]
+        },
+        {
+          "h": "Biblical, later, and fasts",
+          "p": [
+            "Three groups help you read the calendar. The biblical 'appointed times' (*mo'adim*) of Leviticus 23: Sabbath, Passover, Unleavened Bread, Firstfruits, Shavuot, Trumpets, Yom Kippur, Sukkot and the eighth day, plus the new moons. Later Jewish feasts: Purim, Hanukkah, Tu BiShvat and Simchat Torah. And the fasts for the Temple, which grew out of real disasters.",
+            "Jesus lived inside this calendar. The Gospels date his words and deeds by it: Passover, Sukkot, Hanukkah and Sabbaths. Knowing why each day is kept helps you hear what he meant when he spoke on that day. The chapters 'The Jewish Year: Sabbath and Feasts' and 'The Feasts and Jesus' trace those links."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "timeline",
+          "title": "The year, month by month",
+          "note": "Hebrew dates are fixed; Western months are approximate because the calendar follows the moon. Days begin at sunset.",
+          "after": 0,
+          "events": [
+            {"when": "Every new moon", "t": "Rosh Chodesh", "d": "The new month begins; trumpets and offerings (Num 10:10; 28:11)."},
+            {"when": "Nisan 1 · Mar/Apr", "t": "New year of months", "d": "'This month shall be the beginning of months' (Ex 12:2)."},
+            {"when": "Nisan 14–15 · Mar/Apr", "t": "Passover", "d": "Lamb at twilight, meal at night: the Exodus remembered (Lev 23:5)."},
+            {"when": "Nisan 15–21 · Mar/Apr", "t": "Unleavened Bread", "d": "Seven days without leaven (Lev 23:6–8)."},
+            {"when": "From Nisan 16 · Mar/Apr", "t": "Firstfruits and the Omer count", "d": "First barley sheaf waved; fifty days counted (Lev 23:9–16)."},
+            {"when": "Sivan 6 · May/Jun", "t": "Shavuot (Weeks, Pentecost)", "d": "Wheat harvest; later linked with the giving of the Torah."},
+            {"when": "Tammuz 17 · Jun/Jul", "t": "Fast of 17 Tammuz", "d": "Jerusalem's walls breached; three weeks of mourning begin."},
+            {"when": "Av 9 · Jul/Aug", "t": "Tisha B'Av", "d": "Fast for both Temples destroyed (586 BC and AD 70)."},
+            {"when": "Tishri 1 · Sep/Oct", "t": "Rosh Hashanah (Trumpets)", "d": "Shofar blasts; new year for years (Lev 23:24)."},
+            {"when": "Tishri 1–10 · Sep/Oct", "t": "Ten Days of Awe", "d": "Later tradition: days of repentance before Yom Kippur."},
+            {"when": "Tishri 10 · Sep/Oct", "t": "Yom Kippur", "d": "Day of Atonement; a full fast (Lev 16; 23:27–32)."},
+            {"when": "Tishri 15–21 · Sep/Oct", "t": "Sukkot (Booths)", "d": "Final harvest; living in booths (Lev 23:34–43)."},
+            {"when": "Tishri 22 (–23) · Sep/Oct", "t": "Shemini Atzeret and Simchat Torah", "d": "The eighth day (Lev 23:36); later, joy over the Torah."},
+            {"when": "Kislev 25 · Nov/Dec", "t": "Hanukkah", "d": "Eight days of lights; Temple rededicated 164 BC (John 10:22)."},
+            {"when": "Tevet 10 · Dec/Jan", "t": "Fast of 10 Tevet", "d": "Babylon's siege of Jerusalem began (2 Kings 25:1)."},
+            {"when": "Shevat 15 · Jan/Feb", "t": "Tu BiShvat", "d": "New year for trees (Mishnah Rosh Hashanah 1:1)."},
+            {"when": "Adar 14 · Feb/Mar", "t": "Purim", "d": "Esther's deliverance; the scroll is read (Esther 9)."}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Why each festival is kept",
+          "note": "Most days carry all three kinds of reasons at once. Later Jewish additions are marked 'later'.",
+          "after": 1,
+          "cols": ["", "Season / farming", "History remembered", "Spiritual meaning", "Scripture"],
+          "rows": [
+            {"h": "Sabbath (weekly)", "cells": ["Rest for workers, animals and land", "Creation; freedom from slavery", "God is Lord of time; rest in him", "Gen 2:2–3; Ex 20:8–11; Deut 5:15"]},
+            {"h": "Rosh Chodesh", "cells": ["The moon sets the months", "—", "A fresh start each month", "Num 10:10; 28:11"]},
+            {"h": "Passover and Unleavened Bread", "cells": ["Spring; barley ripening", "The Exodus from Egypt", "Redemption by the lamb's blood; leaving sin", "Ex 12; Lev 23:5–8"]},
+            {"h": "Firstfruits and the Omer", "cells": ["First barley sheaf", "Arrival in the promised land", "The first belongs to God; counting toward Sinai", "Lev 23:9–16"]},
+            {"h": "Shavuot (Weeks)", "cells": ["Wheat harvest; two loaves", "Sinai (later tradition)", "Freedom leads to God's word", "Lev 23:15–21; Ex 19:1"]},
+            {"h": "17 Tammuz and Tisha B'Av (fasts)", "cells": ["Summer heat", "Walls breached; both Temples destroyed", "Grief, repentance, hope of restoration", "Jer 52; Lam; Zech 8:19"]},
+            {"h": "Rosh Hashanah (Trumpets)", "cells": ["Start of the agricultural year", "Creation of the world (tradition)", "God as King and Judge; waking up", "Lev 23:23–25; Num 29:1"]},
+            {"h": "Yom Kippur", "cells": ["Before the rains", "The high priest in the Holy of Holies", "Atonement, cleansing, forgiveness", "Lev 16; 23:26–32"]},
+            {"h": "Sukkot (Booths)", "cells": ["Final harvest; prayer for rain", "Wilderness years in booths", "Joy and trust in God's care", "Lev 23:33–43; Deut 16:13–15"]},
+            {"h": "Shemini Atzeret and Simchat Torah", "cells": ["Rainy season begins", "Torah reading cycle (later, medieval)", "Lingering with God; joy in his word", "Lev 23:36; Num 29:35"]},
+            {"h": "Hanukkah (later)", "cells": ["Darkest, longest nights", "Temple rededicated, 164 BC", "Light and faithfulness under pressure", "1 Macc 4:52–59; John 10:22"]},
+            {"h": "Fast of 10 Tevet", "cells": ["Winter", "Babylon besieges Jerusalem", "Mourning and repentance", "2 Kings 25:1; Zech 8:19"]},
+            {"h": "Tu BiShvat (later)", "cells": ["Sap rising in trees", "Tithe year for fruit", "Thanks for God's creation", "Mishnah Rosh Hashanah 1:1"]},
+            {"h": "Purim (later)", "cells": ["End of winter", "Rescue from Haman in Persia", "God works even when hidden", "Esther 9:20–28"]}
+          ]
+        },
+        {
+          "type": "spectrum",
+          "title": "From mourning to great joy",
+          "note": "A rough guide to the mood of each day. Yom Kippur is solemn but hopeful: the Mishnah calls it one of Israel's happiest days (Mishnah Taanit 4:8).",
+          "after": 3,
+          "left": "Mourning and fasting",
+          "right": "Great joy",
+          "points": [
+            {"t": "Tisha B'Av", "pos": 5},
+            {"t": "Yom Kippur", "pos": 25},
+            {"t": "Rosh Hashanah", "pos": 45},
+            {"t": "Passover", "pos": 68},
+            {"t": "Sukkot", "pos": 85},
+            {"t": "Purim", "pos": 96}
+          ]
+        },
+        {
+          "type": "timeline",
+          "title": "When each festival began",
+          "note": "In historical order. Early dates are approximate and some are debated.",
+          "after": 4,
+          "events": [
+            {"when": "Creation; given at Sinai", "t": "Sabbath", "d": "Rooted in creation (Gen 2:2–3); commanded at Sinai (Ex 20:8–11)."},
+            {"when": "The Exodus (15th or 13th c. BC, debated)", "t": "Passover and Unleavened Bread", "d": "First kept on the night of leaving Egypt (Ex 12)."},
+            {"when": "Sinai and the wilderness", "t": "Shavuot and Sukkot", "d": "Commanded at Sinai; kept as harvest feasts once in the land."},
+            {"when": "Sinai and the wilderness", "t": "Trumpets and Yom Kippur", "d": "Laid down with the Tabernacle worship (Lev 16; 23)."},
+            {"when": "Persian period (5th c. BC)", "t": "Purim", "d": "Fixed by Mordecai and Esther (Esther 9:20–32)."},
+            {"when": "After 586 BC", "t": "Fasts for the Temple", "d": "Kept during the exile (Zech 7:3–5; 8:19)."},
+            {"when": "164 BC", "t": "Hanukkah", "d": "Judas Maccabeus rededicates the Temple (1 Macc 4:52–59)."},
+            {"when": "After AD 70", "t": "Fasts renewed", "d": "Tisha B'Av now also mourns the Second Temple."},
+            {"when": "c. AD 200", "t": "Tu BiShvat named", "d": "Listed as a new year for trees in the Mishnah."},
+            {"when": "Medieval period", "t": "Simchat Torah", "d": "Grew up with the custom of finishing the Torah in one year."}
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "Six questions about the festival year",
+          "after": 5,
+          "cards": [
+            {"t": "Why does the year have two beginnings?", "front": "Nisan in spring, Tishri in autumn.", "back": "God made the month of the Exodus 'the beginning of months' (Ex 12:2), so festivals are counted from Nisan. But the farming and civil year turned in autumn (Ex 23:16), and the Mishnah makes Tishri 1 the new year for years. One beginning celebrates redemption, the other creation and judgement.", "source": "Ex 12:2; Ex 23:16; Mishnah Rosh Hashanah 1:1", "echo": "In Christ redemption and new creation meet: 'if anyone is in Christ, he is a new creation' (2 Cor 5:17)."},
+            {"t": "Why a leap month?", "front": "Twelve moons fall eleven days short of the sun.", "back": "Without correction, Passover would wander into winter. So a second Adar is added about seven times in nineteen years. In early times the court watched the ripening barley; later the cycle was calculated.", "source": "Ex 13:4 ('the month of Abib', ripe grain); Jewish tradition", "echo": "God's timing is exact: 'when the fullness of time had come, God sent forth his Son' (Gal 4:4)."},
+            {"t": "Why do festivals begin at sunset?", "front": "'There was evening and there was morning.'", "back": "Creation counts each day from evening to morning (Gen 1:5), and the Torah says to keep Yom Kippur 'from evening to evening' (Lev 23:32). So every Sabbath and feast starts at sunset.", "source": "Gen 1:5; Lev 23:32", "echo": "Jesus was buried in haste before sunset, because the Sabbath was beginning (Luke 23:54)."},
+            {"t": "Why are three called pilgrim festivals?", "front": "Three times a year, all to Jerusalem.", "back": "Every man was to appear before God at the place he chose for Unleavened Bread, Weeks and Booths (Deut 16:16). Crowds walked to the Temple singing the Songs of Ascents.", "source": "Deut 16:16; Ex 23:14–17; Ps 120–134", "echo": "Jesus' family went up every Passover (Luke 2:41); the Spirit came when pilgrims filled Jerusalem at Pentecost (Acts 2:5)."},
+            {"t": "Why is Sukkot 'the season of our joy'?", "front": "The only feast where joy is commanded twice.", "back": "The harvest is in, and the Torah says 'you shall rejoice in your feast… you shall be altogether joyful' (Deut 16:14–15). Jewish prayer calls it 'the season of our joy'. Living in a fragile booth teaches that joy rests on God, not on barns.", "source": "Deut 16:14–15; Lev 23:40; Jewish prayer book", "echo": "On the great last day of the feast Jesus cried, 'If anyone thirsts, let him come to me and drink' (John 7:37–38)."},
+            {"t": "Why fast on Tisha B'Av?", "front": "One date, two Temples lost.", "back": "Jewish tradition holds that both the First and the Second Temple fell on or around the 9th of Av (Mishnah Taanit 4:6). People sit low, read Lamentations and do not eat, mourning the loss and praying for restoration.", "source": "Mishnah Taanit 4:6; Lamentations; Zech 8:19", "echo": "Jesus wept over Jerusalem and foretold that not one stone of the Temple would be left on another (Luke 19:41–44; Matt 24:2)."}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Lev 23:2", "text": "These are the appointed feasts of the LORD that you shall proclaim as holy convocations; they are my appointed feasts."},
+        {"ref": "Ex 12:2", "text": "This month shall be for you the beginning of months; it shall be the first month of the year for you."},
+        {"ref": "Num 10:10", "text": "On the day of your gladness also, and at your appointed feasts and at the beginnings of your months, you shall blow the trumpets."},
+        {"ref": "Deut 16:16", "text": "Three times a year all your males shall appear before the LORD your God at the place that he will choose."},
+        {"ref": "Zech 8:19", "text": "The fast of the fourth month and the fast of the fifth and the fast of the seventh and the fast of the tenth shall be to the house of Judah seasons of joy and gladness."}
+      ],
+      "keyPoints": [
+        "Jewish months begin at the new moon; a leap month (a second Adar) about seven times in nineteen years keeps the feasts in their seasons.",
+        "The year has two beginnings: Nisan in spring for the festivals (Ex 12:2) and Tishri in autumn for the year number.",
+        "Each festival has three kinds of reasons: the farming season, a memory from history and a spiritual meaning.",
+        "Leviticus 23 gives the biblical 'appointed times'; Purim, Hanukkah, Tu BiShvat and Simchat Torah were added later, and the summer and winter fasts mourn the Temple.",
+        "Jesus kept this calendar, and the Gospels often tell us which festival he was teaching at."
+      ],
+      "reflect": [
+        "Your own year is shaped by seasons, holidays and memories. Which days in your calendar remind you of what God has done?",
+        "Zechariah promised that days of fasting would become days of joy. Where are you waiting for grief to be turned into gladness?"
+      ],
+      "quiz": [
+        {"q": "Why is a leap month added to the Jewish calendar?", "options": ["To honour the king", "To keep the festivals in their right seasons", "To add an extra fast", "To match the Roman calendar"], "a": 1, "why": "Twelve moon-months are about eleven days short of a sun-year, so a second Adar is added about seven times in nineteen years."},
+        {"q": "Which of these festivals is a later Jewish addition, not one of the 'appointed times' of Leviticus 23?", "options": ["Sukkot", "Yom Kippur", "Shavuot", "Hanukkah"], "a": 3, "why": "Hanukkah remembers the Temple's rededication in 164 BC; Jesus was in the Temple at this feast (John 10:22)."},
+        {"q": "What does Tisha B'Av (Av 9) mourn?", "options": ["The destruction of the First and Second Temples", "The death of Moses", "The flood", "The exile to Egypt"], "a": 0, "why": "Jewish tradition holds that both Temples (586 BC and AD 70) fell on or around the 9th of Av."},
+        {"q": "Which verse makes Nisan 'the beginning of months'?", "options": ["Gen 1:5", "Deut 16:16", "Ex 12:2", "Zech 8:19"], "a": 2, "why": "God told Moses at the Exodus: 'This month shall be for you the beginning of months' (Ex 12:2)."}
+      ],
+      "terms": [
+        {"term": "Mo'adim", "def": "'Appointed times': the feasts God set in Leviticus 23."},
+        {"term": "Rosh Chodesh", "def": "'Head of the month': the new-moon day that begins each month."},
+        {"term": "Omer", "def": "The first sheaf of barley; also the fifty-day count from Passover to Shavuot."},
+        {"term": "Days of Awe", "def": "The ten days from Rosh Hashanah to Yom Kippur, kept for repentance (later tradition)."},
+        {"term": "Pilgrim festivals", "def": "Passover, Shavuot and Sukkot, when Israel went up to Jerusalem (Deut 16:16)."},
+        {"term": "Leap month", "def": "A second month of Adar, added about seven times in nineteen years."}
+      ],
+      "related": ["b-feasts", "b-feasts-jesus", "b-temple", "b-history"]
+    }
+  ],
+  "glossary": []
+}
