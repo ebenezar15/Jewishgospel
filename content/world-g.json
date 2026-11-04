@@ -1,0 +1,231 @@
+{
+  "chapters": [
+    {
+      "id": "b-shema", "book": "world", "order": 200, "num": 20,
+      "title": "The Shema: 'Hear, O Israel'",
+      "subtitle": "The heartbeat of Jewish faith, and the commandment Jesus called the greatest",
+      "nutshell": "The Shema (Deut 6:4–9) is Israel's daily confession that the LORD is one and must be loved with all of life. Jews said it morning and evening, wrote it on their doorposts and bound it on their arms. Jesus named it the first and greatest commandment, and Paul retold it with Jesus inside it.",
+      "bigIdea": "To hear God is to obey him, and to confess that he is one is to give him your whole heart, soul and strength.",
+      "skeleton": [
+        "Shema means 'hear' — listen and obey",
+        "Three Bible paragraphs said morning and evening",
+        "Accepting God as King: 'the yoke of the kingdom of heaven'",
+        "Signs on body and home: tefillin, mezuzah, tzitzit",
+        "Jesus and Paul place the Shema at the centre of faith"
+      ],
+      "sections": [
+        {"h": "Hear and obey", "p": [
+          "The first word, *shema*, means more than hearing sounds. In Hebrew it means to listen, take to heart and obey. When God says 'Hear, O Israel', he is calling his people to respond with their lives, not only their ears.",
+          "*Echad* means 'one'. It confesses that the LORD alone is God — no other gods beside him — and that he is undivided and faithful. In many Torah scrolls the last letter of *shema* (ע) and of *echad* (ד) are written large. Together they spell *ed*, 'witness'. This is a later scribal tradition, and its meaning is an interpretation, but it nicely says: whoever recites the Shema bears witness to God."
+        ]},
+        {"h": "Three paragraphs, twice a day", "p": [
+          "The full Shema joins three passages: Deuteronomy 6:4–9, 11:13–21 and Numbers 15:37–41. The Mishnah (Berakhot 1:1–2) discusses the times for saying it in the evening and in the morning, following 'when you lie down and when you rise' (Deut 6:7).",
+          "After the first line, worshippers quietly add: 'Blessed be the name of His glorious kingdom for ever and ever.' The Mishnah (Berakhot 2:2) calls reciting the Shema 'taking on the yoke of the kingdom of heaven' — choosing God as King each day."
+        ]},
+        {"h": "Heart, soul and 'might'", "p": [
+          "'Love the LORD your God with all your heart, with all your soul and with all your might' (Deut 6:5). The heart is the mind and will; the soul (*nefesh*) is your whole life; and 'might' translates *me'od*, which literally means 'very' or 'muchness' — all you have and are. Jewish tradition read it as including your possessions.",
+          "This love is not only a feeling. It is loyal, practical love, shown in keeping God's words, teaching them to children and talking of them at home and on the road."
+        ]},
+        {"h": "Signs on the body and the home", "p": [
+          "'Bind them as a sign on your hand … write them on the doorposts' (Deut 6:8–9). Jews obeyed literally with tefillin (small leather boxes with Scripture, Matthew's 'phylacteries', Matt 23:5) and the mezuzah on the doorpost. Numbers 15:38 commands tassels (*tzitzit*) on the corners of clothes; the sick woman touched the edge of Jesus' garment (Matt 9:20; 14:36).",
+          "Jesus did not reject these signs. He criticised making them large to be seen by others (Matt 23:5). The sign is meant to point to a heart that remembers."
+        ]},
+        {"h": "Jesus, Paul and James", "p": [
+          "Asked for the greatest commandment, Jesus quoted the Shema and joined it to Leviticus 19:18, 'love your neighbour as yourself' (Mark 12:28–34). The scribe agreed, and Jesus said he was 'not far from the kingdom of God'.",
+          "Paul kept the Shema but saw Jesus within it: 'one God, the Father … and one Lord, Jesus Christ' (1 Cor 8:6) — 'God' and 'Lord' are the two key words of the Shema. James warns that confessing 'God is one' is good, yet even demons believe it; true faith acts (Jas 2:19)."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "interlinear", "after": 0, "title": "Deuteronomy 6:4 word by word", "lang": "he",
+         "note": "Six Hebrew words. Jews read the divine name as 'Adonai' (Lord) out of reverence.",
+         "words": [
+           {"w": "שְׁמַע", "g": "hear (and obey)"},
+           {"w": "יִשְׂרָאֵל", "g": "Israel"},
+           {"w": "יְהוָה", "g": "the LORD (YHWH)"},
+           {"w": "אֱלֹהֵינוּ", "g": "our God"},
+           {"w": "יְהוָה", "g": "the LORD (YHWH)"},
+           {"w": "אֶחָד", "g": "one"}
+         ],
+         "readings": [
+           {"label": "Reading A (KJV, ESV)", "text": "Hear, O Israel: The LORD our God **is** one LORD", "note": "Stresses God's oneness and unity."},
+           {"label": "Reading B (NIV, JPS-style)", "text": "Hear, O Israel: The LORD **is** our God, the LORD alone", "note": "Stresses loyalty: Israel worships the LORD only."},
+           {"label": "Both together", "text": "The LORD is our God; the LORD is one", "note": "Hebrew has no verb 'is', so both are possible; both truths belong together."}
+         ]},
+        {"type": "tree", "after": 1, "title": "The three paragraphs of the Shema",
+         "root": "The Shema (said morning and evening)",
+         "branches": [
+           {"t": "1. Deuteronomy 6:4–9", "children": ["The LORD is one", "Love him with heart, soul and might", "Teach your children", "Sign on hand, between the eyes, on doorposts"]},
+           {"t": "2. Deuteronomy 11:13–21", "children": ["Obey and the rains will come", "Turn away and the land suffers", "Words repeated: bind, teach, write", "Choices have consequences"]},
+           {"t": "3. Numbers 15:37–41", "children": ["Tassels (tzitzit) on garments", "See them and remember the commands", "Do not follow your own eyes", "'I brought you out of Egypt'"]}
+         ]},
+        {"type": "cards", "after": 3, "title": "Living the Shema",
+         "cards": [
+           {"t": "Tefillin", "front": "Boxes bound on the arm and forehead", "back": "Small leather boxes holding Scripture passages, including the Shema, worn at weekday morning prayer. They obey 'bind them as a sign on your hand' literally.", "source": "Deut 6:8; boxes of this kind were found at Qumran", "echo": "Matt 23:5 — 'they make their phylacteries broad'"},
+           {"t": "Mezuzah", "front": "A scroll on the doorpost", "back": "A small parchment with Deut 6:4–9 and 11:13–21, fixed to the doorpost of the home. Many Jews touch it as they go in and out — a reminder that the home belongs to God.", "source": "Deut 6:9", "echo": "The blood on the doorposts at Passover (Ex 12:7)"},
+           {"t": "Tzitzit", "front": "Blue-corded tassels on the corners", "back": "Tassels on the four corners of a garment, once with a blue thread, so Israel would see them and remember God's commands.", "source": "Num 15:38–39", "echo": "The sick touched the 'edge' (tassel) of Jesus' cloak — Matt 9:20; 14:36"},
+           {"t": "Morning and evening", "front": "'When you lie down and when you rise'", "back": "The Shema frames the day: said at dawn and at night, and also at bedtime. Each day begins and ends by choosing God as King.", "source": "Deut 6:7; Mishnah Berakhot 1:1–2", "echo": "Ps 92:2 — your love in the morning, your faithfulness at night"},
+           {"t": "Last words of martyrs", "front": "Dying with 'one' on his lips", "back": "Tradition tells that Rabbi Akiva, tortured by the Romans (2nd century), recited the Shema and died on the word 'echad'. It is a tradition, not an eyewitness record, but it shaped Jewish martyrdom: many said the Shema at death.", "source": "Talmud Berakhot 61b (tradition)", "echo": "Loving God 'with all your soul' — even giving your life (Rev 12:11)"},
+           {"t": "Teaching children", "front": "The first words a child learns", "back": "'Teach them diligently to your children.' Jewish parents taught the Shema early, often as a child's first prayer, at bedtime and around the table.", "source": "Deut 6:7, 20–25", "echo": "Timothy knew the Scriptures 'from childhood' (2 Tim 3:15)"}
+         ]},
+        {"type": "compare", "after": 4, "title": "The Shema in Judaism and in Jesus and Paul",
+         "left": {"label": "In Jewish practice", "items": [
+           "God is one: the LORD alone is God",
+           "Said morning and evening as daily confession",
+           "Taking on the yoke of the kingdom of heaven",
+           "Love God with heart, soul and might",
+           "Shown by tefillin, mezuzah and tzitzit"
+         ]},
+         "right": {"label": "In Jesus and Paul", "items": [
+           "Jesus quotes it first: 'The Lord our God, the Lord is one'",
+           "Jesus prays and teaches from it, a Jew among Jews",
+           "'Take my yoke upon you' (Matt 11:29) — the kingdom near",
+           "Joined to love of neighbour (Mark 12:31; Lev 19:18)",
+           "Paul: one God the Father and one Lord Jesus (1 Cor 8:6)"
+         ]}}
+      ],
+      "verses": [
+        {"ref": "Deuteronomy 6:4–5", "text": "Hear, O Israel: The LORD our God is one LORD: and thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might."},
+        {"ref": "Mark 12:29–31", "text": "The first of all the commandments is, Hear, O Israel; The Lord our God is one Lord… The second is… Thou shalt love thy neighbour as thyself."},
+        {"ref": "1 Corinthians 8:6", "text": "But to us there is but one God, the Father… and one Lord Jesus Christ."},
+        {"ref": "James 2:19", "text": "Thou believest that there is one God; thou doest well: the devils also believe, and tremble."}
+      ],
+      "keyPoints": [
+        "Shema means 'hear' in the sense of listen and obey.",
+        "It has three paragraphs (Deut 6; Deut 11; Num 15) said morning and evening.",
+        "Saying it is 'taking on the yoke of the kingdom of heaven' (Mishnah Berakhot 2:2).",
+        "Tefillin, mezuzah and tzitzit put the Shema on body, home and clothes.",
+        "Jesus called it the greatest commandment and joined it to love of neighbour; Paul saw Jesus within it."
+      ],
+      "reflect": [
+        "What would it look like for you to 'hear' God this week — not only listen, but obey?",
+        "What reminders could help your home remember God morning and evening?"
+      ],
+      "quiz": [
+        {"q": "What does the Hebrew word *shema* mean?", "options": ["Sing", "Hear and obey", "Bow down", "Remember"], "a": 1, "why": "Shema means to hear, take to heart and obey."},
+        {"q": "Which passage did Jesus join to the Shema as the second commandment?", "options": ["Exodus 20:3", "Deuteronomy 11:13", "Psalm 23:1", "Leviticus 19:18"], "a": 3, "why": "Mark 12:31 quotes Lev 19:18, 'love your neighbour as yourself'."},
+        {"q": "What does the Mishnah call reciting the Shema?", "options": ["Taking on the yoke of the kingdom of heaven", "Sanctifying the Sabbath", "Blessing the bread", "Opening the ark"], "a": 0, "why": "Mishnah Berakhot 2:2."},
+        {"q": "Where is the mezuzah placed?", "options": ["On the forehead", "On the corners of clothes", "On the doorpost", "On the altar"], "a": 2, "why": "Deut 6:9 — 'write them on the doorposts of your house'."}
+      ],
+      "terms": [
+        {"term": "Shema", "def": "'Hear!' — the first word and name of Israel's confession (Deut 6:4)."},
+        {"term": "Echad", "def": "'One' — the LORD alone is God, undivided and faithful."},
+        {"term": "Tefillin", "def": "Leather boxes with Scripture bound on the arm and head; 'phylacteries' in Matt 23:5."},
+        {"term": "Mezuzah", "def": "A small scroll with the Shema fixed to the doorpost (Deut 6:9)."},
+        {"term": "Tzitzit", "def": "Tassels on the corners of a garment to remember God's commands (Num 15:38)."}
+      ],
+      "related": ["s-love", "s-heart", "b-prayers", "s-kingdom"]
+    },
+    {
+      "id": "b-prayers", "book": "world", "order": 210, "num": 21,
+      "title": "Jewish Prayers and the Scriptures",
+      "subtitle": "The prayers Jesus grew up with, and how the Lord's Prayer echoes them",
+      "nutshell": "Jews of Jesus' day prayed at set times, blessed God for everything, and used the Psalms as their prayer book. Many prayer texts, like the Amidah and Kaddish, reached their fixed form after the first century, but their roots and themes are older. The Lord's Prayer is deeply Jewish, line by line.",
+      "bigIdea": "Jesus taught his disciples to pray in the language of Israel's prayers, centred on God's name, God's kingdom and daily trust.",
+      "skeleton": [
+        "Set times of prayer in Scripture",
+        "Blessings for everything: 'Blessed are You…'",
+        "The Amidah: praise, requests, thanks",
+        "Kaddish and Aleinu: God's name and kingdom",
+        "Psalms and Hallel as Israel's songbook",
+        "The Lord's Prayer as a Jewish prayer"
+      ],
+      "sections": [
+        {"h": "Times of prayer", "p": [
+          "David prayed 'evening and morning and at noon' (Ps 55:17); Daniel knelt three times a day (Dan 6:10). In Acts, Peter and John go to the Temple 'at the hour of prayer, the ninth hour' (Acts 3:1), and Peter prays on the roof at noon (Acts 10:9).",
+          "Later Judaism set three daily services: Shacharit (morning), Mincha (afternoon) and Ma'ariv (evening). Jewish tradition links them to the Temple's daily offerings. The names and full order of these services come from after the first century."
+        ]},
+        {"h": "Blessings for everything", "p": [
+          "A *berakhah* (blessing) begins: 'Blessed are You, LORD our God, King of the universe…' and then names the gift: bread, wine, fruit, rain, good news. A blessing does not make food holy; it thanks the Giver. The fixed wording developed over time, but the habit is ancient (Deut 8:10).",
+          "Jewish tradition encourages saying a hundred blessings a day. Jesus 'gave thanks' (blessed) before breaking bread (Mark 6:41). Grace after meals, *Birkat HaMazon*, comes from 'you shall eat and be satisfied, and bless the LORD your God' (Deut 8:10)."
+        ]},
+        {"h": "The Amidah: the prayer said standing", "p": [
+          "The Amidah ('standing') is also called *Shemoneh Esreh*, 'Eighteen', for its eighteen blessings; a nineteenth was added later. It moves from praise of God, to requests (wisdom, forgiveness, healing, redemption, the coming of God's kingdom), to thanks. Its exact form was fixed after AD 70, though many themes are older.",
+          "Rabbis called prayer 'the service of the heart' (Talmud Taanit 2a). The Amidah is said quietly, standing, feet together, facing Jerusalem."
+        ]},
+        {"h": "Kaddish, Aleinu and the Psalms", "p": [
+          "The Kaddish begins: 'Magnified and sanctified be His great name… may He establish His kingdom in your lifetime.' Its exact wording is later, but its themes match the Lord's Prayer closely: God's name hallowed, God's kingdom come. Aleinu praises God as King and longs for the day when the whole world turns to him; it is later still in synagogue use.",
+          "The Psalms were Israel's prayer book. The *Hallel* (Psalms 113–118) is sung at the feasts; after the Last Supper Jesus and his disciples 'sang a hymn' (Matt 26:30), very likely the Hallel. *Modeh Ani* ('I thank You…'), said on waking, is a much later prayer."
+        ]},
+        {"h": "The Lord's Prayer as a Jewish prayer", "p": [
+          "Every line of the Lord's Prayer (Matt 6:9–13) has roots in the Hebrew Scriptures and echoes in Jewish prayer. 'Our Father' recalls Isaiah 63:16; 'hallowed be your name' and 'your kingdom come' match the Kaddish; 'forgive us our debts' uses the Jewish picture of sin as debt.",
+          "Jesus was not copying a prayer book. He gathered the heart of Israel's prayer into a short, simple prayer that any disciple could learn by heart."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "timeline", "after": 0, "title": "A day of Jewish prayer",
+         "note": "The pattern of set services and bedtime prayer grew over time; many details are later than the first century.",
+         "events": [
+           {"when": "Waking", "t": "Thanks for life", "d": "A short thanks on waking; later *Modeh Ani*. Morning blessings follow."},
+           {"when": "Morning", "t": "Shema and Amidah", "d": "Morning Shema with its blessings, then the Amidah (Shacharit). Ps 5:3."},
+           {"when": "Meals", "t": "Blessings and grace", "d": "Blessing over bread before, Birkat HaMazon after (Deut 8:10)."},
+           {"when": "Afternoon", "t": "Mincha", "d": "Afternoon prayer, linked to the Temple's afternoon offering; Acts 3:1 'ninth hour'."},
+           {"when": "Evening", "t": "Evening Shema", "d": "Ma'ariv with the evening Shema — 'when you lie down' (Deut 6:7)."},
+           {"when": "Bedtime", "t": "Shema at bedtime", "d": "The Shema again before sleep; Ps 31:5 'Into your hand I commit my spirit' (cf. Luke 23:46)."}
+         ]},
+        {"type": "cards", "after": 1, "title": "Six short prayers and their Scripture roots",
+         "cards": [
+           {"t": "Blessing over bread", "front": "'…who brings forth bread from the earth'", "back": "Said before a meal with bread. It thanks God as the true source of food, even though people plough and bake.", "source": "Ps 104:14", "echo": "Jesus took bread and blessed it (Mark 6:41; 14:22)"},
+           {"t": "Blessing over wine", "front": "'…who creates the fruit of the vine'", "back": "Said over wine at Sabbath and feasts. Jesus uses the same phrase at the Last Supper.", "source": "Ps 104:15", "echo": "'I will not drink again of this fruit of the vine' (Matt 26:29)"},
+           {"t": "Grace after meals", "front": "Eat, be satisfied, then bless", "back": "Birkat HaMazon thanks God for food, for the land and for Jerusalem. Its full text is later, but the command is in the Torah.", "source": "Deut 8:10", "echo": "'Give us this day our daily bread' (Matt 6:11)"},
+           {"t": "Modeh Ani", "front": "The first words of the day", "back": "'I thank You, living and eternal King, for You have returned my soul to me…' A later prayer (medieval), said on waking.", "source": "Lam 3:22–23 (mercies new every morning)", "echo": "Rising early to pray (Mark 1:35)"},
+           {"t": "Kaddish", "front": "'Magnified and sanctified be His great name'", "back": "An Aramaic prayer longing for God's name to be honoured and his kingdom established soon. Its form is later; today it is also said by mourners.", "source": "Ezek 38:23 ('I will magnify myself and sanctify myself')", "echo": "'Hallowed be your name, your kingdom come' (Matt 6:9–10)"},
+           {"t": "Aleinu", "front": "'It is our duty to praise the Lord of all'", "back": "Praises God as King and looks to the day all people will worship him. Probably first used at New Year; later added to every service.", "source": "Zech 14:9; Isa 45:23", "echo": "'Every knee shall bow' (Phil 2:10–11)"}
+         ]},
+        {"type": "flow", "after": 2, "title": "The structure of the Amidah",
+         "note": "Wording fixed after AD 70; the outline below is the traditional weekday order.",
+         "steps": [
+           {"t": "Praise (blessings 1–3)", "d": "God of Abraham, Isaac and Jacob; God who gives life and raises the dead; God who is holy."},
+           {"t": "Personal requests", "d": "Understanding, repentance, forgiveness, redemption, healing, blessing on the year's harvest."},
+           {"t": "Requests for the nation", "d": "Gathering of exiles, justice restored, the righteous upheld, Jerusalem rebuilt, the son of David, prayer heard."},
+           {"t": "Thanks (last 3 blessings)", "d": "Accept our worship, we give thanks to you, grant peace (Num 6:24–26)."},
+           {"t": "Quiet close", "d": "A personal prayer: 'May the words of my mouth… be acceptable' (Ps 19:14)."}
+         ]},
+        {"type": "table", "after": 4, "title": "The Lord's Prayer line by line",
+         "cols": ["Line (Matt 6:9–13)", "Jewish parallel", "Scripture root"],
+         "rows": [
+           {"h": "1", "cells": ["Our Father in heaven", "'Our Father, our King' (Avinu Malkenu, later)", "Isa 63:16; 64:8"]},
+           {"h": "2", "cells": ["Hallowed be your name", "Kaddish: 'sanctified be His great name'", "Ezek 36:23; Lev 22:32"]},
+           {"h": "3", "cells": ["Your kingdom come", "Kaddish: 'may He establish His kingdom'", "Ps 145:13; Dan 2:44"]},
+           {"h": "4", "cells": ["Your will be done", "'Do His will as your will' (Avot 2:4)", "Ps 40:8; 143:10"]},
+           {"h": "5", "cells": ["Our daily bread", "Blessing over bread; grace after meals", "Prov 30:8; Ex 16:4"]},
+           {"h": "6", "cells": ["Forgive us our debts", "Amidah: 'forgive us, our Father'", "Ps 130:4; Isa 55:7"]},
+           {"h": "7", "cells": ["Lead us not into testing", "Morning prayer: 'not into the power of testing'", "Ps 141:4; Gen 22:1"]},
+           {"h": "8", "cells": ["Deliver us from evil", "Amidah: 'redeem us'", "Ps 121:7"]}
+         ]}
+      ],
+      "verses": [
+        {"ref": "Psalm 55:17", "text": "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice."},
+        {"ref": "Daniel 6:10", "text": "He kneeled upon his knees three times a day, and prayed, and gave thanks before his God."},
+        {"ref": "Matthew 6:9–10", "text": "Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven."},
+        {"ref": "Matthew 26:30", "text": "And when they had sung an hymn, they went out into the mount of Olives."}
+      ],
+      "keyPoints": [
+        "Scripture already shows set times of prayer (Ps 55:17; Dan 6:10; Acts 3:1).",
+        "Blessings thank God as Giver: 'Blessed are You, LORD our God, King of the universe…'",
+        "The Amidah moves from praise to requests to thanks; its fixed form is after AD 70.",
+        "Kaddish and the Lord's Prayer share the same heart: God's name and God's kingdom.",
+        "The Psalms, especially the Hallel, were Israel's prayer book — and Jesus' too."
+      ],
+      "reflect": [
+        "Could set times of prayer help you, alongside free prayer?",
+        "Which line of the Lord's Prayer means more to you now that you see its Jewish roots?"
+      ],
+      "quiz": [
+        {"q": "What does 'Amidah' mean?", "options": ["Kneeling", "Blessing", "Standing", "Singing"], "a": 2, "why": "The Amidah is said standing; it is also called Shemoneh Esreh, 'Eighteen'."},
+        {"q": "Which psalms form the Hallel sung at the feasts?", "options": ["Psalms 113–118", "Psalms 1–2", "Psalms 22–24", "Psalms 145–150"], "a": 0, "why": "The Hallel is Psalms 113–118, likely the hymn of Matt 26:30."},
+        {"q": "Which Jewish prayer most closely parallels 'Hallowed be your name, your kingdom come'?", "options": ["Modeh Ani", "Kaddish", "Grace after meals", "Blessing over wine"], "a": 1, "why": "The Kaddish: 'Magnified and sanctified be His great name… may He establish His kingdom.'"},
+        {"q": "Grace after meals is based on which verse?", "options": ["Psalm 23:5", "Exodus 12:14", "Matthew 6:11", "Deuteronomy 8:10"], "a": 3, "why": "'You shall eat and be satisfied, and bless the LORD your God' (Deut 8:10)."}
+      ],
+      "terms": [
+        {"term": "Berakhah", "def": "A blessing: 'Blessed are You, LORD our God, King of the universe…'"},
+        {"term": "Amidah", "def": "The 'standing' prayer of praise, requests and thanks; also Shemoneh Esreh ('Eighteen')."},
+        {"term": "Kaddish", "def": "Aramaic prayer: 'Magnified and sanctified be His great name'; longs for God's kingdom."},
+        {"term": "Hallel", "def": "Psalms 113–118, songs of praise sung at the feasts."},
+        {"term": "Birkat HaMazon", "def": "Grace after meals, based on Deut 8:10."},
+        {"term": "Shacharit, Mincha, Ma'ariv", "def": "The later morning, afternoon and evening services."}
+      ],
+      "related": ["s-pray", "b-shema", "b-feasts", "s-kingdom"]
+    }
+  ],
+  "glossary": []
+}
