@@ -14,7 +14,7 @@ An interactive study app that explains two books in plain language:
 Every topic has a plain-English explanation, an animated "skeleton" of the argument, flowcharts and other diagrams,
 key passages, take-aways, reflection questions and a quiz. There are also flashcards, a big-picture map, a glossary,
 search, read-aloud, progress tracking and seven colour schemes with light/dark mode.
-4. **The World Behind the Bible**: 13 visual topics (now including preaching and teaching practice and life customs from birth to death) on the background to the Gospels, the land, history between the
+4. **The World Behind the Bible**: 19 visual topics (including preaching and teaching practice, life customs from birth to death, Jewish weddings, parables, the feasts and Jesus, and messianic prophecy) on the background to the Gospels, the land, history between the
    Testaments, Rome, Jewish groups, the Temple, the feasts, the Herods, daily life, midrash and midrashic stories, with an
    interactive map, a feast wheel, family tree, social pyramid, story cards and comparison tables.
 5. **From Original to Translation**: why the Bible leaves out its culture, how translations change meaning, the Septuagint
