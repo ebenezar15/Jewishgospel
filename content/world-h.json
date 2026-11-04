@@ -1,0 +1,318 @@
+{
+  "chapters": [
+    {
+      "id": "b-meal",
+      "book": "world",
+      "order": 220,
+      "num": 22,
+      "title": "Communion as a Jewish Meal",
+      "subtitle": "From covenant meals and Passover cups to the Lord's Supper",
+      "nutshell": "Jesus gave his disciples bread and a cup at a Jewish meal, most likely a Passover meal. In Israel, eating together before God sealed covenants, gave thanks and remembered God's saving acts. The early church kept this as a real shared meal before it slowly became the short ritual many churches know today.",
+      "bigIdea": "The Lord's Supper was born at a Jewish table, where blessing, bread, wine and remembrance already spoke of covenant and redemption.",
+      "skeleton": [
+        "In Israel, meals sealed covenants and were eaten before God",
+        "Jewish blessings over bread and wine shaped Jesus' words",
+        "At a Passover meal Jesus gave the bread and the cup new meaning",
+        "'Remembrance' means re-living God's saving act, not only recalling it",
+        "The early church broke bread in homes as a full meal",
+        "The meal points ahead to God's great banquet at the end"
+      ],
+      "sections": [
+        {
+          "h": "Meals that sealed a covenant",
+          "p": [
+            "In the Bible, eating together is more than food. Jacob and Laban made a covenant and then ate a meal on the mountain (Gen 31:54). At Sinai, after the covenant blood was sprinkled, Moses and the elders 'saw God, and ate and drank' (Ex 24:9–11). Sharing a table meant peace and belonging.",
+            "The peace offering (*shelamim*) was a sacrifice that the worshipper mostly ate, with family, before God (Lev 7:11–15). One kind was the *todah*, the thanksgiving offering, eaten with bread on the same day. Some scholars connect this thanksgiving meal with the Lord's Supper (later called the 'Eucharist', from the Greek for 'thanksgiving'); this link is suggested, not certain."
+          ]
+        },
+        {
+          "h": "Blessing God over bread and wine",
+          "p": [
+            "Jews bless God before eating. Over bread: 'Blessed are You, LORD our God, King of the universe, who brings forth bread from the earth.' Over wine: '…who creates the fruit of the vine.' Jesus' words 'I will not drink again of this fruit of the vine' (Matt 26:29) echo this blessing. These wordings are recorded in the Mishnah (written down about AD 200) but are very old.",
+            "On the Sabbath, a blessing over wine called *Kiddush* ('sanctification') sets the day apart as holy. Its full fixed wording comes from later times. The pattern is clear: when Jesus 'took bread, gave thanks and broke it', he was doing what every Jewish host did."
+          ]
+        },
+        {
+          "h": "The Passover meal and the Last Supper",
+          "p": [
+            "Matthew, Mark and Luke present the Last Supper as a Passover meal (Mark 14:12–16); John's timing differs, and scholars discuss this. The Mishnah (Pesachim 10, written down later) describes four cups of wine, the story of the Exodus, unleavened bread, bitter herbs and the Hallel psalms (Ps 113–118). We cannot be sure every later detail was already practised in Jesus' day.",
+            "Luke and Paul say Jesus took the cup 'after supper' (Luke 22:20; 1 Cor 11:25). Many link this with the third cup, later called the 'cup of blessing' — the very phrase Paul uses (1 Cor 10:16). The *afikoman*, a hidden piece of matzah eaten at the end, is a later custom; some Christians see a picture of Christ in it, but this should be held lightly. The meal ended with a hymn, very likely the Hallel (Matt 26:30)."
+          ]
+        },
+        {
+          "h": "'Do this in remembrance of me'",
+          "p": [
+            "The Hebrew idea of remembrance (*zikkaron*) is strong. Passover is 'a day of remembrance' to keep for ever (Ex 12:14), eaten so that 'you may remember the day you came out of Egypt' (Deut 16:3). Jewish tradition teaches that in each generation people should see themselves as if they personally came out of Egypt.",
+            "So remembering is not only thinking about the past. It is re-living God's saving act and being joined to it. When Jesus said 'Do this in remembrance of me' (Luke 22:19), his disciples would hear it in this Passover sense: his death is the new act of redemption that his people share at the table."
+          ]
+        },
+        {
+          "h": "Breaking bread in the early church",
+          "p": [
+            "The first believers 'broke bread in their homes and ate together with glad and sincere hearts' (Acts 2:42, 46; see 20:7). It was a real meal, sometimes called a love feast (*agapē*, Jude 12). In Corinth, the rich ate first and the poor went hungry, and Paul said this was not truly the Lord's Supper (1 Cor 11:17–34). The Didache (chapters 9–10, around AD 100) gives Jewish-style thanksgiving prayers over the cup and the bread.",
+            "Over the following centuries the full meal was separated from the bread and cup, partly because of problems like those at Corinth and partly because churches grew large. The rite became shorter and more formal. Different churches understand it in different ways, but all share this Jewish table at its root."
+          ]
+        },
+        {
+          "h": "A taste of the coming banquet",
+          "p": [
+            "Isaiah saw the LORD preparing a feast of rich food and aged wine for all peoples, where he will swallow up death (Isa 25:6–8). Jesus said many will come from east and west and recline at table with Abraham, Isaac and Jacob (Matt 8:11). Revelation calls it 'the wedding supper of the Lamb' (Rev 19:9). Every time believers share the bread and cup, they look back to the cross and forward to that table."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "flow",
+          "title": "A Passover meal and the Last Supper",
+          "note": "Order based on the Mishnah (Pesachim 10), written down after Jesus' time; details in his day may have differed.",
+          "after": 2,
+          "steps": [
+            {"t": "First cup: Kiddush", "d": "Blessing over wine to sanctify the feast. Luke 22:17 mentions a cup before the bread."},
+            {"t": "Washing and greens", "d": "Hands washed; herbs dipped. Compare the dipping in Mark 14:20 and John 13:26."},
+            {"t": "Second cup: the story", "d": "Children ask questions; the Exodus is told. Jesus gives his own meaning to the meal."},
+            {"t": "Bread blessed and broken", "d": "'He took bread, gave thanks, broke it' — 'This is my body' (Luke 22:19)."},
+            {"t": "The meal", "d": "Lamb, unleavened bread, bitter herbs eaten together, reclining at table."},
+            {"t": "Third cup: 'cup of blessing'", "d": "After supper, grace is said. 'This cup is the new covenant in my blood' (Luke 22:20; 1 Cor 10:16)."},
+            {"t": "Hallel and fourth cup", "d": "Psalms 113–118 sung. 'When they had sung a hymn, they went out' (Matt 26:30)."}
+          ]
+        },
+        {
+          "type": "timeline",
+          "title": "From the Sinai meal to the church's liturgy",
+          "after": 4,
+          "events": [
+            {"when": "Sinai", "t": "Covenant meal", "d": "Elders eat and drink before God (Ex 24:9–11)."},
+            {"when": "Tabernacle/Temple", "t": "Peace and thanksgiving offerings", "d": "Sacrifices eaten by worshippers before God (Lev 7:11–15)."},
+            {"when": "c. AD 30", "t": "The Last Supper", "d": "Jesus gives bread and cup at a Passover meal (Mark 14:22–25)."},
+            {"when": "AD 30s–50s", "t": "Breaking bread in homes", "d": "Full shared meals; Paul corrects Corinth (Acts 2:46; 1 Cor 11)."},
+            {"when": "c. AD 100", "t": "Didache and love feasts", "d": "Thanksgiving prayers over cup and bread (Didache 9–10; Jude 12)."},
+            {"when": "c. AD 150", "t": "A Sunday service", "d": "Justin Martyr describes readings, prayers, bread and cup on Sunday."},
+            {"when": "3rd–4th c.", "t": "Meal and rite separate", "d": "Love feasts fade; the bread and cup become a formal liturgy."}
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "A first-century table and a modern communion service",
+          "note": "Practices differ widely between churches today; this is a general picture.",
+          "after": 4,
+          "left": {
+            "label": "First-century table",
+            "items": [
+              "In a home, around a real table",
+              "A full meal that satisfied hunger",
+              "Host blesses God over bread and wine",
+              "A loaf broken and shared",
+              "Shared cup(s) of wine",
+              "Rich and poor meant to eat together"
+            ]
+          },
+          "right": {
+            "label": "Many modern services",
+            "items": [
+              "In a church building, at a table or altar",
+              "A small piece of bread or wafer",
+              "Minister prays a prayer of thanksgiving",
+              "Bread often pre-cut or wafers",
+              "A common cup or small individual cups",
+              "The whole congregation receives together"
+            ]
+          }
+        },
+        {
+          "type": "cards",
+          "title": "Six meals in the Gospels",
+          "after": 5,
+          "cards": [
+            {"t": "Feeding the five thousand", "front": "Bread for a hungry crowd", "back": "Jesus looked up to heaven, blessed, broke the loaves and gave them to the disciples to share. The same four actions appear at the Last Supper.", "source": "Mark 6:41; John 6", "echo": "John 6:35 'I am the bread of life'"},
+            {"t": "Levi's banquet", "front": "Eating with tax collectors", "back": "Jesus reclined with tax collectors and sinners. To share a table meant acceptance, so the religious leaders objected.", "source": "Luke 5:29–32", "echo": "Table fellowship as welcome"},
+            {"t": "Simon the Pharisee's house", "front": "A woman at Jesus' feet", "back": "At a formal meal a sinful woman washed Jesus' feet with tears. Jesus spoke of forgiveness and love.", "source": "Luke 7:36–50", "echo": "Hospitality and forgiveness"},
+            {"t": "The Last Supper", "front": "Bread and cup at Passover", "back": "Jesus blessed and broke the bread and gave the cup 'after supper', calling it the new covenant in his blood.", "source": "Luke 22:14–20", "echo": "1 Cor 11:23–26"},
+            {"t": "Emmaus", "front": "Known in the breaking of bread", "back": "Two disciples did not recognise the risen Jesus until he took bread, blessed, broke it and gave it to them.", "source": "Luke 24:30–35", "echo": "Acts 2:42 'the breaking of bread'"},
+            {"t": "Breakfast by the lake", "front": "Fish and bread at dawn", "back": "The risen Jesus cooked breakfast for his disciples and restored Peter after his denial.", "source": "John 21:9–17", "echo": "A meal of restoration"}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Exodus 24:11", "text": "They saw God, and they ate and drank."},
+        {"ref": "Luke 22:19–20", "text": "This is my body given for you; do this in remembrance of me… This cup is the new covenant in my blood."},
+        {"ref": "1 Corinthians 10:16", "text": "Is not the cup of blessing which we bless a participation in the blood of Christ?"},
+        {"ref": "Acts 2:46", "text": "They broke bread in their homes and ate together with glad and sincere hearts."},
+        {"ref": "Isaiah 25:6", "text": "The LORD Almighty will prepare a feast of rich food for all peoples."}
+      ],
+      "keyPoints": [
+        "In Israel, meals sealed covenants and were eaten before God (Ex 24:9–11).",
+        "Jesus' blessing of bread and wine follows ordinary Jewish table blessings.",
+        "The cup 'after supper' is often linked with the Passover 'cup of blessing'.",
+        "Biblical remembrance (zikkaron) means sharing in God's saving act, not only recalling it.",
+        "The early church shared a full meal; the short ritual developed over later centuries."
+      ],
+      "reflect": [
+        "How does knowing that 'remembrance' means re-living change the way you share the bread and cup?",
+        "Who would Jesus want at your table that you might leave out?"
+      ],
+      "quiz": [
+        {"q": "Which Jewish blessing does Jesus echo in Matthew 26:29?", "options": ["Over bread: who brings forth bread", "Over wine: who creates the fruit of the vine", "The Shema", "The Kaddish"], "a": 1, "why": "Jesus speaks of 'this fruit of the vine', the words of the blessing over wine."},
+        {"q": "What does Paul call the cup in 1 Corinthians 10:16?", "options": ["The cup of wrath", "The cup of salvation", "The cup of blessing", "The cup of Elijah"], "a": 2, "why": "Paul calls it 'the cup of blessing', a name later used for the third Passover cup."},
+        {"q": "What problem did Paul correct in Corinth?", "options": ["The rich ate first while the poor went hungry", "They used the wrong bread", "They met on the wrong day", "They sang no hymns"], "a": 0, "why": "In 1 Cor 11:17–34 the meal divided rich from poor, which denied its meaning."},
+        {"q": "What does the Hebrew idea of 'remembrance' (zikkaron) mean?", "options": ["Only recalling a past fact", "Writing history down", "A sad memorial", "Re-living God's saving act and sharing in it"], "a": 3, "why": "Passover remembrance makes each generation share in the Exodus (Ex 12:14; Deut 16:3)."}
+      ],
+      "terms": [
+        {"term": "Todah", "def": "The thanksgiving offering, a sacrifice shared as a meal before God (Lev 7:11–15)."},
+        {"term": "Kiddush", "def": "'Sanctification': the blessing over wine that sets apart the Sabbath or a feast."},
+        {"term": "Cup of blessing", "def": "The cup over which grace is said after the meal; Paul's phrase in 1 Cor 10:16."},
+        {"term": "Zikkaron", "def": "Remembrance: bringing God's past saving act into the present."},
+        {"term": "Agapē meal", "def": "'Love feast': the shared meal of early Christians (Jude 12)."},
+        {"term": "Afikoman", "def": "A piece of matzah hidden and eaten at the end of the seder (a later custom)."}
+      ],
+      "related": ["b-feasts-jesus", "b-feasts", "s-sacrifice", "w-brit"]
+    },
+    {
+      "id": "b-practices",
+      "book": "world",
+      "order": 230,
+      "num": 23,
+      "title": "Jewish Practices Behind the New Testament",
+      "subtitle": "Sabbath, immersion, fasting, giving and other customs Jesus and his followers knew",
+      "nutshell": "Many New Testament scenes assume Jewish practices that the writers did not stop to explain: Sabbath at home, ritual immersion, hand-washing, giving to the poor, fasting, pilgrimage and hospitality. Knowing them helps us see what Jesus kept, what he corrected, and why.",
+      "bigIdea": "Jesus and the apostles lived inside a rich world of Jewish practice, and they called people to the heart of it: love for God and neighbour.",
+      "skeleton": [
+        "The Sabbath was kept at home with lights, blessing, meal and rest",
+        "Ritual immersion helps explain John's baptism",
+        "Washing, giving, fasting and tithing shaped daily faith",
+        "Signs on body and home kept God's word close",
+        "Pilgrimage and hospitality opened homes and roads",
+        "Jesus affirmed the heart of these practices and warned against show"
+      ],
+      "sections": [
+        {
+          "h": "Sabbath at home",
+          "p": [
+            "The Sabbath begins at sunset on Friday. Today Jewish families light candles, bless wine (*Kiddush*), share a family meal and rest until the next evening, then close the day with *Havdalah* ('separation'). The exact forms of these blessings come from later times, but Sabbath rest, meals and synagogue worship were central in Jesus' day. Jesus did not abolish the Sabbath; he taught that 'the Sabbath was made for man, not man for the Sabbath' (Mark 2:27)."
+          ]
+        },
+        {
+          "h": "Immersion and washing",
+          "p": [
+            "The Law required washing in water to become ritually clean (Lev 15). Archaeologists have found many stepped pools, called *mikva'ot* (singular *mikveh*), in Jerusalem near the Temple and at Qumran. People went down into the water and immersed themselves.",
+            "This helps explain why crowds understood John's baptism in the Jordan (Mark 1:4–5), though John's call to repentance before the coming one was new. Later Jewish sources describe the immersion of Gentile converts; how early this practice began is debated. Hand-washing before meals (*netilat yadayim*) was a tradition of the elders, which Jesus questioned when it was put above the heart (Mark 7:1–5)."
+          ]
+        },
+        {
+          "h": "Giving, fasting and tithing",
+          "p": [
+            "Giving to the poor is called *tzedakah*, from the word for righteousness. Cornelius was known for it (Acts 10:2), and Jesus told his followers to give in secret (Matt 6:2–4). Fasting was kept on Yom Kippur and, by some pious Jews, on Mondays and Thursdays (Luke 18:12). The Didache (8:1) tells Christians to fast on Wednesdays and Fridays instead. Jesus assumed his disciples would fast, but without show (Matt 6:16–18).",
+            "Tithing a tenth of produce supported the priests, Levites and poor. Jesus did not reject it but said the weightier matters were 'justice, mercy and faithfulness' (Matt 23:23)."
+          ]
+        },
+        {
+          "h": "God's word on body and home",
+          "p": [
+            "Following Deuteronomy 6:8–9, Jews put small boxes with Scripture texts (*tefillin*, 'phylacteries') on the arm and head for prayer, and a *mezuzah* on the doorpost. Tassels (*tzitzit*) on the corners of the garment reminded them of God's commands (Num 15:38). A sick woman touched the edge of Jesus' cloak (Matt 9:20), and Jesus warned only against making these things large for show (Matt 23:5). Children learned Torah by memory and repetition from an early age (2 Tim 3:15)."
+          ]
+        },
+        {
+          "h": "Pilgrimage, hospitality and blessing",
+          "p": [
+            "Men were to appear before the LORD three times a year, at Passover, Shavuot and Sukkot (Deut 16:16). Jesus' family went up to Jerusalem every year for Passover (Luke 2:41); Galilean pilgrims often travelled down the Jordan valley through Jericho and then climbed up to the city.",
+            "Hospitality to strangers was a sacred duty, remembered from Abraham's welcome of three visitors (Gen 18; Heb 13:2). Parents blessed their children, as Jacob blessed Joseph's sons (Gen 48), and Jesus took children in his arms and blessed them (Mark 10:16). Covering the head in prayer is mainly a later Jewish custom; Paul's teaching in 1 Corinthians 11 reflects his own setting and is understood in different ways."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "cards",
+          "title": "Eight practices and their New Testament scenes",
+          "after": 0,
+          "cards": [
+            {"t": "Sabbath", "front": "Rest from sunset to sunset", "back": "A day of rest, worship and family meal, a sign of God's covenant. Jesus healed on the Sabbath to show its purpose.", "source": "Ex 20:8–11", "echo": "Mark 2:27; Luke 4:16"},
+            {"t": "Mikveh", "front": "Going down into water", "back": "Immersion in a stepped pool for ritual purity. It forms the background to John's baptism of repentance.", "source": "Lev 15", "echo": "Mark 1:4–5"},
+            {"t": "Hand-washing", "front": "Water before bread", "back": "A tradition of the elders to wash hands before eating. Jesus said true defilement comes from the heart.", "source": "Tradition of the elders", "echo": "Mark 7:1–23"},
+            {"t": "Tzedakah", "front": "Giving as righteousness", "back": "Giving to the poor was seen as justice and faithfulness, not just kindness.", "source": "Deut 15:7–11", "echo": "Matt 6:2–4; Acts 10:2"},
+            {"t": "Fasting", "front": "Humbling oneself before God", "back": "On Yom Kippur all fasted; some also fasted twice a week. Jesus taught to fast in secret.", "source": "Lev 16:29", "echo": "Matt 6:16–18; Luke 18:12"},
+            {"t": "Tithes", "front": "A tenth for God", "back": "A tenth of produce supported priests, Levites and the poor. Jesus pointed to justice, mercy and faithfulness.", "source": "Deut 14:22–29", "echo": "Matt 23:23"},
+            {"t": "Tefillin, mezuzah, tzitzit", "front": "God's word on arm, door and garment", "back": "Reminders of the Shema and the commandments, worn and placed at home.", "source": "Deut 6:8–9; Num 15:38", "echo": "Matt 9:20; 23:5"},
+            {"t": "Pilgrimage", "front": "Going up three times a year", "back": "Families travelled to Jerusalem for the great feasts, singing the psalms of ascent.", "source": "Deut 16:16", "echo": "Luke 2:41–42; John 7:10"}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Practice, Scripture root and New Testament example",
+          "after": 2,
+          "cols": ["", "Scripture root", "New Testament example"],
+          "rows": [
+            {"h": "Sabbath", "cells": ["Ex 20:8–11; Gen 2:3", "Sabbath made for man (Mark 2:27)"]},
+            {"h": "Immersion", "cells": ["Lev 15; washings for purity", "John baptising in the Jordan (Mark 1:5)"]},
+            {"h": "Hand-washing", "cells": ["Tradition of the elders", "Disciples eat unwashed (Mark 7:2)"]},
+            {"h": "Almsgiving", "cells": ["Deut 15:11", "Give in secret (Matt 6:3)"]},
+            {"h": "Fasting", "cells": ["Lev 16:29; Isa 58", "Pharisee fasts twice a week (Luke 18:12)"]},
+            {"h": "Tithing", "cells": ["Lev 27:30; Deut 14:22", "Mint, dill and cumin (Matt 23:23)"]},
+            {"h": "Pilgrimage", "cells": ["Deut 16:16", "Jesus at twelve in Jerusalem (Luke 2:41–42)"]},
+            {"h": "Hospitality", "cells": ["Gen 18:1–8", "Entertaining angels unawares (Heb 13:2)"]},
+            {"h": "Blessing children", "cells": ["Gen 48:14–20", "Jesus blesses the children (Mark 10:16)"]}
+          ]
+        },
+        {
+          "type": "timeline",
+          "title": "A Jewish week, Sunday to Sabbath",
+          "note": "A general picture; customs varied between groups and over time.",
+          "after": 2,
+          "events": [
+            {"when": "Sunday", "t": "First day of work", "d": "Ordinary labour; later, Christians met on this day to break bread (Acts 20:7)."},
+            {"when": "Monday", "t": "Torah reading and fasting", "d": "Market day; Torah read in the synagogue; some pious people fasted."},
+            {"when": "Tuesday–Wednesday", "t": "Work and daily prayer", "d": "Morning and evening Shema; prayers at set hours (Acts 3:1)."},
+            {"when": "Thursday", "t": "Torah reading and fasting", "d": "A second weekly reading; some fasted (Luke 18:12)."},
+            {"when": "Friday", "t": "Preparation day", "d": "Food cooked and the house made ready before sunset (Mark 15:42)."},
+            {"when": "Friday evening", "t": "Sabbath begins", "d": "Lamps lit, blessing over wine and bread, family meal."},
+            {"when": "Saturday", "t": "Rest and synagogue", "d": "Scripture read and taught (Luke 4:16); rest until sunset, then Havdalah (later form)."}
+          ]
+        },
+        {
+          "type": "map",
+          "title": "Immersion pools and the pilgrim road",
+          "after": 4,
+          "places": [
+            {"id": "nazareth", "d": "Jesus' home town in Galilee, starting point for family pilgrimage.", "refs": "Luke 2:39–41"},
+            {"id": "jericho", "d": "Pilgrims from Galilee often came down the Jordan valley and through Jericho.", "refs": "Luke 19:1"},
+            {"id": "jerusalem", "d": "Many stepped immersion pools have been found near the Temple, used by pilgrims.", "refs": "Luke 2:41; John 7:10"},
+            {"id": "qumran", "d": "The community by the Dead Sea had many large stepped pools for purity washings.", "refs": "Mark 1:4–5"},
+            {"id": "bethany-beyond", "d": "Where John baptised across the Jordan.", "refs": "John 1:28"}
+          ],
+          "route": ["nazareth", "jericho", "jerusalem"]
+        }
+      ],
+      "verses": [
+        {"ref": "Mark 2:27", "text": "The Sabbath was made for man, not man for the Sabbath."},
+        {"ref": "Matthew 6:3–4", "text": "When you give to the needy, do not let your left hand know what your right hand is doing."},
+        {"ref": "Deuteronomy 6:9", "text": "Write them on the doorframes of your houses and on your gates."},
+        {"ref": "Luke 2:41", "text": "Every year his parents went to Jerusalem for the Festival of the Passover."},
+        {"ref": "Hebrews 13:2", "text": "Do not forget to show hospitality to strangers, for by so doing some have entertained angels without knowing it."}
+      ],
+      "keyPoints": [
+        "Sabbath rest and the family meal were at the centre of Jewish life; later blessings filled out its form.",
+        "Stepped immersion pools in Jerusalem and Qumran help explain John's baptism.",
+        "Giving, fasting and tithing were normal; Jesus asked for them without show.",
+        "Tefillin, mezuzah and tzitzit kept God's word on body and home.",
+        "Pilgrimage, hospitality and blessing children shaped family faith."
+      ],
+      "reflect": [
+        "Which of these practices could help you keep God's word close in daily life?",
+        "Where might you be tempted to practise faith for show rather than for God?"
+      ],
+      "quiz": [
+        {"q": "What were stepped pools in Jerusalem and Qumran used for?", "options": ["Storing grain", "Ritual immersion for purity", "Baking bread", "Keeping fish"], "a": 1, "why": "They were mikva'ot, pools for immersion in water to become ritually clean."},
+        {"q": "On which days did the Didache tell Christians to fast?", "options": ["Monday and Thursday", "Saturday and Sunday", "Wednesday and Friday", "Every day"], "a": 2, "why": "Didache 8:1 contrasts these days with the Monday and Thursday fasts."},
+        {"q": "What did Jesus call the weightier matters of the law in Matthew 23:23?", "options": ["Justice, mercy and faithfulness", "Tithes, fasts and washings", "Sabbath, feasts and sacrifices", "Prayer, study and silence"], "a": 0, "why": "He did not reject tithing but put justice, mercy and faithfulness first."},
+        {"q": "How often were Israelite men to appear before the LORD?", "options": ["Once a lifetime", "Every Sabbath", "Once a month", "Three times a year"], "a": 3, "why": "Deut 16:16: at Passover, Shavuot and Sukkot."}
+      ],
+      "terms": [
+        {"term": "Havdalah", "def": "'Separation': the blessing that closes the Sabbath on Saturday evening (later form)."},
+        {"term": "Mikveh", "def": "A pool of water for ritual immersion; plural mikva'ot."},
+        {"term": "Netilat yadayim", "def": "Ritual washing of the hands before a meal."},
+        {"term": "Tzedakah", "def": "Giving to the poor, understood as righteousness and justice."},
+        {"term": "Mezuzah", "def": "A small case with Scripture fixed to the doorpost (Deut 6:9)."}
+      ],
+      "related": ["b-life", "b-lifecycle", "b-shema", "b-prayers"]
+    }
+  ],
+  "glossary": []
+}
