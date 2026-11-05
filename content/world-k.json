@@ -1,0 +1,556 @@
+{
+  "chapters": [
+    {
+      "id": "b-farming",
+      "book": "world",
+      "order": 290,
+      "num": 29,
+      "title": "The Farming Year: Seasons, Harvests and Shepherds",
+      "subtitle": "Rain, grain, grapes, olives and sheep: the world Jesus' parables come from",
+      "nutshell": "Israel lived by rain, not by a great river, so every farmer looked to God for the early and the latter rains. The harvests of barley, wheat, fruit, grapes and olives shaped the feasts, the laws for the poor and the Sabbath years. Jesus drew most of his parables from this farming world.",
+      "bigIdea": "The land and its harvests belonged to God, so Israel's farming year was also a year of trust, thanksgiving and sharing — and Jesus used it to picture the kingdom of God.",
+      "skeleton": [
+        "Rain decides everything: early rains in autumn, latter rains in spring",
+        "Each harvest is linked to a feast: barley, wheat, fruit, grapes, olives",
+        "Part of every harvest is left for the poor; every seventh year the land rests",
+        "Threshing floors, winepresses and olive presses stand behind many Gospel scenes",
+        "Shepherds and fig trees give Jesus some of his best-known pictures"
+      ],
+      "sections": [
+        {
+          "h": "Rain, soil and a year given by God",
+          "p": [
+            "Egypt was watered by the Nile, but Israel was \"a land of hills and valleys that drinks water by the rain from heaven\" (Deut 11:10–11). God promised \"the early rain and the latter rain\" (Deut 11:14). The early rains of autumn softened the hard ground for ploughing; the latter rains of spring filled out the grain. James uses this picture for patience: \"the farmer waits… until it receives the early and the late rains\" (James 5:7).",
+            "A small limestone tablet found at Gezer, usually dated to about the 10th century BC, lists the months of the farming year: olive harvest, sowing, late sowing, hoeing flax, barley harvest, wheat harvest, vine tending and summer fruit. Its exact date and purpose (perhaps a school exercise) are debated, but it matches the rhythm the Bible describes."
+          ]
+        },
+        {
+          "h": "Harvests that became feasts",
+          "p": [
+            "The pilgrim feasts follow the harvests. At Passover the barley ripens, and a first sheaf was waved before the LORD (Lev 23:10–11). Seven weeks later, at Shavuot (Pentecost), the wheat harvest is celebrated (Ex 34:22). In autumn, Sukkot is the feast of \"ingathering\", when grapes and olives are brought in (Ex 23:16; Deut 16:13).",
+            "Farmers brought a basket of firstfruits to the sanctuary and told the story of their redemption from Egypt (Deut 26:1–11). Tithes supported the Levites, the stranger, the orphan and the widow (Deut 14:22–29). The New Testament calls the risen Christ \"the firstfruits of those who have fallen asleep\" (1 Cor 15:20)."
+          ]
+        },
+        {
+          "h": "Leaving some for the poor",
+          "p": [
+            "Farmers were not to reap the corners of the field or pick up the gleanings, and they were to leave the forgotten sheaf, for \"the poor and the stranger\" (Lev 19:9–10; Deut 24:19). This is how Ruth fed Naomi in the fields of Boaz (Ruth 2). A hungry traveller could also pluck grain by hand (Deut 23:25) — which is why the disciples could do so (Mark 2:23).",
+            "Every seventh year the land rested (*shemitah*, Lev 25:1–7) and debts were released (Deut 15:1–2). After seven sabbatical years came the Jubilee (*yovel*), when family land returned to its owners (Lev 25:8–13), \"for the land is mine\" (Lev 25:23). Jesus announced \"the year of the Lord's favour\" in Jubilee language (Luke 4:18–19; Isa 61:1–2)."
+          ]
+        },
+        {
+          "h": "Threshing floors, winepresses and olive presses",
+          "p": [
+            "Grain was threshed on a flat, open floor on high ground where the wind could blow, as at Boaz's threshing floor (Ruth 3:2). The farmer tossed the crushed grain with a fork; the wind carried the chaff away and the grain fell. John the Baptist used this picture for judgment: \"his winnowing fork is in his hand\" (Matt 3:12).",
+            "A vineyard had a stone wall, a watchtower and a winepress cut in the rock (Isa 5:1–2). Jesus' parable of the tenants begins with the same words (Mark 12:1). Olives were crushed in an oil press. The name Gethsemane comes from Hebrew/Aramaic for \"oil press\" — the place where Jesus was pressed in prayer (Mark 14:32)."
+          ]
+        },
+        {
+          "h": "Shepherds, sheepfolds and the fig tree",
+          "p": [
+            "Shepherds led their flocks rather than drove them; the sheep knew their shepherd's voice (John 10:3–4). At night flocks were kept in a stone sheepfold with one opening. Jesus says, \"I am the door\" and \"I am the good shepherd\" (John 10:7, 11), echoing Psalm 23 and God's promise to shepherd his people himself (Ezek 34:11–16). Shepherds near Bethlehem were the first to hear of his birth (Luke 2:8).",
+            "The fig tree puts out leaves in spring, a sign that summer is near (Mark 13:28). When Jesus found a leafy fig tree with no fruit, \"for it was not the season for figs\" (Mark 11:13), he cursed it. Mark places this around the Temple scene, so many read it as an acted parable about a fruitless Temple (compare Jer 8:13)."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "map",
+          "title": "Farming places in Galilee, Samaria and Judea",
+          "note": "Click a place to see what grew or grazed there.",
+          "after": 0,
+          "places": [
+            {"id": "nazareth", "d": "A hill village with terraces, olive trees and small fields — Jesus grew up among farmers.", "refs": "Luke 4:16"},
+            {"id": "capernaum", "d": "By the lake; the parable of the sower was told from a boat to the crowds on the shore nearby.", "refs": "Mark 4:1–9"},
+            {"id": "magdala", "d": "On the plain of Gennesaret, famous for its fertile soil and fruit trees.", "refs": "Mark 6:53"},
+            {"id": "megiddo", "d": "Overlooks the Jezreel Valley, the richest grain plain in the land.", "refs": "Hos 2:22"},
+            {"id": "shechem", "d": "Near Sychar and Jacob's well, where Jesus pointed to fields \"white for harvest\".", "refs": "John 4:35"},
+            {"id": "jericho", "d": "An oasis \"city of palm trees\" with sycamore-figs, balsam and springs.", "refs": "Deut 34:3; Luke 19:4"},
+            {"id": "bethlehem", "d": "Ruth gleaned in Boaz's fields; David kept sheep; shepherds heard the angels.", "refs": "Ruth 2; 1 Sam 16:11; Luke 2:8"},
+            {"id": "bethany", "d": "On the slope of the Mount of Olives, near where Jesus cursed the fruitless fig tree.", "refs": "Mark 11:12–14"},
+            {"id": "jerusalem", "d": "Gethsemane, the \"oil press\", lay among the olive groves of the Mount of Olives; firstfruits were brought to the Temple.", "refs": "Mark 14:32; Deut 26:2"},
+            {"id": "hebron", "d": "Grape country: the spies cut a huge cluster in the nearby valley of Eshcol.", "refs": "Num 13:22–23"},
+            {"id": "beersheba", "d": "Edge of the dry south: wells and flocks of Abraham and Isaac.", "refs": "Gen 21:30–31; 26:23–25"}
+          ]
+        },
+        {
+          "type": "wheel",
+          "title": "The farming year",
+          "center": "God gives rain and harvest",
+          "note": "Months are approximate; the order follows the farming year from the first rains.",
+          "after": 1,
+          "items": [
+            {"t": "Early rains", "when": "Oct–Nov", "d": "The first rains (yoreh) soften the sun-baked ground.", "nt": "\"The farmer waits for the early and late rains\" (James 5:7)."},
+            {"t": "Ploughing and sowing", "when": "Nov–Dec", "d": "Wheat and barley are sown, often scattered by hand and then ploughed in.", "nt": "The sower (Mark 4:3–8); \"no one who puts his hand to the plough and looks back\" (Luke 9:62)."},
+            {"t": "Winter growth", "when": "Jan–Feb", "d": "Rain falls and the seed grows quietly; late crops are sown.", "nt": "The seed grows \"he knows not how\" (Mark 4:26–29)."},
+            {"t": "Latter rains and fig leaves", "when": "Mar–Apr", "d": "The spring rains (malqosh) fill out the grain; fig trees put out leaves.", "nt": "\"When its branch becomes tender… summer is near\" (Mark 13:28)."},
+            {"t": "Barley harvest", "when": "Apr (Passover)", "d": "The first grain to ripen; a first sheaf is offered to God.", "nt": "Five barley loaves (John 6:9); Christ the firstfruits (1 Cor 15:20)."},
+            {"t": "Wheat harvest", "when": "May–Jun (Shavuot)", "d": "The main grain harvest, celebrated at Pentecost.", "nt": "\"The harvest is plentiful\" (Matt 9:37–38); the Spirit at Pentecost (Acts 2:1)."},
+            {"t": "Threshing and winnowing", "when": "Jun–Jul", "d": "Grain is threshed and winnowed on the threshing floor.", "nt": "\"His winnowing fork is in his hand\" (Matt 3:12)."},
+            {"t": "Vine tending", "when": "Jun–Jul", "d": "Vines are pruned and cleaned so they bear more fruit.", "nt": "\"Every branch that bears fruit he prunes\" (John 15:2)."},
+            {"t": "Summer fruit", "when": "Aug", "d": "Figs, pomegranates and other summer fruit are picked.", "nt": "Seeking fruit on the fig tree (Mark 11:13; Luke 13:6–9)."},
+            {"t": "Grape harvest", "when": "Aug–Sep", "d": "Grapes are gathered and trodden in the winepress.", "nt": "The vineyard parables (Mark 12:1; Matt 20:1–16)."},
+            {"t": "Olive harvest and ingathering", "when": "Sep–Nov (Sukkot)", "d": "Olives are beaten from the trees and pressed for oil; the year ends with the feast of ingathering.", "nt": "Gethsemane, the oil press (Mark 14:32); Jesus at Sukkot (John 7:37–39)."}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Sabbatical year and Jubilee",
+          "after": 2,
+          "cols": ["", "Sabbatical year (shemitah)", "Jubilee (yovel)"],
+          "rows": [
+            {"h": "When", "cells": ["Every seventh year", "The fiftieth year, after seven sabbatical years"]},
+            {"h": "Main texts", "cells": ["Ex 23:10–11; Lev 25:1–7; Deut 15:1–11", "Lev 25:8–55; 27:16–24"]},
+            {"h": "The land", "cells": ["Not sown or reaped; poor and animals eat freely", "Also rests"]},
+            {"h": "Debts and land", "cells": ["Loans to fellow Israelites released (Deut 15:2)", "Family land returns to its original owners (Lev 25:13)"]},
+            {"h": "People", "cells": ["Hebrew servants freed after six years' service (Deut 15:12)", "Israelites in servitude go home to their families (Lev 25:39–41)"]},
+            {"h": "How it began", "cells": ["Read the Law at Sukkot (Deut 31:10–11)", "Shofar blown on the Day of Atonement (Lev 25:9)"]},
+            {"h": "Main lesson", "cells": ["God provides; there should be no poor (Deut 15:4)", "The land is God's; you are guests (Lev 25:23)"]},
+            {"h": "In practice", "cells": ["Kept in Second Temple times (1 Macc 6:49, 53)", "No clear evidence it was ever kept"]},
+            {"h": "Later development", "cells": ["Hillel's prozbul let loans survive the year (Mishnah Shevi'it 10:3)", "Hoped for as a picture of final release"]},
+            {"h": "New Testament echo", "cells": ["\"No needy person among them\" (Acts 4:34)", "\"The year of the Lord's favour\" (Luke 4:19)"]}
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "From seed to bread",
+          "after": 3,
+          "steps": [
+            {"t": "Sow", "d": "Seed is scattered after the early rains (Mark 4:3)."},
+            {"t": "Grow", "d": "\"First the blade, then the ear, then the full grain\" (Mark 4:28)."},
+            {"t": "Reap", "d": "Stalks are cut with a sickle and bound into sheaves (Mark 4:29; Ruth 2:7)."},
+            {"t": "Thresh", "d": "Oxen or a sledge crush the stalks; \"do not muzzle the ox\" (Deut 25:4; 1 Cor 9:9)."},
+            {"t": "Winnow", "d": "Tossed into the wind; chaff blows away, grain falls (Matt 3:12)."},
+            {"t": "Sift and store", "d": "Sieved and stored in barns (Luke 22:31; 12:18)."},
+            {"t": "Grind", "d": "Women grind grain at the hand mill each day (Matt 24:41)."},
+            {"t": "Bake bread", "d": "\"Give us this day our daily bread\" (Matt 6:11); \"I am the bread of life\" (John 6:35)."}
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "Eight farm scenes in Jesus' parables",
+          "after": 4,
+          "cards": [
+            {"t": "The sower", "front": "Why sow on a path and among rocks?", "back": "Seed was scattered broadly by hand, so some fell on the hard path, thin soil or thorns. The parable shows how different hearts receive God's word.", "source": "Mark 4:3–20", "echo": "Farmers often sowed before ploughing the seed in."},
+            {"t": "Wheat and weeds", "front": "An enemy sows weeds by night.", "back": "A weed that looks like wheat while young grows among the crop. The owner waits for harvest to separate them — God's patience until the final judgment.", "source": "Matt 13:24–30, 36–43", "echo": "Harvest as a picture of the end of the age."},
+            {"t": "The mustard seed", "front": "The smallest seed becomes a large plant.", "back": "A tiny seed grows into a shrub big enough for birds to nest in its shade. The kingdom begins small but grows great.", "source": "Mark 4:30–32", "echo": "Birds nesting echoes Dan 4:12 and Ezek 17:23."},
+            {"t": "Workers in the vineyard", "front": "Everyone is paid the same wage.", "back": "Day labourers waited in the market to be hired at grape harvest. The owner pays the last as much as the first — grace, not earnings.", "source": "Matt 20:1–16", "echo": "A denarius was a normal day's wage."},
+            {"t": "The wicked tenants", "front": "A vineyard with a wall, tower and winepress.", "back": "Tenants refuse the owner's share and kill his son. The words echo Isaiah's song of the vineyard, and the leaders knew it was about them.", "source": "Mark 12:1–12", "echo": "Isa 5:1–7; Ps 118:22."},
+            {"t": "The lost sheep", "front": "Leave ninety-nine to find one.", "back": "A shepherd counted his flock; one missing sheep mattered. He carries it home rejoicing — God's joy over one sinner who repents.", "source": "Luke 15:3–7", "echo": "Ezek 34:11–16; John 10:11."},
+            {"t": "The barren fig tree", "front": "Three years and still no fruit.", "back": "The owner wants it cut down, but the vinedresser asks for one more year to dig and fertilise. A call to bear fruit while there is time.", "source": "Luke 13:6–9", "echo": "Mark 11:13–14; Mic 7:1."},
+            {"t": "The rich fool's barns", "front": "Bigger barns, but no tomorrow.", "back": "A farmer with a huge harvest plans to store it all for himself, but dies that night. Wealth should make us \"rich toward God\".", "source": "Luke 12:16–21", "echo": "Compare the duty to share the harvest (Deut 14:28–29)."}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Deut 11:14", "text": "I will give the rain of your land in its season, the early rain and the latter rain."},
+        {"ref": "Lev 19:9", "text": "When you reap the harvest of your land, you shall not reap your field right up to its edge."},
+        {"ref": "James 5:7", "text": "See how the farmer waits for the precious fruit of the earth, being patient about it, until it receives the early and the late rains."},
+        {"ref": "Matt 3:12", "text": "His winnowing fork is in his hand, and he will clear his threshing floor and gather his wheat into the barn."},
+        {"ref": "John 10:11", "text": "I am the good shepherd. The good shepherd lays down his life for the sheep."}
+      ],
+      "keyPoints": [
+        "Israel depended on the early (autumn) and latter (spring) rains, so farming was an act of trust in God.",
+        "The harvests set the feasts: barley at Passover, wheat at Shavuot, grapes and olives at Sukkot.",
+        "Corners, gleanings, tithes, the sabbatical year and the Jubilee built care for the poor into farming.",
+        "Threshing floors, vineyards and olive presses explain sayings like \"his winnowing fork\" and the name Gethsemane.",
+        "Jesus took his parables of seed, harvest, vineyards and sheep straight from the daily life of his hearers."
+      ],
+      "reflect": [
+        "The land was God's and the farmers were his guests (Lev 25:23). What would change if you treated your work and income the same way?",
+        "Which farm picture from Jesus — seed, harvest, vine, shepherd — speaks most to your life right now, and why?"
+      ],
+      "quiz": [
+        {"q": "Which rains softened the ground for ploughing?", "options": ["The latter rains of spring", "The early rains of autumn", "The summer rains", "The winter snow"], "a": 1, "why": "The early rains (Oct–Nov) came first and softened the hard ground; the latter rains in spring filled out the grain (Deut 11:14; James 5:7)."},
+        {"q": "Which harvest was celebrated at Shavuot (Pentecost)?", "options": ["Olives", "Grapes", "Wheat", "Figs"], "a": 2, "why": "Shavuot came seven weeks after Passover and marked the wheat harvest (Ex 34:22)."},
+        {"q": "What does the name Gethsemane mean?", "options": ["Oil press", "Garden of tears", "House of bread", "Place of the skull"], "a": 0, "why": "Gethsemane comes from Hebrew/Aramaic words for an oil press, fitting the olive groves of the Mount of Olives."},
+        {"q": "What happened in the Jubilee year?", "options": ["Only the priests rested", "A new king was crowned", "All tithes were cancelled", "Family land returned to its original owners"], "a": 3, "why": "In the fiftieth year ancestral land went back to its families, because \"the land is mine\" (Lev 25:10–13, 23)."}
+      ],
+      "terms": [
+        {"term": "Yoreh and malqosh", "def": "The early (autumn) rain and the latter (spring) rain on which Israel's crops depended."},
+        {"term": "Pe'ah and leket", "def": "The corners of the field and the gleanings, left for the poor and the stranger (Lev 19:9–10)."},
+        {"term": "Shemitah", "def": "The sabbatical year: every seventh year the land rested and debts were released."},
+        {"term": "Yovel", "def": "The Jubilee, the fiftieth year, when land returned to its families and people went free."},
+        {"term": "Goren", "def": "A threshing floor: flat open ground where grain was threshed and winnowed."},
+        {"term": "Gethsemane", "def": "\"Oil press\": the olive grove on the Mount of Olives where Jesus prayed before his arrest."}
+      ],
+      "related": ["b-feasts", "b-festivals", "b-land", "b-life", "b-practices", "d-numbers"]
+    },
+    {
+      "id": "b-vows",
+      "book": "world",
+      "order": 300,
+      "num": 30,
+      "title": "Blessings, Vows and Anointing",
+      "subtitle": "Raised hands, laid-on hands, holy oil and solemn promises",
+      "nutshell": "In Israel, blessing meant speaking God's good over someone, often with raised or laid-on hands. Kings, priests and a prophet were anointed with oil, which is where the titles Messiah and Christ come from. People made vows, like the Nazirite vow, and swore oaths — and Jesus called his followers to simple, truthful speech.",
+      "bigIdea": "Blessing, anointing and vows all say that words and lives can be set apart for God — and Jesus is the Anointed One who blesses us and makes our \"yes\" mean yes.",
+      "skeleton": [
+        "The priestly blessing puts God's name on his people",
+        "Fathers bless, leaders lay on hands to pass on a task",
+        "Oil marks priests, kings and prophets: the \"anointed\" one",
+        "Vows set a person or gift apart; the Nazirite vow is the best known",
+        "Jesus warns against clever oaths and teaches \"let your yes be yes\""
+      ],
+      "sections": [
+        {
+          "h": "The priestly blessing",
+          "p": [
+            "God told Aaron's sons to bless Israel with three short lines: \"The LORD bless you and keep you; the LORD make his face shine on you and be gracious to you; the LORD lift up his face toward you and give you peace\" (Num 6:24–26). God adds, \"So shall they put my name upon the people of Israel, and I will bless them\" (6:27).",
+            "The Mishnah describes priests blessing the people in the Temple with raised hands (Mishnah Sotah 7:6). Two tiny silver scrolls found at Ketef Hinnom in Jerusalem, usually dated around 600 BC, contain a form of this blessing — among the oldest known pieces of Bible text. At the end of Luke, the risen Jesus \"lifted up his hands and blessed them\" (Luke 24:50–51)."
+          ]
+        },
+        {
+          "h": "A father's blessing and the laying on of hands",
+          "p": [
+            "A father's blessing passed on hope and inheritance. Isaac blessed Jacob (Gen 27); Jacob crossed his hands to bless Joseph's sons (Gen 48:14) and blessed his twelve sons (Gen 49). Hebrews remembers these blessings as acts of faith (Heb 11:20–21).",
+            "Laying hands on someone could pass on a task and authority. Moses laid his hands on Joshua before the people (Num 27:18–23). Jesus laid his hands on children and blessed them (Mark 10:16). The apostles laid hands on the Seven (Acts 6:6), and the church at Antioch sent Barnabas and Saul the same way (Acts 13:3). The later rabbinic word for ordination, *semikhah*, means \"leaning\" the hands."
+          ]
+        },
+        {
+          "h": "Anointing: from oil to Messiah",
+          "p": [
+            "Pouring oil on someone's head set them apart for God. Aaron was anointed as priest (Ex 29:7), Saul and David as kings (1 Sam 10:1; 16:13), and Elijah was told to anoint Elisha as prophet (1 Kings 19:16). When David was anointed, \"the Spirit of the LORD rushed upon David from that day forward\".",
+            "The Hebrew word for \"anointed one\" is *mashiach* — Messiah. Its Greek translation is *Christos* — Christ. So \"Jesus Christ\" means \"Jesus the Anointed\". Jesus read Isaiah 61, \"The Spirit of the Lord is upon me, because he has anointed me\" (Luke 4:18), and Peter says God anointed him \"with the Holy Spirit and with power\" (Acts 10:38)."
+          ]
+        },
+        {
+          "h": "Vows and the Nazirite",
+          "p": [
+            "A vow was a promise to God, often \"if you help me, I will…\" (Gen 28:20–22; 1 Sam 1:11). It was voluntary, but once made it had to be kept (Deut 23:21–23; Eccl 5:4–5).",
+            "The Nazirite vow (Num 6:1–21) set a man or woman apart for a time: no wine or grape products, no haircut, no contact with a dead body. Samson and Samuel were dedicated from birth (Judg 13:5; 1 Sam 1:11). Paul cut his hair because of a vow (Acts 18:18), and in Jerusalem he paid the costs for four men completing a vow (Acts 21:23–26), showing that he still honoured Jewish practice."
+          ]
+        },
+        {
+          "h": "Korban, oaths and Jesus' \"yes\"",
+          "p": [
+            "*Korban* means an offering \"brought near\" to God. Jesus criticised a use of it in which someone declared money \"korban\" so that it could not help their parents (Mark 7:11–13): a vow must not cancel God's command to honour father and mother.",
+            "People swore by heaven, by earth, by Jerusalem or by the Temple gold, and argued over which oaths counted (Matt 23:16–22). Jesus said, \"Do not take an oath at all… Let what you say be simply 'Yes' or 'No'\" (Matt 5:33–37; James 5:12). His point is truthfulness in all speech, because every word is spoken before God."
+          ]
+        },
+        {
+          "h": "Blessing God before food",
+          "p": [
+            "Jewish blessings over food are addressed to God, not to the food: \"Blessed are You, LORD our God, King of the universe, who brings forth bread from the earth.\" The ending is given in the Mishnah (Berakhot 6:1); the full wording was fixed later. After eating, Israel was told, \"you shall bless the LORD your God for the good land\" (Deut 8:10).",
+            "So when the Gospels say Jesus took bread and \"blessed\" it (Mark 6:41; 14:22; Luke 24:30), he was giving thanks to God in this Jewish way. Paul says food is made holy \"by the word of God and prayer\" (1 Tim 4:4–5)."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "interlinear",
+          "title": "The priestly blessing, Numbers 6:24–26, word by word",
+          "lang": "he",
+          "after": 0,
+          "words": [
+            {"w": "יְבָרֶכְךָ", "g": "may he bless you"},
+            {"w": "יְהוָה", "g": "the LORD"},
+            {"w": "וְיִשְׁמְרֶךָ", "g": "and keep you"},
+            {"w": "יָאֵר", "g": "may he make shine"},
+            {"w": "יְהוָה", "g": "the LORD"},
+            {"w": "פָּנָיו", "g": "his face"},
+            {"w": "אֵלֶיךָ", "g": "toward you"},
+            {"w": "וִיחֻנֶּךָּ", "g": "and be gracious to you"},
+            {"w": "יִשָּׂא", "g": "may he lift up"},
+            {"w": "יְהוָה", "g": "the LORD"},
+            {"w": "פָּנָיו", "g": "his face"},
+            {"w": "אֵלֶיךָ", "g": "toward you"},
+            {"w": "וְיָשֵׂם", "g": "and set / give"},
+            {"w": "לְךָ", "g": "to you"},
+            {"w": "שָׁלוֹם", "g": "peace"}
+          ],
+          "readings": [
+            {"label": "Hebrew (literal)", "text": "May the LORD bless you and keep you; may the LORD make **his face** shine toward you and be gracious to you; may the LORD **lift up his face** toward you and give you **peace**.", "note": "The three lines grow: 3, 5 and 7 Hebrew words. \"You\" is singular — each person is blessed."},
+            {"label": "KJV", "text": "The LORD bless thee, and keep thee: The LORD make his face shine upon thee, and be gracious unto thee: The LORD lift up his countenance upon thee, and give thee peace.", "note": "\"Lift up his face\" means to look on someone with favour."},
+            {"label": "Numbers 6:27", "text": "So shall they **put my name** upon the people of Israel, and I will bless them.", "note": "The blessing is God's own; the priest only speaks it."}
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "Blessings and hands in Scripture",
+          "after": 1,
+          "cards": [
+            {"t": "Isaac blesses Jacob", "front": "A blessing that could not be taken back.", "back": "Blind Isaac blessed Jacob, thinking he was Esau. Once spoken, the blessing stood: \"he shall be blessed\".", "source": "Gen 27:27–33", "echo": "Heb 11:20"},
+            {"t": "Jacob's crossed hands", "front": "Right hand on the younger son.", "back": "Jacob crossed his arms and put his right hand on Ephraim, the younger. God's blessing often goes against human order.", "source": "Gen 48:13–20", "echo": "Heb 11:21"},
+            {"t": "Jacob blesses twelve sons", "front": "Words about each tribe's future.", "back": "Jacob's last words to his sons include the promise that the sceptre will not depart from Judah.", "source": "Gen 49:1–28", "echo": "\"The Lion of the tribe of Judah\" (Rev 5:5)"},
+            {"t": "Aaron raises his hands", "front": "The first priestly blessing.", "back": "After the first offerings at the Tabernacle, Aaron lifted his hands toward the people and blessed them.", "source": "Lev 9:22–23", "echo": "Jesus lifted his hands and blessed them (Luke 24:50)."},
+            {"t": "Moses lays hands on Joshua", "front": "Passing on leadership.", "back": "Before the whole community, Moses laid his hands on Joshua and gave him some of his authority. Joshua was \"full of the spirit of wisdom\".", "source": "Num 27:18–23; Deut 34:9", "echo": "Timothy's gift through the laying on of hands (1 Tim 4:14)."},
+            {"t": "Jesus blesses children", "front": "Hands on the little ones.", "back": "Parents brought children to Jesus; the disciples objected, but he took them in his arms, laid his hands on them and blessed them.", "source": "Mark 10:13–16", "echo": "Matt 19:13–15"},
+            {"t": "The Seven", "front": "Hands laid on new servants.", "back": "The church chose seven men to care for widows; the apostles prayed and laid their hands on them.", "source": "Acts 6:1–6", "echo": "Like Moses with Joshua: a task passed on."},
+            {"t": "Barnabas and Saul sent", "front": "Fasting, prayer, hands.", "back": "The church at Antioch fasted, prayed, laid hands on Barnabas and Saul and sent them out on mission.", "source": "Acts 13:1–3", "echo": "\"Laying on of hands\" is a basic teaching (Heb 6:2)."}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Who was anointed, and why",
+          "after": 2,
+          "cols": ["", "Role", "Verse", "Meaning"],
+          "rows": [
+            {"h": "Aaron and his sons", "cells": ["Priests", "Ex 29:7; 40:15", "Set apart to serve God in the sanctuary"]},
+            {"h": "The Tabernacle and its objects", "cells": ["Holy things", "Ex 30:26–29", "Made holy for God's use"]},
+            {"h": "Saul", "cells": ["First king", "1 Sam 10:1", "Chosen to lead God's people"]},
+            {"h": "David", "cells": ["King", "1 Sam 16:13", "The Spirit came on him from that day"]},
+            {"h": "Elisha", "cells": ["Prophet", "1 Kings 19:16", "Called to carry on Elijah's work"]},
+            {"h": "Cyrus of Persia", "cells": ["Foreign king", "Isa 45:1", "Called God's \"anointed\" for one task: freeing exiles"]},
+            {"h": "Jesus", "cells": ["Messiah / Christ", "Luke 4:18; Acts 10:38", "Anointed with the Spirit as prophet, priest and king"]},
+            {"h": "Believers", "cells": ["God's people", "2 Cor 1:21; 1 John 2:20", "Share Christ's anointing by the Spirit"]}
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "The Nazirite vow, start to finish",
+          "note": "Numbers 6:1–21",
+          "after": 3,
+          "steps": [
+            {"t": "Make the vow", "d": "A man or woman chooses to be set apart to the LORD for a period (6:2)."},
+            {"t": "No grapes", "d": "No wine, strong drink, grapes, raisins or grape juice (6:3–4)."},
+            {"t": "No razor", "d": "The hair grows long as a visible sign of the vow (6:5)."},
+            {"t": "No dead body", "d": "Not even for a parent's funeral (6:6–7)."},
+            {"t": "If defiled", "d": "Shave the head, bring offerings and start the vow again (6:9–12)."},
+            {"t": "Completion offerings", "d": "At the end, bring burnt, sin and peace offerings to the sanctuary (6:13–17)."},
+            {"t": "Shave and burn the hair", "d": "The hair is put on the fire under the peace offering (6:18)."},
+            {"t": "Free again", "d": "Afterward the Nazirite may drink wine (6:20). Paul paid such costs for four men (Acts 21:23–26)."}
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "Oath culture and Jesus' \"yes means yes\"",
+          "after": 4,
+          "left": {"label": "Oaths in the first century", "items": [
+            "Swearing by heaven, earth, Jerusalem or one's own head",
+            "Arguing which oaths are binding (by the Temple or by its gold?)",
+            "Oaths used to make words believable",
+            "A korban vow could keep money from needy parents",
+            "The Law: keep your vows, do not swear falsely (Lev 19:12; Num 30:2)"
+          ]},
+          "right": {"label": "Jesus' teaching", "items": [
+            "All these belong to God; you cannot swear around him (Matt 5:34–36)",
+            "Every oath is before God, so all are binding (Matt 23:16–22)",
+            "\"Let your yes be yes and your no be no\" (Matt 5:37; James 5:12)",
+            "A vow cannot cancel \"honour your father and mother\" (Mark 7:10–13)",
+            "Truth always — yet God himself swears (Heb 6:13) and Paul calls God as witness (2 Cor 1:23)"
+          ]}
+        }
+      ],
+      "verses": [
+        {"ref": "Num 6:24–26", "text": "The LORD bless you and keep you; the LORD make his face shine on you and be gracious to you; the LORD lift up his face toward you and give you peace."},
+        {"ref": "1 Sam 16:13", "text": "Samuel took the horn of oil and anointed him… and the Spirit of the LORD rushed upon David from that day forward."},
+        {"ref": "Luke 4:18", "text": "The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor."},
+        {"ref": "Matt 5:37", "text": "Let what you say be simply 'Yes' or 'No'; anything more than this comes from evil."},
+        {"ref": "Luke 24:50", "text": "Lifting up his hands he blessed them."}
+      ],
+      "keyPoints": [
+        "The priestly blessing (Num 6:24–26) \"puts God's name\" on his people; it was found on silver scrolls from about 600 BC.",
+        "Fathers blessed their children, and leaders laid on hands to pass on a task — a practice the early church continued.",
+        "Priests, kings and a prophet were anointed with oil; \"Messiah\" and \"Christ\" both mean \"Anointed One\".",
+        "Vows were voluntary but binding; the Nazirite vow set a person apart, and Paul still took part in it.",
+        "Jesus rejected clever oaths and loopholes like a misused korban, and called for plain, truthful \"yes\" and \"no\"."
+      ],
+      "reflect": [
+        "Who could you bless this week with words of God's favour — a child, a friend, a colleague?",
+        "Are there places where your \"yes\" needs extra promises before people believe it? What would simple truthfulness look like there?"
+      ],
+      "quiz": [
+        {"q": "What do \"Messiah\" and \"Christ\" both mean?", "options": ["Teacher", "Saviour", "Anointed One", "Son of David"], "a": 2, "why": "Mashiach (Hebrew) and Christos (Greek) both mean \"anointed one\"."},
+        {"q": "Which of these was forbidden to a Nazirite?", "options": ["Wine and grapes", "Bread", "Fasting", "Visiting the Temple"], "a": 0, "why": "A Nazirite avoided wine and all grape products, did not cut the hair and avoided dead bodies (Num 6:3–7)."},
+        {"q": "What did Jesus criticise about korban in Mark 7?", "options": ["Giving to the Temple at all", "Bringing animals to sacrifice", "Praying before meals", "Using a vow to avoid helping one's parents"], "a": 3, "why": "Declaring money \"korban\" was used to avoid supporting parents, which cancelled God's command to honour them (Mark 7:11–13)."},
+        {"q": "How did the risen Jesus bless his disciples in Luke 24?", "options": ["By anointing them with oil", "By lifting up his hands", "By breaking a cup", "By washing their feet"], "a": 1, "why": "\"Lifting up his hands he blessed them\" (Luke 24:50), like the priests' blessing with raised hands."}
+      ],
+      "terms": [
+        {"term": "Berakhah", "def": "A blessing; in Jewish prayer it usually begins \"Blessed are You, LORD…\" and praises God."},
+        {"term": "Birkat kohanim", "def": "The priestly blessing of Numbers 6:24–26, spoken with raised hands."},
+        {"term": "Mashiach / Christos", "def": "\"Anointed one\": the person set apart by oil (or the Spirit) for God's task; Messiah, Christ."},
+        {"term": "Nazir", "def": "A Nazirite: someone set apart by a special vow (Num 6)."},
+        {"term": "Korban", "def": "An offering \"brought near\" to God; something declared dedicated to him (Mark 7:11)."},
+        {"term": "Semikhah", "def": "Laying on of hands; later the rabbinic word for ordination."}
+      ],
+      "related": ["b-prayers", "b-temple", "b-meal", "b-practices", "s-sanctify", "w-kadosh"]
+    },
+    {
+      "id": "b-symbols",
+      "book": "world",
+      "order": 310,
+      "num": 31,
+      "title": "Symbols of Jewish Life",
+      "subtitle": "Lampstand, shofar, ark, bread, oil, salt, vine and dove — and which symbols came much later",
+      "nutshell": "Many Jewish symbols come straight from the Bible: the menorah, the shofar, the ark and mercy seat, the bread of the presence, the blue thread, the doorpost scroll, the vine, the lion of Judah. The New Testament picks up almost all of them to speak about Jesus. Other well-known symbols, like the Star of David and the Hamsa, are much later.",
+      "bigIdea": "Israel's biblical symbols were God-given pictures of his presence, light and covenant, and the New Testament sees them fulfilled in Jesus — while later symbols should be recognised as later.",
+      "skeleton": [
+        "The Tabernacle's objects: lampstand, table of bread, ark and mercy seat",
+        "Sound, colour and doorpost: shofar, blue thread, mezuzah",
+        "Everyday elements: oil, water, salt",
+        "Living pictures: lion, vine, fig tree, dove",
+        "Later symbols: the Star of David and the Hamsa"
+      ],
+      "sections": [
+        {
+          "h": "Symbols in the holy tent",
+          "p": [
+            "The menorah was a lampstand of pure gold with seven lamps and almond-blossom cups (Ex 25:31–40), burning in the Holy Place. Beside it stood the table with twelve loaves, the \"bread of the presence\", renewed every Sabbath (Lev 24:5–9). Jesus mentions David eating this bread (Mark 2:26).",
+            "In the Most Holy Place stood the ark of the covenant with its golden lid, the *kapporet* or \"mercy seat\", between two cherubim. There God promised, \"I will meet with you\" (Ex 25:22). Paul uses the Greek word for the mercy seat when he says God put Christ forward as a place of atonement (Rom 3:25; compare Heb 9:5)."
+          ]
+        },
+        {
+          "h": "The menorah through history",
+          "p": [
+            "Zechariah saw a golden lampstand fed by two olive trees: \"Not by might, nor by power, but by my Spirit\" (Zech 4:6). The Maccabees relit the Temple lamps in 164 BC (1 Macc 4:50), remembered at Hanukkah. After the Temple fell in AD 70, the Arch of Titus in Rome showed Roman soldiers carrying the menorah as spoil.",
+            "In Revelation, the risen Christ walks among seven golden lampstands, which are the churches (Rev 1:12, 20). Jesus said, \"I am the light of the world\" (John 8:12). Today a menorah is the emblem of the State of Israel. The nine-branched Hanukkah lamp is a later, separate form."
+          ]
+        },
+        {
+          "h": "Sound, colour and the doorpost",
+          "p": [
+            "The *shofar*, a ram's horn, sounded at Sinai (Ex 19:16), at Jericho (Josh 6) and to start the Jubilee (Lev 25:9). Paul says the Lord will return \"with the sound of the trumpet of God\" (1 Thess 4:16; 1 Cor 15:52).",
+            "A cord of blue (*tekhelet*) on the tassels reminded Israel of God's commands (Num 15:38–39). The *mezuzah* comes from \"write them on the doorposts of your house\" (Deut 6:9); the small case with a parchment scroll is the later form of keeping it."
+          ]
+        },
+        {
+          "h": "Oil, water and salt",
+          "p": [
+            "Oil lit the lamps and anointed priests and kings, so it came to stand for God's Spirit and his chosen one (1 Sam 16:13; Acts 10:38). Water washed away impurity (Lev 15; Num 19) and became a picture of new life and the Spirit (Ezek 36:25–27; John 7:37–39).",
+            "Salt preserved food and was added to every offering, \"the salt of the covenant\" (Lev 2:13); a lasting covenant is called \"a covenant of salt\" (Num 18:19). Jesus calls his disciples \"the salt of the earth\" (Matt 5:13)."
+          ]
+        },
+        {
+          "h": "Living symbols: lion, vine, fig tree and dove",
+          "p": [
+            "Jacob called Judah \"a lion's cub\" (Gen 49:9); Revelation calls Jesus \"the Lion of the tribe of Judah\" — who then appears as a slain Lamb (Rev 5:5–6). Israel was God's vine brought out of Egypt (Ps 80:8; Isa 5:1–7); Jesus says, \"I am the true vine\" (John 15:1).",
+            "Sitting \"under one's vine and fig tree\" pictured peace (Mic 4:4; compare John 1:48). The dove brought Noah an olive leaf (Gen 8:11), and the Spirit came down on Jesus \"like a dove\" (Mark 1:10)."
+          ]
+        },
+        {
+          "h": "Later symbols: the Star of David and the Hamsa",
+          "p": [
+            "The six-pointed star, *Magen David* (\"shield of David\"), is not in the Bible. It was used as decoration by many peoples in ancient times and became a Jewish emblem only in the Middle Ages and early modern times (for example in Prague). It was put on the Zionist flag in 1897 and the flag of Israel in 1948.",
+            "The Hamsa, a hand-shaped amulet, is a popular folk symbol across the Middle East and North Africa, used by both Jews and Muslims. It has no biblical root. Knowing which symbols are biblical and which are later helps you read Scripture without reading later customs back into it."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "layers",
+          "title": "The Tabernacle: from the courtyard to the ark",
+          "note": "Outside to inside: each step is closer to God's presence.",
+          "after": 0,
+          "layers": [
+            {"t": "Courtyard gate", "d": "One entrance, on the east side (Ex 27:13–16). \"I am the door\" (John 10:9)."},
+            {"t": "Bronze altar", "d": "Offerings were burned here (Ex 27:1–8). Compare Heb 13:10."},
+            {"t": "Bronze basin", "d": "Priests washed hands and feet before serving (Ex 30:18–21)."},
+            {"t": "Holy Place", "d": "The menorah, the table of the bread of the presence and the incense altar (Heb 9:2)."},
+            {"t": "The veil", "d": "A curtain with cherubim hid the Most Holy Place (Ex 26:31–33); torn at Jesus' death (Mark 15:38)."},
+            {"t": "Ark and mercy seat", "d": "The covenant box with the tablets; God's meeting place between the cherubim (Ex 25:22; Heb 9:4–5)."}
+          ]
+        },
+        {
+          "type": "timeline",
+          "title": "When each symbol appears in history",
+          "after": 1,
+          "events": [
+            {"when": "Exodus and wilderness (date debated)", "t": "Tabernacle symbols", "d": "Menorah, ark, bread of the presence, shofar at Sinai, blue tassels (Ex 19–40; Num 15)."},
+            {"when": "c. 950 BC", "t": "Solomon's Temple", "d": "Ten lampstands; the ark placed in the Most Holy Place (1 Kings 7:49; 8:6)."},
+            {"when": "586 BC", "t": "Temple destroyed", "d": "The ark disappears; its fate is unknown."},
+            {"when": "c. 520 BC", "t": "Zechariah's lampstand", "d": "Vision of the menorah and two olive trees (Zech 4)."},
+            {"when": "164 BC", "t": "Lamps relit", "d": "The Maccabees rededicate the Temple (1 Macc 4:50) — the origin of Hanukkah."},
+            {"when": "c. AD 30", "t": "Jesus", "d": "\"I am the light of the world\" (John 8:12); \"I am the true vine\" (John 15:1)."},
+            {"when": "AD 70–81", "t": "Temple falls; Arch of Titus", "d": "The menorah is carried to Rome and carved on the arch as war spoil."},
+            {"when": "c. AD 95", "t": "Revelation", "d": "Seven lampstands = the churches; the Lion of Judah (Rev 1:20; 5:5)."},
+            {"when": "3rd–6th c. AD", "t": "Synagogue art", "d": "Menorah, shofar and Torah ark appear often in synagogue mosaics."},
+            {"when": "Middle Ages–1600s", "t": "Star of David", "d": "The six-pointed star becomes a Jewish emblem (e.g. Prague)."},
+            {"when": "1897–1949", "t": "Modern emblems", "d": "Star on the Zionist flag (1897) and Israel's flag (1948); menorah as Israel's state emblem (1949)."}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Symbol, Old Testament root and New Testament echo",
+          "after": 2,
+          "cols": ["", "Old Testament root", "Meaning", "New Testament echo"],
+          "rows": [
+            {"h": "Menorah", "cells": ["Ex 25:31–40; Zech 4", "God's light; Spirit-given strength", "John 8:12; Rev 1:20"]},
+            {"h": "Shofar", "cells": ["Ex 19:16; Lev 25:9", "God's coming; release", "1 Thess 4:16; 1 Cor 15:52"]},
+            {"h": "Mercy seat", "cells": ["Ex 25:17–22; Lev 16:14", "Place of meeting and atonement", "Rom 3:25; Heb 9:5"]},
+            {"h": "Bread of the presence", "cells": ["Lev 24:5–9", "Twelve tribes always before God", "Mark 2:26; John 6:35"]},
+            {"h": "Blue thread", "cells": ["Num 15:38–39", "Remember God's commands", "Matt 9:20 (the fringe)"]},
+            {"h": "Mezuzah", "cells": ["Deut 6:9; Ex 12:7", "God's word over the home", "John 10:9"]},
+            {"h": "Salt", "cells": ["Lev 2:13; Num 18:19", "Lasting covenant", "Matt 5:13; Col 4:6"]},
+            {"h": "Lion of Judah", "cells": ["Gen 49:9–10", "Royal tribe and king", "Rev 5:5"]},
+            {"h": "Vine", "cells": ["Ps 80:8; Isa 5:1–7", "Israel as God's planting", "John 15:1–5"]},
+            {"h": "Fig tree", "cells": ["Mic 4:4; Jer 8:13", "Peace; or fruitfulness tested", "Mark 11:13; John 1:48"]},
+            {"h": "Dove", "cells": ["Gen 8:11", "New beginning after judgment", "Mark 1:10"]}
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "Twelve symbols and what they mean",
+          "after": 3,
+          "cards": [
+            {"t": "Menorah", "front": "Seven lamps of pure gold.", "back": "The lampstand lit the Holy Place day and night. It speaks of God's light among his people.", "source": "Ex 25:31–40", "echo": "\"I am the light of the world\" (John 8:12); lampstands = churches (Rev 1:20)."},
+            {"t": "Shofar", "front": "A ram's horn trumpet.", "back": "Blown at Sinai, at Jericho, for the Jubilee and on feast days. It calls people to wake up and gather.", "source": "Ex 19:16; Lev 25:9", "echo": "\"The trumpet of God\" at Christ's return (1 Thess 4:16)."},
+            {"t": "Ark and mercy seat", "front": "God's throne on earth.", "back": "A gold-covered chest with the tablets of the covenant. Its lid, the mercy seat, was sprinkled with blood on the Day of Atonement.", "source": "Ex 25:10–22; Lev 16:14", "echo": "Christ as the place of atonement (Rom 3:25; Heb 9:5)."},
+            {"t": "Bread of the presence", "front": "Twelve loaves always before God.", "back": "Fresh bread for the twelve tribes was set out every Sabbath; the priests ate the old loaves.", "source": "Lev 24:5–9", "echo": "David ate it (Mark 2:26); \"I am the bread of life\" (John 6:35)."},
+            {"t": "Oil", "front": "Light and anointing.", "back": "Olive oil fuelled the lamps and set apart priests and kings. It became a picture of the Spirit.", "source": "Ex 27:20; 1 Sam 16:13", "echo": "Jesus anointed with the Spirit (Acts 10:38)."},
+            {"t": "Water", "front": "Washing and new life.", "back": "Water removed ritual impurity and was promised as a sign of a new heart.", "source": "Num 19; Ezek 36:25–27", "echo": "\"Rivers of living water\" = the Spirit (John 7:38–39)."},
+            {"t": "Salt", "front": "A covenant that does not spoil.", "back": "Salt was added to every grain offering; a lasting covenant was \"a covenant of salt\".", "source": "Lev 2:13; Num 18:19", "echo": "\"You are the salt of the earth\" (Matt 5:13)."},
+            {"t": "Blue thread", "front": "One cord of blue on the tassels.", "back": "Each corner tassel carried a blue cord so Israel would look at it and remember the commandments.", "source": "Num 15:38–39", "echo": "The woman touched the fringe of Jesus' garment (Matt 9:20)."},
+            {"t": "Mezuzah", "front": "God's word on the doorpost.", "back": "Israel was told to write God's words on doorposts and gates. Later a small scroll case became the custom.", "source": "Deut 6:9; 11:20", "echo": "Passover blood on the doorposts (Ex 12:7); Jesus the door (John 10:9)."},
+            {"t": "Lion of Judah", "front": "The royal tribe's emblem.", "back": "Jacob called Judah a lion and promised him the sceptre — the line of David's kings.", "source": "Gen 49:9–10", "echo": "The Lion of Judah is the slain Lamb (Rev 5:5–6)."},
+            {"t": "Vine", "front": "Israel as God's vineyard.", "back": "God planted Israel like a vine and looked for good fruit, but often found wild grapes.", "source": "Ps 80:8–16; Isa 5:1–7", "echo": "\"I am the true vine; you are the branches\" (John 15:1–5)."},
+            {"t": "Dove", "front": "A sign of new beginning.", "back": "After the flood the dove returned with an olive leaf: judgment was over and life began again.", "source": "Gen 8:8–12", "echo": "The Spirit descends on Jesus like a dove (Mark 1:10)."}
+          ]
+        },
+        {
+          "type": "spectrum",
+          "title": "Biblical or later tradition?",
+          "after": 5,
+          "note": "Symbols on the left come from Scripture; those on the right are later.",
+          "left": "Biblical: commanded or described in Scripture",
+          "right": "Later tradition: no biblical root",
+          "points": [
+            {"pos": 4, "t": "Menorah"},
+            {"pos": 6, "t": "Ark and mercy seat"},
+            {"pos": 8, "t": "Shofar"},
+            {"pos": 10, "t": "Blue thread on tassels"},
+            {"pos": 18, "t": "Lion of Judah (biblical image, later emblem)"},
+            {"pos": 30, "t": "Mezuzah (command biblical, scroll case later)"},
+            {"pos": 50, "t": "Nine-branched Hanukkah lamp"},
+            {"pos": 88, "t": "Star of David"},
+            {"pos": 96, "t": "Hamsa hand"}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Ex 25:22", "text": "There I will meet with you, and from above the mercy seat, from between the two cherubim… I will speak with you."},
+        {"ref": "Zech 4:6", "text": "Not by might, nor by power, but by my Spirit, says the LORD of hosts."},
+        {"ref": "John 8:12", "text": "I am the light of the world. Whoever follows me will not walk in darkness."},
+        {"ref": "Rev 5:5", "text": "Behold, the Lion of the tribe of Judah, the Root of David, has conquered."},
+        {"ref": "John 15:5", "text": "I am the vine; you are the branches."}
+      ],
+      "keyPoints": [
+        "The menorah, bread of the presence, ark and mercy seat were the heart of the Tabernacle's picture-language of God's presence.",
+        "The shofar, the blue thread and the doorpost words kept God's call and commands before Israel's eyes and ears.",
+        "Oil, water and salt became pictures of the Spirit, cleansing and lasting covenant.",
+        "The New Testament applies the lampstand, mercy seat, bread, vine, lion and dove to Jesus and his people.",
+        "The Star of David and the Hamsa are much later symbols, not biblical ones."
+      ],
+      "reflect": [
+        "Which biblical symbol helps you most to picture who Jesus is — light, bread, vine, lion, lamb? Why?",
+        "Are there symbols in your own church or culture that you have treated as biblical when they are later traditions?"
+      ],
+      "quiz": [
+        {"q": "How many lamps did the Tabernacle menorah have?", "options": ["Five", "Seven", "Nine", "Twelve"], "a": 1, "why": "The menorah had seven lamps (Ex 25:37). The nine-branched Hanukkah lamp is a later, separate form."},
+        {"q": "What did Paul call Christ in Romans 3:25, using the word for the mercy seat?", "options": ["The true vine", "The cornerstone", "The firstfruits", "A place of atonement"], "a": 3, "why": "Paul uses hilastērion, the Greek word used for the mercy seat (Heb 9:5)."},
+        {"q": "Where does the Star of David come from?", "options": ["Exodus 25", "David's shield in 1 Samuel", "It became a Jewish emblem in the Middle Ages and later", "The Arch of Titus"], "a": 2, "why": "The six-pointed star is not in the Bible; it became a Jewish emblem in medieval and early modern times."},
+        {"q": "Which symbol does Revelation 5 apply to Jesus?", "options": ["The Lion of the tribe of Judah", "The Hamsa", "The mezuzah", "The shofar"], "a": 0, "why": "\"The Lion of the tribe of Judah… has conquered\" (Rev 5:5), echoing Gen 49:9."}
+      ],
+      "terms": [
+        {"term": "Menorah", "def": "The seven-lamp golden lampstand of the Tabernacle and Temple."},
+        {"term": "Shofar", "def": "A ram's horn trumpet blown at Sinai, in battle, for the Jubilee and on feasts."},
+        {"term": "Kapporet", "def": "The \"mercy seat\": the golden lid of the ark, the place of atonement."},
+        {"term": "Tekhelet", "def": "The blue dye of the cord on the tassels (Num 15:38)."},
+        {"term": "Mezuzah", "def": "\"Doorpost\"; today a small case with Scripture fixed to the doorpost (Deut 6:9)."},
+        {"term": "Magen David", "def": "\"Shield of David\": the six-pointed star, a Jewish emblem from medieval times on, not biblical."}
+      ],
+      "related": ["b-temple", "b-feasts", "b-practices", "w-kadosh", "s-sacrifice", "d-numbers"]
+    }
+  ],
+  "glossary": []
+}
