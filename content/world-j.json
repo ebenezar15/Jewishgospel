@@ -1,0 +1,500 @@
+{
+  "chapters": [
+    {
+      "id": "b-sabbath", "book": "world", "order": 250, "num": 25,
+      "title": "The Sabbath in Depth",
+      "subtitle": "God's weekly gift of rest, from Creation to Jesus",
+      "nutshell": "The Sabbath is rooted in Creation (God rested on the seventh day) and in the Exodus (God set his people free from slavery). Jews keep it from sunset on Friday to nightfall on Saturday with lamps, blessing, a family meal, synagogue and rest. Many Gospel stories happen on the Sabbath, and Jesus showed what it is for: 'The Sabbath was made for man.'",
+      "bigIdea": "The Sabbath is a sign of belonging to God and a weekly taste of the rest he promises; Jesus kept it and showed that doing good fulfils it.",
+      "skeleton": [
+        "Two roots: Creation rest and Exodus freedom",
+        "From sunset to sunset: how a Sabbath unfolds",
+        "What counts as 'work'? The later list of 39",
+        "Jesus on the Sabbath: six Gospel scenes",
+        "A sign and a foretaste of rest to come"
+      ],
+      "sections": [
+        {"h": "Two roots: Creation and Exodus", "p": [
+          "The Sabbath (*Shabbat*, from a Hebrew root meaning 'to stop, to cease') begins in the first pages of the Bible: God finished his work and 'rested on the seventh day', and he blessed it and made it holy (Gen 2:2–3). The Ten Commandments tell Israel to remember it because God rested after making the world (Ex 20:8–11).",
+          "Deuteronomy gives a second reason: 'Remember that you were a slave in Egypt… therefore the LORD your God commanded you to keep the Sabbath day' (Deut 5:12–15). Slaves never get a day off; free people do. So the Sabbath is both worship of the Creator and a weekly celebration of freedom — even for servants, foreigners and animals."
+        ]},
+        {"h": "From sunset to sunset", "p": [
+          "In the Bible a day runs from evening to evening ('there was evening and there was morning', Gen 1:5; compare Lev 23:32; Neh 13:19). So the Sabbath begins at sunset on Friday and ends at nightfall on Saturday. Friday is 'the day of Preparation' (Mark 15:42): food is cooked and lamps are made ready beforehand.",
+          "Jewish homes welcome the Sabbath with lamps (today candles), a blessing over wine called *Kiddush* ('sanctification'), bread and a festive family meal. Saturday brings the synagogue, Scripture reading and rest. At nightfall a short farewell ceremony, *Havdalah* ('separation'), marks the end. Lamps and Kiddush are early customs; the exact blessings and the Havdalah ritual as practised today developed later."
+        ]},
+        {"h": "What counts as 'work'?", "p": [
+          "The Torah forbids 'work' (*melakhah*) on the Sabbath but gives only a few examples: gathering manna (Ex 16:29), kindling fire (Ex 35:3), ploughing and harvesting (Ex 34:21), carrying loads (Jer 17:21–22). Later teachers built fences around the command so that no one would break it by accident.",
+          "The Mishnah (written down about AD 200) lists 39 main categories of work, such as sowing, reaping, threshing, kneading, baking, writing two letters, lighting a fire and carrying from one domain to another (Mishnah Shabbat 7:2). The rabbis linked the list to the work done to build the Tabernacle (Ex 31:12–17 follows the Tabernacle instructions). This is a later rabbinic list, but the debates behind it were already alive in Jesus' day. A 'Sabbath day's journey' (Acts 1:12) was about 2,000 cubits — roughly one kilometre."
+        ]},
+        {"h": "Jesus and the Sabbath", "p": [
+          "Jesus went to synagogue 'as was his custom' on the Sabbath (Luke 4:16). The arguments were never about whether to keep it but how. When his disciples plucked grain, he pointed to David eating the holy bread and said, 'The Sabbath was made for man, not man for the Sabbath. So the Son of Man is Lord even of the Sabbath' (Mark 2:23–28). A later rabbinic commentary has a similar saying: 'The Sabbath is given to you, not you to the Sabbath' (Mekhilta on Ex 31:14).",
+          "He healed on the Sabbath again and again: a man's withered hand (Mark 3:1–6), a woman bent for eighteen years (Luke 13:10–17), a lame man at Bethesda (John 5) and a man born blind (John 9). Jewish teaching already agreed that saving a life overrides the Sabbath (Mishnah Yoma 8:6). Jesus went further: 'Is it lawful on the Sabbath to do good or to do harm?' (Mark 3:4). Freeing people from illness is exactly what a day of freedom is for."
+        ]},
+        {"h": "A sign and a foretaste", "p": [
+          "God calls the Sabbath 'a sign between me and you… that you may know that I, the LORD, sanctify you' (Ex 31:13). Jewish tradition calls it a foretaste of the world to come (Talmud Berakhot 57b: 'the Sabbath is one-sixtieth of the world to come').",
+          "Hebrews takes up this hope: 'There remains a Sabbath rest for the people of God' (Heb 4:9–10). Early believers met on 'the first day of the week', the day of the resurrection (Acts 20:7), and Christians have differed on how the Sabbath command applies to them (Rom 14:5; Col 2:16–17). All agree on its heart: rest from striving, trust in God, and time for him and for others."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "compare", "title": "Two reasons for one day", "after": 0,
+          "note": "Exodus and Deuteronomy give two reasons; together they show the Sabbath as worship and as freedom.",
+          "left": {"label": "Remember — Creation (Ex 20:8–11)", "items": ["God rested on the seventh day (Gen 2:2–3)", "Looks back to the making of the world", "Rest imitates the Creator", "Every creature shares the rhythm of creation", "Echo: God is still at work giving life (John 5:17)"]},
+          "right": {"label": "Observe — Exodus (Deut 5:12–15)", "items": ["You were slaves in Egypt and God freed you", "Looks back to rescue from slavery", "Rest celebrates freedom", "Servants, foreigners and animals must rest too", "Echo: Jesus frees a woman 'bound' on the Sabbath (Luke 13:16)"]}
+        },
+        {"type": "timeline", "title": "One Sabbath: Friday afternoon to Saturday night", "after": 1,
+          "note": "Early elements are attested in the Bible and the Mishnah; the exact blessings used today took shape later.",
+          "events": [
+            {"when": "Friday afternoon", "t": "The day of Preparation", "d": "Food cooked, lamps filled, work finished. Jesus was buried quickly before the Sabbath began (Mark 15:42–46; Luke 23:54)."},
+            {"when": "Before sunset", "t": "Lamps lit", "d": "Lighting the Sabbath lamp is an early custom (Mishnah Shabbat 2); today candles are lit with a blessing (later form)."},
+            {"when": "Friday evening", "t": "Kiddush and the family meal", "d": "A blessing over wine makes the day holy; bread is shared and the family eats together. Compare Jesus at Sabbath meals (Luke 14:1)."},
+            {"when": "Saturday morning", "t": "Synagogue", "d": "Prayers, Torah and Prophets read, a teaching given (Luke 4:16–21; Acts 13:14–15)."},
+            {"when": "Saturday afternoon", "t": "Rest, study, visiting", "d": "A relaxed meal, study and walks — but no more than 'a Sabbath day's journey' (Acts 1:12)."},
+            {"when": "Nightfall (three stars)", "t": "Havdalah", "d": "A farewell blessing with wine, spices and a flame separates holy time from the working week (later ritual form)."},
+            {"when": "Saturday night", "t": "The week begins", "d": "When the sun had set, crowds brought the sick to Jesus — the Sabbath was over (Mark 1:32)."}
+          ]
+        },
+        {"type": "table", "title": "Scripture rule, later practice, Jesus' response", "after": 2,
+          "note": "The 'later practice' column comes mostly from the Mishnah (c. AD 200), which preserves older debates.",
+          "cols": ["", "Scripture rule", "Later practice", "Jesus' response"],
+          "rows": [
+            {"h": "Harvest", "cells": ["No ploughing or harvesting (Ex 34:21)", "Reaping and threshing are two of the 39 works", "David ate holy bread; 'Sabbath made for man' (Mark 2:23–28)"]},
+            {"h": "Healing", "cells": ["No direct rule", "Saving life overrides Sabbath (Yoma 8:6); minor cures debated", "'Lawful to do good' — heals a withered hand (Mark 3:1–6)"]},
+            {"h": "Animals", "cells": ["Ox and donkey must rest too (Deut 5:14)", "Untying and watering animals allowed", "'You untie your ox… should she not be loosed?' (Luke 13:15–16)"]},
+            {"h": "Carrying", "cells": ["Carry no load on the Sabbath (Jer 17:21)", "Carrying between domains is one of the 39", "'Take up your mat and walk' (John 5:8–10)"]},
+            {"h": "Kneading", "cells": ["Bake beforehand (Ex 16:23)", "Kneading is one of the 39 works", "Makes mud and heals a blind man (John 9:6, 14)"]},
+            {"h": "Travel", "cells": ["'Let no one go out of his place' (Ex 16:29)", "About 2,000 cubits (~1 km) limit", "Disciples walk from the Mount of Olives (Acts 1:12)"]}
+          ]
+        },
+        {"type": "cards", "title": "Six Sabbath scenes in the Gospels", "after": 3,
+          "cards": [
+            {"t": "Nazareth synagogue", "front": "Jesus stands up to read on the Sabbath.", "back": "As was his custom, Jesus went to the synagogue on the Sabbath, read from Isaiah 61 and sat down to teach: 'Today this Scripture has been fulfilled' — liberty for captives.", "source": "Luke 4:16–21", "echo": "The Sabbath's freedom theme (Deut 5:15) meets Jesus' mission."},
+            {"t": "Grain fields", "front": "Hungry disciples pluck grain.", "back": "Some Pharisees counted plucking as reaping. Jesus answered with David eating the bread of the Presence and declared that the Sabbath was made for man.", "source": "Mark 2:23–28", "echo": "Human need comes before a fence around the law."},
+            {"t": "The withered hand", "front": "In the synagogue, all eyes watch Jesus.", "back": "Jesus asked whether it is lawful to do good or harm, to save life or kill, on the Sabbath. They were silent. He healed the man with a word.", "source": "Mark 3:1–6", "echo": "No 'work' was done — only a command and a healing."},
+            {"t": "The bent woman", "front": "Bound for eighteen years.", "back": "Jesus laid hands on her and she stood straight. To the synagogue ruler he said: you untie your animals on the Sabbath; should not this daughter of Abraham be untied?", "source": "Luke 13:10–17", "echo": "A 'lesser to greater' argument, a common Jewish way of reasoning."},
+            {"t": "Pool of Bethesda", "front": "Thirty-eight years by the water.", "back": "Jesus told the man to take up his mat and walk. Carrying the mat caused a dispute. Jesus said, 'My Father is working until now, and I am working.'", "source": "John 5:1–18", "echo": "God never stops giving life, even on the Sabbath."},
+            {"t": "The man born blind", "front": "Mud, spittle and a pool.", "back": "Jesus made mud, put it on the man's eyes and sent him to wash in Siloam. Making mud looked like kneading, so some said he could not be from God.", "source": "John 9:1–16", "echo": "The light of the world (John 9:5) on the day of rest."}
+          ]
+        },
+        {"type": "cycle", "title": "The weekly rhythm", "after": 4, "center": "Six days", "center2": "+ one day of rest",
+          "nodes": [
+            {"t": "Six days of work", "d": "'Six days you shall labour and do all your work' (Ex 20:9). Work is good, but not endless."},
+            {"t": "Preparation day", "d": "Friday: food and lamps are made ready (Mark 15:42)."},
+            {"t": "Sabbath begins", "d": "At sunset: lamps, Kiddush and the family meal."},
+            {"t": "Rest and worship", "d": "Synagogue, Scripture, prayer, rest and doing good (Luke 4:16; Mark 3:4)."},
+            {"t": "Havdalah", "d": "At nightfall holy time is separated from ordinary time (later ritual form)."},
+            {"t": "First day of the week", "d": "The day of the resurrection (Mark 16:2); early believers met on it (Acts 20:7)."}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Genesis 2:3", "text": "So God blessed the seventh day and made it holy, because on it God rested from all his work."},
+        {"ref": "Deuteronomy 5:15", "text": "You shall remember that you were a slave in the land of Egypt, and the LORD your God brought you out from there."},
+        {"ref": "Mark 2:27", "text": "The Sabbath was made for man, not man for the Sabbath."},
+        {"ref": "Hebrews 4:9", "text": "So then, there remains a Sabbath rest for the people of God."}
+      ],
+      "keyPoints": [
+        "The Sabbath has two roots: God's rest at Creation and Israel's freedom from slavery.",
+        "It runs from Friday sunset to Saturday nightfall, with lamps, blessing, meal, synagogue and rest.",
+        "The 39 categories of work are a later rabbinic list linked to building the Tabernacle.",
+        "Jesus kept the Sabbath and healed on it, teaching that it was made for people and for doing good.",
+        "The Sabbath is a sign of belonging to God and a foretaste of the rest to come (Heb 4:9–10)."
+      ],
+      "reflect": [
+        "Which reason for rest speaks to you more today: God the Creator, or God the Liberator?",
+        "What would it look like for your day of rest to be a day of doing good to others?"
+      ],
+      "quiz": [
+        {"q": "When does the Jewish Sabbath begin?", "options": ["At sunset on Friday", "At midnight on Saturday", "At sunrise on Saturday", "At noon on Friday"], "a": 0, "why": "Biblical days run from evening to evening, so the Sabbath begins at Friday sunset."},
+        {"q": "What second reason for the Sabbath does Deuteronomy 5:15 give?", "options": ["The giving of manna", "The building of the Temple", "Israel's freedom from slavery in Egypt", "The flood in Noah's day"], "a": 2, "why": "'Remember that you were a slave in Egypt' — the Sabbath celebrates freedom."},
+        {"q": "Where does the list of 39 categories of Sabbath work come from?", "options": ["The Ten Commandments", "The Mishnah, a later rabbinic work", "The Gospel of Mark", "The book of Leviticus"], "a": 1, "why": "Mishnah Shabbat 7:2 lists 39 categories, linked by the rabbis to the Tabernacle work."},
+        {"q": "What did Jesus say after the grain-field dispute?", "options": ["The Sabbath is abolished", "Only priests may work on the Sabbath", "Keep the Sabbath more strictly", "The Sabbath was made for man, not man for the Sabbath"], "a": 3, "why": "Mark 2:27 — the Sabbath is a gift for people's good."}
+      ],
+      "terms": [
+        {"term": "Shabbat", "def": "The Sabbath; from a Hebrew root meaning 'to stop, to cease'."},
+        {"term": "Kiddush", "def": "'Sanctification': the blessing over wine that welcomes the Sabbath."},
+        {"term": "Havdalah", "def": "'Separation': the short ceremony that ends the Sabbath at nightfall (later ritual form)."},
+        {"term": "Day of Preparation", "def": "Friday, when food and lamps are made ready before the Sabbath (Mark 15:42)."},
+        {"term": "Sabbath day's journey", "def": "The distance one could walk on the Sabbath, about 2,000 cubits or roughly 1 km (Acts 1:12)."}
+      ],
+      "related": ["b-feasts", "b-practices", "b-prayers", "b-meal", "s-sanctify", "b-festivals"]
+    },
+    {
+      "id": "b-purity", "book": "world", "order": 260, "num": 26,
+      "title": "Clean and Unclean: Purity and Food Laws",
+      "subtitle": "Why touching a leper or a coffin mattered — and what Jesus did",
+      "nutshell": "In the Bible 'clean' (*tahor*) and 'unclean' (*tamei*) describe a ritual state, not sin or dirt. Contact with death, skin disease, bodily discharges and certain animals made a person unclean for a time; washing, waiting and offerings restored them. Jesus touched the unclean — and instead of becoming impure, he made them clean.",
+      "bigIdea": "Purity laws taught Israel how to approach the holy God; in Jesus holiness flows outward and makes the unclean clean.",
+      "skeleton": [
+        "Clean and unclean: a state, not a sin",
+        "Sources of impurity and the way back",
+        "Kosher food: clean and unclean animals",
+        "Zones of holiness",
+        "Jesus touches the unclean; the church welcomes Gentiles"
+      ],
+      "sections": [
+        {"h": "A state, not a sin", "p": [
+          "Priests had to 'distinguish between the holy and the common, and between the unclean and the clean' (Lev 10:10). *Tahor* (clean) means fit to come near the sanctuary and holy things; *tamei* (unclean) means not fit for now. It is not the same as being sinful or dirty.",
+          "Burying a parent, giving birth or caring for the sick could make you unclean — yet these are good and even commanded acts. Impurity was mostly linked with death and the loss of life (blood, discharges, decay), while the holy God is the living God. The laws taught Israel, in their bodies, that life belongs with God."
+        ]},
+        {"h": "Sources of impurity and the way back", "p": [
+          "The main sources were: a human corpse, the strongest impurity (Num 19:11); the skin disease *tzara'at*, often translated 'leprosy' but covering several conditions (Lev 13–14); bodily discharges and childbirth (Lev 12; 15); and the carcasses of certain animals (Lev 11:24–40).",
+          "The way back was set out clearly: wait (often 'until evening' or seven days), wash clothes and bathe in water, and for some cases bring an offering (Lev 12:6–8; 14). Corpse impurity needed water mixed with the ashes of a red heifer, sprinkled on the third and seventh days (Num 19). By Jesus' day many Jews used stepped immersion pools (later called *mikveh*) and stone jars, since stone was thought not to become impure (compare John 2:6)."
+        ]},
+        {"h": "Kosher food", "p": [
+          "Leviticus 11 and Deuteronomy 14 list which animals Israel may eat. Land animals must have split hooves and chew the cud (cattle, sheep, goats, deer, but not pigs or camels); water creatures must have fins and scales; most birds of prey are forbidden; among insects only certain locusts are allowed (Lev 11:22 — compare John the Baptist, Mark 1:6). Blood must never be eaten, for 'the life of the flesh is in the blood' (Lev 17:10–14).",
+          "The command 'Do not boil a young goat in its mother's milk' (Ex 23:19; 34:26; Deut 14:21) was later developed by the rabbis into a full separation of meat and dairy foods (Mishnah Chullin 8). That separation is a later rabbinic development, not a biblical rule. The word *kosher* itself means 'fit, proper'."
+        ]},
+        {"h": "Zones of holiness", "p": [
+          "Holiness was pictured in rings: outside the camp, the camp, the Tabernacle court, the Holy Place and the Holy of Holies. People with severe impurity stayed outside the camp (Num 5:2–3); only priests entered the Holy Place; only the High Priest entered the inmost room, once a year (Lev 16).",
+          "The Mishnah later describes ten levels of holiness from the Land of Israel inward to the Holy of Holies (Mishnah Kelim 1:6–9). The closer to God's presence, the more purity was needed. Impurity was thought to spread by contact, like a stain moving inward."
+        ]},
+        {"h": "Jesus: holiness flows outward", "p": [
+          "In the Gospels the direction is reversed. Jesus touches a man with skin disease — and the man becomes clean (Mark 1:40–42). A woman with twelve years of bleeding touches his garment and is healed (Mark 5:25–34; compare Lev 15:25). He takes a dead girl by the hand and raises her (Mark 5:41). Holiness flows out from him and overcomes impurity.",
+          "In Mark 7:1–23 Jesus teaches that what defiles a person comes from the heart, and Mark adds, 'Thus he declared all foods clean' (7:19). Peter's vision (Acts 10) taught him not to call any person unclean, and the Jerusalem council asked Gentile believers only to avoid idol food, sexual immorality, strangled meat and blood (Acts 15:20), so Jews and Gentiles could share one table."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "spectrum", "title": "From impure to pure to holy", "after": 0,
+          "note": "Leviticus 10:10 names two pairs: unclean/clean and common/holy. Clean is the normal state; holy is set apart for God.",
+          "left": "Unclean (tamei)", "right": "Holy (kadosh)",
+          "points": [
+            {"t": "Corpse contact", "pos": 4},
+            {"t": "Skin disease", "pos": 14},
+            {"t": "Discharge, childbirth", "pos": 26},
+            {"t": "Until evening", "pos": 38},
+            {"t": "Clean and common", "pos": 52},
+            {"t": "Holy food, offerings", "pos": 68},
+            {"t": "Priests in the Holy Place", "pos": 82},
+            {"t": "Holy of Holies", "pos": 96}
+          ]
+        },
+        {"type": "flow", "title": "From impure to pure", "after": 1,
+          "note": "Steps differ by case; the overall pattern is waiting, washing and, in some cases, an offering.",
+          "steps": [
+            {"t": "Becoming unclean", "d": "Contact with a corpse, skin disease, discharge, childbirth or an unclean carcass (Lev 11–15; Num 19)."},
+            {"t": "Separation", "d": "Keep away from the sanctuary and holy food; severe cases live outside the camp (Lev 13:46; Num 5:2–3)."},
+            {"t": "Waiting", "d": "Until evening, seven days, or longer after childbirth (Lev 12; 15)."},
+            {"t": "Sprinkling (for corpse impurity)", "d": "Water with red heifer ashes on the third and seventh days (Num 19:17–19)."},
+            {"t": "Washing", "d": "Wash clothes and bathe the body in water (Lev 15:13); later in a stepped pool (mikveh)."},
+            {"t": "Offering (some cases)", "d": "After childbirth or skin disease: lambs or birds (Lev 12:8; 14; Luke 2:22–24; Mark 1:44)."},
+            {"t": "Clean again", "d": "Free to enter the Temple courts and eat holy food."}
+          ]
+        },
+        {"type": "table", "title": "Clean and unclean animals", "after": 2,
+          "note": "Lev 11; Deut 14. Bird 'signs' are not given in the Torah, only a list of forbidden birds.",
+          "cols": ["", "Sign of clean", "Clean examples", "Unclean examples"],
+          "rows": [
+            {"h": "Land animals", "cells": ["Split hoof and chews the cud", "Ox, sheep, goat, deer", "Pig, camel, rock badger, hare"]},
+            {"h": "Water creatures", "cells": ["Fins and scales", "Most fish", "Shellfish, creatures without scales"]},
+            {"h": "Birds", "cells": ["Not on the forbidden list", "Dove, pigeon, quail", "Eagle, vulture, raven, owl"]},
+            {"h": "Insects", "cells": ["Jointed legs for leaping", "Locust, grasshopper (Lev 11:22)", "Most crawling insects"]},
+            {"h": "All meat", "cells": ["Blood drained out (Lev 17:10–14)", "Properly slaughtered animals", "Blood, strangled animals (Acts 15:20)"]}
+          ]
+        },
+        {"type": "layers", "title": "Zones of holiness", "after": 3,
+          "note": "From the outside in. The Mishnah later counts ten levels (Kelim 1:6–9).",
+          "layers": [
+            {"t": "Outside the camp", "d": "Place for severe impurity, and for the scapegoat (Lev 13:46; 16:21–22). Jesus 'suffered outside the gate' (Heb 13:12)."},
+            {"t": "The camp / the holy city", "d": "Where Israel lives; impurity is kept out (Num 5:2–3)."},
+            {"t": "Tabernacle court", "d": "Clean Israelites bring offerings at the altar."},
+            {"t": "Holy Place", "d": "Only priests: lampstand, table of bread, incense altar (Luke 1:8–9)."},
+            {"t": "Holy of Holies", "d": "The High Priest alone, once a year (Lev 16); the veil torn at Jesus' death (Mark 15:38)."}
+          ]
+        },
+        {"type": "cards", "title": "Gospel scenes about purity", "after": 4,
+          "cards": [
+            {"t": "The leper", "front": "'If you will, you can make me clean.'", "back": "A man with skin disease kneels. Jesus, moved with compassion, touches him — and he is cleansed. Jesus then sends him to the priest with the offering Moses commanded.", "source": "Mark 1:40–44; Lev 14", "echo": "Touch that should spread impurity spreads cleansing instead."},
+            {"t": "The bleeding woman", "front": "Twelve years unclean.", "back": "A discharge of blood made her unclean (Lev 15:25). She touched the fringe of his cloak and was healed. Jesus called her 'Daughter' and sent her in peace.", "source": "Mark 5:25–34; Matt 9:20", "echo": "Restored to body, family and worship."},
+            {"t": "Jairus' daughter", "front": "A dead girl's hand.", "back": "A corpse was the strongest impurity. Jesus took the girl by the hand and said, 'Talitha cumi' — 'Little girl, arise' — and she got up.", "source": "Mark 5:35–43", "echo": "Life overcomes death's impurity."},
+            {"t": "The widow's son", "front": "Jesus touches the bier.", "back": "At Nain Jesus stopped a funeral, touched the open bier and raised the young man, giving him back to his mother.", "source": "Luke 7:11–15", "echo": "Compassion for a widow who had lost everything."},
+            {"t": "Washing hands", "front": "Why don't your disciples wash?", "back": "Pharisees asked about ritual hand-washing, a 'tradition of the elders'. Jesus taught that evil thoughts from the heart defile a person, not food.", "source": "Mark 7:1–23", "echo": "Mark: 'Thus he declared all foods clean' (7:19)."},
+            {"t": "Peter's vision", "front": "A sheet full of animals.", "back": "Peter saw unclean animals and heard, 'What God has made clean, do not call common.' He then entered a Gentile's house: God had shown him not to call any person unclean.", "source": "Acts 10:9–28", "echo": "One table for Jews and Gentiles (Acts 15:20)."}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Leviticus 10:10", "text": "You are to distinguish between the holy and the common, and between the unclean and the clean."},
+        {"ref": "Leviticus 17:11", "text": "For the life of the flesh is in the blood."},
+        {"ref": "Mark 1:41", "text": "Moved with pity, he stretched out his hand and touched him and said, 'I will; be clean.'"},
+        {"ref": "Acts 10:15", "text": "What God has made clean, do not call common."}
+      ],
+      "keyPoints": [
+        "Clean and unclean (tahor/tamei) describe a ritual state, not sin or dirt.",
+        "Main sources of impurity: corpses, skin disease, bodily discharges and certain animals.",
+        "Purity was restored by waiting, washing and sometimes an offering; the red heifer ashes cleansed corpse impurity.",
+        "Kosher food rules come from Lev 11 and Deut 14; the full meat-and-milk separation is a later rabbinic development.",
+        "Jesus touched the unclean and made them clean; Acts 10 and 15 open the table to Gentiles."
+      ],
+      "reflect": [
+        "Who do people today treat as 'untouchable', and how might Jesus' touch change that?",
+        "Mark 7 says defilement comes from the heart. What needs cleansing in your heart today?"
+      ],
+      "quiz": [
+        {"q": "In the Bible, what does 'unclean' (tamei) mainly mean?", "options": ["Physically dirty", "Guilty of a serious sin", "In a ritual state not fit to approach holy things", "Born outside Israel"], "a": 2, "why": "Impurity is a temporary ritual state; even good acts like burying the dead caused it."},
+        {"q": "What cleansed impurity from a corpse?", "options": ["Water with the ashes of a red heifer", "A prayer at sunset", "Fasting for three days", "Oil poured on the head"], "a": 0, "why": "Numbers 19 prescribes sprinkling on the third and seventh days."},
+        {"q": "Which land animals are clean according to Leviticus 11?", "options": ["Those with paws", "Those with split hooves that chew the cud", "Any animal raised on a farm", "Only animals without horns"], "a": 1, "why": "Both signs are needed; the pig has split hooves but does not chew the cud."},
+        {"q": "What happened when the bleeding woman touched Jesus?", "options": ["Jesus became unclean and left", "She was rebuked by the crowd and sent away", "Jesus sent her to wait until evening", "She was healed and Jesus called her 'Daughter'"], "a": 3, "why": "Mark 5:25–34: power went out from him and she was healed."}
+      ],
+      "terms": [
+        {"term": "Tahor / Tamei", "def": "Clean / unclean: fit or not yet fit to approach the sanctuary and holy things."},
+        {"term": "Tzara'at", "def": "A skin disease (also affecting cloth and walls) in Lev 13–14, often translated 'leprosy'."},
+        {"term": "Red heifer", "def": "A cow whose ashes, mixed with water, cleansed impurity from contact with the dead (Num 19)."},
+        {"term": "Mikveh", "def": "A stepped pool for ritual immersion (later term); many have been found from Jesus' time."},
+        {"term": "Kosher", "def": "'Fit, proper': food allowed by the Torah's food laws (Lev 11; Deut 14)."}
+      ],
+      "related": ["s-sanctify", "w-kadosh", "b-temple", "s-sacrifice", "b-practices", "b-life"]
+    },
+    {
+      "id": "b-dress", "book": "world", "order": 270, "num": 27,
+      "title": "Dress and Signs: Clothing in the Bible",
+      "subtitle": "Tunics, cloaks, tassels and torn garments",
+      "nutshell": "Clothes in the Bible speak: a tunic and cloak, tassels with a blue thread, priestly robes, sackcloth for grief, a torn garment, a prophet's mantle. Knowing what people wore explains many Gospel scenes — from the woman who touched Jesus' fringe to the seamless tunic at the cross.",
+      "bigIdea": "In Scripture clothing is a sign — of identity, memory, grief, calling and grace — and the Gospels use these signs to show who Jesus is.",
+      "skeleton": [
+        "Tunic and cloak: everyday dress",
+        "Tassels, a blue thread and tefillin",
+        "Priests' garments",
+        "Clothes that speak: sackcloth, tearing, mantles",
+        "Garments in the Gospels"
+      ],
+      "sections": [
+        {"h": "Tunic and cloak", "p": [
+          "Most people wore two main garments. The tunic (Hebrew *kuttonet*, Greek *chitōn*) was worn next to the body; the cloak (*simlah*, Greek *himation*) was a heavy outer wrap that also served as a blanket at night. That is why a poor man's cloak taken as a pledge had to be returned before sunset (Ex 22:26–27).",
+          "Jesus says, 'If anyone would sue you and take your tunic, let him have your cloak as well' (Matt 5:40) — giving up even what the law protected. Joseph's special *kuttonet* (Gen 37:3) is famous as the 'coat of many colours' from the Greek translation; the Hebrew phrase is uncertain and may mean a long robe with sleeves."
+        ]},
+        {"h": "Tassels, a blue thread and tefillin", "p": [
+          "God told Israel to put tassels (*tzitzit*) on the corners (*kanfei*, literally 'wings') of their garments, with a cord of blue, 'so that you may look at it and remember all the commandments' (Num 15:38–39; Deut 22:12). The sick begged to touch 'the fringe of his garment' (Matt 9:20; 14:36) — so Jesus wore tassels like every faithful Jewish man.",
+          "*Tefillin* (phylacteries) are small leather boxes holding Scripture passages, worn on the arm and forehead, from Deut 6:8 'bind them as a sign on your hand'. Jesus criticised those who 'make their phylacteries broad and their fringes long' to be seen (Matt 23:5) — not the signs themselves. The separate 'prayer shawl' (*tallit*) as worn today is a later development of the tasselled cloak."
+        ]},
+        {"h": "Priests' garments", "p": [
+          "Exodus 28 describes garments 'for glory and for beauty': linen tunic, sash and turban for the priests; for the High Priest also a blue robe with bells and pomegranates, the ephod, a breastpiece with twelve stones bearing the tribes' names, and a gold plate reading 'Holy to the LORD'. The High Priest carried the people on his shoulders and over his heart before God (Ex 28:12, 29).",
+          "Hebrews presents Jesus as the great High Priest (Heb 4:14). Josephus describes the High Priest's robe as woven in one piece, and some readers link this to Jesus' seamless tunic (John 19:23) — an attractive but uncertain connection."
+        ]},
+        {"h": "Clothes that speak", "p": [
+          "Grief and repentance were shown in dress: tearing garments (Jacob, Gen 37:34; David, 2 Sam 1:11) and wearing sackcloth with ashes (the king of Nineveh, Jonah 3:6). Jesus said Tyre and Sidon would have repented 'in sackcloth and ashes' (Matt 11:21). At Jesus' trial the High Priest tore his garments at what he judged blasphemy (Mark 14:63).",
+          "A mantle could pass on a calling: Elijah threw his mantle over Elisha (1 Kings 19:19), and when Elijah was taken up, Elisha picked it up and struck the Jordan (2 Kings 2:13–14). John the Baptist, dressed like Elijah in camel hair with a leather belt (2 Kings 1:8; Mark 1:6), came 'in the spirit and power of Elijah' (Luke 1:17)."
+        ]},
+        {"h": "Garments in the Gospels", "p": [
+          "In the parable of the wedding feast a guest without a wedding garment is put out (Matt 22:11–13): the king's invitation is free, but it calls for a fitting response. At the cross the soldiers cast lots for Jesus' seamless tunic, fulfilling Ps 22:18 (John 19:23–24).",
+          "Head covering: priests wore turbans, but the Bible gives no general rule for men; the Jewish custom of the *kippah* is much later. Paul's teaching on head coverings in worship (1 Cor 11:2–16) addresses the customs of Corinth and is read in different ways by Christians. Malachi's 'healing in its wings' (Mal 4:2) is popularly linked to Jesus' tassels; this is a devotional link, not one the Gospel writers make."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "cards", "title": "Eight garments and what they meant", "after": 0,
+          "cards": [
+            {"t": "Tunic (kuttonet)", "front": "The inner garment.", "back": "A long shirt-like garment of wool or linen, worn by everyone next to the body.", "source": "Gen 3:21; Gen 37:3", "echo": "Jesus' seamless tunic (John 19:23)."},
+            {"t": "Cloak (simlah)", "front": "Coat by day, blanket by night.", "back": "The outer wrap. If taken as a pledge from a poor man it had to be returned at sunset so he could sleep in it.", "source": "Ex 22:26–27", "echo": "'Let him have your cloak as well' (Matt 5:40)."},
+            {"t": "Tassels (tzitzit)", "front": "A blue thread on four corners.", "back": "Tassels with a blue cord on the garment's corners, to look at and remember God's commands.", "source": "Num 15:38–39; Deut 22:12", "echo": "The sick touched the fringe of Jesus' garment (Matt 14:36)."},
+            {"t": "Tefillin", "front": "Scripture bound on arm and head.", "back": "Small boxes with passages such as the Shema, worn in prayer, from 'bind them as a sign on your hand'.", "source": "Deut 6:8", "echo": "Jesus warns against making them broad for show (Matt 23:5)."},
+            {"t": "Priestly garments", "front": "For glory and beauty.", "back": "Linen tunics, sash, turban; for the High Priest a blue robe, ephod, breastpiece of twelve stones and a gold plate 'Holy to the LORD'.", "source": "Ex 28", "echo": "Jesus our great High Priest (Heb 4:14)."},
+            {"t": "Sackcloth", "front": "Rough cloth for grief.", "back": "Coarse goat-hair cloth worn with ashes in mourning or repentance.", "source": "Jonah 3:6", "echo": "'They would have repented long ago in sackcloth and ashes' (Matt 11:21)."},
+            {"t": "Joseph's coat", "front": "A father's favour.", "back": "Jacob gave Joseph a special robe; his brothers hated him, stripped it off and dipped it in blood to deceive their father.", "source": "Gen 37:3, 23, 31–34", "echo": "The beloved son rejected by his brothers — a pattern seen in Jesus' story."},
+            {"t": "Elijah's mantle", "front": "A calling handed on.", "back": "Elijah's cloak fell to Elisha, who struck the Jordan with it and the waters parted.", "source": "1 Kings 19:19; 2 Kings 2:13–14", "echo": "John the Baptist came in Elijah's spirit and dress (Luke 1:17; Mark 1:6)."}
+          ]
+        },
+        {"type": "interlinear", "title": "Kanaf — 'wing' and 'corner of a garment'", "lang": "he", "after": 1,
+          "note": "The Hebrew kanaf means both a bird's wing and the corner or edge of a garment. Words shown from Numbers 15:38.",
+          "words": [
+            {"w": "וְעָשׂוּ", "g": "and they shall make"},
+            {"w": "לָהֶם", "g": "for themselves"},
+            {"w": "צִיצִת", "g": "a tassel"},
+            {"w": "עַל־כַּנְפֵי", "g": "on the corners (wings) of"},
+            {"w": "בִגְדֵיהֶם", "g": "their garments"}
+          ],
+          "readings": [
+            {"label": "Numbers 15:38", "text": "Make **tassels on the corners** (kanfei) of their garments… with a cord of blue.", "note": "The command behind the tzitzit."},
+            {"label": "Ruth 3:9", "text": "**Spread your wing** (kanaf) over your servant, for you are a redeemer.", "note": "Covering with the garment's corner = a pledge of protection and marriage; compare 'under whose wings' (Ruth 2:12)."},
+            {"label": "Malachi 4:2 (Hebrew 3:20)", "text": "The sun of righteousness shall rise **with healing in its wings** (kanafeha).", "note": "The 'wings' are the sun's rays. Linking this to Jesus' tassels is a popular devotional idea, not a Gospel teaching."}
+          ]
+        },
+        {"type": "table", "title": "Clothes as signs", "after": 2,
+          "cols": ["", "Old Testament root", "Meaning", "New Testament scene"],
+          "rows": [
+            {"h": "Tassels", "cells": ["Num 15:38–39", "Remember and obey God's commands", "Woman touches Jesus' fringe (Matt 9:20)"]},
+            {"h": "Tefillin", "cells": ["Deut 6:8", "God's word on hand and mind", "Broad phylacteries for show (Matt 23:5)"]},
+            {"h": "Priestly robes", "cells": ["Ex 28", "Holiness; carrying the people before God", "Jesus the High Priest (Heb 4:14)"]},
+            {"h": "Tearing clothes", "cells": ["Gen 37:34; 2 Sam 1:11", "Grief or shock", "High Priest tears his robes (Mark 14:63)"]},
+            {"h": "Sackcloth and ashes", "cells": ["Jonah 3:6", "Mourning and repentance", "Tyre and Sidon would repent (Matt 11:21)"]},
+            {"h": "Mantle", "cells": ["2 Kings 2:13", "A calling passed on", "John in Elijah's spirit (Luke 1:17)"]},
+            {"h": "Wedding garment", "cells": ["Isa 61:10 'garments of salvation'", "A fitting response to grace", "Guest without a garment (Matt 22:11)"]}
+          ]
+        },
+        {"type": "flow", "title": "Elijah's mantle: a calling handed on", "after": 3,
+          "steps": [
+            {"t": "The call", "d": "Elijah throws his mantle over Elisha while he ploughs (1 Kings 19:19)."},
+            {"t": "Following", "d": "Elisha leaves his oxen and serves Elijah (1 Kings 19:21)."},
+            {"t": "The departure", "d": "Elijah is taken up in a whirlwind (2 Kings 2:11)."},
+            {"t": "The mantle falls", "d": "Elisha picks it up and strikes the Jordan; the waters part (2 Kings 2:13–14)."},
+            {"t": "Recognition", "d": "'The spirit of Elijah rests on Elisha' (2 Kings 2:15)."},
+            {"t": "New Testament echo", "d": "John the Baptist wears Elijah's dress and comes in his spirit (Mark 1:6; Luke 1:17)."}
+          ]
+        },
+        {"type": "compare", "title": "Clothing as reminder vs clothing as display", "after": 4,
+          "note": "Jesus wore tassels himself; his warning was about the heart behind them.",
+          "left": {"label": "A reminder (Num 15:39)", "items": ["Look at the tassels and remember", "Worn by Jesus (Matt 9:20)", "Points the wearer to God's commands", "Humble, ordinary, daily", "Faith that touches the fringe and is healed"]},
+          "right": {"label": "A display (Matt 23:5)", "items": ["Make fringes long to be seen", "Criticised by Jesus", "Points others to the wearer", "Showy, for status", "Religion that seeks the place of honour"]}
+        }
+      ],
+      "verses": [
+        {"ref": "Numbers 15:39", "text": "It shall be a tassel for you to look at and remember all the commandments of the LORD."},
+        {"ref": "Matthew 9:20–21", "text": "She came up behind him and touched the fringe of his garment, for she said, 'If I only touch his garment, I will be made well.'"},
+        {"ref": "2 Kings 2:13", "text": "He took up the cloak of Elijah that had fallen from him."},
+        {"ref": "John 19:23", "text": "But the tunic was seamless, woven in one piece from top to bottom."}
+      ],
+      "keyPoints": [
+        "Everyday dress was a tunic and a cloak; the cloak was also a poor man's blanket (Ex 22:26–27).",
+        "Tassels with a blue thread reminded Israel of God's commands; Jesus wore them.",
+        "Tefillin come from Deut 6:8; the prayer shawl and kippah as worn today are later customs.",
+        "Sackcloth, ashes and torn garments showed grief and repentance; a mantle could pass on a calling.",
+        "The Gospels use garments as signs: the fringe, the wedding garment and the seamless tunic."
+      ],
+      "reflect": [
+        "What daily 'reminders' help you remember God's word?",
+        "Jesus warned against religion worn for display. Where might you be tempted to be seen rather than to serve?"
+      ],
+      "quiz": [
+        {"q": "Why did a poor man's cloak taken as a pledge have to be returned at sunset?", "options": ["It was the Sabbath", "He needed it as a blanket to sleep in", "Cloaks were unclean at night", "Priests collected them"], "a": 1, "why": "Exodus 22:26–27: 'in what else shall he sleep?'"},
+        {"q": "What did the tassels (tzitzit) help Israel do?", "options": ["Look and remember God's commands", "Show their tribe", "Keep warm", "Mark them as priests"], "a": 0, "why": "Numbers 15:39: 'look at it and remember'."},
+        {"q": "What did Jesus criticise in Matthew 23:5?", "options": ["Wearing tassels at all", "Wearing sackcloth", "Making phylacteries broad and fringes long to be seen", "Tearing garments"], "a": 2, "why": "His warning was about doing religious acts for show."},
+        {"q": "What did Elisha do with Elijah's fallen mantle?", "options": ["Burned it as an offering", "Gave it to the king", "Buried it with Elijah", "Struck the Jordan and the waters parted"], "a": 3, "why": "2 Kings 2:13–14: the calling passed to Elisha."}
+      ],
+      "terms": [
+        {"term": "Kuttonet / Chitōn", "def": "The tunic, the inner garment (Hebrew / Greek)."},
+        {"term": "Simlah / Himation", "def": "The outer cloak, also used as a blanket (Hebrew / Greek)."},
+        {"term": "Tzitzit", "def": "Tassels on the four corners of a garment, with a blue cord (Num 15:38)."},
+        {"term": "Kanaf", "def": "Wing; also the corner or edge of a garment."},
+        {"term": "Tefillin", "def": "Phylacteries: small boxes with Scripture worn on arm and head (Deut 6:8)."},
+        {"term": "Tallit", "def": "Later term for the tasselled prayer shawl."}
+      ],
+      "related": ["b-life", "b-practices", "b-prayers", "b-shema", "d-threads", "b-wedding"]
+    },
+    {
+      "id": "b-gestures", "book": "world", "order": 280, "num": 28,
+      "title": "Gestures, Greetings and Hospitality",
+      "subtitle": "Kisses, bows, washed feet and the covenant of salt",
+      "nutshell": "In Bible lands a greeting, a kiss, a bow, water for the feet and oil for the head were not small manners — they showed honour, welcome and loyalty. Leaving them out was an insult. Many Gospel scenes turn on these gestures, from the sinful woman at Simon's table to Jesus washing his disciples' feet.",
+      "bigIdea": "Gestures of welcome and honour carried deep meaning; Jesus used them, reversed them and gave them new depth in the kingdom of God.",
+      "skeleton": [
+        "Greetings: shalom, the kiss and bowing",
+        "Welcoming a guest: feet, oil and table",
+        "Honour and shame at the table",
+        "Gestures of oath, prayer and protest",
+        "Hospitality to strangers"
+      ],
+      "sections": [
+        {"h": "Greetings: shalom, kiss and bow", "p": [
+          "The everyday greeting was *shalom* — 'peace', meaning wholeness and well-being. Jesus told his disciples to say 'Peace to this house' (Luke 10:5) and greeted them after the resurrection with 'Peace be with you' (John 20:19).",
+          "Friends and family greeted with a kiss (Gen 33:4; Luke 15:20). Simon the Pharisee gave Jesus no kiss of welcome (Luke 7:45), and Paul tells churches to 'greet one another with a holy kiss' (Rom 16:16). Bowing low showed respect or submission: Jacob bowed seven times before Esau (Gen 33:3)."
+        ]},
+        {"h": "Welcoming a guest", "p": [
+          "Travellers walked dusty roads in sandals, so a host offered water to wash the feet (Gen 18:4; 1 Sam 25:41). Washing someone else's feet was a servant's task. Anointing a guest's head with oil was a sign of honour and joy: 'You anoint my head with oil; my cup overflows' (Ps 23:5).",
+          "At formal meals guests reclined on couches, leaning on the left elbow, feet stretched away from the table — which explains how a woman could stand 'behind him at his feet' (Luke 7:38) and how the beloved disciple could lean against Jesus (John 13:23). At the Last Supper Jesus took the servant's place and washed his disciples' feet (John 13:1–17)."
+        ]},
+        {"h": "Honour and shame at the table", "p": [
+          "Where you sat showed your rank. Jesus noticed guests choosing the places of honour and told them to take the lowest place, so the host might say, 'Friend, move up higher' (Luke 14:7–11). 'Everyone who exalts himself will be humbled.'",
+          "At Simon's house the contrast is sharp: Simon offered no water, no kiss and no oil, while a sinful woman washed Jesus' feet with tears, kissed them and anointed them with perfume (Luke 7:44–46). By the standards of honour, the host failed and the outsider honoured the guest."
+        ]},
+        {"h": "Oaths, prayer and protest", "p": [
+          "Some gestures sealed agreements. Abraham's servant put his hand under his master's thigh to swear (Gen 24:2, 9). At the city gate, where elders sat to judge (Ruth 4:1), a man removed his sandal to confirm a transfer of property (Ruth 4:7–8). A 'covenant of salt' meant a lasting, unbreakable bond (Num 18:19; 2 Chr 13:5); Jesus' 'You are the salt of the earth' (Matt 5:13) may echo this, though salt also simply preserves and flavours.",
+          "In prayer people stood with hands lifted (Ps 134:2; 1 Tim 2:8); priests raised their hands to bless (Lev 9:22), as Jesus did at his ascension (Luke 24:50). The tax collector beat his breast in sorrow (Luke 18:13). Shaking the dust off one's feet was a public sign of protest when a town refused the message (Mark 6:11; Acts 13:51)."
+        ]},
+        {"h": "Hospitality to strangers", "p": [
+          "Hospitality was a sacred duty. Abraham ran to welcome three strangers and served them a meal (Gen 18:1–8). Hebrews remembers this: 'Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares' (Heb 13:2).",
+          "Jesus depended on hospitality (Luke 10:38) and sent his disciples out to receive it (Luke 10:5–7). He taught that welcoming the stranger is welcoming him (Matt 25:35). In the kingdom, the host himself becomes the servant at the table (Luke 12:37)."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "spectrum", "title": "From casual to solemn", "after": 0,
+          "note": "A rough guide: the further right, the more binding or public the gesture.",
+          "left": "Everyday courtesy", "right": "Solemn and binding",
+          "points": [
+            {"t": "Shalom greeting", "pos": 5},
+            {"t": "Kiss", "pos": 20},
+            {"t": "Bowing", "pos": 34},
+            {"t": "Foot washing", "pos": 46},
+            {"t": "Anointing with oil", "pos": 58},
+            {"t": "Shaking off dust", "pos": 70},
+            {"t": "Removing the sandal", "pos": 82},
+            {"t": "Hand under the thigh (oath)", "pos": 95}
+          ]
+        },
+        {"type": "flow", "title": "Welcoming a guest, step by step", "after": 1,
+          "note": "Based on Abraham's welcome (Gen 18) and the customs behind Luke 7 and John 13.",
+          "steps": [
+            {"t": "Run to meet", "d": "Abraham saw the visitors and ran to meet them, bowing (Gen 18:2)."},
+            {"t": "Greet", "d": "'Shalom' and a kiss of welcome (Luke 7:45; 10:5)."},
+            {"t": "Water for the feet", "d": "Dust of the road washed away (Gen 18:4; Luke 7:44)."},
+            {"t": "Oil for the head", "d": "Refreshment and honour (Ps 23:5; Luke 7:46)."},
+            {"t": "A place at table", "d": "Seat or couch according to honour (Luke 14:8–10)."},
+            {"t": "Share bread and salt", "d": "Eating together creates a bond of loyalty (compare Num 18:19)."},
+            {"t": "Send on the way", "d": "Walk with the guest as he leaves (Gen 18:16; 3 John 6)."}
+          ]
+        },
+        {"type": "cards", "title": "Ten gestures", "after": 2,
+          "cards": [
+            {"t": "The kiss", "front": "Welcome and affection.", "back": "Family and friends greeted with a kiss. The father ran and kissed his returning son.", "source": "Gen 33:4; Luke 15:20", "echo": "'Greet one another with a holy kiss' (Rom 16:16); Judas' kiss of betrayal (Mark 14:44)."},
+            {"t": "Bowing", "front": "Seven times to the ground.", "back": "Jacob bowed seven times as he approached Esau, showing humility and seeking peace.", "source": "Gen 33:3", "echo": "The Magi fell down and worshipped (Matt 2:11)."},
+            {"t": "Washing feet", "front": "A servant's task.", "back": "Hosts offered water; a servant washed the feet. Jesus took the towel himself.", "source": "Gen 18:4; 1 Sam 25:41", "echo": "John 13:14: 'you also ought to wash one another's feet.'"},
+            {"t": "Anointing the head", "front": "Oil for honour and joy.", "back": "Fragrant oil on a guest's head was a mark of honour at a feast.", "source": "Ps 23:5", "echo": "Simon gave none; the woman anointed Jesus' feet (Luke 7:46)."},
+            {"t": "Reclining", "front": "Lying at table.", "back": "At festive meals guests reclined on couches; at the Passover even the poorest reclined as free people (Mishnah Pesachim 10:1).", "source": "Amos 6:4; Mishnah Pesachim 10:1", "echo": "The beloved disciple leaning on Jesus (John 13:23)."},
+            {"t": "Removing the sandal", "front": "Sealing a deal.", "back": "At the city gate a kinsman removed his sandal to give up his right of redemption to Boaz.", "source": "Ruth 4:7–8", "echo": "John: 'I am not worthy to untie his sandal' (John 1:27)."},
+            {"t": "Shaking off dust", "front": "A public protest.", "back": "Leaving a town that refused the message, the disciples shook its dust from their feet as a testimony.", "source": "Mark 6:11", "echo": "Paul and Barnabas at Antioch in Pisidia (Acts 13:51)."},
+            {"t": "Hand under the thigh", "front": "A solemn oath.", "back": "Abraham's servant swore with his hand under his master's thigh to find a wife for Isaac; Jacob asked the same of Joseph.", "source": "Gen 24:2, 9; 47:29", "echo": "Jesus: 'Let your yes be yes' (Matt 5:37)."},
+            {"t": "Lifted hands", "front": "Prayer and blessing.", "back": "People prayed with hands raised; priests lifted their hands to bless the people.", "source": "Ps 134:2; Lev 9:22", "echo": "Jesus blessed his disciples with lifted hands (Luke 24:50); 1 Tim 2:8."},
+            {"t": "Beating the breast", "front": "Sorrow and repentance.", "back": "The tax collector stood far off, beat his breast and prayed, 'God, be merciful to me, a sinner.'", "source": "Luke 18:13", "echo": "The crowds at the cross returned beating their breasts (Luke 23:48)."}
+          ]
+        },
+        {"type": "compare", "title": "Honour and shame at Simon's table (Luke 7:44–46)", "after": 3,
+          "note": "Jesus himself draws the contrast, point by point.",
+          "left": {"label": "Simon the host", "items": ["No water for Jesus' feet", "No kiss of welcome", "No oil for his head", "Judges the woman as a sinner", "Loves little"]},
+          "right": {"label": "The woman", "items": ["Washes his feet with tears and hair", "Has not stopped kissing his feet", "Anoints his feet with perfume", "Comes in faith and is forgiven", "Loves much"]}
+        },
+        {"type": "table", "title": "Gesture, meaning, verse", "after": 4,
+          "cols": ["", "Meaning", "Old Testament", "New Testament"],
+          "rows": [
+            {"h": "Shalom", "cells": ["Wish for wholeness and peace", "1 Sam 25:6", "Luke 10:5; John 20:19"]},
+            {"h": "Kiss", "cells": ["Welcome, family love", "Gen 33:4", "Luke 7:45; Rom 16:16"]},
+            {"h": "Foot washing", "cells": ["Hospitality, humble service", "Gen 18:4", "Luke 7:44; John 13:5"]},
+            {"h": "Oil on the head", "cells": ["Honour and joy", "Ps 23:5", "Luke 7:46"]},
+            {"h": "Place of honour", "cells": ["Rank at the table", "Prov 25:6–7", "Luke 14:7–11"]},
+            {"h": "Covenant of salt", "cells": ["A lasting bond", "Num 18:19; 2 Chr 13:5", "Matt 5:13; Mark 9:50 (possible echo)"]},
+            {"h": "City gate", "cells": ["Place of elders and legal business", "Ruth 4:1", "Compare Matt 16:18 'gates'"]},
+            {"h": "Welcoming strangers", "cells": ["Sacred duty of hospitality", "Gen 18:1–8", "Heb 13:2; Matt 25:35"]}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Psalm 23:5", "text": "You anoint my head with oil; my cup overflows."},
+        {"ref": "Luke 7:44", "text": "I entered your house; you gave me no water for my feet, but she has wet my feet with her tears."},
+        {"ref": "John 13:14", "text": "If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another's feet."},
+        {"ref": "Hebrews 13:2", "text": "Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares."}
+      ],
+      "keyPoints": [
+        "Greetings like shalom, the kiss and bowing expressed peace, love and respect.",
+        "Water for the feet, oil for the head and a place at table were the marks of true welcome.",
+        "Seating showed honour; Jesus taught his followers to take the lowest place.",
+        "Gestures sealed oaths and deals (hand under the thigh, the removed sandal) and expressed protest (shaking off dust).",
+        "Hospitality to strangers was a sacred duty, and Jesus became the servant who washes feet."
+      ],
+      "reflect": [
+        "Which act of welcome could you offer this week to someone who feels like a stranger?",
+        "Like Simon, do you ever host Jesus politely but without love? What would 'loving much' look like?"
+      ],
+      "quiz": [
+        {"q": "What three acts of welcome did Simon the Pharisee fail to give Jesus?", "options": ["Bread, wine and salt", "Water for his feet, a kiss and oil", "A seat, a cup and a blessing", "A gift, a song and a lamp"], "a": 1, "why": "Luke 7:44–46 — the woman supplied all three."},
+        {"q": "What did removing a sandal mean in Ruth 4:7–8?", "options": ["Mourning", "Entering holy ground", "Confirming a transfer of rights", "Starting a journey"], "a": 2, "why": "It sealed the kinsman's handing over of his right of redemption."},
+        {"q": "What does Jesus say about seats at a feast?", "options": ["Take the lowest place", "Sit near the host", "Arrive early for the best place", "Stand throughout the meal"], "a": 0, "why": "Luke 14:10: so the host may say, 'Friend, move up higher.'"},
+        {"q": "What did the disciples do when a town rejected their message?", "options": ["Tore their garments", "Poured out oil", "Bowed seven times", "Shook the dust off their feet"], "a": 3, "why": "Mark 6:11 — a public testimony against that town."}
+      ],
+      "terms": [
+        {"term": "Shalom", "def": "Peace, wholeness, well-being; the everyday greeting."},
+        {"term": "Reclining", "def": "Lying on a couch at festive meals, leaning on the left elbow."},
+        {"term": "Covenant of salt", "def": "A lasting, unbreakable bond (Num 18:19; 2 Chr 13:5)."},
+        {"term": "City gate", "def": "The public place where elders met, judged and witnessed agreements (Ruth 4:1)."},
+        {"term": "Hospitality", "def": "Welcoming guests and strangers with food, shelter and honour — a sacred duty."}
+      ],
+      "related": ["b-life", "b-meal", "b-wedding", "b-prayers", "b-practices", "b-lifecycle"]
+    }
+  ],
+  "glossary": []
+}
