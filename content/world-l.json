@@ -1,0 +1,355 @@
+{
+  "chapters": [
+    {
+      "id": "b-burial",
+      "book": "world",
+      "order": 320,
+      "num": 32,
+      "title": "Death and Burial Customs",
+      "subtitle": "Closed eyes, torn clothes, linen, spices and a stone: how Jesus' people laid their dead to rest",
+      "nutshell": "In Bible times the dead were honoured with simple, loving acts: the eyes were closed, the body was washed, wrapped in linen with spices and buried quickly, usually the same day, in a family tomb. Around Jerusalem in Jesus' day, families used rock-cut tombs, and a year later the bones were often gathered into a stone box called an ossuary. Every detail of Jesus' burial fits this world.",
+      "bigIdea": "Jewish burial treated the body with dignity and haste because life is God's gift, and the Gospels show Jesus truly died and was truly buried — in a real tomb that was later found empty.",
+      "skeleton": [
+        "At death: the eyes are closed and the mourners tear their clothes",
+        "The body is washed, wrapped in linen with spices and carried out quickly",
+        "Burial in a family tomb: 'gathered to his people'",
+        "Rock-cut tombs with benches, niches and a blocking stone; ossuaries a year later",
+        "Jesus' burial follows these customs step by step — and ends with an empty tomb"
+      ],
+      "sections": [
+        {
+          "h": "The first moments: closing the eyes and tearing the clothes",
+          "p": [
+            "When Jacob feared dying in Egypt, God promised him, \"Joseph's hand shall close your eyes\" (Gen 46:4). Closing the eyes of the dead was a last act of love by the nearest family. At the news of a death, relatives tore their garments: Jacob for Joseph (Gen 37:34), David for Saul and Jonathan (2 Sam 1:11), Job when he lost his children (Job 1:20). Later Jewish practice calls this tearing *keriah* and still keeps it today.",
+            "The Mishnah (around AD 200) mentions closing the eyes, washing and anointing the dead even on the Sabbath, so these acts were clearly old and important (Mishnah Shabbat 23:5)."
+          ]
+        },
+        {
+          "h": "Washing, linen and spices",
+          "p": [
+            "The body was washed (Acts 9:37, Tabitha) and wrapped in strips of linen. Lazarus came out of the tomb \"bound hand and foot\" with a cloth around his face (John 11:44). Spices and ointments were laid with the body to honour it and to soften the smell of decay — not to preserve it. Nicodemus brought about a hundred Roman pounds (roughly 33 kg) of myrrh and aloes for Jesus, \"as is the burial custom of the Jews\" (John 19:39–40): a gift fit for a king.",
+            "Israel did not embalm its dead. Jacob and Joseph were embalmed only because they died in Egypt and followed Egyptian custom (Gen 50:2, 26). Burning the body was also not the Jewish way; burial in the earth or in a tomb was the norm."
+          ]
+        },
+        {
+          "h": "Buried quickly, gathered to the fathers",
+          "p": [
+            "The Law said that even an executed man's body must not stay on the tree overnight, but be buried \"the same day\" (Deut 21:23). Burial on the day of death, or the next day, was normal; in Jerusalem's heat it was also wise. Ananias and Sapphira were carried out and buried within hours (Acts 5:6, 10).",
+            "Families were buried together. Scripture says a person was \"gathered to his people\" (Gen 25:8) or \"slept with his fathers\" (1 Kings 2:10). Abraham bought the cave of Machpelah at Hebron as Israel's first family tomb (Gen 23); Sarah, Abraham, Isaac, Rebekah, Leah and Jacob were laid there (Gen 49:29–32). Being buried far from family was a grief in itself."
+          ]
+        },
+        {
+          "h": "Rock-cut tombs, rolling stones and ossuaries",
+          "p": [
+            "Around Jerusalem in Jesus' day, families who could afford it cut tombs into the soft limestone hills, always outside the city walls. A low doorway led into a chamber with benches; long narrow niches (*kokhim*) went into the walls for individual bodies. The doorway was closed with a heavy stone. Most were square, plug-like stones; round rolling stones were rare and are found mainly in wealthier tombs — which fits a rich man like Joseph of Arimathea (Mark 15:46; Matt 27:57).",
+            "From about the 1st century BC until AD 70, when the flesh had decayed after about a year, the family gathered the bones into a small limestone box, an ossuary (\"secondary burial\"). Thousands have been found. In 1990 an ornate ossuary inscribed \"Joseph son of Caiaphas\" was found in Jerusalem; many scholars think it held the bones of the high priest of the Gospels, though this is not certain."
+          ]
+        },
+        {
+          "h": "Graves and impurity",
+          "p": [
+            "Touching a dead body, or even being under one roof with it, made a person ritually impure for seven days; they were cleansed with water mixed with the ashes of the red heifer (Num 19). This is not sin, but it kept a person from the Temple. So tombs were kept outside towns, and before Passover graves were marked with whitewash so that pilgrims would not touch them by mistake (later recorded in Mishnah Shekalim 1:1; probably older). Jesus used this picture: \"whitewashed tombs… full of dead men's bones\" (Matt 23:27)."
+          ]
+        },
+        {
+          "h": "Jesus' burial — and later Jewish customs",
+          "p": [
+            "Jesus died about three in the afternoon on Friday. With the Sabbath near, Joseph of Arimathea, a council member, asked Pilate for the body; with Nicodemus he wrapped it in linen with spices and laid it in his own new rock tomb, and rolled a stone to the door. The women watched where he was laid. On Saturday a guard was posted and the stone sealed. On Sunday at dawn the women came with spices — and the stone was already rolled away (Mark 15:42–16:8; Matt 27:57–66).",
+            "Later Jewish customs grew from the same roots: the burial society (*chevra kadisha*) that washes and dresses the dead, known especially from the Middle Ages on; simple white linen shrouds (*tachrichim*) for rich and poor alike — the Talmud tells that Rabban Gamaliel asked to be buried in plain linen to end costly funerals (Ketubot 8b); and still no embalming and no cremation."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "flow",
+          "title": "From death to tomb in Jesus' day",
+          "note": "Usually all of this happened within a day.",
+          "after": 1,
+          "steps": [
+            {"t": "Closing the eyes", "d": "The nearest relative closes the eyes (Gen 46:4)."},
+            {"t": "Tearing garments", "d": "Mourners tear their clothes in grief (Gen 37:34; 2 Sam 1:11)."},
+            {"t": "Washing the body", "d": "The body is washed with water (Acts 9:37)."},
+            {"t": "Anointing with spices", "d": "Oils, myrrh and aloes honour the body (John 19:39)."},
+            {"t": "Wrapping in linen", "d": "Linen strips bind the body; a cloth covers the face (John 11:44)."},
+            {"t": "Carrying out", "d": "Family and neighbours carry the body on a bier, with mourners (Luke 7:12–14)."},
+            {"t": "Laying in the tomb", "d": "The body is placed on a bench or in a niche of the family tomb."},
+            {"t": "Closing the tomb", "d": "A heavy stone blocks the doorway (Mark 15:46)."}
+          ]
+        },
+        {
+          "type": "layers",
+          "title": "Inside a rock-cut tomb near Jerusalem",
+          "note": "From the outside in; based on many tombs found around the city.",
+          "after": 3,
+          "layers": [
+            {"t": "Courtyard", "d": "A cut space in front of the tomb where mourners gathered."},
+            {"t": "Blocking stone", "d": "Usually a square plug; a round rolling stone in a few rich tombs (Mark 16:3–4)."},
+            {"t": "Low doorway and chamber", "d": "One stooped to enter (John 20:5); inside, a small room cut in rock."},
+            {"t": "Benches", "d": "Rock shelves where a body was laid at first, as with Jesus (John 20:12)."},
+            {"t": "Niches (kokhim)", "d": "Long narrow shafts cut into the walls for individual bodies."},
+            {"t": "Ossuary", "d": "After about a year, the bones were gathered into a stone box."}
+          ]
+        },
+        {
+          "type": "timeline",
+          "title": "From the cross to the empty tomb",
+          "note": "Jewish days began at sunset; times are approximate.",
+          "after": 5,
+          "events": [
+            {"when": "Friday, about 3 p.m.", "t": "Jesus dies", "d": "At the ninth hour Jesus cries out and breathes his last (Mark 15:34–37)."},
+            {"when": "Friday afternoon", "t": "Joseph goes to Pilate", "d": "Joseph of Arimathea boldly asks for the body; Pilate checks that Jesus is dead (Mark 15:43–45)."},
+            {"when": "Before sunset", "t": "Linen, spices, tomb", "d": "Joseph and Nicodemus wrap the body with spices and lay it in a new tomb; a stone is rolled to the door (John 19:38–42)."},
+            {"when": "Friday evening", "t": "The women watch", "d": "Mary Magdalene and Mary the mother of Joses see where he is laid, then rest on the Sabbath (Mark 15:47; Luke 23:55–56)."},
+            {"when": "Saturday", "t": "Seal and guard", "d": "The chief priests ask Pilate for a guard; the stone is sealed (Matt 27:62–66)."},
+            {"when": "Saturday evening", "t": "Spices bought", "d": "When the Sabbath is over, the women buy spices to anoint him (Mark 16:1)."},
+            {"when": "Sunday dawn", "t": "The stone is rolled away", "d": "The women find the tomb open and hear, \"He has risen; he is not here\" (Mark 16:2–6)."}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Burial customs: their roots and their Gospel scenes",
+          "after": 5,
+          "cols": ["Custom", "Old Testament root", "New Testament scene"],
+          "rows": [
+            {"h": "Closing the eyes", "cells": ["Gen 46:4", "Assumed in every home death"]},
+            {"h": "Tearing clothes", "cells": ["Gen 37:34; 2 Sam 1:11; Job 1:20", "The high priest tears his robes (Mark 14:63)"]},
+            {"h": "Washing the body", "cells": ["Assumed; later Mishnah Shabbat 23:5", "Tabitha washed and laid upstairs (Acts 9:37)"]},
+            {"h": "Linen and spices", "cells": ["Spices at a king's burial (2 Chr 16:14)", "Nicodemus' 100 pounds of spices (John 19:39–40)"]},
+            {"h": "Same-day burial", "cells": ["Deut 21:23", "Ananias and Sapphira (Acts 5:6, 10); Jesus before the Sabbath"]},
+            {"h": "Family tomb", "cells": ["Machpelah (Gen 23; 49:29–32)", "Lazarus' tomb at Bethany (John 11:38)"]},
+            {"h": "Blocking stone", "cells": ["Stones over caves (Josh 10:18)", "\"Who will roll away the stone?\" (Mark 16:3)"]},
+            {"h": "Corpse impurity", "cells": ["Num 19:11–16", "Whitewashed tombs (Matt 23:27)"]}
+          ]
+        },
+        {
+          "type": "map",
+          "title": "Tombs in the land of the Bible",
+          "after": 2,
+          "places": [
+            {"id": "hebron", "d": "The cave of Machpelah, the family tomb of Abraham, Isaac and Jacob.", "refs": "Gen 23; 49:29–32"},
+            {"id": "bethlehem", "d": "Rachel was buried on the way to Bethlehem, and Jacob set up a pillar on her grave; a traditional site is still shown.", "refs": "Gen 35:19–20"},
+            {"id": "shechem", "d": "Joseph's bones, carried out of Egypt, were buried here.", "refs": "Josh 24:32"},
+            {"id": "bethany", "d": "Lazarus lay four days in a cave tomb with a stone across it before Jesus called him out.", "refs": "John 11:38–44"},
+            {"id": "jerusalem", "d": "Jesus was laid in Joseph's new rock tomb in a garden near the place of crucifixion; the city was ringed with rock-cut tombs.", "refs": "John 19:41–42"}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Gen 25:8", "text": "Abraham breathed his last and died in a good old age… and was gathered to his people."},
+        {"ref": "Deut 21:23", "text": "His body shall not remain all night on the tree, but you shall bury him the same day."},
+        {"ref": "John 19:40", "text": "They took the body of Jesus and bound it in linen cloths with the spices, as is the burial custom of the Jews."},
+        {"ref": "Mark 16:3–4", "text": "\"Who will roll away the stone for us from the entrance of the tomb?\" And looking up, they saw that the stone had been rolled back."}
+      ],
+      "keyPoints": [
+        "The dead were treated with dignity: eyes closed, body washed, wrapped in linen with spices.",
+        "Burial was quick, usually the same day (Deut 21:23), and in a family tomb: 'gathered to his people'.",
+        "Jerusalem's rock-cut tombs had benches and niches; round rolling stones were rare and belonged mostly to the wealthy.",
+        "About a year later the bones were often gathered into an ossuary (1st c. BC – AD 70).",
+        "Every step of Jesus' burial fits these customs — he truly died, was truly buried, and the tomb was found empty."
+      ],
+      "reflect": [
+        "Joseph of Arimathea and Nicodemus honoured Jesus' body at real cost and risk. What does honouring someone in death say about how we value their life?",
+        "Why do you think the Gospels give so many details about the tomb, the stone and the linen cloths?"
+      ],
+      "quiz": [
+        {"q": "Why was burial usually done on the same day?", "options": ["The Law required the body not to remain overnight (Deut 21:23), and the climate was hot", "Romans demanded it", "Tombs were only open on the day of death", "Priests had to perform it before sunset"], "a": 0, "why": "Deut 21:23 shaped the custom, and quick burial was also practical in a warm land."},
+        {"q": "What was an ossuary used for?", "options": ["Storing spices", "Holding a person's bones after the flesh had decayed", "Carrying the body to the tomb", "Sealing the tomb door"], "a": 1, "why": "After about a year the bones were gathered into a limestone box — 'secondary burial'."},
+        {"q": "What does the round rolling stone at Jesus' tomb suggest?", "options": ["All tombs had one", "Romans built the tomb", "The tomb belonged to a wealthy man", "It was a temporary tomb"], "a": 2, "why": "Round stones were rare and found mostly in rich tombs, fitting Joseph of Arimathea (Matt 27:57)."},
+        {"q": "Why were graves whitewashed before Passover?", "options": ["To decorate the city", "To honour famous people", "To mark property lines", "So pilgrims would not touch them and become impure"], "a": 3, "why": "Contact with a grave caused corpse impurity (Num 19:16); Jesus used the image in Matt 23:27."}
+      ],
+      "terms": [
+        {"term": "Keriah", "def": "Tearing one's garment at the news of a death, a sign of grief from Genesis onward."},
+        {"term": "Kokhim", "def": "Long narrow niches cut into the walls of a rock tomb, each for one body."},
+        {"term": "Ossuary", "def": "A stone box for the bones of the dead, used around Jerusalem from about the 1st century BC to AD 70."},
+        {"term": "Machpelah", "def": "The cave at Hebron that Abraham bought as a family tomb (Gen 23)."},
+        {"term": "Chevra kadisha", "def": "\"Holy society\": a later Jewish burial society that prepares the dead for burial."},
+        {"term": "Tachrichim", "def": "Simple white linen shrouds used in later Jewish burial for rich and poor alike."}
+      ],
+      "related": ["b-lifecycle", "b-mourning", "b-purity", "b-life", "w-aphar", "g-37"]
+    },
+    {
+      "id": "b-mourning",
+      "book": "world",
+      "order": 330,
+      "num": 33,
+      "title": "Mourning and Comfort",
+      "subtitle": "Seven days, thirty days, a year: how Israel grieved, comforted and hoped",
+      "nutshell": "Israel did not hide grief. Mourners sat low, wore sackcloth, fasted and wept, while friends came to sit with them and bring food. Mourning moved through set stages — the hours before burial, seven days, thirty days, a year — so that grief had both room and an end. Over the centuries Israel's hope grew from the shadowy grave toward resurrection, and Jesus wept at a tomb before he called the dead man out.",
+      "bigIdea": "Biblical mourning gives grief time, company and words, and the gospel does not remove grief but fills it with hope: \"not as others who have no hope\" (1 Thess 4:13).",
+      "skeleton": [
+        "Grief has stages: before burial, seven days, thirty days, the first year",
+        "Mourning had visible signs: sackcloth, ashes, fasting, bare feet, laments",
+        "Comfort came from people: sitting in silence, a shared meal, coming to the house",
+        "Jesus wept with the mourners, and God himself is the Comforter",
+        "Hope grew from Sheol to the promise of resurrection"
+      ],
+      "sections": [
+        {
+          "h": "The stages of mourning",
+          "p": [
+            "Grief in Israel had a shape. From death until burial (a few hours) the mourners' only task was the dead; later Jewish law calls this time *aninut*. Then came seven days of deep mourning: Joseph mourned Jacob seven days (Gen 50:10), and Job's friends sat with him seven days and nights without a word (Job 2:13). This week is called *shiva* (\"seven\"). Israel mourned Moses and Aaron thirty days (Deut 34:8; Num 20:29), the root of the later *sheloshim* (\"thirty\"). For a parent, later custom keeps a full year.",
+            "During the seven days, mourners stayed at home, sat on the ground or on low seats and did not work. Covering mirrors is a much later custom."
+          ]
+        },
+        {
+          "h": "Signs of grief",
+          "p": [
+            "Grief was shown with the body. Tamar put ashes on her head and tore her robe (2 Sam 13:19); Mordecai put on sackcloth and ashes and cried aloud (Esth 4:1). The men of Jabesh fasted seven days for Saul (1 Sam 31:13). David went up the Mount of Olives weeping, his head covered and his feet bare (2 Sam 15:30).",
+            "Grief was also put into words. David's lament over Saul and Jonathan, \"How the mighty have fallen!\" (2 Sam 1:17–27), and the whole book of Lamentations show that sorrow may be sung before God. Jeremiah calls for the skilled wailing women to teach their daughters a lament (Jer 9:17–20)."
+          ]
+        },
+        {
+          "h": "Flutes, wailing women and the house of mourning",
+          "p": [
+            "In Jesus' day, mourning was loud and public. At Jairus' house Jesus found \"the flute players and the crowd making a commotion\" (Matt 9:23). The Mishnah says that even the poorest man in Israel should provide at least \"two flutes and one wailing woman\" for his wife's funeral (Ketubot 4:4). Mourners were not hired to fake sorrow but to give it a voice.",
+            "Neighbours brought the first meal after the burial, because mourners were not expected to cook. Jeremiah mentions breaking bread for mourners and \"the cup of consolation\" (Jer 16:7), and the people urged David to eat after Abner's burial (2 Sam 3:35)."
+          ]
+        },
+        {
+          "h": "Comfort: Jesus wept",
+          "p": [
+            "When Jesus came to Bethany, Lazarus had been four days in the tomb and \"many of the Jews had come to Martha and Mary to console them\" (John 11:17–19) — the shiva visit. Jesus, who knew he would raise Lazarus, still wept (John 11:35). Grief is not a lack of faith.",
+            "The Hebrew word for comfort is *nacham*. God says, \"Comfort, comfort my people\" (Isa 40:1), and Jesus promises, \"Blessed are those who mourn, for they shall be comforted\" (Matt 5:4). There is \"a time to weep… a time to mourn\" (Eccl 3:4); faith makes room for both."
+          ]
+        },
+        {
+          "h": "Later customs",
+          "p": [
+            "Some familiar Jewish mourning customs are later than the Bible. The Mourner's Kaddish, a prayer praising God's name said by mourners, became part of mourning in the Middle Ages. The *yahrzeit* (\"year-time\"), lighting a candle on the anniversary of a death, is also later. Placing small stones on a grave is a later custom too, and people explain it in different ways."
+          ]
+        },
+        {
+          "h": "From Sheol to resurrection",
+          "p": [
+            "Early Scripture speaks of the dead going down to Sheol, a shadowy place of silence. But hope grew: \"God will ransom my soul from the power of Sheol\" (Ps 49:15); \"I know that my Redeemer lives… in my flesh I shall see God\" (Job 19:25–27); \"Your dead shall live\" (Isa 26:19); \"many who sleep in the dust… shall awake\" (Dan 12:2); and Ezekiel's valley of dry bones (Ezek 37).",
+            "By Jesus' day Martha could say, \"I know that he will rise again in the resurrection on the last day\" (John 11:24). Jesus answered, \"I am the resurrection and the life.\" So Paul writes that believers grieve, but \"not as others who have no hope\" (1 Thess 4:13), and Revelation promises that God \"will wipe away every tear\" (Rev 21:4)."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "timeline",
+          "title": "The mourning calendar",
+          "note": "The stages are biblical in root; their names and detailed rules come from later Jewish law.",
+          "after": 0,
+          "events": [
+            {"when": "Death", "t": "Eyes closed, clothes torn", "d": "Grief breaks out at once (Gen 37:34)."},
+            {"when": "Hours until burial", "t": "Aninut", "d": "The mourners' only task is caring for the dead and the burial."},
+            {"when": "Burial day", "t": "Burial and the meal of comfort", "d": "Neighbours bring the first meal (2 Sam 3:35; Jer 16:7)."},
+            {"when": "Days 1–7", "t": "Shiva", "d": "Sitting low at home, not working, receiving comforters (Gen 50:10; Job 2:13; John 11:19)."},
+            {"when": "Days 8–30", "t": "Sheloshim", "d": "Life slowly resumes; Israel mourned Moses thirty days (Deut 34:8)."},
+            {"when": "First year", "t": "Mourning for a parent", "d": "A later custom keeps a year of remembrance for a father or mother."},
+            {"when": "Each anniversary", "t": "Yahrzeit (later)", "d": "A candle is lit and the Kaddish is said — medieval and later customs."}
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "Eight signs of mourning",
+          "after": 1,
+          "cards": [
+            {"t": "Torn clothes", "front": "Why tear a good garment?", "back": "Tearing the clothes showed that the heart was torn. Jacob, David and Job all did it at news of death.", "source": "Gen 37:34; 2 Sam 1:11; Job 1:20", "echo": "Joel 2:13: \"Rend your hearts and not your garments.\""},
+            {"t": "Sackcloth", "front": "Rough cloth instead of fine clothes", "back": "Sackcloth was coarse goat-hair cloth. Wearing it said: I have no wish for comfort or beauty now.", "source": "Gen 37:34; Esth 4:1", "echo": "Matt 11:21: repenting \"in sackcloth and ashes\"."},
+            {"t": "Ashes and dust", "front": "Dust on the head", "back": "Putting ashes or dust on the head pictured humility and the shortness of life: we are dust.", "source": "2 Sam 13:19; Job 2:12", "echo": "Gen 3:19: \"to dust you shall return\"."},
+            {"t": "Fasting", "front": "No appetite for food", "back": "The men of Jabesh fasted seven days after burying Saul and his sons.", "source": "1 Sam 31:13", "echo": "Mark 2:20: the guests will fast when the bridegroom is taken away."},
+            {"t": "Bare feet, covered head", "front": "David on the Mount of Olives", "back": "Fleeing Absalom, David walked weeping with his head covered and his feet bare, like a mourner.", "source": "2 Sam 15:30", "echo": "Jesus also wept on the Mount of Olives over Jerusalem (Luke 19:41)."},
+            {"t": "Sitting on the ground", "front": "Seven days of silence", "back": "Job's friends sat with him on the ground seven days and said nothing, for they saw his great pain.", "source": "Job 2:13", "echo": "Rom 12:15: \"Weep with those who weep.\""},
+            {"t": "Lament", "front": "A song of sorrow", "back": "David sang \"How the mighty have fallen!\" over Saul and Jonathan; Lamentations mourns Jerusalem.", "source": "2 Sam 1:17–27; Lamentations", "echo": "Luke 23:27: women mourn and lament for Jesus on the way to the cross."},
+            {"t": "Weeping", "front": "Tears are allowed", "back": "Abraham wept for Sarah; Joseph wept over his father. Tears are not unbelief.", "source": "Gen 23:2; 50:1", "echo": "John 11:35: \"Jesus wept.\""}
+          ]
+        },
+        {
+          "type": "interlinear",
+          "title": "\"Comfort, comfort my people\" (Isaiah 40:1)",
+          "note": "Hebrew reads right to left; words are listed in reading order. The doubled verb is emphatic.",
+          "after": 3,
+          "lang": "he",
+          "words": [
+            {"w": "נַחֲמוּ", "g": "comfort! (nachamu)"},
+            {"w": "נַחֲמוּ", "g": "comfort! (nachamu)"},
+            {"w": "עַמִּי", "g": "my people (ammi)"},
+            {"w": "יֹאמַר", "g": "says (yomar)"},
+            {"w": "אֱלֹהֵיכֶם", "g": "your God (eloheikhem)"}
+          ],
+          "readings": [
+            {"label": "Word for word", "text": "Comfort, comfort my people, says your God.", "note": "The command is plural: God sends many comforters."},
+            {"label": "Meaning", "text": "God himself orders his people to be comforted after exile and loss.", "note": "The same root, nacham, is used for comforting mourners (Gen 37:35)."}
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "Grief without hope, grief with hope",
+          "note": "1 Thess 4:13 does not forbid grief; it changes its horizon.",
+          "after": 5,
+          "left": {
+            "label": "Grief without hope",
+            "items": [
+              "Death is the final word",
+              "The grave is silence for ever",
+              "Tears have nowhere to go",
+              "Comfort is only for a while",
+              "Goodbye is for ever"
+            ]
+          },
+          "right": {
+            "label": "Grief with hope",
+            "items": [
+              "\"I am the resurrection and the life\" (John 11:25)",
+              "\"Many who sleep in the dust shall awake\" (Dan 12:2)",
+              "Jesus weeps with us (John 11:35)",
+              "\"They shall be comforted\" (Matt 5:4)",
+              "God will wipe away every tear (Rev 21:4)"
+            ]
+          }
+        },
+        {
+          "type": "flow",
+          "title": "How Israel's hope grew",
+          "note": "A simplified picture of how God revealed more over time.",
+          "after": 5,
+          "steps": [
+            {"t": "Sheol", "d": "The dead go down to a silent, shadowy place (Ps 6:5)."},
+            {"t": "\"God will ransom me\"", "d": "The psalmist trusts God to redeem him from Sheol's power (Ps 49:15)."},
+            {"t": "\"In my flesh I shall see God\"", "d": "Job hopes in a living Redeemer (Job 19:25–27)."},
+            {"t": "\"Your dead shall live\"", "d": "Isaiah promises the dead will rise and sing (Isa 26:19)."},
+            {"t": "\"Many shall awake\"", "d": "Daniel speaks clearly of resurrection (Dan 12:2)."},
+            {"t": "Jesus is raised", "d": "The firstfruits of those who have fallen asleep (1 Cor 15:20)."}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Job 2:13", "text": "They sat with him on the ground seven days and seven nights, and no one spoke a word to him, for they saw that his suffering was very great."},
+        {"ref": "John 11:35", "text": "Jesus wept."},
+        {"ref": "Isa 40:1", "text": "Comfort, comfort my people, says your God."},
+        {"ref": "1 Thess 4:13", "text": "We do not want you to be uninformed… about those who are asleep, that you may not grieve as others do who have no hope."},
+        {"ref": "Rev 21:4", "text": "He will wipe away every tear from their eyes, and death shall be no more."}
+      ],
+      "keyPoints": [
+        "Mourning had stages: before burial, seven days (shiva), thirty days, and a year for a parent.",
+        "Grief was shown openly: torn clothes, sackcloth, ashes, fasting, bare feet and laments.",
+        "Comfort came by presence: friends sat in silence, neighbours brought food, people came to the house.",
+        "Kaddish, yahrzeit candles, covered mirrors and stones on graves are later customs.",
+        "Hope grew from Sheol to resurrection; Jesus wept, then showed himself the resurrection and the life."
+      ],
+      "reflect": [
+        "Job's friends did best when they sat in silence. How can you be a comforter by presence rather than by words?",
+        "Jesus wept even though he knew he would raise Lazarus. What does that teach you about grief and faith?"
+      ],
+      "quiz": [
+        {"q": "What does the word shiva mean?", "options": ["Thirty", "Seven", "Comfort", "Sorrow"], "a": 1, "why": "Shiva means 'seven': the seven days of deep mourning (Gen 50:10; Job 2:13)."},
+        {"q": "According to the Mishnah, what should even the poorest man provide at his wife's funeral?", "options": ["Two flutes and one wailing woman", "A new tomb", "Seven days of feasting", "A silver ossuary"], "a": 0, "why": "Mishnah Ketubot 4:4; compare the flute players in Matt 9:23."},
+        {"q": "Which of these customs is clearly later than the Bible?", "options": ["Tearing clothes", "Fasting", "The Mourner's Kaddish", "Sitting on the ground"], "a": 2, "why": "The Mourner's Kaddish became part of mourning in the Middle Ages; the others are found in Scripture."},
+        {"q": "What does Paul say in 1 Thessalonians 4:13?", "options": ["Christians should not grieve", "Grief shows weak faith", "Mourning should last thirty days", "Believers grieve, but not as those who have no hope"], "a": 3, "why": "Paul does not forbid grief; he gives it a horizon of resurrection hope."}
+      ],
+      "terms": [
+        {"term": "Aninut", "def": "The short time between death and burial, when the mourners care only for the dead."},
+        {"term": "Shiva", "def": "\"Seven\": the seven days of deep mourning after burial."},
+        {"term": "Sheloshim", "def": "\"Thirty\": the thirty days of lighter mourning (Deut 34:8)."},
+        {"term": "Nacham", "def": "Hebrew verb \"to comfort\" (Isa 40:1)."},
+        {"term": "Kaddish", "def": "A prayer praising God's name; said by mourners since the Middle Ages."},
+        {"term": "Yahrzeit", "def": "\"Year-time\": the yearly anniversary of a death, marked with a candle (later custom)."}
+      ],
+      "related": ["b-burial", "b-lifecycle", "s-life", "s-soul", "w-gehinnom", "g-38"]
+    }
+  ],
+  "glossary": []
+}
