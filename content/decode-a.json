@@ -1,0 +1,477 @@
+{
+  "chapters": [
+    {
+      "id": "d-eden", "book": "decode", "order": 10, "num": 1,
+      "title": "Eden: the Garden No Map Can Find",
+      "subtitle": "The Bible names four rivers — so why has no one ever found Eden?",
+      "nutshell": "Genesis places Eden “in the east” and names four rivers, two of which we know: the Tigris and the Euphrates. The other two have never been identified with certainty. But the word *eden* itself means “delight”, and the garden is drawn like a sanctuary — the first place where God and humans lived together.",
+      "bigIdea": "Eden is less a lost dot on a map than a picture of life in God’s presence — a picture the Bible carries all the way to its last page.",
+      "skeleton": [
+        "Gen 2:8–14: a garden in Eden, a river, four heads",
+        "Two rivers known (Tigris, Euphrates), two unknown (Pishon, Gihon)",
+        "Search theories: northern highlands, head of the Persian Gulf, others",
+        "The words: *eden* = delight, *gan* = enclosed garden, *pardes* → paradise",
+        "Eden as the first sanctuary — and the river of life returning in Ezekiel and Revelation"
+      ],
+      "sections": [
+        {"h": "What the Hebrew text says", "p": [
+          "Genesis 2:8 says the LORD God planted a garden (*gan*) “in Eden, in the east” (*miqqedem*, which can also mean “from of old”). A river goes out of Eden to water the garden and then splits into four “heads” (2:10).",
+          "Two names are familiar: *Hiddekel* is the Tigris, running “east of Assyria”, and *Perat* is the Euphrates (2:14). The other two — *Pishon*, which surrounds the land of Havilah with its gold, bdellium and onyx, and *Gihon*, which surrounds the land of Cush — are not known rivers today."
+        ]},
+        {"h": "Where was it? The search theories", "p": [
+          "One theory looks north, to the Armenian highlands where the Tigris and Euphrates actually rise — the same region as “the mountains of Ararat”. Another looks south, to the head of the Persian Gulf, where several rivers once met and ancient Sumerian cities stood.",
+          "Ancient readers made other guesses: Josephus (1st c.) thought the Pishon was the Ganges and the Gihon the Nile, because Cush usually means Ethiopia. None of these theories is proven. Rivers move, and the Flood story itself suggests the old world was changed. The honest answer: no one knows."
+        ]},
+        {"h": "Decoding the words", "p": [
+          "*Eden* sounds like the Hebrew root for “delight, luxury”. Psalm 36:8 speaks of God’s *nachal adanekha*, “the river of your delights”, and in Genesis 18:12 Sarah laughs about *ednah*, “pleasure”. A *gan* is an enclosed, protected garden — from a root meaning “to shield”.",
+          "Later Hebrew used a Persian loanword, *pardes* (“walled park”, Neh 2:8; Song 4:13). The Greek Septuagint translated Eden’s garden as *paradeisos*, and the word stayed: Jesus promises the thief “paradise” (Luke 23:43), Paul is caught up to it (2 Cor 12:4), and the risen Christ promises the tree of life “in the paradise of God” (Rev 2:7). Jerome’s Latin went further: *paradisum voluptatis*, “a paradise of pleasure”."
+        ]},
+        {"h": "What ancient readers saw: Eden as a sanctuary", "p": [
+          "Many readers, Jewish and Christian, have noticed that Eden looks like a temple. Its entrance faces east and is guarded by cherubim (3:24); the Tabernacle also faced east, with cherubim woven into its curtains and set over the ark. Eden’s gold and onyx (*shoham*) reappear on the priest’s garments (Ex 28:9). God “walks” in the garden (3:8) as he later “walks” among Israel (Lev 26:12). Ezekiel even calls Eden “the holy mountain of God” (Ezek 28:13–14).",
+          "This is a widely noted pattern, not a proof — but it explains why the Bible’s story ends with a garden-city."
+        ]},
+        {"h": "The inner story (a devotional reading)", "p": [
+          "Read devotionally, Eden is the place of delight because nothing stands between God and people, or between the man and the woman: they were “naked and not ashamed” (2:25) — fully seen and fully at peace.",
+          "The river that left Eden returns. Ezekiel sees water flowing from the Temple and making the Dead Sea live (Ezek 47:1–12); John sees “the river of the water of life” beside the tree of life (Rev 22:1–2). The garden no map can find is the home the whole Bible is walking back toward."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "interlinear", "title": "Genesis 2:8 in Hebrew, word by word", "lang": "he", "after": 0,
+          "words": [
+            {"w": "וַיִּטַּע", "g": "and he planted"},
+            {"w": "יְהוָה", "g": "the LORD"},
+            {"w": "אֱלֹהִים", "g": "God"},
+            {"w": "גַּן־", "g": "a garden (enclosed)"},
+            {"w": "בְּעֵדֶן", "g": "in Eden (“delight”)"},
+            {"w": "מִקֶּדֶם", "g": "in the east / from of old"},
+            {"w": "וַיָּשֶׂם", "g": "and he put"},
+            {"w": "שָׁם", "g": "there"},
+            {"w": "אֶת־הָאָדָם", "g": "the human"},
+            {"w": "אֲשֶׁר יָצָר", "g": "whom he had formed"}
+          ],
+          "readings": [
+            {"label": "Hebrew (literal)", "text": "The LORD God planted **a garden in Eden, in the east**, and put there the human he had formed.", "note": "*Eden* is a place name that sounds like “delight”."},
+            {"label": "Septuagint (Greek)", "text": "God planted **a paradise in Edem** toward the east…", "note": "*Paradeisos* — the source of our word “paradise”."},
+            {"label": "Vulgate (Latin)", "text": "The Lord God had planted **a paradise of pleasure from the beginning**…", "note": "Jerome translated the meaning of *eden* (“pleasure”) and read *miqqedem* as “from the beginning”."},
+            {"label": "KJV", "text": "And the LORD God planted **a garden eastward in Eden**; and there he put the man whom he had formed."}
+          ]},
+        {"type": "map", "title": "Where have people looked for Eden?", "after": 1,
+          "places": [
+            {"id": "eden-north", "d": "Theory: the Armenian highlands, where the Tigris and Euphrates really rise.", "refs": "Gen 2:10–14"},
+            {"id": "ararat", "d": "“The mountains of Ararat” (Urartu) lie in the same highland region as the northern theory.", "refs": "Gen 8:4"},
+            {"id": "nineveh", "d": "Assyria’s great city on the Tigris (*Hiddekel*), the river that flows “east of Assyria”.", "refs": "Gen 2:14"},
+            {"id": "babylon", "d": "On the Euphrates (*Perat*), the one river no reader has ever doubted.", "refs": "Gen 2:14; 11:9"},
+            {"id": "ur", "d": "Abraham’s city, near the southern theory’s region of old Sumerian cities.", "refs": "Gen 11:31"},
+            {"id": "eden-south", "d": "Theory: the head of the Persian Gulf, where rivers once flowed together.", "refs": "Gen 2:10"}
+          ]},
+        {"type": "table", "title": "The four rivers of Genesis 2", "after": 1,
+          "cols": ["", "What Genesis says", "Proposals", "Certainty"],
+          "rows": [
+            {"h": "Pishon", "cells": ["Surrounds Havilah: gold, bdellium, onyx", "A dry Arabian riverbed (theory); Ganges (Josephus)", "Unknown"]},
+            {"h": "Gihon", "cells": ["Surrounds the land of Cush", "Nile (Josephus); Karun or Araxes (theories)", "Unknown"]},
+            {"h": "Hiddekel", "cells": ["Flows east of Assyria", "The Tigris", "Certain"]},
+            {"h": "Perat", "cells": ["Named without description", "The Euphrates", "Certain"]}
+          ]},
+        {"type": "flow", "title": "How “paradise” travelled into our language", "after": 2,
+          "steps": [
+            {"t": "Old Persian *paridaida*", "d": "A walled royal park or hunting garden."},
+            {"t": "Hebrew *pardes*", "d": "“Park, orchard” — Neh 2:8; Eccl 2:5; Song 4:13."},
+            {"t": "Greek *paradeisos*", "d": "The Septuagint’s word for Eden’s garden (Gen 2:8)."},
+            {"t": "New Testament", "d": "Luke 23:43; 2 Cor 12:4; Rev 2:7 — the place of God’s presence."},
+            {"t": "Latin *paradisus*", "d": "Jerome: *paradisum voluptatis*, “a paradise of pleasure”."},
+            {"t": "English “paradise”", "d": "Still carrying the idea of a protected garden of delight."}
+          ]},
+        {"type": "table", "title": "Eden as the first sanctuary (a widely noted pattern)", "after": 3,
+          "cols": ["", "Eden", "Tabernacle / Temple", "New Jerusalem"],
+          "rows": [
+            {"h": "Entrance", "cells": ["Faces east (Gen 3:24)", "Faces east", "Gates always open (Rev 21:25)"]},
+            {"h": "Guardians", "cells": ["Cherubim with a sword", "Cherubim on veil and ark", "No more barrier"]},
+            {"h": "Precious things", "cells": ["Gold and onyx (2:12)", "Gold; onyx on the ephod", "Gold city, precious stones"]},
+            {"h": "God’s presence", "cells": ["God “walks” (3:8)", "“I will walk among you” (Lev 26:12)", "God dwells with people (21:3)"]},
+            {"h": "Water and life", "cells": ["River, tree of life", "Water flows out (Ezek 47)", "River and tree of life (22:1–2)"]}
+          ]}
+      ],
+      "verses": [
+        {"ref": "Genesis 2:8", "text": "The LORD God planted a garden eastward in Eden; and there he put the man whom he had formed."},
+        {"ref": "Genesis 2:10", "text": "A river went out of Eden to water the garden; and from thence it was parted, and became into four heads."},
+        {"ref": "Psalm 36:8", "text": "Thou shalt make them drink of the river of thy pleasures."},
+        {"ref": "Luke 23:43", "text": "To day shalt thou be with me in paradise."},
+        {"ref": "Revelation 22:1", "text": "He shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb."}
+      ],
+      "keyPoints": [
+        "Genesis names four rivers; only the Tigris (*Hiddekel*) and Euphrates (*Perat*) are known.",
+        "Eden has been placed in the northern highlands, at the head of the Persian Gulf, and elsewhere — none is proven.",
+        "*Eden* sounds like “delight”; *gan* is an enclosed garden; *pardes/paradeisos* gave us “paradise”.",
+        "Eden is drawn like a sanctuary: east entrance, cherubim, gold and onyx, God walking with people.",
+        "The river of Eden returns in Ezekiel 47 and Revelation 22 — the Bible ends where it began."
+      ],
+      "reflect": [
+        "If Eden means “delight”, what does it tell you that God’s first home for people was a place of joy, not just survival?",
+        "Where in your life do you most want to be “fully seen and not ashamed” before God?"
+      ],
+      "quiz": [
+        {"q": "Which two rivers of Eden can be identified with confidence?", "options": ["Pishon and Gihon", "Tigris and Euphrates", "Nile and Jordan", "Gihon and Euphrates"], "a": 1, "why": "*Hiddekel* is the Tigris and *Perat* the Euphrates; the Pishon and Gihon remain unknown."},
+        {"q": "What does the word *eden* sound like in Hebrew?", "options": ["Delight, pleasure", "East", "Mountain", "River"], "a": 0, "why": "It matches the root for delight — compare Ps 36:8 “river of your delights” and Gen 18:12 *ednah*."},
+        {"q": "Where does our word “paradise” come from?", "options": ["Latin *pater*", "Hebrew *gan*", "Aramaic *abba*", "A Persian word for a walled park, via Greek *paradeisos*"], "a": 3, "why": "Persian → Hebrew *pardes* → Greek *paradeisos* (Septuagint Gen 2:8) → Latin → English."},
+        {"q": "Which detail links Eden with the Tabernacle?", "options": ["Both were in Babylon", "Both had a west-facing door", "Both had cherubim and an entrance on the east", "Both were built by Solomon"], "a": 2, "why": "Cherubim guard Eden’s east side (3:24); the Tabernacle faced east and had cherubim on veil and ark."}
+      ],
+      "terms": [
+        {"term": "Eden (עֵדֶן)", "def": "The region of the garden; the name sounds like “delight, luxury”."},
+        {"term": "Gan (גַּן)", "def": "Garden — an enclosed, protected space."},
+        {"term": "Pardes / paradeisos", "def": "Persian-origin word for a walled park; in Greek the word for Eden’s garden, source of “paradise”."},
+        {"term": "Hiddekel / Perat", "def": "Hebrew names of the Tigris and the Euphrates."},
+        {"term": "Cherubim", "def": "Heavenly guardians at Eden’s gate and on the ark and Tabernacle curtains."}
+      ],
+      "related": ["w-nahash", "g-03", "d-arum"]
+    },
+    {
+      "id": "d-adam", "book": "decode", "order": 20, "num": 2,
+      "title": "Dust and Breath: the Two Yods of Genesis 2:7",
+      "subtitle": "Why is the word “formed” spelled with an extra letter when God makes the human?",
+      "nutshell": "In Genesis 2:7 the verb “formed” is written וַיִּיצֶר with two yods; when God forms the animals (2:19) it has one. The rabbis noticed and asked why. The verse itself paints the human as dust from the ground plus the breath of God — earthy and God-breathed at once.",
+      "bigIdea": "The human being is dust that God has breathed on — humble in origin, alive by God’s breath, and made for a second breath in Christ.",
+      "skeleton": [
+        "Gen 2:7: formed from dust, breathed into, became a living being",
+        "Two yods (2:7) vs one yod (2:19) — the rabbis’ readings",
+        "*Adam* and *adamah*: the earthling from the earth",
+        "*Neshamah*: the breath and “the candle of the LORD”",
+        "Ish/ishah, Chavah and chai — names that explain",
+        "First Adam, last Adam: Jesus breathes again"
+      ],
+      "sections": [
+        {"h": "What the Hebrew text says", "p": [
+          "“The LORD God formed (*vayyitser*) the human (*ha-adam*) of dust (*aphar*) from the ground (*ha-adamah*), and breathed into his nostrils the breath of life (*nishmat chayyim*); and the human became a living being (*nefesh chayah*)” (Gen 2:7).",
+          "The verb *yatsar* is a potter’s word: to shape clay. Here it is spelled וַיִּיצֶר, with two letters yod (י). In 2:19, where God forms the animals from the ground, the same verb is spelled וַיִּצֶר, with one. Both spellings are possible in Hebrew — but the difference sits right where humans and animals are compared."
+        ]},
+        {"h": "What the rabbis saw in the two yods", "p": [
+          "The Talmud (Berakhot 61a) asks why there are two yods and answers: God created the human with two inclinations — the *yetzer ha-tov* (good inclination) and the *yetzer ha-ra* (evil inclination). The word *yetzer* (“inclination”) comes from the same root as “formed”.",
+          "Another rabbinic reading (in the midrash on Genesis) sees two formations: one for this world and one for the world to come. These are interpretations of a spelling detail, not the plain meaning — but they show how carefully ancient readers looked at every letter."
+        ]},
+        {"h": "Adam, adamah — and a popular link", "p": [
+          "The play on words is clear in Hebrew: *adam* (human) is taken from the *adamah* (ground). A fair English echo would be “earthling from the earth”.",
+          "Many teachers also connect *adam* with *adom* (“red”) and *dam* (“blood”), since red earth and red blood share the sound. This is a popular link; scholars still debate the true origin of the word *adam*, so treat it as a memorable echo, not a proven etymology."
+        ]},
+        {"h": "Breath, soul and the candle", "p": [
+          "*Neshamah* is breath — the breath God himself breathes in. Proverbs 20:27 calls it “the candle of the LORD, searching all the inward parts”. *Nefesh chayah*, “living being”, is also used for animals (Gen 1:20, 24): what makes the human unique in 2:7 is not having a *nefesh* but being breathed into by God, face to face.",
+          "Names keep explaining: the woman is called *ishah* because she was taken from *ish*, “man” (2:23) — a sound-play, even if the two words may come from different roots. And Adam names her *Chavah* (Eve) because she is the mother of all *chai*, “living” (3:20)."
+        ]},
+        {"h": "First Adam, last Adam (the inner story)", "p": [
+          "Paul quotes Genesis 2:7: “The first man Adam became a living being; the last Adam became a life-giving spirit” (1 Cor 15:45–49). The first Adam received breath; the last Adam gives it.",
+          "On Easter evening Jesus “breathed on” his disciples and said, “Receive the Holy Spirit” (John 20:22) — John uses the same Greek verb the Septuagint uses in Genesis 2:7. Read devotionally, this is a new creation: dust breathed on a second time."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "interlinear", "title": "Genesis 2:7 in Hebrew, word by word", "lang": "he", "after": 0,
+          "words": [
+            {"w": "וַיִּיצֶר", "g": "and he formed (two yods)"},
+            {"w": "יְהוָה אֱלֹהִים", "g": "the LORD God"},
+            {"w": "אֶת־הָאָדָם", "g": "the human"},
+            {"w": "עָפָר", "g": "dust"},
+            {"w": "מִן־הָאֲדָמָה", "g": "from the ground"},
+            {"w": "וַיִּפַּח", "g": "and he breathed"},
+            {"w": "בְּאַפָּיו", "g": "into his nostrils"},
+            {"w": "נִשְׁמַת", "g": "breath of"},
+            {"w": "חַיִּים", "g": "life"},
+            {"w": "וַיְהִי הָאָדָם", "g": "and the human became"},
+            {"w": "לְנֶפֶשׁ חַיָּה", "g": "a living being"}
+          ],
+          "readings": [
+            {"label": "Hebrew (literal)", "text": "The LORD God **formed** the human — dust from the ground — and **breathed** into his nostrils the breath of life, and the human became **a living being**.", "note": "*Adam* from *adamah*: earthling from the earth."},
+            {"label": "Septuagint / 1 Cor 15:45", "text": "…and the man became **a living soul** (*psychē zōsa*).", "note": "Paul quotes this line to contrast the first and last Adam."},
+            {"label": "Talmud, Berakhot 61a (a reading)", "text": "Two yods: God formed the human with **two inclinations**, good and evil.", "note": "A rabbinic interpretation of the spelling, not the plain sense."}
+          ]},
+        {"type": "compare", "title": "One verb, two spellings", "after": 1,
+          "left": {"label": "Gen 2:7 — the human", "items": ["וַיִּיצֶר — two yods", "Formed from dust of the ground", "God breathes into his nostrils", "Becomes a living being", "Rabbis: two inclinations / two worlds"]},
+          "right": {"label": "Gen 2:19 — the animals", "items": ["וַיִּצֶר — one yod", "Formed from the ground", "No breath mentioned", "Also called living beings (1:24)", "Brought to the human to be named"]}},
+        {"type": "table", "title": "The word family around adam", "after": 2,
+          "cols": ["", "Meaning", "Where", "Link to adam"],
+          "rows": [
+            {"h": "אֲדָמָה adamah", "cells": ["ground, soil", "Gen 2:7; 3:19", "Clear wordplay in the text"]},
+            {"h": "אָדֹם adom", "cells": ["red", "Gen 25:30", "Popular link; origin debated"]},
+            {"h": "דָּם dam", "cells": ["blood", "Gen 4:10; 9:6", "Popular link; origin debated"]},
+            {"h": "עָפָר aphar", "cells": ["dust", "Gen 2:7; 3:19", "What the human is made of"]},
+            {"h": "נְשָׁמָה neshamah", "cells": ["breath", "Gen 2:7; Prov 20:27", "What makes dust alive"]}
+          ]},
+        {"type": "flow", "title": "From dust to new creation", "after": 4,
+          "steps": [
+            {"t": "Dust", "d": "*Aphar* from the *adamah* (Gen 2:7)."},
+            {"t": "Formed", "d": "Shaped like clay by the Potter — *yatsar*."},
+            {"t": "Breathed into", "d": "*Nishmat chayyim*, the breath of life."},
+            {"t": "Living being", "d": "*Nefesh chayah* — a whole living person."},
+            {"t": "Return to dust", "d": "“Dust you are, and to dust you shall return” (3:19)."},
+            {"t": "Breathed on again", "d": "Jesus breathes the Spirit (John 20:22); the last Adam gives life (1 Cor 15:45)."}
+          ]},
+        {"type": "cards", "title": "Five decoded moments", "after": 3,
+          "cards": [
+            {"t": "Two yods", "front": "Why the extra letter?", "back": "In 2:7 “formed” has two yods; in 2:19, one. The Talmud reads two inclinations, good and evil, held in one person.", "source": "Talmud Berakhot 61a", "echo": "Rom 7:21–25 — the struggle within"},
+            {"t": "The candle", "front": "What is God’s lamp inside you?", "back": "Proverbs calls the *neshamah*, the breath God gave, “the candle of the LORD” that searches the inner self.", "source": "Prov 20:27", "echo": "Matt 6:22–23 — the lamp of the body"},
+            {"t": "Ish and ishah", "front": "Why is she called “woman”?", "back": "“She shall be called *ishah*, because she was taken out of *ish*” (2:23). A sound-play that says: you belong together.", "source": "Gen 2:23", "echo": "Matt 19:4–6"},
+            {"t": "Chavah", "front": "What does Eve’s name mean?", "back": "*Chavah* sounds like *chai*, “living”: she is “the mother of all living” (3:20) — named after the fall, a name full of hope.", "source": "Gen 3:20", "echo": "Gen 3:15 — the promised offspring"},
+            {"t": "The second breath", "front": "Where does God breathe again?", "back": "Jesus “breathed on” the disciples — the same Greek verb the Septuagint uses in Gen 2:7. A new creation begins.", "source": "John 20:22", "echo": "1 Cor 15:45 — the life-giving last Adam"}
+          ]}
+      ],
+      "verses": [
+        {"ref": "Genesis 2:7", "text": "The LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."},
+        {"ref": "Proverbs 20:27", "text": "The spirit of man is the candle of the LORD, searching all the inward parts."},
+        {"ref": "1 Corinthians 15:45", "text": "The first man Adam was made a living soul; the last Adam was made a quickening spirit."},
+        {"ref": "John 20:22", "text": "He breathed on them, and saith unto them, Receive ye the Holy Ghost."}
+      ],
+      "keyPoints": [
+        "“Formed” in Gen 2:7 has two yods; in 2:19 (the animals) it has one.",
+        "The Talmud (Berakhot 61a) reads the two yods as two inclinations, good and evil — an interpretation, not the plain sense.",
+        "*Adam* comes from the *adamah*; links to *adom* (red) and *dam* (blood) are popular but debated.",
+        "*Nefesh chayah* is used of animals too; God’s own breath (*neshamah*) is what is special in 2:7.",
+        "The first Adam received breath; the last Adam, Jesus, breathes the Spirit (1 Cor 15:45; John 20:22)."
+      ],
+      "reflect": [
+        "How does it change your day to remember you are both dust and God-breathed?",
+        "Where do you feel the pull of two inclinations — and what helps the good one grow?"
+      ],
+      "quiz": [
+        {"q": "How is “formed” spelled in Genesis 2:7 compared with 2:19?", "options": ["The same in both", "With two yods in 2:7, one yod in 2:19", "With one yod in 2:7, two in 2:19", "It is a different verb"], "a": 1, "why": "וַיִּיצֶר (2:7) has two yods; וַיִּצֶר (2:19) has one."},
+        {"q": "What does the Talmud (Berakhot 61a) see in the two yods?", "options": ["Two creation stories", "Two languages", "Two inclinations, good and evil", "Two Adams"], "a": 2, "why": "It links *vayyitser* with *yetzer*, inclination: the *yetzer ha-tov* and *yetzer ha-ra*."},
+        {"q": "Which statement about *adam* and *dam* (blood) is fair?", "options": ["It is a popular link; scholars debate the origin of *adam*", "It is the proven etymology", "The Bible states it in Gen 2:7", "There is no sound similarity"], "a": 0, "why": "The *adam/adamah* play is clear; links to red and blood are memorable but debated."},
+        {"q": "Which New Testament scene echoes God breathing in Genesis 2:7?", "options": ["The Sermon on the Mount", "The feeding of the 5,000", "Jesus’ baptism", "Jesus breathing on the disciples in John 20:22"], "a": 3, "why": "John uses the same Greek verb as the Septuagint of Gen 2:7: a new creation."}
+      ],
+      "terms": [
+        {"term": "Yatsar (יָצַר)", "def": "To form, shape — the potter’s verb."},
+        {"term": "Yetzer ha-tov / ha-ra", "def": "The good and evil inclinations in Jewish teaching, from the same root as “formed”."},
+        {"term": "Adamah (אֲדָמָה)", "def": "Ground, soil — the source of *adam*, the human."},
+        {"term": "Neshamah (נְשָׁמָה)", "def": "Breath; the breath of life God breathed into the human."},
+        {"term": "Nefesh chayah", "def": "“Living being” — used of humans and animals."},
+        {"term": "Chavah (חַוָּה)", "def": "Eve; the name sounds like *chai*, “living”."}
+      ],
+      "related": ["s-soul", "s-thought", "w-aphar", "w-ezer"]
+    },
+    {
+      "id": "d-arum", "book": "decode", "order": 30, "num": 3,
+      "title": "Naked and Crafty: the Pun Hidden in Eden",
+      "subtitle": "Why does the Bible call the humans “naked” and the serpent “crafty” with almost the same word?",
+      "nutshell": "Genesis 2 ends with the man and woman *arummim*, “naked”, and Genesis 3 begins with the serpent *arum*, “crafty”. The two words come from different roots but sound almost the same, and most scholars think the echo is deliberate. The story moves from open innocence to calculating cleverness — and then to hiding.",
+      "bigIdea": "The fall begins when open trust is replaced by calculation — and God’s answer is to cover and to seek.",
+      "skeleton": [
+        "2:25 *arummim* naked — 3:1 *arum* crafty",
+        "Different roots, one sound: a deliberate wordplay",
+        "*Arum* can be good: “prudent” in Proverbs",
+        "“You will be like God, knowing good and evil” (3:5)",
+        "Eyes opened, fig leaves, hiding (3:7–10)",
+        "“Wise as serpents, innocent as doves” (Matt 10:16)"
+      ],
+      "sections": [
+        {"h": "What the Hebrew text says", "p": [
+          "Genesis 2:25: “And they were both naked (*arummim*), the man and his wife, and were not ashamed.” The very next verse, 3:1: “Now the serpent (*nachash*) was more crafty (*arum*) than any beast of the field.”",
+          "In Hebrew the two words sit side by side and sound alike. Most lexicons place them under different roots — one meaning “bare”, the other “shrewd” — but the storyteller has set them next to each other on purpose. Scholars widely treat this as a deliberate wordplay."
+        ]},
+        {"h": "Crafty is not always bad", "p": [
+          "*Arum* is not a purely negative word. In Proverbs it means “prudent”: “a prudent man covers shame” (12:16), “a prudent man conceals knowledge” (12:23), “the prudent looks well to his steps” (14:15). It describes shrewd, careful thinking.",
+          "So the serpent is not described as evil at first, but as clever. The question is what that cleverness is used for. Its first words twist God’s command into a question: “Did God really say…?” (3:1)."
+        ]},
+        {"h": "Knowing good and evil", "p": [
+          "The serpent promises: “Your eyes will be opened, and you will be like God, knowing good and evil” (3:5). What they actually gain is knowledge of themselves: “the eyes of both were opened, and they knew that they were naked (*eirummim*)” (3:7).",
+          "Notice the third word: *eirom* (3:7, 10, 11), naked in a new, exposed way. They sew fig leaves and hide among the trees. Adam says, “I was afraid, because I was naked, and I hid” (3:10). Openness has turned into self-protection."
+        ]},
+        {"h": "What ancient readers saw", "p": [
+          "Ancient readers soon linked the serpent with the devil: “through the devil’s envy death entered the world” (Wisdom 2:24); “that ancient serpent, called the devil and Satan” (Rev 12:9). Paul fears the Corinthians may be led astray “as the serpent deceived Eve by his craftiness” (2 Cor 11:3).",
+          "The Greek Septuagint calls the serpent *phronimōtatos*, “most shrewd” — and Jesus uses the same word: “Be wise (*phronimoi*) as serpents and innocent as doves” (Matt 10:16). Shrewdness itself is not the sin; shrewdness without innocence is."
+        ]},
+        {"h": "The inner story (a devotional reading)", "p": [
+          "Read as a story of the heart: *arummim* is the openness of people with nothing to hide; *arum* is the calculating mind that asks, “What can I get, and how can I protect myself?” The fall happens when calculation replaces trust.",
+          "Yet God does not leave them in fig leaves. He comes looking (3:9), and he makes them garments of skin and clothes them (3:21). The Bible’s answer to exposed shame is not better hiding but God’s own covering."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "interlinear", "title": "Genesis 2:25 and 3:1 side by side", "lang": "he", "after": 0,
+          "words": [
+            {"w": "וַיִּהְיוּ", "g": "and they were"},
+            {"w": "שְׁנֵיהֶם", "g": "the two of them"},
+            {"w": "עֲרוּמִּים", "g": "NAKED (arummim)"},
+            {"w": "וְלֹא יִתְבֹּשָׁשׁוּ", "g": "and were not ashamed"},
+            {"w": "וְהַנָּחָשׁ", "g": "and the serpent"},
+            {"w": "הָיָה", "g": "was"},
+            {"w": "עָרוּם", "g": "CRAFTY (arum)"},
+            {"w": "מִכֹּל חַיַּת הַשָּׂדֶה", "g": "more than any beast of the field"}
+          ],
+          "readings": [
+            {"label": "Hebrew (sound-play kept)", "text": "They were **bare** and not ashamed… Now the serpent was more **shrewd** than any beast.", "note": "*Arummim* / *arum*: almost the same sound, different roots."},
+            {"label": "Septuagint (Greek)", "text": "…the serpent was **most shrewd** (*phronimōtatos*) of all the beasts.", "note": "The same word family Jesus uses in Matt 10:16."},
+            {"label": "KJV", "text": "They were both **naked**… Now the serpent was more **subtil** than any beast of the field.", "note": "English cannot keep the pun."}
+          ]},
+        {"type": "table", "title": "Three look-alike words", "after": 1,
+          "cols": ["", "Meaning", "Where", "Sense"],
+          "rows": [
+            {"h": "עֲרוּמִּים arummim", "cells": ["naked, bare", "Gen 2:25", "Open, nothing to hide"]},
+            {"h": "עָרוּם arum", "cells": ["crafty, shrewd", "Gen 3:1", "Calculating cleverness"]},
+            {"h": "עָרוּם arum", "cells": ["prudent", "Prov 12:16, 23; 14:15", "Positive: careful wisdom"]},
+            {"h": "עֵירֹם eirom", "cells": ["naked, exposed", "Gen 3:7, 10, 11", "Naked with shame"]}
+          ]},
+        {"type": "flow", "title": "From open to hidden — and covered", "after": 2,
+          "steps": [
+            {"t": "Naked, not ashamed", "d": "*Arummim* — open trust (2:25)."},
+            {"t": "The crafty voice", "d": "*Arum* — “Did God really say…?” (3:1)."},
+            {"t": "The promise", "d": "“You will be like God, knowing good and evil” (3:5)."},
+            {"t": "Eyes opened", "d": "They know they are *eirummim*, exposed (3:7)."},
+            {"t": "Fig leaves and hiding", "d": "Self-made covering; fear (3:7–10)."},
+            {"t": "God covers", "d": "Garments of skin, made by God (3:21)."}
+          ]},
+        {"type": "compare", "title": "An inner reading: openness vs calculation", "note": "A devotional reading of the wordplay, not a claim about the Hebrew roots.", "after": 4,
+          "left": {"label": "Arummim — open", "items": ["Nothing to hide", "Trusts God’s word", "Receives the gift", "At ease with the other", "Walks with God"]},
+          "right": {"label": "Arum — calculating", "items": ["Something to protect", "Questions God’s word", "Grasps for more", "Covers up before the other", "Hides from God"]}},
+        {"type": "cards", "title": "How the serpent was read", "after": 3,
+          "cards": [
+            {"t": "Envy", "front": "Why did the serpent tempt?", "back": "A Jewish wisdom book says death entered the world “through the devil’s envy” — linking the serpent with the devil.", "source": "Wisdom of Solomon 2:24", "echo": "John 8:44"},
+            {"t": "Craftiness", "front": "Paul’s warning", "back": "Paul fears believers may be led astray “as the serpent deceived Eve by his craftiness”.", "source": "2 Cor 11:3", "echo": "Eph 6:11 — the devil’s schemes"},
+            {"t": "The ancient serpent", "front": "Who is the serpent at the end?", "back": "Revelation names “that ancient serpent, called the devil and Satan” — and he is finally defeated.", "source": "Rev 12:9; 20:2", "echo": "Gen 3:15 — the head crushed"},
+            {"t": "Shrewd and innocent", "front": "Can a disciple be “serpent-wise”?", "back": "The Septuagint calls the serpent *phronimōtatos*; Jesus tells disciples to be *phronimoi* as serpents but innocent as doves.", "source": "Gen 3:1 (LXX); Matt 10:16", "echo": "Rom 16:19"},
+            {"t": "Prudence covers", "front": "A good kind of *arum*", "back": "“A prudent (*arum*) man covers shame” — wisdom used to protect others, not to expose them.", "source": "Prov 12:16", "echo": "1 Pet 4:8 — love covers"}
+          ]}
+      ],
+      "verses": [
+        {"ref": "Genesis 2:25", "text": "They were both naked, the man and his wife, and were not ashamed."},
+        {"ref": "Genesis 3:1", "text": "Now the serpent was more subtil than any beast of the field which the LORD God had made."},
+        {"ref": "Genesis 3:7", "text": "The eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together."},
+        {"ref": "Matthew 10:16", "text": "Be ye therefore wise as serpents, and harmless as doves."}
+      ],
+      "keyPoints": [
+        "*Arummim* (naked, 2:25) and *arum* (crafty, 3:1) sound alike but come from different roots — a deliberate wordplay.",
+        "*Arum* can be positive: “prudent” in Proverbs 12:16, 23; 14:15.",
+        "The promised “knowing good and evil” ends in knowing they are *eirummim* — exposed and afraid.",
+        "Ancient readers linked the serpent with the devil (Wisdom 2:24; 2 Cor 11:3; Rev 12:9).",
+        "Jesus asks for serpent-shrewdness joined to dove-innocence (Matt 10:16); God covers what we cannot (Gen 3:21)."
+      ],
+      "reflect": [
+        "Where do you tend to calculate and protect yourself instead of trusting God openly?",
+        "How can your wisdom “cover shame” for others rather than expose it?"
+      ],
+      "quiz": [
+        {"q": "Which two words make the pun between Gen 2:25 and 3:1?", "options": ["*Gan* and *eden*", "*Adam* and *adamah*", "*Arummim* (naked) and *arum* (crafty)", "*Ish* and *ishah*"], "a": 2, "why": "They sit side by side and sound almost the same."},
+        {"q": "What does *arum* mean in Proverbs 12:16 and 14:15?", "options": ["Prudent", "Wicked", "Naked", "Foolish"], "a": 0, "why": "In Proverbs *arum* is a positive word for careful wisdom."},
+        {"q": "What did Adam and Eve actually come to know when their eyes were opened?", "options": ["The names of the animals", "That they were naked", "The way back to Eden", "The future"], "a": 1, "why": "“They knew that they were naked” (3:7) — and they hid."},
+        {"q": "What does God do at the end of Genesis 3 about their nakedness?", "options": ["Nothing", "Tells them to make better leaves", "Sends the serpent to clothe them", "Makes garments of skin and clothes them"], "a": 3, "why": "Gen 3:21: God himself covers them."}
+      ],
+      "terms": [
+        {"term": "Arummim (עֲרוּמִּים)", "def": "Naked, bare (Gen 2:25)."},
+        {"term": "Arum (עָרוּם)", "def": "Crafty, shrewd (Gen 3:1); prudent (Proverbs)."},
+        {"term": "Eirom (עֵירֹם)", "def": "Naked, exposed (Gen 3:7, 10, 11)."},
+        {"term": "Nachash (נָחָשׁ)", "def": "Serpent."},
+        {"term": "Wordplay (paronomasia)", "def": "Placing similar-sounding words together to make a point."}
+      ],
+      "related": ["w-nahash", "d-eden", "d-ayekah"]
+    },
+    {
+      "id": "d-ayekah", "book": "decode", "order": 40, "num": 4,
+      "title": "God’s First Question: “Where Are You?”",
+      "subtitle": "If God knows everything, why is his first question to humans “Where are you?”",
+      "nutshell": "After Adam and Eve hide, God calls out one Hebrew word: *ayekah* — “Where are you?” Adam answers not with a place but with his state: afraid, naked, hiding. The rest of the Bible is full of God’s questions — and of people learning to answer *hineni*, “Here I am.”",
+      "bigIdea": "God’s first question is an invitation, and the Bible’s best answer to it is *hineni* — “Here I am.”",
+      "skeleton": [
+        "Gen 3:9: one word, *ayekah*",
+        "Adam answers with his condition: afraid, naked, hid",
+        "Same letters as *eikhah*, the lament of Lamentations",
+        "God keeps asking: “Where is your brother?” “What have you done?”",
+        "The answer: *hineni*, “Here I am”",
+        "God’s own *hineni* and Jesus who seeks the lost"
+      ],
+      "sections": [
+        {"h": "What the Hebrew text says", "p": [
+          "“The LORD God called to the man and said to him, *Ayekah*?” (Gen 3:9). In Hebrew it is one word: *ayeh*, “where?”, plus the ending “you”.",
+          "Adam does not say where he is. He says how he is: “I heard your voice in the garden, and I was afraid, because I was naked; and I hid myself” (3:10). The question about a place uncovers a heart."
+        ]},
+        {"h": "What ancient readers saw", "p": [
+          "Ancient readers knew God was not lacking information. Philo (1st c.) read the question as being about the state of the soul rather than a location. Jewish teachers saw an opening for confession: God gives Adam a chance to come out and speak.",
+          "A midrash on Lamentations notices that אַיֶּכָּה (*ayekah*) has the same consonants as אֵיכָה (*eikhah*), “How…!”, the first word of Lamentations (1:1). It reads God’s question as a lament — God mourning over his child, as later over Jerusalem. This is a rabbinic reading of the letters, not a claim about grammar."
+        ]},
+        {"h": "God keeps asking", "p": [
+          "Genesis is full of God’s questions. To Cain: “Where is Abel your brother?” and “What have you done?” (4:9–10). To Hagar: “Where have you come from, and where are you going?” (16:8). To Abraham: “Where is Sarah your wife?” (18:9).",
+          "God’s questions are not interrogations by someone who does not know. They are doors opened to people who need to tell the truth — about themselves, about others, and about where they are going."
+        ]},
+        {"h": "The answer: hineni", "p": [
+          "The opposite of hiding is the little word הִנֵּנִי *hineni*, “Here I am” — not just “I am here”, but “I am available, ready”. Abraham says it when God calls (Gen 22:1, 11); Jacob says it in the night (46:2); Moses at the burning bush (Ex 3:4); the boy Samuel in the Temple (1 Sam 3:4); Isaiah after his lips are cleansed: “Here am I; send me” (Isa 6:8).",
+          "Most surprising: God says *hineni* too. “You will call, and the LORD will answer; you will cry, and he will say, Here I am” (Isa 58:9). “I said, Here I am, here I am, to a nation that did not call on my name” (65:1)."
+        ]},
+        {"h": "The inner story (a devotional reading)", "p": [
+          "Read devotionally, *ayekah* is still God’s question to every person: not “Where is your body?” but “Where is your heart?” Hiding behind trees, excuses and busyness is the oldest human reflex.",
+          "In Jesus, the seeking God comes in person: “The Son of Man came to seek and to save the lost” (Luke 19:10). The whole Bible can be read as God asking “Where are you?” until we can answer, “Here I am.”"
+        ]}
+      ],
+      "diagrams": [
+        {"type": "interlinear", "title": "Genesis 3:9 — and the letters of Lamentations 1:1", "lang": "he", "after": 0,
+          "words": [
+            {"w": "וַיִּקְרָא", "g": "and he called"},
+            {"w": "יְהוָה אֱלֹהִים", "g": "the LORD God"},
+            {"w": "אֶל־הָאָדָם", "g": "to the human"},
+            {"w": "וַיֹּאמֶר לוֹ", "g": "and said to him"},
+            {"w": "אַיֶּכָּה", "g": "where are you?"},
+            {"w": "אֵיכָה", "g": "how…! (Lam 1:1)"},
+            {"w": "הִנֵּנִי", "g": "here I am"}
+          ],
+          "readings": [
+            {"label": "Hebrew (Gen 3:9)", "text": "The LORD God called to the human and said to him: **Where are you?**", "note": "One word in Hebrew: *ayekah*."},
+            {"label": "Lamentations midrash (a reading)", "text": "*Ayekah* has the same letters as *eikhah* — **“How…!”** — God laments over Adam as later over Jerusalem.", "note": "A rabbinic reading of the consonants."},
+            {"label": "The answer", "text": "**Hineni** — “Here I am”: the reply of Abraham, Moses, Samuel and Isaiah.", "note": "Gen 22:1; Ex 3:4; 1 Sam 3:4; Isa 6:8."}
+          ]},
+        {"type": "flow", "title": "From hiding to “Here I am”", "after": 1,
+          "steps": [
+            {"t": "The question", "d": "*Ayekah* — “Where are you?” (Gen 3:9)."},
+            {"t": "The hiding", "d": "“I was afraid… naked… I hid” (3:10)."},
+            {"t": "More questions", "d": "“Where is your brother?” (4:9); “Where are you going?” (16:8)."},
+            {"t": "The call", "d": "God calls by name: “Abraham!” “Moses, Moses!” “Samuel!”"},
+            {"t": "The answer", "d": "*Hineni* — “Here I am” (Gen 22:1; Ex 3:4)."},
+            {"t": "God’s own hineni", "d": "“He will say, Here I am” (Isa 58:9); Jesus seeks the lost (Luke 19:10)."}
+          ]},
+        {"type": "table", "title": "God’s questions in Genesis", "after": 2,
+          "cols": ["", "To whom", "Reference", "What it opens"],
+          "rows": [
+            {"h": "“Where are you?”", "cells": ["Adam", "Gen 3:9", "Honesty about the heart"]},
+            {"h": "“Where is Abel your brother?”", "cells": ["Cain", "Gen 4:9", "Responsibility for others"]},
+            {"h": "“What have you done?”", "cells": ["Cain", "Gen 4:10", "Facing the truth"]},
+            {"h": "“Where have you come from, where are you going?”", "cells": ["Hagar", "Gen 16:8", "Direction for the outcast"]},
+            {"h": "“Where is Sarah your wife?”", "cells": ["Abraham", "Gen 18:9", "Promise for the family"]}
+          ]},
+        {"type": "cards", "title": "Six “Here I am” moments", "after": 3,
+          "cards": [
+            {"t": "Abraham", "front": "Called to the hardest test", "back": "God calls, “Abraham!” and he answers *hineni*. On the mountain the angel calls again, and again he says *hineni* — and Isaac is spared.", "source": "Gen 22:1, 11", "echo": "Heb 11:17–19"},
+            {"t": "Jacob", "front": "A voice in the night", "back": "Old Jacob, fearful about going to Egypt, hears “Jacob, Jacob!” and answers *hineni*. God promises, “I will go down with you.”", "source": "Gen 46:2–4", "echo": "Matt 28:20"},
+            {"t": "Moses", "front": "A bush that does not burn", "back": "“Moses, Moses!” — *hineni*. The shepherd who once ran away is now ready to listen.", "source": "Ex 3:4", "echo": "Acts 7:30–34"},
+            {"t": "Samuel", "front": "A boy who did not yet know God’s voice", "back": "Samuel answers *hineni* three times to Eli before he learns to say, “Speak, for your servant hears.”", "source": "1 Sam 3:4–10", "echo": "John 10:27"},
+            {"t": "Isaiah", "front": "Cleansed, then sent", "back": "After the coal touches his lips, Isaiah hears “Whom shall I send?” and says, “*Hineni* — send me.”", "source": "Isa 6:8", "echo": "Rom 10:15"},
+            {"t": "God himself", "front": "The God who answers *hineni*", "back": "When his people cry out, God says, “Here I am” — even to those who did not seek him.", "source": "Isa 58:9; 65:1", "echo": "Luke 19:10; Rom 10:20"}
+          ]},
+        {"type": "compare", "title": "Hiding or answering", "after": 4,
+          "left": {"label": "Hiding (Gen 3)", "items": ["Afraid of God’s voice", "Covers up with leaves", "Hides among the trees", "Blames another (3:12)", "Speaks about “I”"]},
+          "right": {"label": "Answering (hineni)", "items": ["Turns toward God’s voice", "Comes out as he is", "Stands where God can see", "Takes responsibility", "Says “Here I am — send me”"]}}
+      ],
+      "verses": [
+        {"ref": "Genesis 3:9", "text": "And the LORD God called unto Adam, and said unto him, Where art thou?"},
+        {"ref": "Genesis 3:10", "text": "I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself."},
+        {"ref": "Isaiah 6:8", "text": "Then said I, Here am I; send me."},
+        {"ref": "Isaiah 58:9", "text": "Thou shalt cry, and he shall say, Here I am."},
+        {"ref": "Luke 19:10", "text": "For the Son of man is come to seek and to save that which was lost."}
+      ],
+      "keyPoints": [
+        "God’s first question to humans is one Hebrew word: *ayekah*, “Where are you?” (Gen 3:9).",
+        "Adam answers with his state, not his place: afraid, naked, hiding (3:10).",
+        "A Lamentations midrash reads *ayekah* as *eikhah*, “How…!” — God lamenting; a reading of the letters.",
+        "The answer the Bible teaches is *hineni*, “Here I am” — Abraham, Jacob, Moses, Samuel, Isaiah.",
+        "God himself says *hineni* (Isa 58:9; 65:1), and in Jesus he comes to seek the lost (Luke 19:10)."
+      ],
+      "reflect": [
+        "If God asked you today, “Where are you?”, what honest answer would you give?",
+        "What would it look like for you to say *hineni* this week?"
+      ],
+      "quiz": [
+        {"q": "How many words is “Where are you?” in the Hebrew of Gen 3:9?", "options": ["Three", "Two", "Four", "One — *ayekah*"], "a": 3, "why": "*Ayeh* (where) + the ending “you” make one word."},
+        {"q": "How does Adam answer God’s question?", "options": ["He names a tree", "He describes his state: afraid, naked, hiding", "He stays silent", "He says *hineni*"], "a": 1, "why": "Gen 3:10 — the question about a place reveals the heart."},
+        {"q": "What does *hineni* mean?", "options": ["Here I am / I am ready", "Where are you?", "How…!", "Go away"], "a": 0, "why": "It is the answer of Abraham, Moses, Samuel and Isaiah — and of God (Isa 58:9)."},
+        {"q": "Which word does a Lamentations midrash connect with *ayekah*?", "options": ["*Hineni*", "*Shalom*", "*Eikhah*, “How…!” (Lam 1:1)", "*Eden*"], "a": 2, "why": "Same consonants; the midrash hears God lamenting over Adam."}
+      ],
+      "terms": [
+        {"term": "Ayekah (אַיֶּכָּה)", "def": "“Where are you?” — God’s question in Gen 3:9."},
+        {"term": "Eikhah (אֵיכָה)", "def": "“How…!” — the cry that opens Lamentations; also the book’s Hebrew name."},
+        {"term": "Hineni (הִנֵּנִי)", "def": "“Here I am” — the answer of readiness."},
+        {"term": "Midrash", "def": "Rabbinic interpretation that explores the details of the biblical text."}
+      ],
+      "related": ["d-arum", "s-pray", "w-yirah"]
+    }
+  ],
+  "glossary": []
+}
