@@ -20,6 +20,10 @@ search, read-aloud, progress tracking and seven colour schemes with light/dark m
 5. **From Original to Translation**: why the Bible leaves out its culture, how translations change meaning, the Septuagint
    and the history of Bible versions (down to the Tamil Bible), and close-ups of 2 Timothy 3:16 and Isaiah 53:10 with
    interlinear views.
+6. **Hidden in the Hebrew**: 15 topics decoding Hebrew roots, wordplays, names, lost biblical places and ancient text
+   analysis (Eden, Adam, the serpent, God's first question, Cain and Abel, Babel and Bethel, Jonah, lost geography, scribal
+   tools, the Bible's bookends, word threads, names, types, numbers and gematria, hidden-code claims tested), with
+   interlinear views and a Near East map.
 
 The whole app is available in **English and Tamil (தமிழ்)**. Switch with the EN | தமிழ் control in the top-right corner;
 the choice and your reading progress are remembered.
