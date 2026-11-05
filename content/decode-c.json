@@ -1,0 +1,543 @@
+{
+  "chapters": [
+    {
+      "id": "d-echoes",
+      "book": "decode",
+      "order": 100,
+      "num": 10,
+      "title": "From Eden to the New Jerusalem: the Bible's Bookends",
+      "subtitle": "Why does the Bible's last page sound so much like its first?",
+      "nutshell": "Genesis 1–3 and Revelation 21–22 are built to mirror each other. A garden with a river, gold, the tree of life and God walking with people opens the story; a garden-city with a river, gold, the tree of life and God dwelling with people closes it. In between, the garden pattern keeps returning — in the Tabernacle, the Temple, and the garden where Jesus was buried and rose.",
+      "bigIdea": "The Bible ends where it began, only better: what was lost in the garden is restored, and more, in the city where God lives with his people.",
+      "skeleton": [
+        "Genesis 1–3: creation, garden, river, tree, God's presence — then curse, hiding, death, exile",
+        "The garden pattern returns: Tabernacle and Temple decorated like Eden",
+        "Jesus: arrested in a garden, buried in a garden, mistaken for the gardener",
+        "Revelation 21–22: new heavens and earth, no sea, no curse, no death, God's face seen",
+        "The point: not back to the start, but forward to a fuller garden-city"
+      ],
+      "sections": [
+        {
+          "h": "What the texts actually say",
+          "p": [
+            "Read Genesis 1–3 and Revelation 21–22 side by side and the echoes are hard to miss. Genesis opens with “the heavens and the earth” (1:1); Revelation sees “a new heaven and a new earth” (21:1). In Genesis there is light before the sun (1:3, 14–16); the New Jerusalem “has no need of sun or moon”, because God's glory is its light (21:23).",
+            "Eden has a river (2:10), gold and onyx (2:11–12) and the tree of life (2:9). The city has “the river of the water of life” (22:1), streets of gold and walls of jewels (21:18–21), and the tree of life on both banks (22:2). The tree once guarded by cherubim (3:24) is now open to all who wash their robes (22:14)."
+          ]
+        },
+        {
+          "h": "Everything lost is reversed",
+          "p": [
+            "Genesis 3 lists what went wrong; Revelation answers it point by point. The ground is cursed (3:17) — “no longer will there be anything accursed” (22:3). Adam and Eve hide from God's presence (3:8) — “they will see his face” (22:4). Death enters (2:17; 3:19) — “death shall be no more” (21:4). They are driven out (3:23–24) — “the dwelling place of God is with man” (21:3). Even the sea, the ancient picture of chaos (the “deep” of 1:2), is “no more” (21:1)."
+          ]
+        },
+        {
+          "h": "What ancient readers saw: the garden pattern in between",
+          "p": [
+            "The Bible's middle keeps drawing Eden. The Tabernacle and Temple face east, are guarded by cherubim and shine with gold; Solomon carved “cherubim, palm trees and open flowers” on the walls (1 Kings 6:29) — a garden in stone. Ezekiel sees a river flowing from the Temple that makes salt water fresh, with fruit trees whose leaves are for healing (Ezek 47:1–12), the picture Revelation 22:2 picks up.",
+            "Ancient readers noticed. Ezekiel calls Eden “the garden of God” on “the holy mountain of God” (Ezek 28:13–14). The Book of Jubilees (2nd c. BC) calls the garden of Eden “the holy of holies” and the dwelling of the Lord (Jub 8:19). And the New Jerusalem is a perfect cube (Rev 21:16), the shape of the Temple's Most Holy Place (1 Kings 6:20): the whole city has become the sanctuary, so it needs no temple — God and the Lamb are its temple (21:22)."
+          ]
+        },
+        {
+          "h": "Jesus in the garden",
+          "p": [
+            "Only John tells us that Jesus was arrested in a garden (John 18:1) and buried in a new tomb in a garden (19:41). On Easter morning Mary Magdalene, weeping, supposes the risen Jesus is “the gardener” (20:15).",
+            "Church Fathers such as Irenaeus (2nd c.) taught that Christ “recapitulates” Adam: where the first man failed in a garden, the second obeys and wins. Many Christians read Mary's mistake as a quiet hint that the true Gardener has returned to his garden. That is a devotional reading — John does not say it — but it fits the Bible's shape."
+          ]
+        },
+        {
+          "h": "A devotional reading",
+          "p": [
+            "The bookends tell you where the story is going. Eden was a garden for two; the end is a city for “the nations” (21:24–26) — not a return to the start but its fulfilment. The God who called “Where are you?” to people hiding among the trees finishes the story by wiping every tear from their eyes (21:4) and letting them see his face."
+          ]
+        },
+        {
+          "h": "Claims that don't hold up",
+          "p": [
+            "Some go too far. Revelation is not a line-by-line rewrite of Genesis; it also draws heavily on Isaiah 65, Ezekiel 40–48 and Zechariah. “No more sea” is picture language about chaos and evil, not a lesson in geography. And the “Garden Tomb” shown to visitors in Jerusalem, proposed in the 19th century, is a lovely place to pray, but most archaeologists think the site of the Church of the Holy Sepulchre is far more likely."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "interlinear",
+          "title": "Genesis 3:8 in Hebrew, word by word",
+          "lang": "he",
+          "after": 0,
+          "words": [
+            {"w": "וַיִּשְׁמְעוּ", "g": "and they heard"},
+            {"w": "אֶת־קוֹל", "g": "the sound / voice of"},
+            {"w": "יְהוָה אֱלֹהִים", "g": "the LORD God"},
+            {"w": "מִתְהַלֵּךְ", "g": "walking about"},
+            {"w": "בַּגָּן", "g": "in the garden"},
+            {"w": "לְרוּחַ הַיּוֹם", "g": "at the breeze (wind) of the day"}
+          ],
+          "readings": [
+            {"label": "Hebrew (literal)", "text": "They heard the sound of the LORD God **walking about in the garden** at the breezy time of the day.", "note": "*Mithhallekh* is the verb God uses in the Tabernacle promise “I will **walk among you**” (Lev 26:12; Deut 23:14)."},
+            {"label": "KJV", "text": "And they heard the voice of the LORD God **walking in the garden** in the cool of the day."},
+            {"label": "Revelation 21:3 (the answer)", "text": "Behold, **the dwelling place of God is with man**. He will dwell with them, and they will be his people.", "note": "The God who walked in the garden lives with his people for ever."}
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "Genesis 1–3 and Revelation 21–22",
+          "after": 1,
+          "note": "Ten echoes between the first and last pages of the Bible.",
+          "left": {
+            "label": "Beginning (Genesis)",
+            "items": [
+              "Heavens and earth created (1:1)",
+              "The deep, waters of chaos (1:2)",
+              "Light before the sun (1:3)",
+              "Tree of life barred by cherubim (3:24)",
+              "A river flows out of Eden (2:10)",
+              "Gold and onyx in Havilah (2:11–12)",
+              "The ground is cursed (3:17)",
+              "Hiding from God's presence (3:8)",
+              "Death enters (2:17; 3:19)",
+              "God walks in the garden (3:8)"
+            ]
+          },
+          "right": {
+            "label": "Ending (Revelation)",
+            "items": [
+              "New heaven and new earth (21:1)",
+              "“The sea was no more” (21:1)",
+              "No need of sun or moon (21:23)",
+              "Tree of life open to all (22:2, 14)",
+              "River of the water of life (22:1)",
+              "City of gold, walls of jewels (21:18–21)",
+              "“No more anything accursed” (22:3)",
+              "“They will see his face” (22:4)",
+              "“Death shall be no more” (21:4)",
+              "God dwells with his people (21:3)"
+            ]
+          }
+        },
+        {
+          "type": "timeline",
+          "title": "Where God lives with people: the garden thread",
+          "after": 2,
+          "events": [
+            {"when": "Genesis 2–3", "t": "Eden", "d": "God walks with Adam and Eve in the garden; cherubim guard the east gate after the fall."},
+            {"when": "Exodus", "t": "Tabernacle", "d": "“Let them make me a sanctuary, that I may dwell among them” (Ex 25:8); cherubim woven into the veil."},
+            {"when": "c. 960 BC", "t": "Solomon's Temple", "d": "Cherubim, palm trees and open flowers carved on the walls (1 Kings 6:29); a cube-shaped Most Holy Place."},
+            {"when": "c. 573 BC", "t": "Ezekiel's vision", "d": "A river flows from the Temple; trees with leaves for healing (Ezek 47:1–12)."},
+            {"when": "c. AD 30", "t": "Jesus", "d": "The Word “tabernacled” among us (John 1:14); his body is the temple (2:19–21); arrested and buried in gardens."},
+            {"when": "From Pentecost", "t": "The church", "d": "God's people become his temple by the Spirit (1 Cor 3:16; Eph 2:21–22)."},
+            {"when": "The end", "t": "New creation", "d": "No temple in the city: God and the Lamb are its temple (Rev 21:22); river and tree of life (22:1–2)."}
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "The story's shape: from garden to garden-city",
+          "after": 3,
+          "steps": [
+            {"t": "Garden given", "d": "Life, river, tree, God's presence (Gen 2)."},
+            {"t": "Garden lost", "d": "Hiding, curse, death; cherubim guard the way (Gen 3)."},
+            {"t": "Garden remembered", "d": "Tabernacle and Temple built like Eden; prophets promise a river (Ezek 47)."},
+            {"t": "The Gardener comes", "d": "Jesus prays in a garden, is buried in a garden and rises there (John 18–20)."},
+            {"t": "Garden-city opened", "d": "Tree of life open to the nations; God's face seen (Rev 22)."}
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "Six echoes — and how sure we can be",
+          "after": 5,
+          "cards": [
+            {"t": "Cherubim at the door", "front": "Who guards the way to God?", "back": "Cherubim guard Eden's east gate (Gen 3:24). Cherubim are woven into the Tabernacle veil and stand over the ark (Ex 25:18–22; 26:31). When the Temple veil tears at Jesus' death (Mark 15:38), the way in is opened.", "source": "Genesis; Exodus (text)", "echo": "Heb 10:19–20"},
+            {"t": "A cube-shaped city", "front": "Why is the New Jerusalem a cube?", "back": "It is equal in length, width and height (Rev 21:16), like the Most Holy Place (1 Kings 6:20). The whole city has become the place of God's presence.", "source": "Revelation; 1 Kings (text)", "echo": "Rev 21:22"},
+            {"t": "Leaves for healing", "front": "Where do the healing leaves come from?", "back": "Ezekiel's river from the Temple waters trees whose leaves are for healing (Ezek 47:12). Revelation applies it to “the healing of the nations” (22:2).", "source": "Ezekiel 47 (text)", "echo": "Rev 22:2"},
+            {"t": "The gardener", "front": "Why did Mary think Jesus was the gardener?", "back": "Because the tomb was in a garden (John 19:41). Christians have long seen a deeper hint: the new Adam in a new garden. This is a reading, not John's stated point.", "source": "John 20:15; Irenaeus on recapitulation", "echo": "1 Cor 15:45"},
+            {"t": "The “Garden Tomb” site", "front": "Is the Garden Tomb in Jerusalem the real tomb?", "back": "It was proposed in the 19th century and is a peaceful place of prayer. Most archaeologists think the Church of the Holy Sepulchre is the more likely site.", "source": "Archaeology (debated)", "echo": "John 19:41–42"},
+            {"t": "“No more sea”", "front": "Will there be no oceans?", "back": "In the Bible the sea often pictures chaos and danger (Gen 1:2; Dan 7:2–3; Rev 13:1). “No more sea” means no more chaos or evil — picture language, not a map.", "source": "Revelation 21:1", "echo": "Mark 4:39"}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Genesis 2:9", "text": "The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil."},
+        {"ref": "Genesis 3:24", "text": "He placed cherubim at the east of the garden of Eden… to guard the way to the tree of life."},
+        {"ref": "Revelation 21:3–4", "text": "The dwelling place of God is with man… and death shall be no more."},
+        {"ref": "Revelation 22:1–2", "text": "The river of the water of life… and on either side of the river, the tree of life."},
+        {"ref": "John 19:41", "text": "In the place where he was crucified there was a garden, and in the garden a new tomb."}
+      ],
+      "keyPoints": [
+        "Genesis 1–3 and Revelation 21–22 are deliberate bookends with at least ten echoes.",
+        "Revelation reverses the losses of Genesis 3: curse, hiding, death and exile.",
+        "The Tabernacle and Temple were decorated like Eden; ancient Jewish readers called Eden a sanctuary.",
+        "John alone notes that Jesus was arrested and buried in gardens; the “new Adam” reading is devotional.",
+        "The end is better than the beginning: a garden-city for the nations, with God's face seen."
+      ],
+      "reflect": [
+        "Which of the ten reversals in Revelation 21–22 means most to you right now, and why?",
+        "If the whole story moves towards God living with his people, how does that change the way you see your church today?"
+      ],
+      "quiz": [
+        {"q": "What does Revelation 22:3 say about the curse of Genesis 3:17?", "options": ["It will be lifted only for Israel", "There will be no more curse", "It will continue in the sea", "It is not mentioned"], "a": 1, "why": "Revelation 22:3 says nothing accursed will be there any more — a direct answer to Genesis 3."},
+        {"q": "Why is the New Jerusalem's cube shape significant?", "options": ["It matches the shape of the Most Holy Place", "It copies the tower of Babel", "It shows the city is small", "It is the shape of Noah's ark"], "a": 0, "why": "The Most Holy Place was a cube (1 Kings 6:20); the whole city becomes God's sanctuary."},
+        {"q": "Which Gospel tells us Jesus was buried in a garden?", "options": ["Matthew", "Mark", "Luke", "John"], "a": 3, "why": "John 19:41 mentions the garden; John 20:15 has Mary thinking Jesus is the gardener."},
+        {"q": "What is the best way to understand “the sea was no more” (Rev 21:1)?", "options": ["A scientific prediction about oceans", "A copying mistake", "Picture language for the end of chaos and evil", "A reference to the Dead Sea"], "a": 2, "why": "In the Bible the sea often pictures chaos and danger; its removal means nothing will threaten God's people."}
+      ],
+      "terms": [
+        {"term": "Bookends (inclusio)", "def": "A literary frame in which the end deliberately echoes the beginning."},
+        {"term": "Cherubim", "def": "Heavenly guardians at Eden's gate and in the Tabernacle and Temple, marking God's holy presence."},
+        {"term": "Recapitulation", "def": "Irenaeus' teaching that Christ retraces and repairs Adam's story, succeeding where Adam failed."},
+        {"term": "New Jerusalem", "def": "The garden-city of Revelation 21–22 where God dwells with his people."},
+        {"term": "Sanctuary pattern", "def": "The widely noted parallels between Eden and the Tabernacle/Temple: east entrance, cherubim, gold, a river and trees."}
+      ],
+      "related": ["d-eden", "g-final", "b-temple"]
+    },
+    {
+      "id": "d-threads",
+      "book": "decode",
+      "order": 110,
+      "num": 11,
+      "title": "Word Threads: One Hebrew Word Through the Whole Bible",
+      "subtitle": "What happens if you follow a single Hebrew word from Genesis to Revelation?",
+      "nutshell": "Some Hebrew words run through the Bible like coloured threads. *Tevah* “ark” is used only for Noah's ark and baby Moses' basket. *Seh* “lamb” runs from Abraham's words on Moriah to the Lamb on the throne. Following a word with a concordance is one of the best ways to see how Scripture hangs together — as long as each passage is allowed to speak in its own context.",
+      "bigIdea": "The Bible teaches through repeated words; tracing them carefully reveals real connections, but the connections must come from the text, not be forced onto it.",
+      "skeleton": [
+        "Pick a word and find every use (concordance)",
+        "Start with the first use — a helpful habit, not a rule",
+        "Read each use in its own context",
+        "Look for the links the New Testament itself makes",
+        "Eight threads: ark, seed, lamb, tree, light, hover, beginning, garden"
+      ],
+      "sections": [
+        {
+          "h": "What the Hebrew text says: the ark and the basket",
+          "p": [
+            "The Hebrew word for Noah's ark is *tevah* (Gen 6:14). It is not the word for the ark of the covenant (that is *aron*, a chest). *Tevah* appears in only one other story: the papyrus basket in which baby Moses is laid on the Nile (Ex 2:3, 5). Both are sealed with pitch; both carry a chosen one through deadly water; both save a future.",
+            "This is a true and striking link, and most English readers never see it, because modern translations rightly say “ark” in Genesis and “basket” in Exodus. The KJV keeps the link: “an ark of bulrushes”."
+          ]
+        },
+        {
+          "h": "Five threads from the first page to the last",
+          "p": [
+            "*Zera* “seed, offspring” begins in Genesis 3:15, where the woman's seed will crush the serpent's head, and continues in the promises to Abraham (12:7; 22:18). Paul notes that the word is singular and reads it as pointing to Christ (Gal 3:16). In Hebrew *zera* is usually collective, so Paul is drawing out a fuller meaning, as a Jewish teacher of his day might.",
+            "*Seh* “lamb”: “God will provide for himself the lamb” (Gen 22:8); the Passover lamb (Ex 12:3); the servant led “like a lamb to the slaughter” (Isa 53:7). John the Baptist completes the sentence: “Behold, the Lamb of God” (John 1:29), and Revelation shows the Lamb standing “as though it had been slain” (5:6).",
+            "*Etz* “tree”: the tree of life (Gen 2:9); the curse on one hanged “on a tree” (Deut 21:22–23), which the apostles apply to the cross (Acts 5:30; Gal 3:13; 1 Pet 2:24); then the tree of life again (Rev 22:2). *Or* “light”: “Let there be light” (Gen 1:3); “a great light” for those in darkness (Isa 9:2); “I am the light of the world” (John 8:12); “the Lord God will be their light” (Rev 22:5)."
+          ]
+        },
+        {
+          "h": "Three more: hover, beginning, garden",
+          "p": [
+            "*Rachaf* “hover”: the Spirit of God “was hovering over the face of the waters” (Gen 1:2). The only other use in the Torah is an eagle that “hovers over its young” (Deut 32:11), a picture of God caring for Israel in the wilderness. It is the image of a parent bird over its nest.",
+            "*Bereshit* “in the beginning” (Gen 1:1) is *en archē* in the Septuagint, the Greek translation. John opens his Gospel with the same two Greek words: “In the beginning was the Word” (John 1:1) — a deliberate echo announcing a new Genesis. *Gan* “garden”: Eden; the bride as “a garden locked” in the Song of Songs (4:12; 5:1); and in John, the garden of the arrest and the garden of the tomb (John 18:1; 19:41)."
+          ]
+        },
+        {
+          "h": "What ancient readers saw",
+          "p": [
+            "Jewish and Christian readers traced these threads long ago. The Talmud records the sage Ben Zoma comparing the Spirit over the waters to a dove hovering over its young without touching them (Chagigah 15a). Genesis Rabbah 1:1 reads *bereshit* with Proverbs 8:22, where Wisdom is the “beginning” of God's way, and calls the Torah the plan by which God made the world.",
+            "The Aramaic Targums connect Genesis 3:15 with healing “in the days of King Messiah”. Melito of Sardis (2nd c.) preached the Passover lamb as a picture of Christ, and Irenaeus set the tree of disobedience in Eden against the tree of the cross."
+          ]
+        },
+        {
+          "h": "A devotional reading",
+          "p": [
+            "Threads show one Author's hand. The ark that carried Noah and the basket that carried Moses say the same thing: God carries his own through the waters that should destroy them — a picture Peter applies to baptism (1 Pet 3:20–21). The lamb thread says that God himself provides what he asks for. Read this way, word study becomes worship."
+          ]
+        },
+        {
+          "h": "How to trace a word — and where to stop",
+          "p": [
+            "The method: find the Hebrew word (an interlinear or Strong's numbers help); list every use with a concordance; read the first use carefully; read every use in its own context; note where the New Testament itself makes the link; only then draw a lesson.",
+            "Be careful with the so-called “law of first mention”, the idea that a word's first use fixes its meaning everywhere. It is a helpful habit, not a rule: words shift with context, and many NT links are made through Greek words. A word used twice is not always a hidden message; the strongest threads are the ones the Bible itself draws."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "interlinear",
+          "title": "Exodus 2:3 in Hebrew: Moses' “ark”",
+          "lang": "he",
+          "after": 0,
+          "words": [
+            {"w": "וַתִּקַּח־לוֹ", "g": "and she took for him"},
+            {"w": "תֵּבַת", "g": "an ark (tevah) of"},
+            {"w": "גֹּמֶא", "g": "papyrus / bulrushes"},
+            {"w": "וַתַּחְמְרָה", "g": "and she daubed it"},
+            {"w": "בַחֵמָר", "g": "with bitumen"},
+            {"w": "וּבַזָּפֶת", "g": "and with pitch"}
+          ],
+          "readings": [
+            {"label": "Hebrew (literal)", "text": "She took for him **a tevah of papyrus** and daubed it with bitumen and pitch.", "note": "*Tevah* is the same word as Noah's ark — used nowhere else in the Bible."},
+            {"label": "KJV", "text": "She took for him **an ark of bulrushes**, and daubed it with slime and with pitch."},
+            {"label": "Genesis 6:14 (the first tevah)", "text": "Make yourself **a tevah of gopher wood**… and cover it inside and out with pitch.", "note": "A different word for pitch (*kofer*), the same idea: a sealed vessel that saves through water."}
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "The lamb thread: one question, many answers",
+          "after": 1,
+          "steps": [
+            {"t": "Moriah", "d": "Isaac asks, “Where is the lamb?” Abraham: “God will provide for himself the lamb” (Gen 22:7–8)."},
+            {"t": "Egypt", "d": "A lamb for each household; its blood on the door (Ex 12:3, 13)."},
+            {"t": "Isaiah's servant", "d": "“Like a lamb that is led to the slaughter” (Isa 53:7)."},
+            {"t": "The Jordan", "d": "“Behold, the Lamb of God, who takes away the sin of the world!” (John 1:29)."},
+            {"t": "The throne", "d": "A Lamb standing, as though slain, worthy to open the scroll (Rev 5:6–9)."}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Eight word threads at a glance",
+          "after": 2,
+          "cols": ["Word", "First use", "Along the way", "New Testament", "Last page"],
+          "rows": [
+            {"h": "תֵּבָה tevah — ark", "cells": ["Gen 6:14 Noah's ark", "Ex 2:3, 5 Moses' basket", "1 Pet 3:20–21 Noah and baptism", "—"]},
+            {"h": "זֶרַע zera — seed", "cells": ["Gen 3:15 the woman's seed", "Gen 12:7; 22:18 Abraham's seed", "Gal 3:16 “to your seed, Christ”", "Rev 12:17 her offspring"]},
+            {"h": "שֶׂה seh — lamb", "cells": ["Gen 22:8 God will provide", "Ex 12:3; Isa 53:7", "John 1:29 Lamb of God", "Rev 5:6 the Lamb slain"]},
+            {"h": "עֵץ etz — tree", "cells": ["Gen 2:9 tree of life", "Deut 21:22–23 hanged on a tree", "Acts 5:30; Gal 3:13; 1 Pet 2:24", "Rev 22:2 tree of life"]},
+            {"h": "אוֹר or — light", "cells": ["Gen 1:3 let there be light", "Isa 9:2 a great light", "John 8:12 light of the world", "Rev 22:5 God their light"]},
+            {"h": "רָחַף rachaf — hover", "cells": ["Gen 1:2 the Spirit hovering", "Deut 32:11 eagle over its young", "Spirit like a dove (Mark 1:10) — a reading", "—"]},
+            {"h": "בְּרֵאשִׁית bereshit — in the beginning", "cells": ["Gen 1:1 in the beginning", "Prov 8:22 Wisdom, the “beginning”", "John 1:1 en archē", "Rev 22:13 the beginning and the end"]},
+            {"h": "גַּן gan — garden", "cells": ["Gen 2:8 garden in Eden", "Song 4:12; 5:1 a garden locked", "John 18:1; 19:41 arrest and tomb", "Rev 22:1–2 the garden-city"]}
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "Eight threads: what is solid, what is a reading",
+          "after": 3,
+          "cards": [
+            {"t": "Tevah — ark", "front": "Why do Noah and Moses share a word?", "back": "*Tevah* is used only for Noah's ark and Moses' basket. Both are sealed with pitch and carry a chosen one through water. A true textual link.", "source": "Gen 6–9; Ex 2:3, 5", "echo": "1 Pet 3:20–21"},
+            {"t": "Zera — seed", "front": "One seed or many?", "back": "*Zera* is usually collective (“offspring”). Paul reads the singular in Abraham's promise as pointing to Christ — a Jewish-style deeper reading, not grammar alone.", "source": "Gen 3:15; 22:18; Targums on 3:15", "echo": "Gal 3:16"},
+            {"t": "Seh — lamb", "front": "Who answers Isaac's question?", "back": "“God will provide the lamb” (Gen 22:8) is left open in Genesis. The Passover and Isaiah 53 keep the question alive; John 1:29 names the answer.", "source": "Gen 22; Ex 12; Isa 53; Melito of Sardis", "echo": "John 1:29; Rev 5:6"},
+            {"t": "Etz — tree", "front": "From tree of life to tree of life", "back": "The apostles call the cross a “tree”, echoing Deuteronomy 21:23. Irenaeus contrasted Eden's tree of disobedience with the tree of obedience.", "source": "Deut 21:23; Irenaeus", "echo": "Gal 3:13; Rev 22:2"},
+            {"t": "Or — light", "front": "Light before the sun?", "back": "Light comes on day one (Gen 1:3), the sun on day four. At the end God himself is the light (Rev 22:5); in between, Jesus is “the light of the world”.", "source": "Gen 1; Isa 9:2", "echo": "John 8:12"},
+            {"t": "Rachaf — hover", "front": "Spirit, eagle, dove", "back": "The Spirit hovers (Gen 1:2) like an eagle over its young (Deut 32:11). Ben Zoma compared it to a dove. Linking this to the dove at Jesus' baptism is a devotional reading.", "source": "Talmud Chagigah 15a", "echo": "Mark 1:10"},
+            {"t": "Bereshit — beginning", "front": "Why does John start like Genesis?", "back": "The Septuagint's *en archē* (Gen 1:1) is exactly how John begins (John 1:1). He is deliberately telling a new creation story with the Word at the centre.", "source": "Septuagint; Genesis Rabbah 1:1", "echo": "John 1:1–3"},
+            {"t": "Gan — garden", "front": "Three gardens", "back": "Eden, the Song's “garden locked”, and John's garden of arrest and tomb. The garden is where love, loss and new life meet.", "source": "Gen 2; Song 4:12", "echo": "John 19:41; 20:15"}
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "How to trace a word thread",
+          "after": 5,
+          "note": "The “law of first mention” is a helpful habit, not a rule.",
+          "steps": [
+            {"t": "Find the word", "d": "Use an interlinear or Strong's number to find the Hebrew behind the English."},
+            {"t": "List every use", "d": "A concordance shows each place the word appears."},
+            {"t": "Read the first use", "d": "Notice how the word is introduced — without assuming it fixes every later meaning."},
+            {"t": "Read each in context", "d": "Ask what the word means in that sentence and story."},
+            {"t": "Follow the NT's own links", "d": "The safest threads are those the apostles draw themselves."},
+            {"t": "Then apply, humbly", "d": "Separate what the text says from your devotional reading."}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Exodus 2:3", "text": "She took for him a basket made of bulrushes and daubed it with bitumen and pitch."},
+        {"ref": "Genesis 22:8", "text": "God will provide for himself the lamb for a burnt offering, my son."},
+        {"ref": "John 1:29", "text": "Behold, the Lamb of God, who takes away the sin of the world!"},
+        {"ref": "John 1:1", "text": "In the beginning was the Word, and the Word was with God, and the Word was God."},
+        {"ref": "Deuteronomy 32:11", "text": "Like an eagle that stirs up its nest, that hovers over its young."}
+      ],
+      "keyPoints": [
+        "*Tevah* is used only for Noah's ark and Moses' basket — a real, striking link.",
+        "The lamb thread runs from Genesis 22:8 to Revelation 5:6, and John 1:29 names the answer.",
+        "John 1:1 deliberately echoes the Septuagint of Genesis 1:1.",
+        "Ancient Jewish and Christian readers (Talmud, Midrash, Targums, Church Fathers) traced many of these threads.",
+        "The “law of first mention” is a useful habit, not a rule; the strongest links are those the Bible itself makes."
+      ],
+      "reflect": [
+        "Which word thread surprised you most, and what does it show you about God?",
+        "Choose one word this week and trace it with a concordance. What did you learn from reading each use in context?"
+      ],
+      "quiz": [
+        {"q": "Where else does *tevah* (Noah's ark) appear in the Bible?", "options": ["The ark of the covenant", "Moses' basket on the Nile", "Solomon's Temple", "Jonah's ship"], "a": 1, "why": "*Tevah* is used only for Noah's ark and Moses' basket (Ex 2:3, 5); the ark of the covenant is *aron*."},
+        {"q": "Which verse does John 1:1 echo?", "options": ["Psalm 23:1", "Exodus 3:14", "Genesis 1:1", "Isaiah 53:7"], "a": 2, "why": "John uses *en archē*, the Septuagint's words for “in the beginning” in Genesis 1:1."},
+        {"q": "What is the only other use of *rachaf* “hover” in the Torah?", "options": ["An eagle over its young", "A cloud over the Tabernacle", "A dove over the ark", "Smoke over Sinai"], "a": 0, "why": "Deuteronomy 32:11 pictures an eagle hovering over its young."},
+        {"q": "What is the best description of the “law of first mention”?", "options": ["A rule found in the Talmud", "A command in the New Testament", "A proof that every word means the same everywhere", "A helpful study habit, not a binding rule"], "a": 3, "why": "Reading the first use is helpful, but words change with context; it is not a rule of interpretation."}
+      ],
+      "terms": [
+        {"term": "Concordance", "def": "A list of every place a word appears in the Bible."},
+        {"term": "Interlinear", "def": "A Bible showing the original-language words with a word-for-word translation underneath."},
+        {"term": "Leitwort", "def": "A “leading word” repeated through a passage or book to carry its theme."},
+        {"term": "Law of first mention", "def": "A popular preaching habit of reading a word's first use as key to its later uses; helpful, but not a rule."},
+        {"term": "Septuagint", "def": "The ancient Greek translation of the Hebrew Scriptures, often quoted in the New Testament."}
+      ],
+      "related": ["d-echoes", "s-word", "d-scribe"]
+    },
+    {
+      "id": "d-names",
+      "book": "decode",
+      "order": 120,
+      "num": 12,
+      "title": "Names That Preach",
+      "subtitle": "What if the map of the Gospels is also a sermon?",
+      "nutshell": "Biblical names usually mean something, and the Bible often tells you so. Bethlehem is “house of bread”, Gethsemane “oil press”, Peniel “face of God”, and Jesus' own name means “the LORD saves”. Some meanings are certain, some likely, and some popular ones are stretched — this chapter sorts them honestly.",
+      "bigIdea": "Names in Scripture often carry the message of the story, but we should preach only the meanings that the language and the text actually support.",
+      "skeleton": [
+        "Names the Bible explains itself: Peniel, Judah, Moriah, Yeshua, Immanuel, Israel",
+        "Places that preach: Bethlehem, Nazareth, Capernaum, Bethany, Gethsemane, Golgotha, Bethel",
+        "New names for new callings: Abraham, Sarah, Peter, Paul",
+        "The Genesis 5 “gospel in the names”: sound and strained parts",
+        "Sort every claim: certain → likely → speculative"
+      ],
+      "sections": [
+        {
+          "h": "What the text says: names the Bible explains",
+          "p": [
+            "Often the Bible explains a name itself. Jacob names the place Peniel, “face of God”, “for I have seen God face to face” (Gen 32:30). Leah names Judah, saying, “This time I will praise the LORD” (29:35). Abraham calls the mountain in Moriah “The LORD will provide” (22:14), and 2 Chronicles 3:1 says Solomon built the Temple on Mount Moriah. The angel tells Joseph to call the child *Yeshua*, “for he will save his people from their sins” (Matt 1:21): Yeshua is a short form of Yehoshua (Joshua), “the LORD saves”.",
+            "Immanuel is spelled out: “God with us” (Isa 7:14; Matt 1:23). Israel is explained as “you have striven with God and with men” (Gen 32:28). The name itself may mean “God strives” or “God rules”, but the story's point is clear."
+          ]
+        },
+        {
+          "h": "Places that preach",
+          "p": [
+            "Bethlehem is *beit lechem*, “house of bread” — the town where the one who said “I am the bread of life” (John 6:35) was born. Gethsemane comes from *gat shemanim*, “oil press”, where Jesus was pressed in prayer. Golgotha is Aramaic for “skull” (Latin *calvaria*, hence “Calvary”; John 19:17). Bethel is “house of God” (Gen 28:19).",
+            "Others need hedges. Matthew says Jesus would “be called a Nazarene” (2:23), quoting no single verse but “the prophets”. A widely held explanation is a wordplay on *netzer*, the “branch” from Jesse's root (Isa 11:1). Capernaum is *Kfar Nachum*, “village of Nahum”, a name from the root for “comfort” — we do not know which Nahum. Bethany may mean “house of the poor/affliction” (*beit aniyah*) or come from a name like Ananiah (Neh 11:32); no one is sure."
+          ]
+        },
+        {
+          "h": "New names, new callings",
+          "p": [
+            "Abram (“exalted father”) becomes Abraham, explained as “father of a multitude” (Gen 17:5). Sarai and Sarah both mean “princess”; the change marks the promise (17:15–16). Jesus calls Simon *Kepha*, Aramaic for “rock” — Greek *Petros* (John 1:42; Matt 16:18).",
+            "Saul is “also called Paul” (Acts 13:9). This is not a rename at his conversion; he had a Jewish name and a Roman name side by side, and Luke switches to “Paul” as the mission to the nations begins."
+          ]
+        },
+        {
+          "h": "What ancient readers saw",
+          "p": [
+            "Name meanings fascinated ancient interpreters. Philo of Alexandria (1st c.) explained many Hebrew names allegorically — Israel as “one who sees God”, for example. Jerome (c. 390) wrote a whole book of Hebrew name meanings for Latin readers, and the rabbis often drew lessons from names in Genesis Rabbah. Some of their explanations are sound; others are clever sermon-puns rather than real language history."
+          ]
+        },
+        {
+          "h": "A devotional reading",
+          "p": [
+            "Read the Gospel map slowly and it preaches: the Bread is born in the House of Bread; the Branch grows up in Nazareth; the one named “the LORD saves” is pressed in the Oil Press and dies at the Place of the Skull; and on Moriah, where “the LORD will provide”, God provides. These are readings, not proofs — but they rest on real meanings."
+          ]
+        },
+        {
+          "h": "Claims that don't hold up: the Genesis 5 “gospel”",
+          "p": [
+            "A popular claim says the ten names from Adam to Noah form a sentence: “Man (is) appointed mortal sorrow; (but) the blessed God shall come down teaching (that) his death shall bring (the) despairing rest.” Some links are sound: Adam = man, humanity; Seth is explained as “appointed/granted” (Gen 4:25); Enosh = man, mortal; Mahalalel ≈ “praise of God”; Noah is linked to “rest/comfort” (5:29).",
+            "Others are strained. Kenan more likely means “possession” or “smith” than “sorrow”; Jared comes from “descend”, but not as “he shall come down”; Enoch means “dedicated”, not quite “teaching”; Methuselah most likely means “man of the spear”; Lamech's meaning is unknown. The sentence is a modern devotional construction: enjoy it as a reminder of the gospel, but do not call it a hidden code."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "interlinear",
+          "title": "Genesis 32:30 in Hebrew: a name that explains itself",
+          "lang": "he",
+          "after": 0,
+          "words": [
+            {"w": "וַיִּקְרָא", "g": "and he called"},
+            {"w": "יַעֲקֹב", "g": "Jacob"},
+            {"w": "שֵׁם הַמָּקוֹם", "g": "the name of the place"},
+            {"w": "פְּנִיאֵל", "g": "Peniel (“face of God”)"},
+            {"w": "כִּי־רָאִיתִי", "g": "for I have seen"},
+            {"w": "אֱלֹהִים", "g": "God"},
+            {"w": "פָּנִים אֶל־פָּנִים", "g": "face to face"},
+            {"w": "וַתִּנָּצֵל נַפְשִׁי", "g": "and my life was spared"}
+          ],
+          "readings": [
+            {"label": "Hebrew (literal)", "text": "Jacob called the name of the place **Peni-El**, for “I have seen **God face to face**, and my life was spared.”", "note": "*Penei* = face, *El* = God: the name is explained by the sentence — a common biblical pattern."},
+            {"label": "KJV", "text": "And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved."},
+            {"label": "Matthew 1:21 (the same pattern)", "text": "You shall call his name **Jesus (Yeshua)**, for **he will save** his people from their sins.", "note": "The reason clause explains the name: *Yeshua* — “the LORD saves”."}
+          ]
+        },
+        {
+          "type": "map",
+          "title": "A map that preaches",
+          "after": 1,
+          "places": [
+            {"id": "bethlehem", "d": "*Beit lechem*, “house of bread”: birthplace of the Bread of life.", "refs": "Mic 5:2; Luke 2:4–7; John 6:35"},
+            {"id": "nazareth", "d": "Probably linked to *netzer* “branch” (Isa 11:1) — a widely held explanation of Matthew 2:23.", "refs": "Isa 11:1; Matt 2:23"},
+            {"id": "capernaum", "d": "*Kfar Nachum*, “village of Nahum” — a name from the root “comfort”; Jesus' home base.", "refs": "Matt 4:13; Mark 2:1"},
+            {"id": "bethany", "d": "Possibly “house of the poor/affliction” (uncertain); home of Mary, Martha and Lazarus.", "refs": "John 11:1; 12:1"},
+            {"id": "jerusalem", "d": "Mount Moriah (“the LORD will provide”), Gethsemane (“oil press”) and Golgotha (“skull”).", "refs": "2 Chr 3:1; Matt 26:36; John 19:17"},
+            {"id": "bethel", "d": "*Beit El*, “house of God”, where Jacob saw the stairway to heaven.", "refs": "Gen 28:19"}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Names, meanings and how sure we are",
+          "after": 1,
+          "cols": ["Name", "Hebrew / Aramaic", "Meaning", "Key verse", "Certainty"],
+          "rows": [
+            {"h": "Bethlehem", "cells": ["בֵּית לֶחֶם beit lechem", "house of bread", "Mic 5:2; John 6:35", "Certain"]},
+            {"h": "Nazareth", "cells": ["נֵצֶר netzer (link)", "branch, shoot", "Isa 11:1; Matt 2:23", "Likely wordplay; debated"]},
+            {"h": "Capernaum", "cells": ["כְּפַר נַחוּם Kfar Nachum", "village of Nahum (“comfort”)", "Matt 4:13", "Name certain; “comfort” indirect"]},
+            {"h": "Gethsemane", "cells": ["גַּת שְׁמָנִים gat shemanim", "oil press", "Matt 26:36", "Very likely"]},
+            {"h": "Golgotha", "cells": ["גֻּלְגָּלְתָּא gulgulta", "skull", "John 19:17", "Certain"]},
+            {"h": "Bethany", "cells": ["בֵּית עֲנִיָּה beit aniyah?", "house of the poor?", "John 12:1", "Uncertain"]},
+            {"h": "Moriah", "cells": ["מֹרִיָּה Moriyyah", "linked to “the LORD will provide”", "Gen 22:2, 14; 2 Chr 3:1", "Link in text; origin uncertain"]},
+            {"h": "Peniel", "cells": ["פְּנִיאֵל Peni'el", "face of God", "Gen 32:30", "Certain"]},
+            {"h": "Bethel", "cells": ["בֵּית־אֵל beit El", "house of God", "Gen 28:19", "Certain"]},
+            {"h": "Yeshua (Jesus)", "cells": ["יֵשׁוּעַ Yeshua", "the LORD saves", "Matt 1:21", "Certain"]},
+            {"h": "Immanuel", "cells": ["עִמָּנוּ אֵל Immanu El", "God with us", "Isa 7:14; Matt 1:23", "Certain"]},
+            {"h": "Israel", "cells": ["יִשְׂרָאֵל Yisra'el", "strives with God / God strives", "Gen 32:28", "Text's wordplay certain; root debated"]},
+            {"h": "Judah", "cells": ["יְהוּדָה Yehudah", "praise", "Gen 29:35", "Certain (as the text's wordplay)"]},
+            {"h": "Abraham", "cells": ["אַבְרָהָם Avraham", "father of a multitude", "Gen 17:5", "Certain (as the text's wordplay)"]},
+            {"h": "Peter", "cells": ["כֵּיפָא Kepha", "rock", "John 1:42; Matt 16:18", "Certain"]}
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "New names — and one popular name-code",
+          "after": 2,
+          "cards": [
+            {"t": "Abram → Abraham", "front": "Why add one letter?", "back": "“Exalted father” becomes “father of a multitude” (Gen 17:5), a wordplay on *av hamon*. The new name carries God's promise.", "source": "Genesis 17:5", "echo": "Rom 4:17"},
+            {"t": "Sarai → Sarah", "front": "Two names, one meaning?", "back": "Both mean “princess”. The change marks her place in the covenant: “kings of peoples shall come from her” (Gen 17:16).", "source": "Genesis 17:15–16", "echo": "Gal 4:26–28"},
+            {"t": "Jacob → Israel", "front": "From heel-grabber to God-wrestler", "back": "Jacob's name is linked to “heel” (Gen 25:26). After wrestling at Peniel he becomes Israel, “you have striven with God” (32:28).", "source": "Genesis 25; 32", "echo": "Hos 12:3–4"},
+            {"t": "Simon → Peter", "front": "Who named the rock?", "back": "Jesus calls Simon *Kepha*, Aramaic for “rock”, in Greek *Petros* (John 1:42). Paul still calls him Cephas (1 Cor 15:5).", "source": "John 1:42; Matt 16:18", "echo": "1 Pet 2:5"},
+            {"t": "Saul → Paul", "front": "Was Saul renamed at his conversion?", "back": "No. Acts 13:9 says “Saul, who was also called Paul”: a Jewish and a Roman name. Luke uses “Paul” once the mission to the nations begins.", "source": "Acts 13:9", "echo": "Phil 3:5"},
+            {"t": "The Genesis 5 “gospel”", "front": "Do Adam-to-Noah's names spell the gospel?", "back": "Partly sound: Adam = man, Seth = appointed, Enosh = mortal, Mahalalel ≈ praise of God, Noah = rest. Strained: Kenan “sorrow”, Jared “shall come down”, Enoch “teaching”, Methuselah “his death shall bring”, Lamech “despairing”. A modern devotional sentence, not a hidden code.", "source": "Genesis 5; popular modern claim", "echo": "Gen 5:29"}
+          ]
+        },
+        {
+          "type": "spectrum",
+          "title": "From certain to speculative",
+          "after": 5,
+          "note": "Preach freely from the left side; hold the right side lightly.",
+          "left": "Certain: the text or the language says so",
+          "right": "Speculative: clever, but strained",
+          "points": [
+            {"pos": 5, "t": "Bethlehem = house of bread"},
+            {"pos": 8, "t": "Peniel = face of God (Gen 32:30)"},
+            {"pos": 10, "t": "Yeshua = the LORD saves (Matt 1:21)"},
+            {"pos": 20, "t": "Gethsemane = oil press"},
+            {"pos": 45, "t": "Nazareth ↔ netzer “branch” (Matt 2:23)"},
+            {"pos": 65, "t": "Bethany = house of the poor"},
+            {"pos": 85, "t": "Kenan = sorrow"},
+            {"pos": 92, "t": "Methuselah = his death shall bring"}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Genesis 32:30", "text": "Jacob called the name of the place Peniel, saying, “For I have seen God face to face.”"},
+        {"ref": "Matthew 1:21", "text": "You shall call his name Jesus, for he will save his people from their sins."},
+        {"ref": "Isaiah 7:14", "text": "The virgin shall conceive and bear a son, and shall call his name Immanuel."},
+        {"ref": "John 6:35", "text": "I am the bread of life; whoever comes to me shall not hunger."},
+        {"ref": "Matthew 2:23", "text": "He went and lived in a city called Nazareth, so that what was spoken by the prophets might be fulfilled."}
+      ],
+      "keyPoints": [
+        "The Bible often explains names itself (Peniel, Judah, Moriah, Yeshua, Immanuel).",
+        "Bethlehem “house of bread”, Gethsemane “oil press” and Golgotha “skull” are solid meanings.",
+        "Nazareth–*netzer* and Bethany “house of the poor” are possible but should be hedged.",
+        "Paul was not renamed at conversion; he had a Jewish and a Roman name.",
+        "The Genesis 5 name-sentence mixes sound meanings with strained ones; it is not a hidden code."
+      ],
+      "reflect": [
+        "Jesus' name means “the LORD saves”. Where do you need to hear that today?",
+        "God gave new names to Abraham, Sarah, Israel and Peter. What new identity has God given you in Christ?"
+      ],
+      "quiz": [
+        {"q": "What does Bethlehem mean?", "options": ["House of God", "House of bread", "Village of comfort", "Face of God"], "a": 1, "why": "*Beit lechem* means “house of bread”; Bethel is “house of God”."},
+        {"q": "What does Gethsemane mean?", "options": ["Oil press", "Skull", "Garden of tears", "Mount of olives"], "a": 0, "why": "It comes from *gat shemanim*, “oil press”."},
+        {"q": "What does Acts 13:9 show about Saul and Paul?", "options": ["Jesus renamed him on the Damascus road", "Paul was his name only after baptism", "Peter gave him the name", "He had both a Jewish and a Roman name"], "a": 3, "why": "Luke says “Saul, who was also called Paul” — two names side by side."},
+        {"q": "Which Genesis 5 meaning is strained?", "options": ["Adam = man", "Seth = appointed", "Methuselah = his death shall bring", "Noah = rest"], "a": 2, "why": "Methuselah most likely means “man of the spear”; the other three are sound."}
+      ],
+      "terms": [
+        {"term": "Etymology", "def": "The real origin and history of a word or name."},
+        {"term": "Wordplay (paronomasia)", "def": "A play on similar-sounding words, often used in the Bible to explain a name."},
+        {"term": "Folk etymology", "def": "A popular explanation of a name from a similar-sounding word, which may not be its real origin."},
+        {"term": "Yeshua", "def": "The Hebrew/Aramaic name of Jesus, a short form of Yehoshua, “the LORD saves”."},
+        {"term": "Kepha (Cephas)", "def": "Aramaic “rock”, the name Jesus gave Simon; Greek *Petros*."}
+      ],
+      "related": ["d-threads", "s-witness", "w-intro"]
+    }
+  ],
+  "glossary": []
+}
