@@ -1,0 +1,366 @@
+{
+  "chapters": [
+    {
+      "id": "b-birth",
+      "book": "world",
+      "order": 340,
+      "num": 34,
+      "title": "Birth Customs: From the Womb to the Weaning Feast",
+      "subtitle": "How Israel welcomed a child, step by step, in the first three years",
+      "nutshell": "In the Bible a child is a gift from God, and the first years of life were marked by a clear series of steps: the birth, circumcision and naming on the eighth day, redeeming the firstborn, the mother's purification, and the weaning feast. Luke 2 shows Mary and Joseph walking through these steps with Jesus.",
+      "bigIdea": "Every stage of a Jewish child's beginning placed that child, and the family, before God.",
+      "skeleton": [
+        "Children are a blessing, and barren mothers pray",
+        "Birth: midwives, washing, salt and swaddling cloths",
+        "Day 8: circumcision and naming",
+        "Day 30 to 40/80: firstborn redeemed, mother purified",
+        "About age 2–3: weaning feast and blessing"
+      ],
+      "sections": [
+        {
+          "h": "A child is a gift",
+          "p": [
+            "\"Children are a heritage from the LORD\" (Ps 127:3–5). The first command to humans was \"be fruitful and multiply\" (Gen 1:28), so a child was a blessing and a sign of hope for the family's future.",
+            "That is why barrenness was a deep sorrow. Again and again the Bible tells of mothers who waited and prayed: Sarah, Rebekah (Gen 25:21), Rachel (Gen 30:1, 22), Hannah (1 Sam 1) and Elizabeth (Luke 1). In each story God hears, and the child who is born plays a part in His plan."
+          ]
+        },
+        {
+          "h": "The birth itself",
+          "p": [
+            "Women helped women. Midwives appear in Genesis (35:17; 38:28), and the Hebrew midwives Shiphrah and Puah \"feared God\" and refused Pharaoh's order to kill the boys (Ex 1:15–21). Pharaoh told them to watch \"on the *ovnayim*\" (Ex 1:16), a rare word meaning \"two stones\". Many understand it as a birthstool, but its meaning is not certain.",
+            "Ezekiel 16:4 describes what a newborn normally received: the cord was cut, the baby was washed, rubbed with salt and wrapped in cloths. So when Mary \"wrapped him in swaddling cloths\" (Luke 2:7, 12), she did what a caring mother did. The sign for the shepherds was not the cloths but the manger."
+          ]
+        },
+        {
+          "h": "The eighth day",
+          "p": [
+            "God told Abraham that every boy was to be circumcised on the eighth day as the sign of the covenant (Gen 17:10–12; Lev 12:3). It mattered so much that it was done even on the Sabbath, a point Jesus Himself used in argument (John 7:22–23).",
+            "By New Testament times the boy was named at his circumcision: John (Luke 1:59–63) and Jesus (Luke 2:21). Later Jewish custom added further details, such as an empty \"chair of Elijah\" and a *sandek*, a man who holds the baby, like a godfather. These are later customs, not described in the Bible."
+          ]
+        },
+        {
+          "h": "Forty days and five shekels",
+          "p": [
+            "After giving birth, a mother was in a state of ritual impurity for a set time: 40 days for a boy, 80 for a girl (Lev 12:1–5). This is usually explained as being about the sacred power of blood and life, not about sin or shame. At the end she brought a lamb and a bird; a poor mother could bring two birds (Lev 12:6–8).",
+            "Every firstborn son belonged to the LORD, remembering how God spared Israel's firstborn in Egypt (Ex 13:2, 13–15). From one month old he was redeemed for five shekels of silver (Num 18:15–16). The later *pidyon ha-ben* ceremony with a priest on the 31st day is the rabbinic form of this law."
+          ]
+        },
+        {
+          "h": "Jesus in the Temple",
+          "p": [
+            "Luke tells how Mary and Joseph brought Jesus to Jerusalem \"when the time of their purification was completed\" and offered \"a pair of turtledoves or two young pigeons\" (Luke 2:22–24) — the offering of a poor family.",
+            "There the old man Simeon took the baby in his arms and blessed God: \"my eyes have seen your salvation\" (Luke 2:25–35). The prophetess Anna, a widow of great age, gave thanks and spoke of the child to all who were waiting for the redemption of Jerusalem (Luke 2:36–38)."
+          ]
+        },
+        {
+          "h": "Nursing, weaning and blessing",
+          "p": [
+            "Mothers usually nursed their children for about two to three years (2 Macc 7:27 mentions three years). Weaning was a happy milestone: \"Abraham made a great feast on the day Isaac was weaned\" (Gen 21:8). Hannah waited until Samuel was weaned before bringing him to serve at Shiloh (1 Sam 1:22–24).",
+            "Parents and grandparents laid hands on children to bless them, as Jacob did for Ephraim and Manasseh (Gen 48:14), and Jesus took children in His arms and blessed them (Mark 10:13–16). Later customs — the Friday-night \"Shalom Zachar\" gathering for a newborn boy, or naming a baby girl in the synagogue at the Torah reading — come from later Jewish practice."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "cards",
+          "title": "Six birth stories in the Bible",
+          "note": "Turn each card to see how the birth fits God's plan.",
+          "after": 0,
+          "cards": [
+            {"t": "Isaac", "front": "A son for a 90-year-old mother", "back": "Sarah laughed when she heard the promise. God kept His word, and Abraham named the boy Isaac, \"he laughs\". Abraham circumcised him on the eighth day and held a feast when he was weaned.", "source": "Gen 18:10–15; 21:1–8", "echo": "Paul calls Isaac the child of promise (Gal 4:23, 28)"},
+            {"t": "Moses", "front": "Saved by brave midwives and a basket", "back": "The midwives would not kill Hebrew boys. Moses' mother hid him for three months, then placed him in a basket on the Nile. Pharaoh's daughter adopted him, and his own mother nursed him.", "source": "Ex 1:15–2:10", "echo": "Jesus too escaped a king who killed baby boys (Matt 2:13–18)"},
+            {"t": "Samuel", "front": "The answer to a mother's tears", "back": "Hannah prayed silently at Shiloh and vowed to give her son to the LORD. After he was weaned she brought him to the house of the LORD, and she sang a song of praise.", "source": "1 Sam 1:1–2:11", "echo": "Mary's song (Luke 1:46–55) echoes Hannah's song"},
+            {"t": "John the Baptist", "front": "A priest who could not speak", "back": "Elizabeth was barren and old. The angel told Zechariah in the Temple that she would have a son. At the circumcision Zechariah wrote \"His name is John\", and his voice returned.", "source": "Luke 1:5–25, 57–80", "echo": "John prepares the way for Jesus (Luke 3:4)"},
+            {"t": "Jesus", "front": "Swaddled, circumcised, presented", "back": "Born in Bethlehem and laid in a manger, Jesus was circumcised and named on the eighth day, and later presented in the Temple, where Simeon and Anna recognised Him.", "source": "Luke 2:1–38", "echo": "\"Born of a woman, born under the law\" (Gal 4:4)"},
+            {"t": "The man born blind", "front": "\"Who sinned, this man or his parents?\"", "back": "Some people thought a birth defect must be a punishment for sin. Jesus rejected this: neither he nor his parents sinned; the works of God would be shown in him. Then He healed him.", "source": "John 9:1–7", "echo": "Jesus is \"the light of the world\" (John 9:5)"}
+          ]
+        },
+        {
+          "type": "timeline",
+          "title": "From birth to weaning",
+          "note": "The steps the Law set for a newborn and its mother.",
+          "after": 1,
+          "events": [
+            {"when": "Day 1", "t": "Birth", "d": "Cord cut, baby washed, rubbed with salt and swaddled (Ezek 16:4; Luke 2:7)."},
+            {"when": "Days 1–7 (girl 1–14)", "t": "First days", "d": "The mother is ritually unclean for 7 days for a boy, 14 for a girl (Lev 12:2, 5)."},
+            {"when": "Day 8", "t": "Circumcision and naming", "d": "The boy receives the covenant sign and, by NT times, his name (Gen 17:12; Lev 12:3; Luke 1:59; 2:21)."},
+            {"when": "Day 30", "t": "Firstborn redeemed", "d": "From one month old, a firstborn son is redeemed for five shekels (Num 18:15–16)."},
+            {"when": "Day 40 / 80", "t": "Mother's purification", "d": "She brings a lamb and a bird, or two birds if poor (Lev 12:4–8; Luke 2:22–24)."},
+            {"when": "About 2–3 years", "t": "Weaning feast", "d": "A family celebration when the child stops nursing (Gen 21:8; 1 Sam 1:22–24; 2 Macc 7:27)."}
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "The eighth day: circumcision step by step",
+          "note": "Biblical steps first; the last step shows customs that are later.",
+          "after": 2,
+          "steps": [
+            {"t": "The eighth day arrives", "d": "Counted from the birth; not delayed even for the Sabbath (Gen 17:12; John 7:22–23)."},
+            {"t": "The family gathers", "d": "Neighbours and relatives come to rejoice with the parents (Luke 1:58–59)."},
+            {"t": "The circumcision", "d": "Originally done by the father (Gen 21:4); the sign of the covenant in the flesh (Gen 17:11, 13)."},
+            {"t": "The name is given", "d": "\"His name is John\"; \"he was called Jesus\" (Luke 1:63; 2:21)."},
+            {"t": "Praise and blessing", "d": "Zechariah's song of praise (Luke 1:64, 67–79)."},
+            {"t": "Later additions", "d": "A trained circumciser (*mohel*), Elijah's chair, the *sandek* and set blessings — later Jewish customs."}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Birth customs at a glance",
+          "after": 3,
+          "cols": ["", "Scripture", "Meaning", "New Testament scene"],
+          "rows": [
+            {"h": "Washing and swaddling", "cells": ["Ezek 16:4", "Normal loving care for a newborn", "Mary wraps Jesus in cloths (Luke 2:7)"]},
+            {"h": "Circumcision", "cells": ["Gen 17:10–12; Lev 12:3", "Sign of belonging to God's covenant", "John and Jesus circumcised (Luke 1:59; 2:21)"]},
+            {"h": "Naming", "cells": ["Gen 21:3; 1 Sam 1:20", "The name tells the child's story", "\"His name is John\" (Luke 1:63)"]},
+            {"h": "Mother's purification", "cells": ["Lev 12:2–6", "Return to Temple worship after birth", "\"Their purification\" (Luke 2:22)"]},
+            {"h": "Offering of the poor", "cells": ["Lev 12:8", "Two birds when a lamb is too costly", "Mary and Joseph's birds (Luke 2:24)"]},
+            {"h": "Firstborn redeemed", "cells": ["Ex 13:2, 13; Num 18:15–16", "The firstborn belongs to God", "Jesus presented to the Lord (Luke 2:22–23)"]},
+            {"h": "Weaning feast", "cells": ["Gen 21:8; 1 Sam 1:24", "Joy that the child has survived infancy", "No NT scene; Samuel's story echoed in Luke 1–2"]},
+            {"h": "Blessing children", "cells": ["Gen 48:14–20", "Laying hands to pass on blessing", "Jesus blesses the children (Mark 10:16)"]}
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "Luke 2: the Law and what Mary and Joseph did",
+          "note": "Luke stresses five times that they did everything \"according to the Law\" (Luke 2:22, 23, 24, 27, 39).",
+          "after": 4,
+          "left": {
+            "label": "What the Law required",
+            "items": [
+              "Circumcise a boy on the eighth day (Lev 12:3)",
+              "The mother is purified after 40 days for a boy (Lev 12:2–4)",
+              "Offer a lamb and a bird; the poor may offer two birds (Lev 12:6–8)",
+              "Every firstborn son belongs to the LORD and is redeemed (Ex 13:2, 13; Num 18:15–16)",
+              "No rule that the baby must be brought to the Temple"
+            ]
+          },
+          "right": {
+            "label": "What Mary and Joseph did",
+            "items": [
+              "Jesus was circumcised and named on the eighth day (Luke 2:21)",
+              "They came \"when the days of their purification were completed\" (Luke 2:22)",
+              "They offered \"a pair of turtledoves or two young pigeons\" — a poor family (Luke 2:24)",
+              "They presented Jesus to the Lord; Luke mentions no payment (Luke 2:22–23)",
+              "They brought Jesus Himself, where Simeon and Anna met Him (Luke 2:25–38)"
+            ]
+          }
+        }
+      ],
+      "verses": [
+        {"ref": "Psalm 127:3", "text": "Behold, children are a heritage from the LORD, the fruit of the womb a reward."},
+        {"ref": "Leviticus 12:8", "text": "If she cannot afford a lamb, then she shall take two turtledoves or two pigeons."},
+        {"ref": "Luke 2:21", "text": "At the end of eight days, when he was circumcised, he was called Jesus."},
+        {"ref": "Luke 2:30", "text": "For my eyes have seen your salvation."},
+        {"ref": "Mark 10:14", "text": "Let the children come to me; do not hinder them, for to such belongs the kingdom of God."}
+      ],
+      "keyPoints": [
+        "In the Bible children are a heritage and blessing from the LORD, and barren mothers' prayers are answered in key stories.",
+        "A newborn was washed, rubbed with salt and swaddled; Mary's swaddling cloths were ordinary motherly care.",
+        "Boys were circumcised on the eighth day, even on the Sabbath, and by NT times were named that day.",
+        "The mother's purification (40/80 days) ended with an offering; Mary and Joseph brought the poor family's two birds.",
+        "The firstborn son was redeemed for five shekels; children were nursed for about 2–3 years and weaning was celebrated."
+      ],
+      "reflect": [
+        "Mary and Joseph kept the Law carefully even though they were poor. What does that tell you about the home Jesus grew up in?",
+        "Simeon and Anna waited many years to see God's promise. What are you waiting for in faith?"
+      ],
+      "quiz": [
+        {"q": "On which day was a Jewish boy circumcised?", "options": ["The first day", "The eighth day", "The thirtieth day", "The fortieth day"], "a": 1, "why": "Gen 17:12 and Lev 12:3 set the eighth day; it was done even on the Sabbath (John 7:22–23)."},
+        {"q": "What did Mary and Joseph's offering of two birds show?", "options": ["They were priests", "They had come from Egypt", "The baby was a girl", "They were a poor family"], "a": 3, "why": "Lev 12:8 allows two birds when the family cannot afford a lamb (Luke 2:24)."},
+        {"q": "How much was paid to redeem a firstborn son?", "options": ["Five shekels of silver", "Thirty pieces of silver", "Half a shekel", "A lamb and a dove"], "a": 0, "why": "Num 18:15–16: from one month old, five shekels by the sanctuary shekel."},
+        {"q": "Which of these is a later Jewish custom, not described in the Bible?", "options": ["The weaning feast", "Washing and swaddling a newborn", "Elijah's chair at the circumcision", "Naming a boy at his circumcision"], "a": 2, "why": "The weaning feast (Gen 21:8), swaddling (Ezek 16:4) and naming at circumcision (Luke 1:59) are biblical; Elijah's chair is later."}
+      ],
+      "terms": [
+        {"term": "Brit milah", "def": "\"Covenant of circumcision\" — the eighth-day circumcision of a Jewish boy (Gen 17)."},
+        {"term": "Ovnayim", "def": "\"Two stones\" (Ex 1:16); probably a birthstool, though the meaning is uncertain."},
+        {"term": "Purification", "def": "The mother's return to ritual purity after 40 or 80 days, ended by an offering (Lev 12)."},
+        {"term": "Pidyon ha-ben", "def": "\"Redemption of the son\": buying back the firstborn for five shekels (Num 18:16); the ceremony form is later."},
+        {"term": "Weaning feast", "def": "A celebration when a child stopped nursing, at about 2–3 years (Gen 21:8)."},
+        {"term": "Sandek", "def": "In later Jewish custom, the honoured man who holds the baby during circumcision."}
+      ],
+      "related": ["b-lifecycle", "b-naming", "b-life", "b-practices", "w-brit", "s-life"]
+    },
+    {
+      "id": "b-naming",
+      "book": "world",
+      "order": 350,
+      "num": 35,
+      "title": "Naming Customs: What's in a Hebrew Name",
+      "subtitle": "Names that tell a story, carry God's name, or announce a calling",
+      "nutshell": "In the Bible a name (*shem*) is more than a label: it often tells the story of a birth, carries God's name, or announces a calling. Mothers, fathers and sometimes God Himself gave names, and God gave new names when He gave new tasks.",
+      "bigIdea": "A Hebrew name was a short sentence about who a person was and what God was doing.",
+      "skeleton": [
+        "A name is identity and calling",
+        "Who named the child: mother, father or God",
+        "Names from circumstances and names with God's name",
+        "New names for new callings",
+        "\"Son of\" names, nicknames and double names",
+        "A new name in the age to come"
+      ],
+      "sections": [
+        {
+          "h": "A name is a person",
+          "p": [
+            "The Hebrew word *shem* means \"name\", but also reputation and character. \"A good name is to be chosen rather than great riches\" (Prov 22:1). To \"call on the name of the LORD\" is to call on God Himself.",
+            "So parents did not choose names only for their sound. A name could remember a prayer, a sorrow, a joy or a promise, and people expected it to say something true about the child."
+          ]
+        },
+        {
+          "h": "Who gave the name",
+          "p": [
+            "Mothers very often named their children: Leah and Rachel named Jacob's sons (Gen 29–30), and Hannah named Samuel (1 Sam 1:20). Fathers named too: Lamech named Noah (Gen 5:29), and Jacob renamed his dying wife's \"Ben-oni\" (\"son of my sorrow\") as \"Benjamin\" (\"son of the right hand\", Gen 35:18).",
+            "Sometimes God chose the name before birth: Ishmael (Gen 16:11), Isaac (Gen 17:19), John (Luke 1:13) and Jesus (Matt 1:21). Through Nathan God also gave Solomon the name Jedidiah, \"beloved of the LORD\" (2 Sam 12:25)."
+          ]
+        },
+        {
+          "h": "Names that tell a story",
+          "p": [
+            "Many names are wordplays on what happened at the birth. Jacob's twelve sons each carry a short story (Gen 29:32–30:24; 35:18). Moses means \"drawn out\" because he was drawn out of the water (Ex 2:10). Ichabod, \"no glory\", was named when the ark was captured (1 Sam 4:21).",
+            "Other names carry God's name. Names with *-el* contain \"God\": Daniel (\"God is my judge\"), Michael (\"who is like God?\"). Names with *-yah* or *Yeho-* contain the LORD's name: Isaiah (\"the LORD saves\"), Elijah (\"my God is the LORD\"), Jehoshaphat (\"the LORD judges\") and *Yeshua*, Jesus (\"the LORD saves\")."
+          ]
+        },
+        {
+          "h": "New names for new callings",
+          "p": [
+            "When God gave someone a new role, He sometimes gave a new name: Abram became Abraham, \"father of many nations\" (Gen 17:5); Sarai became Sarah (Gen 17:15); Jacob became Israel (Gen 32:28); Moses renamed Hoshea as Joshua (Num 13:16).",
+            "Jesus named Simon \"Cephas\", Aramaic for \"rock\" — Peter in Greek (John 1:42; Matt 16:18). Saul is also called Paul from Acts 13:9; this was probably his Roman name used among Gentiles rather than a name given at his conversion."
+          ]
+        },
+        {
+          "h": "Naming at the circumcision and family names",
+          "p": [
+            "When John was circumcised, the relatives wanted to call him Zechariah after his father, but Elizabeth said \"He shall be called John\", and Zechariah wrote \"His name is John\" (Luke 1:59–63). Their surprise — \"none of your relatives is called by this name\" (1:61) — suggests that naming after a relative was common, though not a fixed rule.",
+            "People were also known as \"son of\" — Hebrew *ben*, Aramaic *bar*: Simon Bar-Jonah (Matt 16:17), Bartimaeus (Mark 10:46), Barabbas (\"son of the father\"), Barnabas, \"son of encouragement\" (Acts 4:36). There were nicknames too: James and John were \"Boanerges, sons of thunder\" (Mark 3:17)."
+          ]
+        },
+        {
+          "h": "Two languages, later customs, a new name",
+          "p": [
+            "In a world of Aramaic and Greek, many had a name in each: Tabitha (Aramaic) and Dorcas (Greek) both mean \"gazelle\" (Acts 9:36); Thomas and Didymus both mean \"twin\" (John 11:16); John was also called Mark (Acts 12:12).",
+            "Later Jewish customs differ: Ashkenazi Jews usually name a child after a relative who has died, while Sephardi Jews often name after living grandparents — these are later practices. And God promises the faithful \"a new name\" written on a white stone (Rev 2:17; compare Isa 62:2)."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tree",
+          "title": "Kinds of names in the Bible",
+          "after": 0,
+          "root": "Hebrew and biblical names",
+          "branches": [
+            {"t": "From circumstances", "children": ["Moses — \"drawn out\" (Ex 2:10)", "Ichabod — \"no glory\" (1 Sam 4:21)", "Isaac — \"he laughs\" (Gen 21:6)", "Jacob's sons (Gen 29–30)"]},
+            {"t": "Given by God", "children": ["Ishmael — \"God hears\" (Gen 16:11)", "Jedidiah — \"beloved of the LORD\" (2 Sam 12:25)", "John (Luke 1:13)", "Jesus (Matt 1:21)"]},
+            {"t": "Carrying God's name", "children": ["-el: Daniel, Samuel, Michael", "-yah: Isaiah, Elijah", "Yeho-: Jehoshaphat, Joshua", "Yeshua — \"the LORD saves\""]},
+            {"t": "Changed names", "children": ["Abram → Abraham", "Jacob → Israel", "Hoshea → Joshua", "Simon → Cephas/Peter"]},
+            {"t": "\"Son of\" names", "children": ["Simon Bar-Jonah (Matt 16:17)", "Bartimaeus (Mark 10:46)", "Barabbas — \"son of the father\"", "Barnabas — \"son of encouragement\" (Acts 4:36)"]},
+            {"t": "Nicknames and double names", "children": ["Boanerges — \"sons of thunder\" (Mark 3:17)", "Thomas / Didymus — \"twin\"", "Tabitha / Dorcas — \"gazelle\"", "John Mark (Acts 12:12)"]}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Jacob's sons and the stories in their names",
+          "note": "The meanings are wordplays on similar-sounding Hebrew words.",
+          "after": 2,
+          "cols": ["", "Mother", "Meaning (wordplay)", "Verse"],
+          "rows": [
+            {"h": "Reuben", "cells": ["Leah", "\"See, a son!\" — the LORD has seen my misery", "Gen 29:32"]},
+            {"h": "Simeon", "cells": ["Leah", "\"Heard\" — the LORD heard I was unloved", "Gen 29:33"]},
+            {"h": "Levi", "cells": ["Leah", "\"Attached\" — now my husband will be attached", "Gen 29:34"]},
+            {"h": "Judah", "cells": ["Leah", "\"Praise\" — this time I will praise the LORD", "Gen 29:35"]},
+            {"h": "Dan", "cells": ["Bilhah (named by Rachel)", "\"Judged\" — God has vindicated me", "Gen 30:6"]},
+            {"h": "Naphtali", "cells": ["Bilhah (named by Rachel)", "\"My wrestling\" — I have wrestled with my sister", "Gen 30:8"]},
+            {"h": "Gad", "cells": ["Zilpah (named by Leah)", "\"Good fortune\"", "Gen 30:11"]},
+            {"h": "Asher", "cells": ["Zilpah (named by Leah)", "\"Happy\" — women will call me happy", "Gen 30:13"]},
+            {"h": "Issachar", "cells": ["Leah", "\"Reward / hire\" — God has given me my wages", "Gen 30:18"]},
+            {"h": "Zebulun", "cells": ["Leah", "\"Honour / dwell\" — my husband will honour me", "Gen 30:20"]},
+            {"h": "Joseph", "cells": ["Rachel", "\"May he add\" — another son; God took away my reproach", "Gen 30:23–24"]},
+            {"h": "Benjamin", "cells": ["Rachel (died at his birth)", "\"Son of my sorrow\" renamed \"son of the right hand\"", "Gen 35:18"]}
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "Eight name changes",
+          "note": "A new name usually marks a new calling or a new chapter of life.",
+          "after": 3,
+          "cards": [
+            {"t": "Abram → Abraham", "front": "From \"exalted father\" to \"father of many\"", "back": "God renamed Abram when He made the covenant of circumcision: \"your name shall be Abraham, for I have made you the father of a multitude of nations.\"", "source": "Gen 17:5", "echo": "Abraham is father of all who believe (Rom 4:16–17)"},
+            {"t": "Sarai → Sarah", "front": "A princess and mother of nations", "back": "Both forms mean \"princess\". The new name came with the promise that she would bear a son and be the mother of nations and kings.", "source": "Gen 17:15–16", "echo": "Sarah is honoured for her faith (Heb 11:11)"},
+            {"t": "Jacob → Israel", "front": "The one who wrestled with God", "back": "After wrestling through the night at the Jabbok, Jacob was told: \"Your name shall no longer be Jacob, but Israel, for you have striven with God and with men, and have prevailed.\"", "source": "Gen 32:28", "echo": "The whole people is called Israel after him"},
+            {"t": "Ben-oni → Benjamin", "front": "From sorrow to the right hand", "back": "Rachel, dying in childbirth, named her son \"son of my sorrow\". Jacob renamed him \"son of the right hand\", a name of strength and favour.", "source": "Gen 35:18", "echo": "Paul was proud to be of the tribe of Benjamin (Phil 3:5)"},
+            {"t": "Hoshea → Joshua", "front": "\"Salvation\" becomes \"the LORD saves\"", "back": "Before sending the spies, Moses renamed Hoshea son of Nun as Joshua (Yehoshua), adding the LORD's name to his name.", "source": "Num 13:16", "echo": "Yeshua, Jesus, is a short form of the same name (Matt 1:21)"},
+            {"t": "Solomon → Jedidiah", "front": "A second name sent by a prophet", "back": "When Solomon was born, the LORD loved him and sent Nathan to name him Jedidiah, \"beloved of the LORD\". He is still known as Solomon.", "source": "2 Sam 12:24–25", "echo": "\"This is my beloved Son\" (Matt 3:17)"},
+            {"t": "Simon → Cephas / Peter", "front": "A fisherman called \"Rock\"", "back": "Jesus looked at Simon and said, \"You shall be called Cephas\" — Aramaic for rock, Petros in Greek. Later He said He would build His church on this rock.", "source": "John 1:42; Matt 16:18", "echo": "Peter calls believers \"living stones\" (1 Pet 2:5)"},
+            {"t": "Saul → Paul", "front": "Not a conversion name, but a second name", "back": "Luke simply says \"Saul, who was also called Paul\". He likely had both names from birth — a Hebrew name and a Roman one — and used Paul in his mission to the Gentiles.", "source": "Acts 13:9", "echo": "He still calls himself a Hebrew of Hebrews (Phil 3:5)"}
+          ]
+        },
+        {
+          "type": "interlinear",
+          "title": "Luke 1:63: \"His name is John\"",
+          "note": "The Greek name Iōannēs comes from Hebrew Yochanan, \"the LORD has been gracious\" — fitting for a son given to an old, barren couple.",
+          "lang": "gr",
+          "after": 4,
+          "words": [
+            {"w": "αἰτήσας", "g": "having asked for"},
+            {"w": "πινακίδιον", "g": "a writing tablet"},
+            {"w": "ἔγραψεν", "g": "he wrote"},
+            {"w": "λέγων·", "g": "saying"},
+            {"w": "Ἰωάννης", "g": "John (Hebrew Yochanan)"},
+            {"w": "ἐστὶν", "g": "is"},
+            {"w": "ὄνομα", "g": "name"},
+            {"w": "αὐτοῦ", "g": "his"}
+          ],
+          "readings": [
+            {"label": "Word for word", "text": "Having asked for a tablet, he wrote, saying: **John** is his name.", "note": "Greek puts \"John\" first for emphasis."},
+            {"label": "Common English (ESV)", "text": "And he asked for a writing tablet and wrote, \"His name is John.\"", "note": "Zechariah could not speak, so he wrote."},
+            {"label": "Behind the name (Hebrew)", "text": "יוֹחָנָן Yochanan = Yo- (the LORD) + chanan (has been gracious)", "note": "The angel had already given this name (Luke 1:13)."}
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "How a child received a name",
+          "after": 5,
+          "steps": [
+            {"t": "Birth", "d": "The mother's or father's first words often became the name (Gen 29:32; 35:18)."},
+            {"t": "Circumstances or prayer", "d": "The name remembers an answered prayer, a joy or a sorrow (1 Sam 1:20; 1 Sam 4:21)."},
+            {"t": "Sometimes God speaks first", "d": "A name given before birth (Gen 17:19; Luke 1:13; Matt 1:21)."},
+            {"t": "Naming on the eighth day", "d": "By NT times the name was given at the circumcision (Luke 1:59–63; 2:21)."},
+            {"t": "The name lived out", "d": "John showed God's grace; Jesus saves His people from their sins (Matt 1:21)."}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Proverbs 22:1", "text": "A good name is to be chosen rather than great riches."},
+        {"ref": "Matthew 1:21", "text": "You shall call his name Jesus, for he will save his people from their sins."},
+        {"ref": "Luke 1:63", "text": "And he asked for a writing tablet and wrote, \"His name is John.\""},
+        {"ref": "Genesis 32:28", "text": "Your name shall no longer be called Jacob, but Israel."},
+        {"ref": "Revelation 2:17", "text": "I will give him a white stone, with a new name written on the stone."}
+      ],
+      "keyPoints": [
+        "A Hebrew name (*shem*) speaks of identity, character and calling, not only a label.",
+        "Mothers often named children, fathers also did, and sometimes God gave the name before birth.",
+        "Many names tell the story of a birth (Jacob's sons, Moses, Ichabod) or carry God's name (-el, -yah, Yeho-).",
+        "God gave new names with new callings: Abraham, Sarah, Israel, Joshua, Peter.",
+        "By NT times a boy was named at his circumcision; \"son of\" names, nicknames and Aramaic–Greek double names were common."
+      ],
+      "reflect": [
+        "Jesus' name means \"the LORD saves\". How has that name been true in your own life?",
+        "God promises a new name to those who overcome (Rev 2:17). What does it mean to you that God knows you by name?"
+      ],
+      "quiz": [
+        {"q": "Who named most of Jacob's sons in Genesis 29–30?", "options": ["Jacob", "Their mothers", "A priest", "Laban"], "a": 1, "why": "Leah and Rachel named the sons, including the sons of their servants Bilhah and Zilpah."},
+        {"q": "What does the name Yeshua (Jesus) mean?", "options": ["God is my judge", "Drawn out", "Son of the father", "The LORD saves"], "a": 3, "why": "Yeshua is a short form of Yehoshua, \"the LORD saves\" (Matt 1:21)."},
+        {"q": "Why were the relatives surprised at the name John (Luke 1:61)?", "options": ["No relative had that name", "It was a Greek name", "It was given before the eighth day", "It was the father's name"], "a": 0, "why": "\"None of your relatives is called by this name\" — naming after a relative seems to have been common."},
+        {"q": "Which of these is a nickname Jesus gave?", "options": ["Barnabas", "Didymus", "Boanerges, \"sons of thunder\"", "Jedidiah"], "a": 2, "why": "Jesus called James and John Boanerges (Mark 3:17). Barnabas was a name given by the apostles (Acts 4:36)."}
+      ],
+      "terms": [
+        {"term": "Shem", "def": "Hebrew for \"name\" — also reputation, character and presence."},
+        {"term": "Theophoric name", "def": "A name that contains God's name, such as -el (God) or -yah / Yeho- (the LORD)."},
+        {"term": "Ben / Bar", "def": "\"Son of\" in Hebrew (ben) and Aramaic (bar), as in Bar-Jonah or Bartimaeus."},
+        {"term": "Yochanan", "def": "Hebrew form of John: \"the LORD has been gracious\"."},
+        {"term": "Yeshua", "def": "Hebrew/Aramaic name of Jesus, short for Yehoshua (Joshua): \"the LORD saves\"."}
+      ],
+      "related": ["d-names", "b-birth", "b-lifecycle", "d-adam", "w-brit"]
+    }
+  ],
+  "glossary": []
+}
