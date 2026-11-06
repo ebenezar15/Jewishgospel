@@ -1,0 +1,493 @@
+{
+  "chapters": [
+    {
+      "id": "d-iam",
+      "book": "decode",
+      "order": 160,
+      "num": 16,
+      "title": "I AM: the Name at the Burning Bush",
+      "subtitle": "When Moses asked God his name, why did the answer sound like a sentence — and what does it have to do with Jesus?",
+      "nutshell": "A shepherd sees a thorn bush that burns without burning up. He asks two questions: “Who am I?” and “What is your name?” God answers the first with a promise — “I will be with you” — and the second with a mysterious name, *ehyeh asher ehyeh*, “I AM WHO I AM” or “I will be who I will be”. That name runs through the whole Bible, all the way to Jesus’ “I am” sayings.",
+      "bigIdea": "God’s name is a promise of presence: the One who simply is chooses to be with his people — and Moses’ “Who am I?” is answered by who God is.",
+      "skeleton": [
+        "The bush that burns and is not consumed (Ex 3:1–6)",
+        "“Who am I?” → “I will be with you” (3:11–12)",
+        "The Name: *ehyeh asher ehyeh* and YHWH (3:14–15)",
+        "How the Name was read: Adonai, LORD, Septuagint, “Jehovah”",
+        "Jesus’ “I am” sayings — and a popular claim tested"
+      ],
+      "sections": [
+        {
+          "h": "The 60-second version",
+          "p": [
+            "Moses is eighty, a refugee shepherd in Midian. Near Horeb a bush blazes but does not burn away. God calls, “Moses, Moses!” and Moses answers, “Here I am.” Then come the excuses: “Who am I?” God does not boost his self-esteem. He says, “I will be with you.”",
+            "Moses asks for a name. God gives a sentence: *ehyeh asher ehyeh* — “I AM WHO I AM”, or “I will be who I will be”. Centuries later Jesus says, “Before Abraham was, I am” (John 8:58). The story is not about finding yourself; it is about the God who comes to be with you."
+          ]
+        },
+        {
+          "h": "Layer 1 — what the Hebrew actually says",
+          "p": [
+            "The bush is a *seneh*, a thorn bush; many readers notice that *seneh* sounds like *Sinai*, the mountain where God would later speak (a suggestive sound-link, not a proven etymology). God says, “Take off your sandals, for the place on which you are standing is holy ground” (3:5); Joshua hears the same words (Josh 5:15).",
+            "Moses says *mi anokhi* — “Who am I?” (3:11). God replies *ki ehyeh immakh* — “I will be with you” (3:12). Then, asked his name, God says *ehyeh asher ehyeh* (3:14). *Ehyeh* is the imperfect of *hayah*, “to be”: it can mean “I am” or “I will be”. It is God speaking of himself in the first person.",
+            "In 3:15 God gives the name YHWH, the four letters most scholars link to the same verb “to be” (the details are debated). “This is my name for ever.” When Moses later says he is “slow of speech”, God answers, “I will be with your mouth” (4:10–12) — the same *ehyeh* again."
+          ]
+        },
+        {
+          "h": "Layer 2 — what ancient readers saw",
+          "p": [
+            "A midrash (Exodus Rabbah 2:5) asks why God chose a lowly thorn bush rather than a tall tree: to show that he was “with them in trouble” (Ps 91:15), speaking from inside Israel’s pain. Many Jewish readers saw the bush as Israel itself — burning in Egypt’s furnace, but not consumed. Later tradition also noted that priests served barefoot in the Temple (a later practice, hedge on how early).",
+            "Out of reverence, Jews stopped saying YHWH aloud and read *Adonai*, “my Lord”, or said *HaShem*, “the Name”. English Bibles print it “LORD” in capitals. The form “Jehovah” mixes the consonants YHWH with the vowels of *Adonai*; it appears in medieval Christian writing and spread in the 16th century. The Septuagint translated Ex 3:14 *egō eimi ho ōn* — “I am the One who is” — and Revelation echoes it: “who is and who was and who is to come” (Rev 1:4, 8)."
+          ]
+        },
+        {
+          "h": "Layer 3 — a devotional reading",
+          "p": [
+            "Read devotionally, the bush shows how God meets us: not by removing the fire, but by being in it, so that we are not consumed. Moses’ question “Who am I?” is the question of every frightened person. God’s answer is not a list of Moses’ strengths but a promise: “I will be with you.” Identity is found in his presence.",
+            "John’s Gospel lets the same Name sound in Jesus’ voice: “I am the bread of life… the light of the world… the good shepherd… the resurrection and the life” (John 6:35; 8:12; 10:11; 11:25). And without any picture word: “Before Abraham was, I am” (8:58); “It is I (*egō eimi*), do not be afraid” (Mark 6:50); “I am” before the high priest (Mark 14:62). This is a reading of faith — but John clearly means us to hear it."
+          ]
+        },
+        {
+          "h": "Careful with popular claims",
+          "p": [
+            "A popular modern teaching says that every time you say “I am…” you are speaking God’s name, and that God’s name is really your own awareness of being. It sounds deep, but it turns the text upside down. *Ehyeh* is God naming himself; Moses is not told to repeat it as a formula about himself. Neither Judaism nor historic Christianity teaches that the human self is God.",
+            "The text gives something better: the God who is says to the person who doubts, “I will be with you.” And the third commandment — “You shall not take (literally *lift up*, carry) the name of the LORD your God in vain” (Ex 20:7) — asks us to carry his name rightly, not to claim it as our own."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "interlinear",
+          "title": "Exodus 3:14 — the Name in God’s own words",
+          "lang": "he",
+          "after": 0,
+          "words": [
+            {"w": "וַיֹּאמֶר", "g": "and said"},
+            {"w": "אֱלֹהִים", "g": "God"},
+            {"w": "אֶל־מֹשֶׁה", "g": "to Moses"},
+            {"w": "אֶהְיֶה", "g": "I am / I will be"},
+            {"w": "אֲשֶׁר", "g": "who / that / what"},
+            {"w": "אֶהְיֶה", "g": "I am / I will be"}
+          ],
+          "readings": [
+            {"label": "KJV", "text": "And God said unto Moses, **I AM THAT I AM**.", "note": "The classic present-tense reading."},
+            {"label": "Future sense (e.g. ESV margin)", "text": "**I will be what I will be.**", "note": "The Hebrew imperfect can point to the future: God will show who he is by what he does."},
+            {"label": "Septuagint (Greek)", "text": "*Egō eimi ho ōn* — **I am the One who is.**", "note": "Echoed in Rev 1:4, 8: “who is and who was and who is to come”."}
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "The conversation at the bush",
+          "after": 1,
+          "steps": [
+            {"t": "“Moses, Moses!” — “Here I am”", "d": "God calls from the bush that is not consumed (3:4)."},
+            {"t": "“Who am I?” (*mi anokhi*)", "d": "Moses feels too small for the task (3:11)."},
+            {"t": "“I will be with you” (*ehyeh immakh*)", "d": "God answers with presence, not a résumé (3:12)."},
+            {"t": "“What is his name?”", "d": "Moses expects Israel to ask (3:13)."},
+            {"t": "“I AM WHO I AM”", "d": "*Ehyeh asher ehyeh*; then YHWH, “my name for ever” (3:14–15)."},
+            {"t": "“I will be with your mouth”", "d": "Even his weak speech is covered (4:10–12)."},
+            {"t": "Sent", "d": "Moses returns to Egypt with the staff of God (4:20)."}
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Jesus’ “I am” sayings and their Old Testament roots",
+          "after": 3,
+          "cols": ["", "Saying", "Where", "Old Testament background"],
+          "rows": [
+            {"h": "Bread", "cells": ["I am the bread of life", "John 6:35", "Manna from heaven (Ex 16)"]},
+            {"h": "Light", "cells": ["I am the light of the world", "John 8:12", "Pillar of fire; Isa 42:6"]},
+            {"h": "Door", "cells": ["I am the door", "John 10:7, 9", "“This is the gate of the LORD” (Ps 118:20)"]},
+            {"h": "Shepherd", "cells": ["I am the good shepherd", "John 10:11", "Ps 23; Ezek 34"]},
+            {"h": "Resurrection", "cells": ["I am the resurrection and the life", "John 11:25", "Ezek 37; Dan 12:2"]},
+            {"h": "Way", "cells": ["I am the way, the truth and the life", "John 14:6", "The “way of holiness” (Isa 35:8)"]},
+            {"h": "Vine", "cells": ["I am the true vine", "John 15:1", "Israel as God’s vine (Isa 5; Ps 80)"]},
+            {"h": "Absolute “I am”", "cells": ["Before Abraham was, I am", "John 8:58; 18:5–6", "Ex 3:14; Isa 43:10"]},
+            {"h": "On the sea", "cells": ["It is I (*egō eimi*); do not fear", "Mark 6:50", "God treads the sea (Job 9:8)"]},
+            {"h": "Before the court", "cells": ["I am — and you will see the Son of Man", "Mark 14:62", "Dan 7:13; Ps 110:1"]}
+          ]
+        },
+        {
+          "type": "map",
+          "title": "From Egypt to the mountain of God",
+          "after": 1,
+          "note": "Jebel Musa is the traditional Sinai/Horeb (since about the 4th century); some place the mountain in Midian or the Negev — debated.",
+          "places": [
+            {"id": "goshen", "d": "Where Israel lived and suffered in Egypt; Moses fled from here.", "refs": "Ex 1:11; 2:15"},
+            {"id": "midian", "d": "Moses’ refuge for forty years, shepherding Jethro’s flock.", "refs": "Ex 2:15; 3:1"},
+            {"id": "jebel-musa", "d": "Traditional Horeb, “the mountain of God”, where the bush burned.", "refs": "Ex 3:1–5"}
+          ],
+          "route": ["goshen", "midian", "jebel-musa"]
+        },
+        {
+          "type": "spectrum",
+          "title": "Claims about “I AM” — from solid to unsupported",
+          "after": 4,
+          "left": "Solid",
+          "right": "Unsupported",
+          "points": [
+            {"pos": 5, "t": "*Ehyeh* = “I am / I will be”"},
+            {"pos": 14, "t": "YHWH linked to “to be”"},
+            {"pos": 24, "t": "John’s “I am” echoes Ex 3:14"},
+            {"pos": 40, "t": "*Seneh* sounds like Sinai"},
+            {"pos": 52, "t": "Bush = Israel not consumed"},
+            {"pos": 82, "t": "Saying “I am” speaks God’s name"},
+            {"pos": 95, "t": "Your awareness is God"}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Exodus 3:12", "text": "He said, “But I will be with you.”"},
+        {"ref": "Exodus 3:14", "text": "God said to Moses, “I AM WHO I AM.” … “Say this to the people of Israel: I AM has sent me to you.”"},
+        {"ref": "John 8:58", "text": "Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.”"},
+        {"ref": "Revelation 1:8", "text": "“I am the Alpha and the Omega,” says the Lord God, “who is and who was and who is to come, the Almighty.”"}
+      ],
+      "keyPoints": [
+        "The bush burns but is not consumed — read by many Jewish interpreters as Israel surviving affliction.",
+        "Moses asks “Who am I?”; God answers “I will be with you” — presence, not credentials.",
+        "*Ehyeh asher ehyeh* can mean “I am who I am” or “I will be who I will be”; YHWH comes from the same verb “to be”.",
+        "The Name was not spoken aloud in later Jewish practice; “LORD” and “Jehovah” come from that history.",
+        "*Ehyeh* is God naming himself — not a formula that makes the human self divine."
+      ],
+      "reflect": [
+        "Where are you asking “Who am I?” — and how would “I will be with you” change the question?",
+        "What would it look like this week to carry God’s name rightly (Ex 20:7)?"
+      ],
+      "quiz": [
+        {"q": "What was God’s first answer to Moses’ “Who am I?”", "options": ["“You are a great leader”", "“I will be with you”", "“You are a prince of Egypt”", "“Take off your sandals”"], "a": 1, "why": "Exodus 3:12: *ki ehyeh immakh* — the answer is God’s presence."},
+        {"q": "What does the Hebrew imperfect *ehyeh* allow?", "options": ["Only a past meaning", "Only a command", "Both “I am” and “I will be”", "A plural “we are”"], "a": 2, "why": "The imperfect covers present and future, so both translations are possible."},
+        {"q": "Where does the English form “Jehovah” come from?", "options": ["YHWH consonants with the vowels of *Adonai*", "The Septuagint", "An ancient Egyptian title", "Moses’ own pronunciation"], "a": 0, "why": "It blends the four letters with the vowels Jewish readers used for *Adonai*; it spread in the 16th century."},
+        {"q": "Why does the claim “every ‘I am’ speaks God’s name” not hold up?", "options": ["Because Hebrew has no word for “I”", "Because Jesus never said “I am”", "Because Exodus 3 is about Abraham", "Because *ehyeh* is God naming himself, not a formula for human beings"], "a": 3, "why": "In Ex 3:14 God speaks of himself; Scripture never teaches that the human self is God."}
+      ],
+      "terms": [
+        {"term": "*Seneh*", "def": "The thorn bush of Exodus 3; its sound is often linked with “Sinai”."},
+        {"term": "*Ehyeh asher ehyeh*", "def": "“I am who I am” / “I will be who I will be” (Ex 3:14)."},
+        {"term": "YHWH", "def": "The four-letter divine name (Ex 3:15), printed “LORD” in most English Bibles."},
+        {"term": "*Adonai* / *HaShem*", "def": "“My Lord” / “the Name” — what Jewish readers say instead of YHWH."},
+        {"term": "*Egō eimi*", "def": "Greek “I am”, used in the Septuagint of Ex 3:14 and in Jesus’ sayings."}
+      ],
+      "related": ["d-names", "w-kadosh", "s-glory", "d-claims"]
+    },
+    {
+      "id": "d-peniel",
+      "book": "decode",
+      "order": 170,
+      "num": 17,
+      "title": "Peniel: Where Jacob Saw the Face of God",
+      "subtitle": "Why did Jacob have to say his own name before he could be blessed — and is “Peniel” really about an inner eye?",
+      "nutshell": "On the night before he meets the brother he cheated, Jacob is alone by the Jabbok river and someone wrestles him until dawn. He clings on for a blessing, is made to say his name — “Jacob”, the heel-grabber — and receives a new one, Israel. He limps away calling the place Peniel, “face of God”, and the next morning finds God’s face again in Esau’s welcome.",
+      "bigIdea": "Blessing comes when we name honestly who we have been, hold on to God, and walk into the dawn — even with a limp.",
+      "skeleton": [
+        "Jacob, Jabbok, wrestled: a three-way sound-play (Gen 32:22–24)",
+        "“What is your name?” — “Jacob” → “Israel”",
+        "Peniel, the limp and the sunrise (32:30–32)",
+        "Esau’s face “like the face of God” (33:10)",
+        "Who was the man? — and the “pineal gland” claim tested"
+      ],
+      "sections": [
+        {
+          "h": "The 60-second version",
+          "p": [
+            "Jacob has cheated his brother and run for twenty years. Now Esau is coming with four hundred men (Gen 32:6). Jacob sends everyone across the river and stays alone. A man wrestles him till daybreak. Jacob will not let go: “I will not let you go unless you bless me.”",
+            "The stranger asks, “What is your name?” He has to say it: “Jacob” — heel-grabber. Then he is renamed Israel. He limps off at sunrise saying, “I have seen God face to face.” Hours later he looks at Esau and says, “Seeing your face is like seeing the face of God.”"
+          ]
+        },
+        {
+          "h": "Layer 1 — what the Hebrew actually says",
+          "p": [
+            "Three words sound alike: יַעֲקֹב *Ya’akov* (Jacob), יַבֹּק *Yabbok* (the Jabbok river) and וַיֵּאָבֵק *vayye’avek* “and he wrestled” (32:22–24). Commentators widely note the play: Jacob wrestles at the Jabbok. (Hebrew Bibles number these verses one higher.)",
+            "*Ya’akov* is linked with *aqev*, “heel”: he was born gripping Esau’s heel (25:26), and Esau said, “Is he not rightly named Jacob? He has cheated me twice” (27:36). So saying “Jacob” is a confession. The new name *Yisra’el* is explained “for you have striven with God and with men and have prevailed” (32:28); grammatically it may mean “God strives” or “God rules” — debated.",
+            "Jacob names the place *Peni’el*, “face of God”, “for I have seen God face to face, and my life was spared” (32:30). “The sun rose upon him” as he passed Penuel, limping (32:31), and Israel still does not eat the thigh sinew (32:32)."
+          ]
+        },
+        {
+          "h": "Layer 2 — what ancient readers saw",
+          "p": [
+            "Who was the man? Hosea says Jacob “strove with the angel and prevailed; he wept and sought his favour” (Hos 12:3–4) — a detail Genesis does not give. One midrash makes him Esau’s guardian angel (Genesis Rabbah 77–78), and another says the sun rose specifically to heal Jacob’s limp. Jewish law built the thigh-sinew custom into kosher practice (Mishnah Chullin 7).",
+            "Early Christian readers, such as Justin Martyr in the 2nd century, saw the wrestler as the Word of God appearing before he became flesh — a reading of faith, not something the text states. Geographically, the Jabbok is today’s Wadi Zarqa in Jordan. Penuel is often placed at Tell edh-Dhahab el-Gharbi by the river, with Mahanaim, “two camps” (32:1–2), nearby (proposals, not certainties)."
+          ]
+        },
+        {
+          "h": "Layer 3 — a devotional reading",
+          "p": [
+            "Read devotionally, Peniel is a picture of how God changes people. Jacob has always grabbed blessings by trickery. Now he must hold on in weakness and tell the truth about himself: “My name is Jacob.” Only then is he given a new name.",
+            "He leaves blessed but limping, and the sun rises on him. And the face of God he saw in the night prepares him to see God’s grace in his brother’s face (33:10). Honest naming, holding on, blessing, a limp into the dawn — and reconciliation."
+          ]
+        },
+        {
+          "h": "Careful with popular claims",
+          "p": [
+            "A popular claim says Peniel is really the pineal gland — the “inner eye” — so seeing God face to face means awakening it. But “pineal” comes from Latin *pinea*, “pine cone”, after the gland’s shape. *Peni’el* is Hebrew, “face of God”. The likeness is only an English sound-alike, and the gland’s known job — producing melatonin for sleep cycles — has nothing to do with the story.",
+            "The claim often adds Matt 6:22, “if your eye is single, your whole body will be full of light.” In Jewish idiom a “good eye” means generosity and an “evil eye” means stinginess (Prov 22:9; 28:22; Matt 20:15). That fits Jesus’ context exactly: treasure, two masters, money (Matt 6:19–24)."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "interlinear",
+          "title": "Genesis 32:30 — “I have seen God face to face”",
+          "lang": "he",
+          "after": 0,
+          "note": "Hebrew Bibles number this verse 32:31.",
+          "words": [
+            {"w": "וַיִּקְרָא", "g": "and called"},
+            {"w": "יַעֲקֹב", "g": "Jacob"},
+            {"w": "שֵׁם", "g": "the name of"},
+            {"w": "הַמָּקוֹם", "g": "the place"},
+            {"w": "פְּנִיאֵל", "g": "Peniel (“face of God”)"},
+            {"w": "כִּי־רָאִיתִי", "g": "for I have seen"},
+            {"w": "אֱלֹהִים", "g": "God"},
+            {"w": "פָּנִים", "g": "face"},
+            {"w": "אֶל־פָּנִים", "g": "to face"},
+            {"w": "וַתִּנָּצֵל", "g": "and was spared"},
+            {"w": "נַפְשִׁי", "g": "my life (my soul)"}
+          ],
+          "readings": [
+            {"label": "KJV", "text": "And Jacob called the name of the place Peniel: for I have seen God **face to face**, and my life is preserved."},
+            {"label": "Wordplay", "text": "*Peni’el* = *penei* “face of” + *El* “God”.", "note": "The name is explained by the sentence itself."}
+          ]
+        },
+        {
+          "type": "map",
+          "title": "Jacob’s road home",
+          "after": 2,
+          "note": "The Jabbok (Wadi Zarqa) flows west into the Jordan; Penuel and Mahanaim lie near it (sites proposed, not certain).",
+          "places": [
+            {"id": "mahanaim", "d": "“Two camps”: angels of God meet Jacob; he splits his people into two camps.", "refs": "Gen 32:1–2, 7"},
+            {"id": "peniel", "d": "The night wrestling by the Jabbok; “face of God”.", "refs": "Gen 32:22–32"},
+            {"id": "shechem", "d": "Jacob arrives safely and builds an altar to “El, the God of Israel”.", "refs": "Gen 33:18–20"},
+            {"id": "bethel", "d": "Where God first met the fleeing Jacob; the new name is confirmed.", "refs": "Gen 28:19; 35:10"},
+            {"id": "jerusalem", "d": "For orientation: west across the Jordan.", "refs": "—"}
+          ],
+          "route": ["mahanaim", "peniel", "shechem", "bethel"]
+        },
+        {
+          "type": "flow",
+          "title": "The night at the Jabbok",
+          "after": 1,
+          "steps": [
+            {"t": "Alone", "d": "Everyone crosses the river; Jacob stays behind (32:23–24)."},
+            {"t": "Wrestled", "d": "A man wrestles him “until the breaking of the day”."},
+            {"t": "“Bless me”", "d": "Even with his hip out of joint, Jacob holds on (32:25–26)."},
+            {"t": "“Your name?”", "d": "He must confess: “Jacob” — heel-grabber (32:27)."},
+            {"t": "New name", "d": "Israel: “you have striven with God and with men” (32:28)."},
+            {"t": "Blessing and limp", "d": "He is blessed and limps; the place is called Peniel (32:29–31)."},
+            {"t": "Sunrise", "d": "“The sun rose upon him” (32:31)."},
+            {"t": "Esau’s face", "d": "“Like seeing the face of God” (33:10)."}
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "Jacob before, Israel after",
+          "after": 3,
+          "left": {"label": "Jacob (before)", "items": ["Grabs his brother’s heel", "Takes the blessing by trickery", "Runs from Esau", "Bargains with God at Bethel", "Strong and self-reliant"]},
+          "right": {"label": "Israel (after)", "items": ["Confesses his own name", "Receives the blessing by clinging", "Goes to meet Esau, bowing", "Builds an altar to “the God of Israel”", "Blessed — and limping"]}
+        },
+        {
+          "type": "table",
+          "title": "Peniel claims tested",
+          "after": 4,
+          "cols": ["", "Evidence", "Verdict"],
+          "rows": [
+            {"h": "Jacob–Jabbok–wrestled pun", "cells": ["*Ya’akov* / *Yabbok* / *vayye’avek* side by side", "✔ Widely noted"]},
+            {"h": "Peniel = “face of God”", "cells": ["Explained in Gen 32:30 itself", "✔ Certain"]},
+            {"h": "Israel’s exact meaning", "cells": ["“Strives with God” or “God strives/rules”", "≈ Debated"]},
+            {"h": "Peniel = pineal gland", "cells": ["“Pineal” is Latin *pinea* “pine cone”", "✘ English sound-alike"]},
+            {"h": "“Single eye” = generosity", "cells": ["Good/evil eye idiom; Matt 6:19–24 is about money", "✔ Fits context"]}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Genesis 32:26", "text": "“I will not let you go unless you bless me.”"},
+        {"ref": "Genesis 32:28", "text": "“Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed.”"},
+        {"ref": "Genesis 33:10", "text": "“For I have seen your face, which is like seeing the face of God, and you have accepted me.”"},
+        {"ref": "Hosea 12:4", "text": "He strove with the angel and prevailed; he wept and sought his favour."}
+      ],
+      "keyPoints": [
+        "Jacob (*Ya’akov*) wrestles (*vayye’avek*) at the Jabbok (*Yabbok*) — a three-way sound-play.",
+        "Saying “Jacob” is a confession: heel-grabber, supplanter (Gen 25:26; 27:36).",
+        "Peniel means “face of God”; Genesis explains the name itself (32:30).",
+        "Jacob meets God’s face at night and sees it again in Esau’s welcome (33:10).",
+        "“Pineal” is Latin for pine-cone shaped; the “single eye” of Matt 6:22 is a Jewish idiom for generosity."
+      ],
+      "reflect": [
+        "What “old name” — a pattern you would rather not admit — might God be asking you to say honestly?",
+        "Is there a face, like Esau’s, in which you need to see God’s grace and be reconciled?"
+      ],
+      "quiz": [
+        {"q": "Which three Hebrew words sound alike in Genesis 32:22–24?", "options": ["Jacob, Jabbok, and “he wrestled”", "Esau, Edom, and red", "Bethel, Babel, and gate", "Israel, Jerusalem, and peace"], "a": 0, "why": "*Ya’akov*, *Yabbok* and *vayye’avek* — Jacob wrestles at the Jabbok."},
+        {"q": "Why does it matter that Jacob must say his name?", "options": ["The man had forgotten it", "It was a password", "“Jacob” meant heel-grabber, so saying it was a confession", "It proved he was Esau"], "a": 2, "why": "Esau had said, “Is he not rightly named Jacob? He has cheated me twice” (27:36)."},
+        {"q": "Where does the English word “pineal” come from?", "options": ["Hebrew *Peni’el*", "Latin *pinea*, “pine cone”", "Greek *phōs*, “light”", "Aramaic *panim*"], "a": 1, "why": "The gland is named for its pine-cone shape; the link with Peniel is only a sound-alike."},
+        {"q": "In Jewish idiom, a “good eye” means…", "options": ["Sharp eyesight", "Spiritual visions", "Being a good judge", "Generosity"], "a": 3, "why": "Prov 22:9; Matt 20:15 — which fits Jesus’ teaching on money in Matt 6:19–24."}
+      ],
+      "terms": [
+        {"term": "Peniel / Penuel", "def": "“Face of God” — the place by the Jabbok where Jacob wrestled (Gen 32:30–31)."},
+        {"term": "Jabbok", "def": "River flowing west into the Jordan; today’s Wadi Zarqa in Jordan."},
+        {"term": "*Ya’akov*", "def": "Jacob — linked with *aqev* “heel”: heel-grabber, supplanter."},
+        {"term": "*Yisra’el*", "def": "Israel — “strives with God” or “God strives/rules” (debated)."},
+        {"term": "Mahanaim", "def": "“Two camps” — where angels met Jacob (Gen 32:1–2)."},
+        {"term": "Good eye / evil eye", "def": "Jewish idiom for generosity / stinginess (Prov 22:9; Matt 6:22–23)."}
+      ],
+      "related": ["d-names", "d-panim", "s-reconcile", "d-claims"]
+    },
+    {
+      "id": "d-panim",
+      "book": "decode",
+      "order": 180,
+      "num": 18,
+      "title": "The Face of God Through Scripture",
+      "subtitle": "If no one can see God’s face and live, why does the Bible keep promising that we will?",
+      "nutshell": "The Hebrew word for face, *panim*, is always plural, and it also means presence and “before”. Scripture traces a thread of the face of God: Moses speaks with God “face to face” yet cannot see his face; the priests bless Israel with God’s shining face; the psalmists seek it and grieve when it is hidden. The thread ends with the glory of God in the face of Jesus — and the promise, “they will see his face.”",
+      "bigIdea": "God’s face means God’s turned-toward-us presence — longed for, hidden in sorrow, shining in blessing, revealed in Christ, and promised in full.",
+      "skeleton": [
+        "*Panim*: face, presence, “before”",
+        "Face to face — yet “you cannot see my face” (Ex 33)",
+        "The bread of the face and Moses’ shining face",
+        "The priestly blessing and the psalms of seeking",
+        "The face of Jesus and the final promise"
+      ],
+      "sections": [
+        {
+          "h": "The 60-second version",
+          "p": [
+            "In Hebrew, “face” and “presence” are the same word. When the Bible talks about God’s face, it means God turned toward you. Moses talks with God face to face like a friend — yet is told, “You cannot see my face and live.” Both are true: real closeness, and a glory too great to look at.",
+            "Then the thread runs on: the priests pray, “The LORD make his face shine on you.” The psalmists cry, “Do not hide your face.” Paul says God’s glory shines “in the face of Jesus Christ.” And the Bible’s last chapter promises: “They will see his face.”"
+          ]
+        },
+        {
+          "h": "Layer 1 — what the Hebrew actually says",
+          "p": [
+            "*Panim* is plural in form, like “scissors” in English. With prepositions it becomes everyday words: *lifnei*, “before” (literally “to the face of”); even the “face” of the deep and of the ground (Gen 1:2; 2:6). So God’s *panim* is his presence: “My presence (*panai*, my face) will go with you” (Ex 33:14).",
+            "Exodus 33 holds two truths together: “The LORD used to speak to Moses face to face (*panim el-panim*), as a man speaks with his friend” (33:11), and “You cannot see my face, for man shall not see me and live” (33:20). Face here means intimacy and presence, not a physical outline.",
+            "In the sanctuary, the bread on the golden table is *lechem ha-panim*, “bread of the face”, set “before me always” (Ex 25:30). And when Moses came down from the mountain, “the skin of his face shone” — *qaran*, from the same root as *qeren*, “horn” (Ex 34:29–35)."
+          ]
+        },
+        {
+          "h": "Layer 2 — what ancient readers saw",
+          "p": [
+            "Jerome’s Latin Vulgate rendered Moses’ face as *cornuta*, “horned”. That is why Michelangelo’s famous statue of Moses (early 16th century) has two small horns — a translation story carved in marble. Paul reads the shining face differently: Moses veiled it, but “we all, with unveiled face, beholding the glory of the Lord, are being transformed” (2 Cor 3:7–18).",
+            "The priestly blessing — “The LORD make his face shine on you… the LORD lift up his face upon you and give you peace” (Num 6:24–26) — was so loved that it is found on two tiny silver scrolls from Ketef Hinnom in Jerusalem (around 600 BC), the oldest known copies of a biblical text. Later Jewish thought used the phrase *hester panim*, “hiding of the face”, for times when God seems absent (from Deut 31:17–18)."
+          ]
+        },
+        {
+          "h": "Layer 3 — a devotional reading",
+          "p": [
+            "Read devotionally, the face of God is the Bible’s language for being known and loved. To have God’s face shine on you is to be smiled upon; to have it hidden is the deepest grief of lament: “How long will you hide your face from me?” (Ps 13:1). God himself invites, “Seek my face”, and the heart answers, “Your face, LORD, I will seek” (Ps 27:8).",
+            "For Christians the thread comes to rest in Jesus. On the mountain “his face shone like the sun” (Matt 17:2), and “the light of the knowledge of the glory of God” is seen “in the face of Jesus Christ” (2 Cor 4:6). Now we see dimly, “but then face to face” (1 Cor 13:12) — “they will see his face” (Rev 22:4)."
+          ]
+        },
+        {
+          "h": "Careful with popular claims",
+          "p": [
+            "Two over-readings are common. One says the plural *panim* proves God has many faces or persons; but every human face is *panim* too — the plural is simply how Hebrew says “face”. Another treats “face to face” in Exodus 33:11 as a contradiction with 33:20. The chapter itself shows they mean different things: friendly closeness, and the full blaze of glory.",
+            "Also, *hester panim* is a later Jewish term built from Deuteronomy, not a biblical phrase. And Moses did not grow horns: *qaran* means his face radiated light — the horn idea came from a translation."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "interlinear",
+          "title": "Numbers 6:25 — “make his face shine”",
+          "lang": "he",
+          "after": 0,
+          "words": [
+            {"w": "יָאֵר", "g": "may he make shine"},
+            {"w": "יְהוָה", "g": "the LORD"},
+            {"w": "פָּנָיו", "g": "his face"},
+            {"w": "אֵלֶיךָ", "g": "toward you"},
+            {"w": "וִיחֻנֶּךָּ", "g": "and be gracious to you"}
+          ],
+          "readings": [
+            {"label": "KJV", "text": "The LORD make **his face shine** upon thee, and be gracious unto thee."},
+            {"label": "Plain sense", "text": "May the LORD **turn toward you with a smile** and show you grace.", "note": "*Panav* “his face” = his favourable presence."},
+            {"label": "Next verse (6:26)", "text": "The LORD **lift up his face** upon you and give you peace (*shalom*).", "note": "To “lift the face” toward someone is to look on them with favour."}
+          ]
+        },
+        {
+          "type": "timeline",
+          "title": "The face thread from Genesis to Revelation",
+          "after": 1,
+          "events": [
+            {"when": "Gen 3:8", "t": "Hiding from the face", "d": "Adam and Eve hide “from the presence (*mipnei*) of the LORD”."},
+            {"when": "Gen 32:30", "t": "Peniel", "d": "Jacob: “I have seen God face to face.”"},
+            {"when": "Ex 25:30", "t": "Bread of the face", "d": "*Lechem ha-panim* set before God always."},
+            {"when": "Ex 33", "t": "Face to face — yet unseen", "d": "Friendship with Moses; “you cannot see my face and live.”"},
+            {"when": "Ex 34:29", "t": "The shining face", "d": "Moses’ face radiates light after speaking with God."},
+            {"when": "Num 6:25", "t": "The priestly blessing", "d": "“The LORD make his face shine on you.”"},
+            {"when": "Ps 27; 13", "t": "Seek / hide", "d": "“Seek my face”; “How long will you hide your face?”"},
+            {"when": "Matt 17:2", "t": "Transfiguration", "d": "Jesus’ face shines like the sun."},
+            {"when": "2 Cor 4:6", "t": "Glory in his face", "d": "God’s glory seen in the face of Jesus Christ."},
+            {"when": "Rev 22:4", "t": "They will see his face", "d": "The final promise of the Bible."}
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "Eight “face” moments",
+          "after": 2,
+          "cards": [
+            {"t": "Peniel", "front": "A limping man names a place.", "back": "After wrestling all night, Jacob calls the place “face of God”, amazed that his life was spared.", "source": "Gen 32:30", "echo": "Gen 33:10 — Esau’s face"},
+            {"t": "Like a friend", "front": "Face to face in a tent.", "back": "In the tent of meeting the LORD spoke with Moses “as a man speaks with his friend”, while Joshua stayed nearby.", "source": "Ex 33:11", "echo": "John 15:15 “I have called you friends”"},
+            {"t": "The cleft of the rock", "front": "“Show me your glory.”", "back": "God hides Moses in a rock and passes by: “you shall see my back, but my face shall not be seen.” Closeness has a limit for our good.", "source": "Ex 33:18–23", "echo": "John 1:18 — the Son has made him known"},
+            {"t": "Bread of the face", "front": "Twelve loaves on a golden table.", "back": "Fresh bread was set “before my face” every Sabbath — Israel’s tribes kept in God’s presence.", "source": "Ex 25:30; Lev 24:5–9", "echo": "John 6:35 “I am the bread of life”"},
+            {"t": "Shining, not horned", "front": "Why does Moses have horns in marble?", "back": "*Qaran* means “shone”, but the Vulgate read “horned”. Michelangelo followed the Latin.", "source": "Ex 34:29; Vulgate", "echo": "2 Cor 3:18 — unveiled faces"},
+            {"t": "The blessing", "front": "Words on a silver scroll.", "back": "The priestly blessing was found on tiny silver amulets in Jerusalem from around 600 BC — God’s shining face carried close to the heart.", "source": "Num 6:24–26; Ketef Hinnom", "echo": "Luke 24:50 — Jesus blesses with lifted hands"},
+            {"t": "Hidden face", "front": "“How long?”", "back": "The psalmist feels forgotten when God’s face is hidden, yet ends by trusting in his steadfast love.", "source": "Ps 13:1, 5", "echo": "Mark 15:34 — the cry of abandonment"},
+            {"t": "Face to face at last", "front": "No more mirror.", "back": "Now we see as in a dim mirror; then face to face. The servants of God “will see his face, and his name will be on their foreheads.”", "source": "1 Cor 13:12; Rev 22:4", "echo": "Matt 5:8 “the pure in heart will see God”"}
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "When God hides his face — and when it shines",
+          "after": 3,
+          "left": {"label": "Hidden face", "items": ["Felt as abandonment (Ps 13:1)", "Linked with turning away (Deut 31:17–18)", "Trouble and fear (Ps 30:7)", "Prayer: “Do not hide your face” (Ps 27:9)"]},
+          "right": {"label": "Shining face", "items": ["Felt as favour and grace (Num 6:25)", "Linked with returning (Ps 80:3)", "Salvation and joy (Ps 4:6–7)", "Answer: “Seek my face” (Ps 27:8)"]}
+        },
+        {
+          "type": "table",
+          "title": "Hebrew phrases built on *panim*",
+          "after": 4,
+          "cols": ["", "Literally", "Meaning", "Example"],
+          "rows": [
+            {"h": "*Lifnei*", "cells": ["to the face of", "before, in front of", "Gen 6:11; Ex 25:30"]},
+            {"h": "*Lechem ha-panim*", "cells": ["bread of the face", "bread of the Presence", "Ex 25:30"]},
+            {"h": "*Panim el-panim*", "cells": ["face to face", "direct, personal meeting", "Gen 32:30; Ex 33:11"]},
+            {"h": "*Nasa panim*", "cells": ["lift the face", "show favour", "Num 6:26"]},
+            {"h": "*Hester panim*", "cells": ["hiding of the face", "God seeming absent (later term)", "from Deut 31:17–18"]}
+          ]
+        }
+      ],
+      "verses": [
+        {"ref": "Exodus 33:11", "text": "The LORD used to speak to Moses face to face, as a man speaks to his friend."},
+        {"ref": "Numbers 6:25–26", "text": "The LORD make his face to shine upon you and be gracious to you; the LORD lift up his countenance upon you and give you peace."},
+        {"ref": "Psalm 27:8", "text": "You have said, “Seek my face.” My heart says to you, “Your face, LORD, do I seek.”"},
+        {"ref": "2 Corinthians 4:6", "text": "God… has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ."},
+        {"ref": "Revelation 22:4", "text": "They will see his face, and his name will be on their foreheads."}
+      ],
+      "keyPoints": [
+        "*Panim* (always plural) means face, presence and — in *lifnei* — “before”.",
+        "Moses speaks with God face to face as a friend, yet cannot see his full glory and live (Ex 33).",
+        "The bread of the Presence is literally “bread of the face”; Moses’ face shone, it did not grow horns.",
+        "The priestly blessing asks for God’s shining, lifted face — the oldest biblical text yet found.",
+        "The thread ends in Christ: God’s glory in the face of Jesus, and the promise “they will see his face”."
+      ],
+      "reflect": [
+        "When have you felt God’s face “hidden”? How does Psalm 13 teach you to pray in that time?",
+        "Pray the priestly blessing slowly over someone today. What does it mean for God’s face to shine on them?"
+      ],
+      "quiz": [
+        {"q": "What does the Hebrew *lechem ha-panim* literally mean?", "options": ["Bread of affliction", "Daily bread", "Bread of the face", "Bread of heaven"], "a": 2, "why": "It is the bread of the Presence, set “before my face” always (Ex 25:30)."},
+        {"q": "Why does Michelangelo’s Moses have horns?", "options": ["The Latin Vulgate read *qaran* (“shone”) as “horned”", "Moses wore a ram’s horn helmet", "Exodus says he grew horns", "It is a symbol of Egypt"], "a": 0, "why": "*Qaran* is related to *qeren* “horn”, and Jerome’s *cornuta* was followed by artists."},
+        {"q": "How can Ex 33:11 (“face to face”) and 33:20 (“you cannot see my face”) both be true?", "options": ["They come from two different Gods", "One is a copying error", "Moses lied", "One speaks of close friendship, the other of God’s full glory"], "a": 3, "why": "The same chapter uses “face” for intimate presence and for a glory too great to look on."},
+        {"q": "Which promise ends the Bible’s face thread?", "options": ["“You will never see me”", "“They will see his face”", "“Hide your face from me”", "“Cover your face with a veil”"], "a": 1, "why": "Revelation 22:4."}
+      ],
+      "terms": [
+        {"term": "*Panim*", "def": "Face, presence; always plural in form."},
+        {"term": "*Lifnei*", "def": "“Before”, literally “to the face of”."},
+        {"term": "*Lechem ha-panim*", "def": "Bread of the Presence — “bread of the face” (Ex 25:30)."},
+        {"term": "*Qaran*", "def": "“Shone, sent out rays” (Ex 34:29); related to *qeren* “horn”."},
+        {"term": "*Hester panim*", "def": "“Hiding of the face” — later Jewish term for God seeming absent."}
+      ],
+      "related": ["d-peniel", "b-vows", "d-echoes", "s-glory"]
+    }
+  ],
+  "glossary": []
+}
