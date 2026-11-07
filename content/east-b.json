@@ -1,0 +1,1625 @@
+{
+  "chapters": [
+    {
+      "id": "e-evangelical",
+      "book": "east",
+      "order": 50,
+      "num": 5,
+      "title": "The Making of Modern Evangelicalism",
+      "subtitle": "Where did the altar call, the sinner's prayer and the rapture chart come from?",
+      "nutshell": "Modern evangelicalism grew out of Pietism and the revivals of the 1700s and 1800s. It gave the world a passion for Scripture, personal faith, worldwide mission, Bible translation and social reform. It also packaged the gospel in new ways — the altar call, the sinner's prayer, the rapture chart — many of which are younger than most Christians assume.",
+      "bigIdea": "Evangelicalism is a real gift to the church, but many of its familiar habits are recent Western inventions, not the original shape of biblical faith.",
+      "skeleton": [
+        "1600s–1700s: Pietism and Wesley call for a living, felt faith",
+        "1730s–1840s: the Great Awakenings turn revival into a method",
+        "1790s–1900s: missions, Bible societies and the fight against slavery",
+        "1830s–1920s: dispensationalism, the rapture and fundamentalism",
+        "1900s–today: Pentecostal, charismatic, media, prosperity and mega-church movements",
+        "Weighing it: four marks, real strengths, Western blind spots"
+      ],
+      "sections": [
+        {
+          "h": "Roots: Pietism and the warmed heart",
+          "p": [
+            "By the 1600s many Protestant churches in Europe had become correct but cold. German Pietism (Philipp Jakob Spener's *Pia Desideria*, 1675) called for Bible study in small groups, holy living and a heartfelt faith. The Moravians at Herrnhut (1727) carried this spirit into prayer and mission.",
+            "In 1738 John Wesley heard Luther's preface to Romans read in a London meeting and felt his heart “strangely warmed”. Methodism followed: open-air preaching, hymns, and class meetings where believers confessed and encouraged one another weekly. This was not lonely individualism — it was strong, disciplined community."
+          ]
+        },
+        {
+          "h": "Revival becomes a method",
+          "p": [
+            "The First Great Awakening (1730s–1740s) spread through Jonathan Edwards' preaching in New England and George Whitefield's huge open-air crowds on both sides of the Atlantic. Edwards saw revival as a surprising work of God.",
+            "The Second Great Awakening (about 1790–1840) was different. On the American frontier, camp meetings drew thousands. In the 1820s–30s Charles Finney taught that revival is “not a miracle” but the right use of means. His “new measures” included the anxious bench, where seekers came forward to be prayed for — a forerunner of the altar call. Salvation was now framed as a decision made at a meeting, which fitted the frontier ideal of the free, self-made individual."
+          ]
+        },
+        {
+          "h": "Mission, translation and reform",
+          "p": [
+            "This is evangelicalism's great strength. The 1790s and 1800s saw an explosion of voluntary societies: the Baptist Missionary Society (1792, with William Carey, who went to India), the British and Foreign Bible Society (1804), the American Bible Society (1816) and many more. Thousands of languages, Tamil among them, received Scripture, schools and hospitals.",
+            "Evangelicals such as William Wilberforce and the Clapham circle campaigned for decades until Britain abolished the slave trade (1807) and slavery in its empire (1833). Others fought child labour, cruelty and illiteracy. Any fair history must start here."
+          ]
+        },
+        {
+          "h": "Rapture, fundamentals and the twentieth century",
+          "p": [
+            "In the 1830s John Nelson Darby, a leader of the Plymouth Brethren, taught dispensationalism: history divided into ages, Israel and the church on separate tracks, and a secret “rapture” of believers before a great tribulation. The Scofield Reference Bible (1909) printed these ideas in the notes beside the text, and millions read them as if they were Scripture.",
+            "Facing Darwinism and critical scholarship, conservatives published *The Fundamentals* (1910–15) — the origin of the word “fundamentalist”. Inerrancy debates followed. After the 1940s came the neo-evangelicals, then Pentecostal and charismatic renewal, radio and television preaching, the prosperity gospel, the church-growth movement and the mega-church."
+          ]
+        },
+        {
+          "h": "Four marks — and some blind spots",
+          "p": [
+            "A widely used historian's description says evangelicals share four marks: conversion (lives must be changed), activism (faith must be shared and lived), the Bible (the final authority) and the cross (Christ's death at the centre). All four are deeply biblical.",
+            "The blind spots are mostly about emphasis. The gospel often shrank to “get saved, go to heaven”: individual, afterlife-focused and decided in a moment. The kingdom of God on earth, Israel's story, the body, the community, and the Jewish setting of Jesus were pushed to the edges (see g-26, s-kingdom, g-07)."
+          ]
+        },
+        {
+          "h": "Reading this history fairly",
+          "p": [
+            "Three levels must be kept apart. Widely agreed history: the dates of Wesley, Finney, Darby, Scofield and *The Fundamentals*. A common scholarly interpretation: revivalism and frontier individualism shaped how salvation was presented. Debated: how far these changes distorted the gospel, and how much they simply translated it for a new culture.",
+            "Many practices people think are “just Christianity” have a birth date. Knowing that date does not make them wrong. It frees us to ask whether they carry the whole biblical story — and to keep the gold while setting aside the packaging."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "timeline",
+          "title": "From Pietism to today",
+          "after": 1,
+          "note": "Dates are widely agreed; what each movement meant is interpreted differently.",
+          "events": [
+            {
+              "when": "1675",
+              "t": "Pietism",
+              "d": "Spener's *Pia Desideria* calls for small groups and heartfelt faith."
+            },
+            {
+              "when": "1727",
+              "t": "Moravian revival",
+              "d": "Herrnhut: round-the-clock prayer and early Protestant mission."
+            },
+            {
+              "when": "1730s–40s",
+              "t": "First Great Awakening",
+              "d": "Edwards and Whitefield; revival across Britain and America."
+            },
+            {
+              "when": "1738",
+              "t": "Wesley's warmed heart",
+              "d": "Aldersgate, London; Methodism and class meetings follow."
+            },
+            {
+              "when": "c. 1790–1840",
+              "t": "Second Great Awakening",
+              "d": "Camp meetings; Finney's new measures in the 1820s–30s."
+            },
+            {
+              "when": "1792–1816",
+              "t": "Mission and Bible societies",
+              "d": "Carey to India; Bible societies in Britain and America."
+            },
+            {
+              "when": "1807 / 1833",
+              "t": "Abolition",
+              "d": "British slave trade, then slavery itself, abolished."
+            },
+            {
+              "when": "1830s",
+              "t": "Darby's dispensationalism",
+              "d": "A pre-tribulation rapture taught among the Brethren."
+            },
+            {
+              "when": "1909",
+              "t": "Scofield Reference Bible",
+              "d": "Dispensational notes printed beside the biblical text."
+            },
+            {
+              "when": "1906 / 1910–15",
+              "t": "Pentecostalism; The Fundamentals",
+              "d": "Azusa Street revival; booklets that gave “fundamentalism” its name."
+            },
+            {
+              "when": "1940s–70s",
+              "t": "Neo-evangelicals and charismatics",
+              "d": "Re-engagement with culture; renewal spreads into many churches."
+            },
+            {
+              "when": "1950s–today",
+              "t": "Media and mega-church era",
+              "d": "Television, prosperity teaching, church growth, global South growth."
+            }
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "How “get saved, go to heaven” became the headline",
+          "after": 1,
+          "note": "A common interpretation, not a single cause; each step also had good motives.",
+          "steps": [
+            {
+              "t": "Reformation question",
+              "d": "“How can I, a sinner, be sure God accepts me?” puts the individual at the centre."
+            },
+            {
+              "t": "Pietist experience",
+              "d": "Assurance is sought in a felt, personal conversion."
+            },
+            {
+              "t": "Revival as method",
+              "d": "Finney's measures turn conversion into a decision made at a meeting."
+            },
+            {
+              "t": "Frontier individualism",
+              "d": "Free choice and self-reliance shape how faith is offered."
+            },
+            {
+              "t": "Rapture pessimism",
+              "d": "If the world is doomed, the task is to rescue souls out of it."
+            },
+            {
+              "t": "Twentieth-century tracts",
+              "d": "A few steps and a short prayer summarise the whole gospel."
+            },
+            {
+              "t": "Result",
+              "d": "Kingdom, new creation and Israel's story fade into the background."
+            }
+          ]
+        },
+        {
+          "type": "tree",
+          "title": "The evangelical family tree",
+          "after": 3,
+          "root": "Protestant Reformation and Puritanism",
+          "branches": [
+            {
+              "t": "Pietist",
+              "children": [
+                "German Pietism (1675)",
+                "Moravians (1727)"
+              ]
+            },
+            {
+              "t": "Methodist",
+              "children": [
+                "Wesley and Whitefield",
+                "Class meetings, hymns"
+              ]
+            },
+            {
+              "t": "Revivalist",
+              "children": [
+                "Great Awakenings",
+                "Finney's new measures",
+                "Camp meetings"
+              ]
+            },
+            {
+              "t": "Holiness",
+              "children": [
+                "Second blessing, entire sanctification",
+                "Mid-1800s"
+              ]
+            },
+            {
+              "t": "Pentecostal",
+              "children": [
+                "Topeka 1901, Azusa Street 1906",
+                "Speaking in tongues"
+              ]
+            },
+            {
+              "t": "Fundamentalist",
+              "children": [
+                "The Fundamentals (1910–15)",
+                "Separation from culture"
+              ]
+            },
+            {
+              "t": "Neo-evangelical",
+              "children": [
+                "1940s onward",
+                "Scholarship, mission, social engagement"
+              ]
+            },
+            {
+              "t": "Charismatic",
+              "children": [
+                "1960s renewal",
+                "Spiritual gifts in older churches"
+              ]
+            },
+            {
+              "t": "Prosperity",
+              "children": [
+                "Late 1900s",
+                "Health and wealth as signs of faith"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "Strengths and blind spots",
+          "after": 4,
+          "note": "Both columns are true at once.",
+          "left": {
+            "label": "Real strengths",
+            "items": [
+              "Love of Scripture and personal Bible reading",
+              "Personal faith: God changes real lives",
+              "Worldwide mission and church planting",
+              "Bible translation into thousands of languages",
+              "Abolition of slavery, schools, hospitals",
+              "Clear focus on Christ and the cross"
+            ]
+          },
+          "right": {
+            "label": "Western blind spots",
+            "items": [
+              "Verses read apart from the whole story",
+              "Faith made private and individual",
+              "Saving souls out of the world, not renewing it",
+              "Gospel packaged in Western cultural forms",
+              "Little sense of Israel and Jesus' Jewishness",
+              "The cross detached from kingdom and resurrection"
+            ]
+          }
+        },
+        {
+          "type": "cards",
+          "title": "Eight familiar practices — and when they began",
+          "after": 5,
+          "note": "Dates are approximate; most practices have earlier roots.",
+          "cards": [
+            {
+              "t": "The altar call",
+              "front": "Coming forward at the end of a meeting",
+              "back": "Grew out of Methodist camp meetings and Finney's anxious bench in the early 1800s; made standard by later revivalists. The early church had no such practice.",
+              "source": "c. 1800–1830s",
+              "echo": "Compare baptism as the public response (Acts 2:38–41)"
+            },
+            {
+              "t": "The sinner's prayer",
+              "front": "“Repeat after me…”",
+              "back": "Short set prayers of commitment spread mainly through 20th-century tracts and crusades. Earlier forms of praying for salvation existed, but not one formula as the doorway.",
+              "source": "Mostly 20th century (hedged)",
+              "echo": "Rom 10:9–10 — confession with the mouth, faith in the heart"
+            },
+            {
+              "t": "“Accept Jesus into your heart”",
+              "front": "The most common invitation phrase",
+              "back": "A popular 19th–20th-century phrase, especially in children's evangelism. The New Testament speaks of repenting, believing, being baptised and following.",
+              "source": "19th–20th century",
+              "echo": "Rev 3:20 is often used, though it was written to a church"
+            },
+            {
+              "t": "Rapture charts",
+              "front": "Timelines of the end",
+              "back": "Big printed charts of ages and end-time events followed Darby's teaching and the Scofield notes, peaking in the early 1900s.",
+              "source": "c. 1850–1950",
+              "echo": "1 Thess 4:17 — see e-shifts on “meeting the Lord”"
+            },
+            {
+              "t": "The quiet time",
+              "front": "Daily private devotions",
+              "back": "Personal prayer is ancient, but the daily “quiet time” with a Bible and notes was promoted by 19th-century student and holiness movements. Most early Christians heard Scripture read aloud together.",
+              "source": "Late 1800s",
+              "echo": "Matt 6:6; Acts 2:42"
+            },
+            {
+              "t": "The youth group",
+              "front": "Teenagers in their own meeting",
+              "back": "Youth societies began in the 1880s; the modern youth ministry grew after the 1940s. Biblical faith was passed on mostly inside families and the whole congregation.",
+              "source": "1880s; 1940s onward",
+              "echo": "Deut 6:6–7"
+            },
+            {
+              "t": "The worship band",
+              "front": "Guitars, drums and a lead singer",
+              "back": "Rose with the 1960s–70s Jesus movement and charismatic renewal. Psalms were sung with instruments in Israel, but whole-congregation singing was central.",
+              "source": "1960s–70s",
+              "echo": "Ps 150; Col 3:16"
+            },
+            {
+              "t": "The mega-church",
+              "front": "Thousands in one weekly service",
+              "back": "Large churches existed earlier, but the mega-church model, shaped by church-growth and consumer thinking, spread from the 1970s–80s.",
+              "source": "1970s onward",
+              "echo": "Acts 2:46 — temple courts and homes"
+            }
+          ]
+        }
+      ],
+      "verses": [
+        {
+          "ref": "Romans 10:9",
+          "text": "If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."
+        },
+        {
+          "ref": "Acts 2:42",
+          "text": "They devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers."
+        },
+        {
+          "ref": "Matthew 28:19",
+          "text": "Go therefore and make disciples of all nations."
+        },
+        {
+          "ref": "Amos 5:24",
+          "text": "Let justice roll down like waters, and righteousness like an ever-flowing stream."
+        }
+      ],
+      "keyPoints": [
+        "Evangelicalism grew from Pietism, Wesley and the Great Awakenings of the 1700s–1800s.",
+        "Its strengths are real: Scripture, personal faith, mission, translation and the fight against slavery.",
+        "Finney's “new measures” turned revival into a method and salvation into a decision at a meeting.",
+        "The rapture, the Scofield notes and fundamentalism are 19th–20th-century developments.",
+        "Many “normal” practices are recent; knowing their age helps us keep the gospel and test the packaging."
+      ],
+      "reflect": [
+        "Which practices in your church did you assume were as old as the New Testament?",
+        "How can you keep evangelical strengths while recovering the whole biblical story?"
+      ],
+      "quiz": [
+        {
+          "q": "Who taught that revival is the right use of means and introduced the anxious bench?",
+          "options": [
+            "John Wesley",
+            "Jonathan Edwards",
+            "Charles Finney",
+            "John Calvin"
+          ],
+          "a": 2,
+          "why": "Finney's “new measures” in the 1820s–30s included the anxious bench."
+        },
+        {
+          "q": "When did the Scofield Reference Bible first appear?",
+          "options": [
+            "1909",
+            "1611",
+            "1738",
+            "1517"
+          ],
+          "a": 0,
+          "why": "Published in 1909, it spread dispensational notes to millions."
+        },
+        {
+          "q": "Which is a genuine strength of evangelicalism?",
+          "options": [
+            "Ignoring social justice",
+            "Bible translation and the abolition of slavery",
+            "Rejecting Scripture",
+            "Avoiding mission"
+          ],
+          "a": 1,
+          "why": "Bible societies, missions and campaigners such as Wilberforce are part of its legacy."
+        },
+        {
+          "q": "Which four marks are often used to describe evangelicals?",
+          "options": [
+            "Liturgy, icons, saints, fasting",
+            "Law, temple, priest, sacrifice",
+            "Wealth, health, success, power",
+            "Conversion, activism, the Bible, the cross"
+          ],
+          "a": 3,
+          "why": "A widely used historian's description lists these four."
+        }
+      ],
+      "terms": [
+        {
+          "term": "Pietism",
+          "def": "A 17th-century German movement stressing heartfelt faith, Bible study and holy living."
+        },
+        {
+          "term": "Revivalism",
+          "def": "The belief that revival can be planned and promoted by the right methods."
+        },
+        {
+          "term": "Dispensationalism",
+          "def": "A system dividing history into ages, with a pre-tribulation rapture (Darby, 1830s)."
+        },
+        {
+          "term": "Fundamentalism",
+          "def": "A conservative reaction named after *The Fundamentals* (1910–15)."
+        },
+        {
+          "term": "Prosperity gospel",
+          "def": "Teaching that faith brings health and wealth as God's will for every believer."
+        }
+      ],
+      "related": [
+        "e-reason",
+        "e-shifts",
+        "g-26",
+        "g-07",
+        "s-kingdom",
+        "s-justify",
+        "g-38"
+      ]
+    },
+    {
+      "id": "e-shifts",
+      "book": "east",
+      "order": 60,
+      "num": 6,
+      "title": "Ten Shifts: From Hebrew Faith to Western Christianity",
+      "subtitle": "How did the same Bible come to mean such different things?",
+      "nutshell": "Over many centuries, key biblical ideas moved from a Hebrew, story-shaped, earthy world into a Greek, Latin and modern Western one. Salvation, sin, faith, heaven, the body, time, Scripture, church, worship and mission all shifted. None of the Western emphases is simply false — but many became narrower than the Bible.",
+      "bigIdea": "Western Christianity kept the words of the Bible but often narrowed their meaning; recovering the Hebrew sense widens and deepens our faith.",
+      "skeleton": [
+        "Why ideas shift: language, philosophy, law and culture",
+        "Ten shifts at a glance",
+        "Under them all: two pictures of God",
+        "Same verse, two readings",
+        "Not right versus wrong, but whole versus narrowed"
+      ],
+      "sections": [
+        {
+          "h": "Why ideas shift",
+          "p": [
+            "Ideas do not stay still when they cross cultures. The Hebrew Bible was put into Greek, the New Testament was read through Greek philosophy (g-25), then expressed in Latin legal terms, then reshaped by the Reformation and the Enlightenment (e-athens, e-rome, e-reason). Each step solved real problems and also changed the emphasis.",
+            "This chapter gathers the main shifts in one place. It is a helpful generalisation, not an absolute: the New Testament itself is Greek, and many Western Christians hold the fuller biblical view."
+          ]
+        },
+        {
+          "h": "Salvation, sin and faith",
+          "p": [
+            "In the Bible, salvation is God rescuing a whole people and a whole creation — body, community and land (g-26). In much Western preaching it became an individual soul escaping to heaven.",
+            "Sin in Hebrew is missing the mark, breaking relationship, and becoming defiled; the West often reduced it to legal guilt and debt (g-17). Faith, *emunah*, is faithful trust and loyalty (w-emunah); it often became agreement with correct statements."
+          ]
+        },
+        {
+          "h": "Heaven, the body and time",
+          "p": [
+            "Jesus taught us to pray that God's kingdom would come and his will be done on earth (s-kingdom). Heaven became a place far away. The body, created good and destined for resurrection (s-flesh, s-soul), was treated by Plato as the soul's prison, an idea that crept into Christian piety (g-25, g-33).",
+            "Time in the Bible is covenant history moving toward fulfilment. In the West it became either timeless eternity or detailed end-times charts."
+          ]
+        },
+        {
+          "h": "Scripture, church, worship and mission",
+          "p": [
+            "Scripture is Israel's story fulfilled in Jesus; it was often turned into a manual of proof texts. The church was a household and a people; it became a building, an event or an institution (b-meal). Worship was the whole of life, with feasts and the shared table (b-practices); it shrank to a Sunday service.",
+            "Mission was blessing the nations and restoring creation (Gen 12:3); it became mainly saving souls out of the world."
+          ]
+        },
+        {
+          "h": "Underneath them all: two pictures of God",
+          "p": [
+            "The deepest shift concerns God himself. The Hebrew Bible shows a covenant-keeping God who grieves, rejoices and relents (Gen 6:6; Hos 11:8). Under Greek ideas of an unmoved, passionless deity (e-athens) and Latin courtroom pictures, God often became a distant, unmoved judge. Both pictures agree God is holy and faithful; they differ on how he relates to us."
+          ]
+        },
+        {
+          "h": "Whole versus narrowed",
+          "p": [
+            "Widely agreed: the vocabulary and setting changed as the faith moved west. Common interpretation: these changes narrowed some ideas. Debated: how serious each narrowing is. The aim is not to swap one culture for another, but to let the Bible's own world set the meaning — then live it in our own culture."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "table",
+          "title": "Ten shifts at a glance",
+          "after": 0,
+          "note": "Ids in the last column are chapters in this app.",
+          "cols": [
+            "Shift",
+            "Hebrew–biblical view",
+            "Common Western view",
+            "Key verse",
+            "Read more"
+          ],
+          "rows": [
+            {
+              "h": "Salvation",
+              "cells": [
+                "Whole-life, communal rescue; this world restored",
+                "Individual soul escapes to the afterlife",
+                "Rom 8:21",
+                "g-26"
+              ]
+            },
+            {
+              "h": "Sin",
+              "cells": [
+                "Missing the mark, broken relationship, impurity",
+                "Legal guilt and debt only",
+                "Ps 51:2–4",
+                "g-17"
+              ]
+            },
+            {
+              "h": "Faith",
+              "cells": [
+                "*Emunah*: faithful trust and loyalty",
+                "Belief in correct statements",
+                "Hab 2:4",
+                "w-emunah"
+              ]
+            },
+            {
+              "h": "Heaven",
+              "cells": [
+                "God's reign coming to earth",
+                "A place far away",
+                "Matt 6:10",
+                "s-kingdom"
+              ]
+            },
+            {
+              "h": "The body",
+              "cells": [
+                "Good creation, raised in resurrection",
+                "Prison of the soul",
+                "1 Cor 15:42–44",
+                "s-flesh"
+              ]
+            },
+            {
+              "h": "Time",
+              "cells": [
+                "Covenant history moving to fulfilment",
+                "Timeless eternity or end-times charts",
+                "Gal 4:4",
+                "g-25"
+              ]
+            },
+            {
+              "h": "Scripture",
+              "cells": [
+                "Israel's story fulfilled in Jesus",
+                "Manual of proof texts",
+                "Luke 24:27",
+                "t-translation"
+              ]
+            },
+            {
+              "h": "Church",
+              "cells": [
+                "Household, family, a people",
+                "Building, event, institution",
+                "Eph 2:19",
+                "b-meal"
+              ]
+            },
+            {
+              "h": "Worship",
+              "cells": [
+                "Whole of life, feasts and the table",
+                "A Sunday service",
+                "Rom 12:1",
+                "b-practices"
+              ]
+            },
+            {
+              "h": "Mission",
+              "cells": [
+                "Blessing the nations, restoring creation",
+                "Saving souls out of the world",
+                "Gen 12:3",
+                "s-kingdom"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "Two ways of telling the Christian story",
+          "after": 2,
+          "left": {
+            "label": "Biblical story (six acts)",
+            "items": [
+              "Creation: a good world, people as God's image",
+              "Fall: sin and death break every relationship",
+              "Israel: God's covenant people for the world",
+              "Jesus: Israel's Messiah, crucified and risen",
+              "Church: Jew and Gentile, one Spirit-filled family",
+              "New creation: heaven and earth united"
+            ]
+          },
+          "right": {
+            "label": "Shortened Western story",
+            "items": [
+              "God made you",
+              "You sinned and owe a debt",
+              "(Israel often skipped)",
+              "Jesus paid your debt on the cross",
+              "Believe and you are saved",
+              "Your soul goes to heaven when you die"
+            ]
+          }
+        },
+        {
+          "type": "spectrum",
+          "title": "How wide is our gospel?",
+          "after": 3,
+          "note": "Most churches sit somewhere in between; aim for the right without losing the cross.",
+          "left": "Narrowed: souls rescued for heaven",
+          "right": "Whole: people and creation restored under Christ",
+          "points": [
+            {
+              "pos": 6,
+              "t": "“Pray this prayer so you can go to heaven”"
+            },
+            {
+              "pos": 22,
+              "t": "Faith as believing the right doctrines"
+            },
+            {
+              "pos": 40,
+              "t": "Personal faith plus good works on the side"
+            },
+            {
+              "pos": 60,
+              "t": "Discipleship in community, kingdom ethics"
+            },
+            {
+              "pos": 80,
+              "t": "Cross, resurrection and kingdom held together"
+            },
+            {
+              "pos": 94,
+              "t": "New creation hope: body, people, land renewed"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "Same verse, two readings",
+          "after": 4,
+          "cards": [
+            {
+              "t": "“Eternal life”",
+              "front": "John 3:16 — life after death?",
+              "back": "*Zōē aiōnios* is literally “the life of the age (to come)” — the life of God's new age, which begins now (John 17:3) and lasts forever.",
+              "source": "Greek *aiōnios*; Hebrew *olam ha-ba*",
+              "echo": "See g-38 on *aiōnios*"
+            },
+            {
+              "t": "“Your kingdom come”",
+              "front": "Matt 6:10 — going up?",
+              "back": "Jesus taught us to pray for God's reign to come down, “on earth as it is in heaven”, not for us to escape upward.",
+              "source": "The Lord's Prayer",
+              "echo": "Rev 21:2–3"
+            },
+            {
+              "t": "“Many rooms”",
+              "front": "John 14:2 — mansions in the sky?",
+              "back": "In a Jewish household, rooms were added to the father's house for a son's new family. The image is belonging and dwelling with God, which Revelation places on a renewed earth.",
+              "source": "Family house customs (common interpretation)",
+              "echo": "John 14:23 — “we will make our home with him”"
+            },
+            {
+              "t": "“Meeting the Lord in the air”",
+              "front": "1 Thess 4:17 — a secret rapture?",
+              "back": "The Greek *apantēsis* often described citizens going out to meet an arriving ruler and escorting him back into the city. Many scholars read it this way: believers greet Christ and return with him.",
+              "source": "Greek civic usage (scholarly interpretation)",
+              "echo": "Acts 28:15 uses the same word"
+            },
+            {
+              "t": "“Our citizenship is in heaven”",
+              "front": "Phil 3:20 — we belong elsewhere?",
+              "back": "Philippi was a Roman colony: citizens of Rome living in Macedonia, spreading Rome's rule there. Christians are heaven's colony on earth, awaiting the Saviour who will transform our bodies.",
+              "source": "Roman colony setting",
+              "echo": "Phil 3:21"
+            },
+            {
+              "t": "“Believe in your heart”",
+              "front": "Rom 10:9 — agree with a statement?",
+              "back": "Biblical believing is trusting loyalty — *emunah* — that confesses Jesus as Lord, a title that meant allegiance in a world where Caesar claimed it.",
+              "source": "Hebrew *emunah*, Greek *pistis*",
+              "echo": "See w-emunah"
+            }
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "How a biblical idea gets narrowed",
+          "after": 5,
+          "note": "A simplified pattern; it did not happen the same way for every idea.",
+          "steps": [
+            {
+              "t": "Hebrew picture",
+              "d": "A rich, concrete word: *shalom*, *teshuvah*, *emunah*."
+            },
+            {
+              "t": "Greek translation",
+              "d": "A good but narrower Greek word is chosen."
+            },
+            {
+              "t": "Philosophy",
+              "d": "Greek ideas of soul, eternity and an unmoved God colour the word."
+            },
+            {
+              "t": "Latin law",
+              "d": "Terms like *satisfactio* and *paenitentia* add a courtroom frame."
+            },
+            {
+              "t": "Modern individual",
+              "d": "Reformation and Enlightenment focus on the self and right belief."
+            },
+            {
+              "t": "Recovery",
+              "d": "Reading the Bible in its own world restores the full picture."
+            }
+          ]
+        }
+      ],
+      "verses": [
+        {
+          "ref": "Matthew 6:10",
+          "text": "Your kingdom come, your will be done, on earth as it is in heaven."
+        },
+        {
+          "ref": "Romans 8:21",
+          "text": "The creation itself will be set free from its bondage to corruption."
+        },
+        {
+          "ref": "Genesis 12:3",
+          "text": "In you all the families of the earth shall be blessed."
+        },
+        {
+          "ref": "Hosea 11:8",
+          "text": "How can I give you up, O Ephraim? My heart recoils within me."
+        }
+      ],
+      "keyPoints": [
+        "As the faith moved west, language, philosophy and law reshaped key ideas.",
+        "Salvation, sin and faith often narrowed to individual, legal and mental categories.",
+        "Heaven moved far away and the body lost its honour, against the Bible's hope of resurrection and new creation.",
+        "Church, worship and mission shrank from a people and a way of life to buildings, services and soul-saving.",
+        "The aim is not rejecting the West but recovering the whole biblical picture."
+      ],
+      "reflect": [
+        "Which of the ten shifts has most shaped how you were taught the gospel?",
+        "What would change in your week if worship meant the whole of life?"
+      ],
+      "quiz": [
+        {
+          "q": "In the Bible, what does Jesus teach us to pray for in Matthew 6:10?",
+          "options": [
+            "To escape the earth",
+            "God's will to be done on earth as in heaven",
+            "A secret rapture",
+            "Wealth and success"
+          ],
+          "a": 1,
+          "why": "The prayer asks for God's reign to come to earth."
+        },
+        {
+          "q": "What does the Hebrew word *emunah* mean?",
+          "options": [
+            "Faithful trust and loyalty",
+            "A legal debt",
+            "Agreement with a statement only",
+            "A temple tax"
+          ],
+          "a": 0,
+          "why": "*Emunah* is steady, faithful trust — see w-emunah."
+        },
+        {
+          "q": "Which idea of the body comes from Plato rather than the Bible?",
+          "options": [
+            "The body is good creation",
+            "The body will be raised",
+            "The body is a temple of the Spirit",
+            "The body is the soul's prison"
+          ],
+          "a": 3,
+          "why": "Plato's *sōma/sēma* (body/tomb) idea; the Bible honours the body."
+        },
+        {
+          "q": "How is “Ten Shifts” best described?",
+          "options": [
+            "A proof that the West is wrong",
+            "A conspiracy theory",
+            "A helpful generalisation about emphasis",
+            "A list of heresies"
+          ],
+          "a": 2,
+          "why": "The shifts describe narrowed emphases, not total error."
+        }
+      ],
+      "terms": [
+        {
+          "term": "Shift",
+          "def": "A change of emphasis or meaning as an idea moves between cultures."
+        },
+        {
+          "term": "Emunah",
+          "def": "Hebrew for faithfulness, steady trust and loyalty."
+        },
+        {
+          "term": "New creation",
+          "def": "The Bible's hope that God will renew heaven and earth, not abandon them."
+        },
+        {
+          "term": "Proof text",
+          "def": "A verse used alone to prove a doctrine, apart from its story and setting."
+        },
+        {
+          "term": "Apantēsis",
+          "def": "Greek “meeting”: going out to greet an arriving ruler and escort him in."
+        }
+      ],
+      "related": [
+        "g-26",
+        "g-25",
+        "s-kingdom",
+        "w-emunah",
+        "s-flesh",
+        "g-17",
+        "g-33",
+        "e-evangelical",
+        "e-minds"
+      ]
+    },
+    {
+      "id": "e-eastern",
+      "book": "east",
+      "order": 70,
+      "num": 7,
+      "title": "Reading with Eastern Eyes",
+      "subtitle": "Why does an Indian village feel closer to the Bible's world than a Western city?",
+      "nutshell": "The Bible was written in Western Asia by Eastern people. Many Asian, Middle Eastern and African cultures still share its world: honour and shame, hospitality, elders, arranged marriage, oral memory, festivals, purity customs and the teacher–disciple bond. Eastern churches — Orthodox and the Church of the East, reaching Persia, India and China — also kept emphases the West often lost.",
+      "bigIdea": "Eastern readers have a gift for seeing the Bible's world from the inside — if they also notice where their own culture differs from it.",
+      "skeleton": [
+        "The Bible is an Asian book",
+        "Customs shared by India and the Bible",
+        "The guru–shishya and rabbi–talmid bond",
+        "Cautions: caste is not biblical purity; honour can become pride",
+        "Eastern Christianity: the Orthodox and the Church of the East",
+        "The faith in India and China from the early centuries"
+      ],
+      "sections": [
+        {
+          "h": "The Bible is an Asian book",
+          "p": [
+            "Abraham came from Mesopotamia; Jesus lived in Galilee; Paul was born in Tarsus. Every biblical writer was a Western Asian. Its first readers lived in villages of extended families, elders at the gate, guests at the door, festivals by the moon and food shared from one dish.",
+            "Many readers in India, the Middle East and Africa recognise this world at once. Things a Western reader needs explained — bowing, removing sandals, a father running to his son — feel familiar (b-life)."
+          ]
+        },
+        {
+          "h": "Customs that open the text",
+          "p": [
+            "Honour and shame shape the stories: the prodigal's father runs and shames himself to restore his son (Luke 15:20). Hospitality is sacred (Gen 18). Marriage is arranged between families, with gifts (Gen 24). Proverbs and oral memory carry wisdom. Purity customs govern washing, food and death (Mark 7:3–4).",
+            "The bond between a teacher and a disciple is especially clear to Tamil readers. The Tamil Bible's word for disciple, சீஷன், comes from Sanskrit *śiṣya* — the student of a guru. Like a rabbi's *talmid*, the disciple lives with the teacher, serves him and copies his life, not just his words."
+          ]
+        },
+        {
+          "h": "Cautions",
+          "p": [
+            "Similar customs do not make every custom biblical. Caste is not biblical purity: in the Bible, impurity is temporary, everyone becomes impure at times, and it is removed by washing and time, not fixed by birth. Peter learned to call no person common (Acts 10:28); in Christ there is neither Jew nor Greek (Gal 3:28).",
+            "Honour can become pride. Jesus warned against seeking the best seats (Luke 14:7–11) and turned honour upside down by washing feet (John 13)."
+          ]
+        },
+        {
+          "h": "Eastern Christianity: the Orthodox",
+          "p": [
+            "The Greek-speaking East developed differently from the Latin West (e-rome). Orthodox churches stress *theosis* — union with God, sharing in his life (2 Pet 1:4); worship as heaven on earth through the liturgy; salvation as a mystery to be lived, not only explained; and Easter as the centre: “Christ is risen, trampling down death by death.”",
+            "Many Orthodox theologians speak of “ancestral sin” — inheriting death and a wounded nature from Adam — rather than inherited guilt as in Augustine's reading of Romans 5:12 (g-39). Views vary, so this is a broad emphasis, not a rule."
+          ]
+        },
+        {
+          "h": "The Church of the East: Persia, India and China",
+          "p": [
+            "From Pentecost, the faith spread east as well as west (Acts 2:9 names Parthians, Medes and Elamites). Edessa became an early Syriac-speaking centre; Persian churches grew under the Sasanian empire. Syriac Christians took the gospel along the trade routes.",
+            "Kerala's St Thomas Christians hold that the apostle Thomas came in AD 52 and died near Mylapore (Chennai). This is a strong tradition; early written sources are few and debated. In China, the Xi'an stele, set up in 781, records a mission arriving in 635. Christianity was Asian long before it was European."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "compare",
+          "title": "Village life: Bible lands and Tamil Nadu",
+          "after": 0,
+          "note": "Similarities, not identity — each culture also has its own differences.",
+          "left": {
+            "label": "Biblical village",
+            "items": [
+              "Extended family under the father's roof",
+              "Elders sit at the city gate to judge",
+              "Guests fed even at great cost (Gen 18)",
+              "Marriage arranged by families, with gifts (Gen 24)",
+              "Sandals removed on holy ground (Ex 3:5)",
+              "Harvest feasts of thanksgiving (Sukkot)",
+              "Loud public mourning (Matt 9:23)"
+            ]
+          },
+          "right": {
+            "label": "Tamil / Indian village",
+            "items": [
+              "Joint family; elders respected",
+              "Village elders settle disputes",
+              "“Guests are God” hospitality",
+              "Arranged marriage, family negotiations, dowry",
+              "Footwear left at the door and the temple",
+              "Pongal harvest thanksgiving",
+              "Oppari laments and gathered mourners"
+            ]
+          }
+        },
+        {
+          "type": "cards",
+          "title": "Ten customs shared by India and the Bible",
+          "after": 1,
+          "cards": [
+            {
+              "t": "Removing sandals",
+              "front": "Why did Moses take off his shoes?",
+              "back": "Holy ground is entered barefoot, as at an Indian temple or home. Moses (Ex 3:5) and Joshua (Josh 5:15) did the same.",
+              "source": "Ex 3:5",
+              "echo": "John the Baptist unworthy to untie Jesus' sandal (Mark 1:7)"
+            },
+            {
+              "t": "Touching the feet",
+              "front": "Why fall at Jesus' feet?",
+              "back": "Falling at someone's feet shows deep respect or a desperate plea, as when touching an elder's feet in India.",
+              "source": "Mark 5:22; Luke 7:38",
+              "echo": "The women held his feet (Matt 28:9)"
+            },
+            {
+              "t": "Sacred hospitality",
+              "front": "Why wake a friend at midnight?",
+              "back": "A guest must be fed; the whole village's honour is at stake (Luke 11:5–8). Abraham ran to serve three strangers (Gen 18).",
+              "source": "Gen 18; Luke 11",
+              "echo": "Heb 13:2"
+            },
+            {
+              "t": "Arranged marriage",
+              "front": "Why did a servant find Isaac's wife?",
+              "back": "Families negotiated marriages with gifts, as with Rebekah (Gen 24). Joseph and Mary were betrothed by families (Matt 1:18).",
+              "source": "Gen 24; 34:12",
+              "echo": "The church as the bride (Eph 5)"
+            },
+            {
+              "t": "Honouring elders",
+              "front": "Why stand for the grey-haired?",
+              "back": "Rise before the aged and honour the old (Lev 19:32) — a value deep in Indian families.",
+              "source": "Lev 19:32",
+              "echo": "1 Tim 5:1–2"
+            },
+            {
+              "t": "Eating salt",
+              "front": "What is a “covenant of salt”?",
+              "back": "Sharing salt and food binds people in loyalty (Num 18:19). A Tamil proverb says: remember the one who gave you salt as long as you live.",
+              "source": "Num 18:19; 2 Chr 13:5",
+              "echo": "Judas dipped in the same dish (John 13:26)"
+            },
+            {
+              "t": "One shared dish",
+              "front": "Why does dipping bread matter?",
+              "back": "Eating by hand from a shared dish shows trust and closeness, which made Judas's betrayal so shocking.",
+              "source": "John 13:26",
+              "echo": "Ps 41:9"
+            },
+            {
+              "t": "Washing",
+              "front": "Why wash before eating?",
+              "back": "Hands and feet are washed before meals and on entering a home (Mark 7:3; Luke 7:44), as in many Indian homes.",
+              "source": "Mark 7:3–4",
+              "echo": "Jesus washed his disciples' feet (John 13)"
+            },
+            {
+              "t": "Proverbs and oral memory",
+              "front": "Why teach in sayings?",
+              "back": "Wisdom passed down in short, memorable sayings and songs, like Tamil *pazhamozhi* and the Tirukkural's couplets.",
+              "source": "Proverbs; Matt 5–7",
+              "echo": "Jesus' parables and sayings"
+            },
+            {
+              "t": "Festivals and food",
+              "front": "Why so many feasts?",
+              "back": "The year is marked by festivals with special food, pilgrimage and family gatherings, as in India.",
+              "source": "Lev 23",
+              "echo": "Jesus at the feasts (John 7:37)"
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "title": "The faith spreads eastward",
+          "after": 4,
+          "note": "Dates for Thomas in India rest on tradition; others are from documents and inscriptions.",
+          "events": [
+            {
+              "when": "c. AD 30",
+              "t": "Pentecost",
+              "d": "Parthians, Medes, Elamites and Mesopotamians hear in their languages (Acts 2:9)."
+            },
+            {
+              "when": "AD 52 (tradition)",
+              "t": "Thomas in India",
+              "d": "St Thomas Christians date his arrival in Kerala to AD 52; early sources debated."
+            },
+            {
+              "when": "c. 180",
+              "t": "Pantaenus reports India",
+              "d": "Eusebius says a teacher from Alexandria found Christians in India."
+            },
+            {
+              "when": "c. 200",
+              "t": "Edessa",
+              "d": "A Syriac-speaking Christian centre; the Peshitta Bible takes shape in the following centuries."
+            },
+            {
+              "when": "410",
+              "t": "Persian church organised",
+              "d": "Synod of Seleucia-Ctesiphon in the Sasanian empire."
+            },
+            {
+              "when": "6th century",
+              "t": "Christians in Malabar and Sri Lanka",
+              "d": "Reported by the traveller Cosmas Indicopleustes."
+            },
+            {
+              "when": "635",
+              "t": "Mission reaches China",
+              "d": "A Syriac mission led by Alopen arrives at the Tang capital."
+            },
+            {
+              "when": "781",
+              "t": "Xi'an stele",
+              "d": "A stone monument recording 146 years of the faith in China."
+            }
+          ]
+        },
+        {
+          "type": "tree",
+          "title": "Eastern and Western branches of the church",
+          "after": 4,
+          "note": "Simplified; the splits were gradual and painful.",
+          "root": "The apostolic church (Jerusalem, 1st century)",
+          "branches": [
+            {
+              "t": "Church of the East (Syriac)",
+              "children": [
+                "Persia",
+                "India (Thomas Christians)",
+                "Central Asia and China"
+              ]
+            },
+            {
+              "t": "Oriental Orthodox (after 451)",
+              "children": [
+                "Coptic (Egypt)",
+                "Ethiopian",
+                "Armenian",
+                "Syriac Orthodox",
+                "Malankara (India)"
+              ]
+            },
+            {
+              "t": "Eastern Orthodox (Greek East)",
+              "children": [
+                "Constantinople",
+                "Russian, Serbian and others",
+                "Split with Rome, 1054"
+              ]
+            },
+            {
+              "t": "Latin West",
+              "children": [
+                "Roman Catholic",
+                "Protestant (1517 onward)",
+                "Evangelical and Pentecostal"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Western and Eastern Orthodox emphases",
+          "after": 3,
+          "note": "Broad emphases, not rigid rules; both churches share the creeds.",
+          "cols": [
+            "Theme",
+            "Common Western emphasis",
+            "Eastern Orthodox emphasis"
+          ],
+          "rows": [
+            {
+              "h": "Main problem",
+              "cells": [
+                "Guilt before God's law",
+                "Death, corruption and bondage"
+              ]
+            },
+            {
+              "h": "Adam's sin",
+              "cells": [
+                "Inherited guilt (Augustine)",
+                "Ancestral sin: inherited mortality and weakness"
+              ]
+            },
+            {
+              "h": "Salvation",
+              "cells": [
+                "Justification, a legal verdict",
+                "Theosis: union with God's life"
+              ]
+            },
+            {
+              "h": "Centre of the year",
+              "cells": [
+                "Good Friday and the cross",
+                "Pascha: the resurrection"
+              ]
+            },
+            {
+              "h": "Theology",
+              "cells": [
+                "System and definition",
+                "Mystery, prayer and worship"
+              ]
+            },
+            {
+              "h": "Worship",
+              "cells": [
+                "Sermon-centred",
+                "Liturgy as heaven on earth"
+              ]
+            }
+          ]
+        }
+      ],
+      "verses": [
+        {
+          "ref": "Acts 2:9–11",
+          "text": "Parthians and Medes and Elamites and residents of Mesopotamia… we hear them telling in our own tongues the mighty works of God."
+        },
+        {
+          "ref": "Exodus 3:5",
+          "text": "Take your sandals off your feet, for the place on which you are standing is holy ground."
+        },
+        {
+          "ref": "Luke 15:20",
+          "text": "While he was still a long way off, his father saw him and felt compassion, and ran and embraced him."
+        },
+        {
+          "ref": "Galatians 3:28",
+          "text": "There is neither Jew nor Greek… for you are all one in Christ Jesus."
+        }
+      ],
+      "keyPoints": [
+        "The Bible was written in Western Asia by Eastern people.",
+        "Honour, hospitality, elders, arranged marriage, oral memory and festivals link India and the Bible's world.",
+        "The disciple (சீஷன், from *śiṣya*) lives with and imitates the teacher, like a rabbi's *talmid*.",
+        "Caste is not biblical purity, and honour must not become pride.",
+        "Eastern churches — Orthodox and the Church of the East in Persia, India and China — are as old as the Western ones."
+      ],
+      "reflect": [
+        "Which Gospel scene became clearer to you through your own culture?",
+        "Where might your culture differ from the Bible, even when it looks similar?"
+      ],
+      "quiz": [
+        {
+          "q": "The Tamil word சீஷன் (disciple) comes from which word?",
+          "options": [
+            "Hebrew *talmid*",
+            "Greek *mathētēs*",
+            "Latin *discipulus*",
+            "Sanskrit *śiṣya*"
+          ],
+          "a": 3,
+          "why": "*Śiṣya* is the student of a guru."
+        },
+        {
+          "q": "What does the Xi'an stele (781) record?",
+          "options": [
+            "Thomas in Kerala",
+            "A Christian mission to China in 635",
+            "The Council of Nicaea",
+            "Wesley's conversion"
+          ],
+          "a": 1,
+          "why": "It records the faith in China from 635."
+        },
+        {
+          "q": "How is biblical impurity different from caste?",
+          "options": [
+            "It is temporary and removed by washing and time",
+            "It is fixed by birth",
+            "It applies only to foreigners",
+            "It can never be removed"
+          ],
+          "a": 0,
+          "why": "Everyone becomes impure at times; it is not a birth status."
+        },
+        {
+          "q": "What is *theosis* in Orthodox teaching?",
+          "options": [
+            "A legal verdict",
+            "A church tax",
+            "Union with God, sharing in his life",
+            "A type of fasting"
+          ],
+          "a": 2,
+          "why": "Based on 2 Peter 1:4 — partakers of the divine nature."
+        }
+      ],
+      "terms": [
+        {
+          "term": "Śiṣya / சீஷன்",
+          "def": "Sanskrit for a guru's disciple; the source of the Tamil Bible's word for disciple."
+        },
+        {
+          "term": "Talmid",
+          "def": "Hebrew for a disciple who lives with and imitates a rabbi."
+        },
+        {
+          "term": "Theosis",
+          "def": "Orthodox teaching of union with God by grace (2 Pet 1:4)."
+        },
+        {
+          "term": "Ancestral sin",
+          "def": "Orthodox emphasis: from Adam we inherit death and weakness rather than guilt."
+        },
+        {
+          "term": "Church of the East",
+          "def": "The Syriac church of Persia that reached India, Central Asia and China."
+        },
+        {
+          "term": "Thomas Christians",
+          "def": "Kerala Christians who trace their faith to the apostle Thomas."
+        }
+      ],
+      "related": [
+        "e-minds",
+        "b-life",
+        "b-meal",
+        "b-practices",
+        "g-39",
+        "e-rome",
+        "w-intro"
+      ]
+    },
+    {
+      "id": "e-recover",
+      "book": "east",
+      "order": 80,
+      "num": 8,
+      "title": "Recovering the Hebraic Lens — Wisely",
+      "subtitle": "How can we read with both eyes without falling off the other side of the road?",
+      "nutshell": "The West gave the church real gifts: careful reading, translation, universities, hospitals, science, human rights and worldwide mission. Recovering the Bible's Hebrew world should add to these, not throw them away. It also has dangers: legalism, pride, myths and false etymologies, rejecting the Greek New Testament, and both antisemitism and romanticising.",
+      "bigIdea": "Read with both eyes: let the Bible's Hebrew world shape the meaning, keep the West's gifts, and avoid the extremes on both sides.",
+      "skeleton": [
+        "What the West rightly gave",
+        "Reading with both eyes",
+        "Six steps for any passage",
+        "Practices that recover the lens",
+        "Warnings against overcorrection",
+        "Read, understand, live, share"
+      ],
+      "sections": [
+        {
+          "h": "What the West rightly gave",
+          "p": [
+            "It would be ungrateful and untrue to blame the West for everything. Western Christians preserved and copied manuscripts, built universities and hospitals, developed careful grammar and textual study, encouraged modern science, argued for human dignity and rights, and carried the gospel and the Bible to almost every language — including Tamil (t-translation).",
+            "Even the tools used to recover the Hebrew background — lexicons, archaeology, the study of the Dead Sea Scrolls — are largely gifts of Western scholarship."
+          ]
+        },
+        {
+          "h": "Reading with both eyes",
+          "p": [
+            "One eye looks at the Bible's own world: Hebrew words, Jewish customs, the covenant story. The other eye uses careful reasoning, history and the church's long reflection. With one eye closed, you lose depth.",
+            "Remember that the New Testament was written in Greek by Jews already shaped by Greek culture. Paul quoted Greek poets (Acts 17:28). Hebrew and Greek are not enemies; the aim is to read each word in its real setting (e-minds)."
+          ]
+        },
+        {
+          "h": "Practices that recover the lens",
+          "p": [
+            "Read whole books and stories, not single verses. Ask what a passage meant to its first hearers before asking what it means for you. Learn a few key Hebrew words (w-intro). Practise faith in community. Recover Sabbath and the feasts as rhythms of grace, not rules for salvation. Eat together. Care for bodies, families and the land as well as souls (b-practices, b-meal)."
+          ]
+        },
+        {
+          "h": "Warnings against overcorrection",
+          "p": [
+            "Some movements swing too far. Making Torah-observance — Sabbath, food laws, feasts — a test of salvation for Gentile believers is exactly what the apostles refused (Acts 15; Gal 2–5). Pride in being “Hebraic” can become a new elitism or an anti-Western scorn.",
+            "Popular “Hebrew roots” teaching often spreads myths and false word-meanings (d-claims, d-scribe). Some even reject the Greek New Testament as corrupted — but it is the earliest text we have. And romanticising Jews, or turning against them, both fail to love real people."
+          ]
+        },
+        {
+          "h": "Wisdom for the road",
+          "p": [
+            "Check claims with good sources. Hold debated points lightly. Keep Jesus, not a culture, at the centre. The goal is not to become ancient Israelites or to escape the West, but to hear the Bible as its first readers did — and then live it faithfully where you are."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "spectrum",
+          "title": "From Western-only to overcorrection",
+          "after": 1,
+          "note": "The healthy middle keeps the gifts of both.",
+          "left": "Western-only: no interest in the Bible's world",
+          "right": "Overcorrection: culture becomes the gospel",
+          "points": [
+            {
+              "pos": 5,
+              "t": "Verses read only through modern Western eyes"
+            },
+            {
+              "pos": 22,
+              "t": "Background seen as optional trivia"
+            },
+            {
+              "pos": 45,
+              "t": "Balanced: Hebrew setting and careful reasoning together"
+            },
+            {
+              "pos": 55,
+              "t": "Feasts and Sabbath kept as rhythms of grace"
+            },
+            {
+              "pos": 75,
+              "t": "“Hebrew is pure, Greek is corrupt” thinking"
+            },
+            {
+              "pos": 88,
+              "t": "Torah-keeping demanded of Gentiles for salvation"
+            },
+            {
+              "pos": 96,
+              "t": "Rejecting the New Testament's Greek text"
+            }
+          ]
+        },
+        {
+          "type": "flow",
+          "title": "Six steps for reading any passage with Hebraic eyes",
+          "after": 2,
+          "steps": [
+            {
+              "t": "1. Read the whole",
+              "d": "Read the full story or chapter, not just the verse."
+            },
+            {
+              "t": "2. Find the setting",
+              "d": "Who wrote it, to whom, when, and in what situation?"
+            },
+            {
+              "t": "3. Check key words",
+              "d": "Look up the Hebrew or Greek word behind important terms, using reliable tools."
+            },
+            {
+              "t": "4. Hear the Old Testament",
+              "d": "What earlier Scripture is being quoted or echoed?"
+            },
+            {
+              "t": "5. Ask the first hearers",
+              "d": "What would it have meant to them, in their culture?"
+            },
+            {
+              "t": "6. Live it today",
+              "d": "Apply the same meaning in your own life and community."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "Eight practices that recover the lens",
+          "after": 2,
+          "cards": [
+            {
+              "t": "Read whole books",
+              "front": "Start at chapter 1",
+              "back": "Read a Gospel or letter in one or two sittings, as it was first heard aloud.",
+              "source": "Col 4:16",
+              "echo": "Letters were read to whole churches"
+            },
+            {
+              "t": "Ask the first hearers",
+              "front": "Then, before now",
+              "back": "Ask what the passage meant to its original audience before applying it to yourself.",
+              "source": "Neh 8:8",
+              "echo": "“They gave the sense”"
+            },
+            {
+              "t": "Learn key words",
+              "front": "Ten words to start",
+              "back": "Learn words like *shalom*, *chesed*, *emunah*, *torah* and *teshuvah* with trustworthy tools.",
+              "source": "w-intro",
+              "echo": "Words carry whole worlds"
+            },
+            {
+              "t": "Practise community",
+              "front": "Faith is “we”",
+              "back": "Read, pray and decide together; let others speak into your life.",
+              "source": "Acts 2:42–47",
+              "echo": "Wesley's class meetings"
+            },
+            {
+              "t": "Keep Sabbath rest",
+              "front": "A rhythm of grace",
+              "back": "Rest one day a week as trust in God, not as a test of salvation.",
+              "source": "Mark 2:27",
+              "echo": "Heb 4:9–10"
+            },
+            {
+              "t": "Learn the feasts",
+              "front": "The story in the calendar",
+              "back": "Study Passover, Pentecost and Tabernacles to see Jesus in Israel's year — freely, not as law.",
+              "source": "Col 2:16–17",
+              "echo": "Christ our Passover (1 Cor 5:7)"
+            },
+            {
+              "t": "Share the table",
+              "front": "Eat together",
+              "back": "Meals were where Jesus welcomed, taught and forgave. Make your table a place of grace.",
+              "source": "Luke 15:2",
+              "echo": "See b-meal"
+            },
+            {
+              "t": "Holistic mission",
+              "front": "Bodies, families, land",
+              "back": "Serve the whole person and the community, as Jesus healed and taught.",
+              "source": "Matt 9:35",
+              "echo": "Jer 29:7"
+            }
+          ]
+        },
+        {
+          "type": "compare",
+          "title": "Helpful recovery vs unhelpful extremes",
+          "after": 3,
+          "left": {
+            "label": "Helpful recovery",
+            "items": [
+              "Understands Jesus as a Jew in his setting",
+              "Enjoys feasts and Sabbath as gifts",
+              "Learns real Hebrew from good sources",
+              "Values the Greek New Testament",
+              "Thanks the West for its gifts",
+              "Loves Jewish people as real neighbours"
+            ]
+          },
+          "right": {
+            "label": "Unhelpful extremes",
+            "items": [
+              "Treats culture as more important than Christ",
+              "Makes Torah-keeping a test of salvation (Gal 5:4)",
+              "Spreads myths and false etymologies",
+              "Calls the Greek text corrupt",
+              "Looks down on Western Christians",
+              "Romanticises or resents Jews"
+            ]
+          }
+        },
+        {
+          "type": "cycle",
+          "title": "The rhythm of faithful reading",
+          "after": 4,
+          "center": "Scripture",
+          "center2": "in its own world",
+          "nodes": [
+            {
+              "t": "Read",
+              "d": "Read whole passages slowly, often aloud and together."
+            },
+            {
+              "t": "Understand",
+              "d": "Learn the setting, the words and the story they belong to."
+            },
+            {
+              "t": "Live",
+              "d": "Obey: a Hebrew kind of knowing is doing (Jas 1:22)."
+            },
+            {
+              "t": "Share",
+              "d": "Teach and bless others, which sends you back to read again."
+            }
+          ]
+        }
+      ],
+      "verses": [
+        {
+          "ref": "Acts 15:19",
+          "text": "My judgement is that we should not trouble those of the Gentiles who turn to God."
+        },
+        {
+          "ref": "Galatians 5:1",
+          "text": "For freedom Christ has set us free; stand firm therefore."
+        },
+        {
+          "ref": "Nehemiah 8:8",
+          "text": "They read from the book, from the Law of God, clearly, and they gave the sense."
+        },
+        {
+          "ref": "James 1:22",
+          "text": "Be doers of the word, and not hearers only."
+        }
+      ],
+      "keyPoints": [
+        "The West gave the church real gifts: careful reading, translation, universities, hospitals, science and mission.",
+        "Read with both eyes: the Bible's Hebrew world and careful reasoning together.",
+        "A simple method: read the whole, find the setting, check words, hear the Old Testament, ask the first hearers, live it.",
+        "Avoid overcorrection: legalism, pride, myths, rejecting the Greek New Testament, antisemitism or romanticising.",
+        "Keep Jesus, not a culture, at the centre."
+      ],
+      "reflect": [
+        "Which of the eight practices could you begin this month?",
+        "Have you met any of the “extremes”? How would you answer them gently?"
+      ],
+      "quiz": [
+        {
+          "q": "What did the apostles decide in Acts 15 about Gentile believers?",
+          "options": [
+            "They must keep the whole Torah",
+            "They should not be burdened with the Law as a condition",
+            "They must become Jews first",
+            "They must learn Hebrew"
+          ],
+          "a": 1,
+          "why": "Acts 15:19 — do not trouble Gentiles who turn to God."
+        },
+        {
+          "q": "Which is an unhelpful extreme?",
+          "options": [
+            "Learning Hebrew words",
+            "Reading whole books",
+            "Calling the Greek New Testament corrupt",
+            "Eating together"
+          ],
+          "a": 2,
+          "why": "The Greek New Testament is the earliest text we have."
+        },
+        {
+          "q": "What is the first step in the six-step method?",
+          "options": [
+            "Read the whole passage",
+            "Apply it immediately",
+            "Check a dictionary only",
+            "Find a hidden code"
+          ],
+          "a": 0,
+          "why": "Start with the full story or chapter."
+        },
+        {
+          "q": "Which is a real gift of Western Christianity?",
+          "options": [
+            "Rejecting the Old Testament",
+            "Abandoning mission",
+            "Ignoring the poor",
+            "Universities, hospitals and Bible translation"
+          ],
+          "a": 3,
+          "why": "These are lasting gifts worth keeping."
+        }
+      ],
+      "terms": [
+        {
+          "term": "Hebraic lens",
+          "def": "Reading Scripture within its Hebrew and Jewish setting."
+        },
+        {
+          "term": "Overcorrection",
+          "def": "Swinging so far from one error that you fall into another."
+        },
+        {
+          "term": "False etymology",
+          "def": "An invented or mistaken claim about a word's origin or meaning."
+        },
+        {
+          "term": "Legalism",
+          "def": "Making rule-keeping the basis of being accepted by God."
+        },
+        {
+          "term": "Holistic mission",
+          "def": "Serving the whole person — body, soul, family and community."
+        }
+      ],
+      "related": [
+        "d-claims",
+        "d-scribe",
+        "b-midrash",
+        "w-intro",
+        "t-translation",
+        "e-minds",
+        "e-shifts",
+        "b-practices"
+      ]
+    }
+  ],
+  "glossary": []
+}

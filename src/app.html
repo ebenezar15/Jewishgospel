@@ -798,6 +798,7 @@ footer { border-top: 1px solid var(--line); }
   .dash { grid-template-columns: minmax(0, 1fr); }
 }
 :root.calm *, :root.calm *::before, :root.calm *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+.xref{color:var(--accent,inherit);text-decoration:underline;text-decoration-style:dotted;text-underline-offset:3px;font-weight:600}.xref:hover{text-decoration-style:solid}
 </style>
 
 <div class="read-progress" id="readProgress"></div>
@@ -868,7 +869,8 @@ const store = {
   set(k, v) { try { localStorage.setItem('hl:' + k, JSON.stringify(v)); } catch {} }
 };
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-const md = s => esc(s).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').replace(/\*(.+?)\*/g, '<em>$1</em>');
+const xref = h => h.replace(/(^|[^\w#-])([a-z]-[a-z0-9]+(?:-[a-z0-9]+)*)(?![\w-])/g, (m, pre, id) => (typeof byId !== 'undefined' && byId && byId[id]) ? `${pre}<a class="xref" href="#c-${id}">${esc(plain(byId[id].title))}</a>` : m);
+const md = s => xref(esc(s).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').replace(/\*(.+?)\*/g, '<em>$1</em>'));
 const plain = s => String(s ?? '').replace(/\*+/g, '');
 const ARROW = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>';
 const CHEV = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="m6 9 6 6 6-6"/></svg>';
