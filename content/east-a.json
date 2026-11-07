@@ -1,0 +1,535 @@
+{
+  "chapters": [
+    {
+      "id": "e-minds", "book": "east", "order": 10, "num": 1,
+      "title": "Two Ways of Thinking: Hebrew–Eastern and Greek–Western",
+      "subtitle": "Why the same Bible can sound different to an Eastern ear and a Western one",
+      "nutshell": "The Bible grew up in a Hebrew, Eastern world that thinks in pictures, stories, relationships and community. Much of later Christian theology was shaped in a Greek and Latin world that prizes definitions, systems and the individual. Neither is ‘wrong’, but knowing the difference helps us hear Scripture as its first hearers did.",
+      "bigIdea": "Hebrew thought is concrete, relational and communal; Greek–Western thought is abstract, analytical and individual — and the Bible is best read with both eyes open.",
+      "skeleton": [
+        "A helpful generalisation, not an absolute",
+        "Hebrew speaks in pictures and actions",
+        "Truth, knowing and the person are relational and whole",
+        "Community, covenant and history come first",
+        "Three culture types: honour–shame, guilt–innocence, fear–power",
+        "Reading Scripture with both eyes"
+      ],
+      "sections": [
+        {"h": "A helpful generalisation, not a wall", "p": [
+          "Scholars often contrast ‘Hebrew’ and ‘Greek’ thinking. This is a helpful generalisation, not an absolute rule. The New Testament itself was written in Greek, Paul quoted Greek poets (Acts 17:28), and many Jews in Jesus’ day already spoke Greek and lived in a Hellenised world. Yet the Bible’s roots, images and assumptions are Hebrew and Eastern, and much later theology was built with Greek and Latin tools (see g-25 and g-07)."
+        ]},
+        {"h": "Pictures and actions, not definitions", "p": [
+          "Hebrew is a concrete language. It rarely defines God; it pictures him: ‘The LORD is my rock, my fortress’ (Ps 18:2). Anger is a ‘burning nose’, mercy comes from the ‘womb’ (*rechem*), and many key words are verbs of action. Hebrew thinking also holds tensions side by side — God is sovereign and people are responsible (Phil 2:12–13; Acts 2:23). Some call this ‘block logic’: truths are set next to each other rather than forced into a single either–or line."
+        ]},
+        {"h": "Truth, knowing and the whole person", "p": [
+          "*Emet*, ‘truth’, is first faithfulness — something you can lean on (see s-truth, w-emunah). *Yada*, ‘to know’, is relationship and experience: ‘Adam knew Eve’ (Gen 4:1); to know God is to do justice (Jer 22:16). *Nefesh* is the whole living person, not a soul trapped in a body (see s-soul, s-flesh). In much Western thought, truth became a correct statement, knowing became information, and the person was split into soul and body."
+        ]},
+        {"h": "We before I; story before system", "p": [
+          "The Bible speaks mostly to a people: ‘Hear, O Israel’. Its faith comes as a story of covenant — promise, rescue, failure, return — moving through real history toward fulfilment in God’s kingdom (see s-kingdom). Western theology has often re-told that story as a system of doctrines and timeless truths, with the individual soul at the centre. Systems are useful, but the Bible’s first form is a family story."
+        ]},
+        {"h": "Three kinds of culture", "p": [
+          "Missionaries often describe three culture types. In honour–shame cultures, the key question is ‘Am I accepted or disgraced before my people?’ In guilt–innocence cultures, it is ‘Have I broken the law?’ In fear–power cultures, it is ‘Am I safe from spirits and powers?’ Every culture has all three; the difference is which leads. The Bible speaks to all three, but its world was mostly honour–shame (see b-life)."
+        ]},
+        {"h": "Why it matters", "p": [
+          "If we read only with Western eyes, we may hear the gospel as a courtroom verdict about the afterlife and miss its honour, family, healing and kingdom language (see g-26). If we read only with ‘Eastern’ eyes, we may miss real gains of careful Western study. This section traces how the lens shifted — through Athens, Rome, the Reformation and modern evangelicalism — so we can read with both eyes."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "tree", "title": "Hebrew–Eastern thinking: a mind map", "after": 1,
+         "root": "Hebrew–Eastern ways of thinking",
+         "branches": [
+           {"t": "Language", "children": ["Concrete nouns: rock, shepherd, fortress", "Action verbs carry meaning", "Body pictures for feelings"]},
+           {"t": "Logic", "children": ["Block logic: truths side by side", "Tensions held, not resolved", "Proverbs and parables"]},
+           {"t": "Truth and knowing", "children": ["Emet: faithfulness", "Yada: relationship and experience", "Wisdom is lived, not just known"]},
+           {"t": "The person", "children": ["Nefesh: the whole living being", "Heart = mind and will", "Body is good creation"]},
+           {"t": "Community", "children": ["‘We’ before ‘I’", "Covenant family and tribe", "Elders and ancestors honoured"]},
+           {"t": "Time", "children": ["Covenant history", "Feasts remember and anticipate", "Moving toward fulfilment"]}
+         ]},
+        {"type": "compare", "title": "Ten contrasts (generalised)", "after": 2,
+         "note": "These are tendencies, not rules. Both columns appear in the Bible and in every culture.",
+         "left": {"label": "Hebrew–Eastern", "items": [
+           "Concrete and pictorial: ‘God is a rock’",
+           "Action verbs: who God is, by what he does",
+           "Block logic: holds tensions together",
+           "Story and covenant",
+           "Truth = faithfulness (emet)",
+           "Knowing = relationship, experience (yada)",
+           "Whole person (nefesh)",
+           "Community: ‘we’",
+           "Time as covenant history moving to fulfilment",
+           "Honour and shame lead"
+         ]},
+         "right": {"label": "Greek–Western", "items": [
+           "Abstract and conceptual: ‘God is immutable’",
+           "Nouns and definitions: what God is in himself",
+           "Linear logic: either–or",
+           "System and definition",
+           "Truth = correct statement",
+           "Knowing = information, facts",
+           "Soul–body split",
+           "Individual: ‘I’",
+           "Timeless, abstract eternity",
+           "Guilt and innocence lead"
+         ]}},
+        {"type": "spectrum", "title": "Three culture types on a spectrum", "after": 4,
+         "note": "A common missiological model. Every culture mixes all three; the question is which one leads.",
+         "left": "Relationship and community lead",
+         "right": "Rules and the individual lead",
+         "points": [
+           {"pos": 8, "t": "Honour–shame: ‘Am I accepted by my people?’"},
+           {"pos": 18, "t": "The Bible’s world (mostly honour–shame)"},
+           {"pos": 32, "t": "Fear–power: ‘Am I safe from spirits?’"},
+           {"pos": 50, "t": "Most real cultures: a mixture"},
+           {"pos": 78, "t": "Guilt–innocence: ‘Have I broken the law?’"},
+           {"pos": 92, "t": "Modern Western courtroom thinking"}
+         ]},
+        {"type": "cards", "title": "Six Bible scenes through honour–shame eyes", "after": 4,
+         "cards": [
+           {"t": "The running father", "front": "Why is it shocking that the father runs?", "back": "In the ancient Near East a dignified elder did not run in public. The father gathers his robe, runs, kisses his son and covers his shame before the village sees him.", "source": "Luke 15:20–24", "echo": "God takes our shame on himself to restore us."},
+           {"t": "The woman at the well", "front": "Why does she come at noon?", "back": "Women usually drew water in the cool of the day. Some readers suggest she came alone to avoid others. Jesus speaks with her publicly, and she becomes a messenger to her town.", "source": "John 4:6–30 (one common reading)", "echo": "Jesus restores honour to the shamed."},
+           {"t": "‘Daughter’", "front": "Why does Jesus stop the crowd?", "back": "The bleeding woman was ritually unclean and socially cut off. Jesus calls her out publicly, not to shame her, but to name her ‘Daughter’ and restore her place.", "source": "Mark 5:25–34", "echo": "Healing includes return to the community."},
+           {"t": "Zacchaeus", "front": "Why does Jesus invite himself?", "back": "A tax collector was despised. By choosing his house before the whole crowd, Jesus gives him honour first; repentance follows the welcome.", "source": "Luke 19:1–10", "echo": "Grace before reform."},
+           {"t": "The cross", "front": "Why was the cross a scandal?", "back": "Crucifixion was the most shameful death in the Roman world. Jesus ‘endured the cross, despising the shame’ and turned the place of disgrace into glory.", "source": "Hebrews 12:2; Deuteronomy 21:23", "echo": "Salvation as the removal of shame, not only guilt."},
+           {"t": "Peter restored", "front": "Why three questions?", "back": "Peter denied Jesus three times in public. By a charcoal fire, Jesus asks three times ‘Do you love me?’ and publicly gives him back his task.", "source": "John 18:15–27; 21:15–19", "echo": "Restoration of honour and calling."}
+         ]},
+        {"type": "flow", "title": "How the lens shifted: a map of this section", "after": 5,
+         "steps": [
+           {"t": "Jerusalem", "d": "Hebrew Scriptures, covenant, story and community (this chapter)."},
+           {"t": "Athens", "d": "Greek philosophy shapes early Christian thinkers (e-athens)."},
+           {"t": "Rome", "d": "Latin law and empire shape the church as an institution (e-rome)."},
+           {"t": "Wittenberg and Paris", "d": "Reformation and Enlightenment focus on text, self and reason (e-reason)."},
+           {"t": "The modern West", "d": "Evangelicalism: Bible-loving, mission-hearted, often individualistic (e-evangelical)."},
+           {"t": "Both eyes", "d": "Recovering the Hebraic lens wisely, without rejecting the gains (e-recover)."}
+         ]}
+      ],
+      "verses": [
+        {"ref": "Deuteronomy 32:4", "text": "He is the Rock, his work is perfect: for all his ways are judgment."},
+        {"ref": "Jeremiah 22:16", "text": "He judged the cause of the poor and needy… was not this to know me? saith the LORD."},
+        {"ref": "Philippians 2:12–13", "text": "Work out your own salvation with fear and trembling. For it is God which worketh in you."},
+        {"ref": "Hebrews 12:2", "text": "Who for the joy that was set before him endured the cross, despising the shame."}
+      ],
+      "keyPoints": [
+        "‘Hebrew vs Greek’ is a helpful generalisation, not an absolute — the New Testament is in Greek.",
+        "Hebrew speaks in pictures and actions and holds tensions together.",
+        "Truth (emet) is faithfulness; knowing (yada) is relationship; the person (nefesh) is whole.",
+        "The Bible speaks first to a people, through a covenant story moving toward fulfilment.",
+        "The Bible’s world was mostly honour–shame; the modern West is mostly guilt–innocence."
+      ],
+      "reflect": [
+        "Which column of the ‘ten contrasts’ feels more natural to you — and why?",
+        "Which Bible story opens up for you when you read it through honour and shame?"
+      ],
+      "quiz": [
+        {"q": "What does the Hebrew word *yada* (‘know’) usually stress?", "options": ["Relationship and experience", "Abstract information", "Philosophical proof", "Memorising rules"], "a": 0, "why": "‘Adam knew Eve’ (Gen 4:1) and ‘to know me’ = doing justice (Jer 22:16) show relational knowing."},
+        {"q": "What is ‘block logic’?", "options": ["Refusing to think", "Choosing one side of every tension", "Placing truths side by side even when they seem in tension", "A Greek method of proof"], "a": 2, "why": "Hebrew thought often holds e.g. God’s sovereignty and human freedom together (Phil 2:12–13)."},
+        {"q": "Why is ‘Hebrew vs Greek’ only a generalisation?", "options": ["Because Hebrew had no abstract words at all", "Because the New Testament was written in Greek and Jews were already Hellenised", "Because Greeks never told stories", "Because the Bible was written in Latin"], "a": 1, "why": "Paul used Greek ideas and many Jews spoke Greek; the contrast describes tendencies."},
+        {"q": "In which culture type is the key question ‘Have I broken the law?’", "options": ["Honour–shame", "Fear–power", "None of them", "Guilt–innocence"], "a": 3, "why": "Guilt–innocence cultures, like much of the modern West, frame life around law and verdict."}
+      ],
+      "terms": [
+        {"term": "Emet", "def": "Hebrew ‘truth’: firmness, faithfulness, reliability."},
+        {"term": "Yada", "def": "Hebrew ‘to know’: personal, relational, experienced knowledge."},
+        {"term": "Nefesh", "def": "The whole living person or being; often translated ‘soul’."},
+        {"term": "Block logic", "def": "Holding two truths side by side without forcing one to cancel the other."},
+        {"term": "Honour–shame culture", "def": "A culture where public standing and belonging are the central values."},
+        {"term": "Hellenism", "def": "Greek language and culture spread across the East after Alexander."}
+      ],
+      "related": ["g-25", "g-26", "g-07", "s-truth", "w-emunah", "s-soul", "s-flesh", "s-kingdom", "b-life", "e-athens", "e-recover"]
+    },
+    {
+      "id": "e-athens", "book": "east", "order": 20, "num": 2,
+      "title": "From Jerusalem to Athens: Greek Philosophy and the Early Church",
+      "subtitle": "How Plato’s ideas travelled through Philo, Origen and Augustine into Christian thought",
+      "nutshell": "After Alexander the Great, Greek culture filled the eastern Mediterranean. Early Christian thinkers used Greek philosophy to explain and defend the faith, and some of its ideas — the naturally immortal soul, the body as a prison, a God who cannot feel — entered Christian teaching. Yet the church fathers also firmly rejected Gnosticism and held on to creation, incarnation and bodily resurrection.",
+      "bigIdea": "Greek philosophy gave the church useful tools but also bent some Hebrew teachings about the body, the soul, God and the future.",
+      "skeleton": [
+        "Alexander spreads Greek culture",
+        "Plato, Aristotle and the Stoics",
+        "Philo and the Apologists build bridges",
+        "Alexandria: allegory and pre-existence",
+        "Augustine reads the Platonists",
+        "What changed and what held firm"
+      ],
+      "sections": [
+        {"h": "After Alexander: a Greek world", "p": [
+          "From about 332 BC Alexander the Great’s conquests spread Greek language, schools and ideas across the East — a culture called Hellenism. Some Jews resisted it fiercely (the Maccabees, 1 Macc 1–4); others absorbed much of it. The Scriptures were translated into Greek (the Septuagint), and the New Testament was written in Greek. Paul even debated philosophers in Athens (Acts 17:16–34)."
+        ]},
+        {"h": "Plato, Aristotle and the Stoics", "p": [
+          "Plato (c. 428–348 BC) taught that true reality is the world of eternal, unchanging ‘forms’; the visible world is a shadow. The soul is immortal by nature and existed before birth; the body is its prison — a pun, *sōma sēma*, ‘the body is a tomb’ (Gorgias 493a). Aristotle gave the West its categories and logic, and a God who is the ‘unmoved mover’. The Stoics spoke of a divine Logos (reason) running through all things and prized freedom from passion."
+        ]},
+        {"h": "Philo and the Apologists: building bridges", "p": [
+          "Philo of Alexandria (c. 20 BC – AD 50), a devout Jew, read the Torah through Plato by allegory: Abraham’s journeys became the soul’s ascent. He spoke of God’s Logos as a go-between. Christian ‘Apologists’ such as Justin Martyr (c. 150) used the Logos as a bridge, saying ‘seeds of the Word’ were scattered among the Greeks. John 1 also speaks of the Logos — but its roots are Genesis 1 and Jewish wisdom, not only Greek thought."
+        ]},
+        {"h": "Alexandria: Clement and Origen", "p": [
+          "In Alexandria, Clement (c. 150–215) and Origen (c. 185–254) brought philosophy and Scripture together. Origen was a brilliant scholar and a martyr-hearted believer, but he taught that souls existed before bodies and he read much of Scripture as hidden spiritual allegory. Some of his ideas were later condemned (AD 553). Allegory let readers find deep meanings, but it could also float free from the Bible’s history and story."
+        ]},
+        {"h": "Augustine reads the Platonists", "p": [
+          "Augustine (354–430) says that ‘books of the Platonists’ — Neoplatonism, from Plotinus (c. 204–270) — helped him think of God as spiritual and unchanging (Confessions 7). His towering influence shaped Western teaching on grace, sin and the afterlife (see g-38, g-39). His view of original sin leaned on the Latin of Romans 5:12, *in quo omnes peccaverunt*, ‘in whom (Adam) all sinned’; the Greek *eph’ hō* is usually read today as ‘because all sinned’."
+        ]},
+        {"h": "What changed — and what held firm", "p": [
+          "Greek influence pressed toward a God who cannot suffer or change (impassibility, immutability), while the Hebrew Bible shows a God who grieves (Gen 6:6), relents (Jonah 3:10) and whose heart is moved (Hos 11:8). It encouraged suspicion of the body and hope of heaven as escape rather than new creation (Rom 8:19–23; Rev 21). Yet the fathers, such as Irenaeus, fought Gnosticism (see g-33), affirmed that creation is good, that God became flesh, and that the body will rise."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "timeline", "title": "From Alexander to Augustine", "after": 0,
+         "note": "Dates for ancient writers are approximate.",
+         "events": [
+           {"when": "332 BC", "t": "Alexander takes the Levant and Egypt", "d": "Greek rule and culture arrive in the land of Israel."},
+           {"when": "331 BC", "t": "Alexandria founded", "d": "It becomes the great centre of Greek and Jewish learning."},
+           {"when": "3rd–2nd c. BC", "t": "The Septuagint", "d": "The Hebrew Scriptures translated into Greek in Alexandria."},
+           {"when": "167–164 BC", "t": "Maccabean revolt", "d": "Jews resist forced Hellenisation under Antiochus IV."},
+           {"when": "c. 20 BC – AD 50", "t": "Philo of Alexandria", "d": "Reads the Torah through Plato by allegory."},
+           {"when": "c. AD 50", "t": "Paul in Athens", "d": "Preaches the resurrection to philosophers (Acts 17)."},
+           {"when": "c. 150", "t": "Justin Martyr", "d": "Presents Christ as the Logos to Greek thinkers."},
+           {"when": "c. 180", "t": "Irenaeus, Against Heresies", "d": "Defends creation and bodily resurrection against Gnosticism."},
+           {"when": "c. 200–250", "t": "Clement and Origen", "d": "Alexandrian theology: allegory and philosophy."},
+           {"when": "c. 250", "t": "Plotinus", "d": "Founds Neoplatonism: the soul’s return to the One."},
+           {"when": "386", "t": "Augustine’s conversion", "d": "After reading Neoplatonist books (Confessions 7–8)."},
+           {"when": "430", "t": "Augustine dies", "d": "His thought shapes the Latin West for a thousand years."}
+         ]},
+        {"type": "compare", "title": "Plato and the Hebrew Bible on the person", "after": 1,
+         "left": {"label": "Plato", "items": [
+           "The soul is immortal by nature",
+           "The soul existed before birth",
+           "The body is a prison or tomb (sōma sēma)",
+           "Death frees the soul",
+           "Salvation = the soul’s escape upward",
+           "Matter is lower than spirit",
+           "God is unchanging and unmoved"
+         ]},
+         "right": {"label": "Hebrew Bible", "items": [
+           "Only God has immortality; life is his gift",
+           "Adam becomes a living nefesh (Gen 2:7)",
+           "The body is ‘very good’ creation (Gen 1:31)",
+           "Death is an enemy",
+           "Salvation = resurrection and new creation",
+           "Earth and heaven will be renewed",
+           "God grieves, relents and is moved"
+         ]}},
+        {"type": "cards", "title": "Six thinkers who built the bridge", "after": 3,
+         "cards": [
+           {"t": "Philo", "front": "A Jew who read Moses like Plato", "back": "Philo of Alexandria used allegory to show that the Torah taught the highest philosophy. His Logos idea and allegorical method deeply influenced Christian readers in Alexandria.", "source": "Philo, Allegorical Interpretation", "echo": "Compare John 1:1–14, rooted in Genesis 1."},
+           {"t": "Justin Martyr", "front": "Christ as the Logos of the philosophers", "back": "Justin, a philosopher who became a Christian, said the divine Word had sown seeds of truth among the Greeks. He died a martyr in Rome around 165.", "source": "Justin, First and Second Apology", "echo": "Acts 17:28: Paul quotes Greek poets."},
+           {"t": "Irenaeus", "front": "Defender of the good creation", "back": "Bishop of Lyon, he wrote against the Gnostics, insisting that the Creator is the Father of Jesus, that God became flesh, and that the body will rise.", "source": "Irenaeus, Against Heresies (c. 180)", "echo": "1 Corinthians 15: the resurrection of the body."},
+           {"t": "Clement of Alexandria", "front": "Philosophy as a tutor to Christ", "back": "Clement said philosophy prepared the Greeks for Christ as the Law prepared the Jews. He valued self-control and freedom from passion, a Stoic ideal.", "source": "Clement, Stromata", "echo": "Galatians 3:24: the Law as a guardian."},
+           {"t": "Origen", "front": "Genius, allegorist, teacher", "back": "Origen produced the Hexapla and many commentaries. He taught the pre-existence of souls and read Scripture on several levels. Some of his ideas were condemned in 553.", "source": "Origen, On First Principles", "echo": "Compare the Hebrew view of the whole person."},
+           {"t": "Augustine", "front": "The Platonists prepared his mind", "back": "Augustine says Neoplatonist books helped him see God as spiritual and evil as a lack of good. His teaching on grace, sin and the soul shaped the Latin West.", "source": "Augustine, Confessions 7", "echo": "Romans 5:12 read through the Latin ‘in quo’."}
+         ]},
+        {"type": "flow", "title": "How an idea travelled: the immortal soul", "after": 4,
+         "note": "A simplified path of influence; real history had many channels.",
+         "steps": [
+           {"t": "Plato", "d": "The soul is immortal by nature; the body is its prison."},
+           {"t": "Philo", "d": "Reads Genesis through Plato; the soul ascends to God."},
+           {"t": "Origen", "d": "Souls existed before bodies; Scripture has hidden spiritual senses."},
+           {"t": "Augustine", "d": "Via Plotinus, God and the soul are known by turning inward and upward."},
+           {"t": "Medieval church", "d": "The soul’s journey to heaven, purgatory or hell becomes the centre of hope."},
+           {"t": "Today", "d": "Many Christians think of salvation as ‘my soul goes to heaven’ rather than resurrection."}
+         ]},
+        {"type": "tree", "title": "Greek ideas that entered Christian thought", "after": 5,
+         "root": "Greek influence on theology",
+         "branches": [
+           {"t": "The soul", "children": ["Immortal by nature", "Pre-existence (Origen)", "Higher than the body"]},
+           {"t": "The body", "children": ["Prison or tomb", "Ascetic suspicion", "Celibacy as the higher way"]},
+           {"t": "God", "children": ["Impassible: cannot suffer", "Immutable: cannot change", "Defined by abstract attributes"]},
+           {"t": "Scripture", "children": ["Allegory and hidden meanings", "History becomes symbol"]},
+           {"t": "The future", "children": ["Heaven as escape", "Vision of God instead of new earth"]},
+           {"t": "What held firm", "children": ["Creation is good", "God became flesh", "Resurrection of the body"]}
+         ]}
+      ],
+      "verses": [
+        {"ref": "Acts 17:31–32", "text": "He hath raised him from the dead. And when they heard of the resurrection of the dead, some mocked."},
+        {"ref": "Genesis 6:6", "text": "It repented the LORD that he had made man on the earth, and it grieved him at his heart."},
+        {"ref": "Hosea 11:8", "text": "Mine heart is turned within me, my repentings are kindled together."},
+        {"ref": "Romans 8:21", "text": "The creature itself also shall be delivered from the bondage of corruption."}
+      ],
+      "keyPoints": [
+        "Alexander’s conquests made Greek the shared language and culture of the East.",
+        "Plato taught a naturally immortal soul and the body as a prison.",
+        "Philo, Justin, Clement and Origen built bridges between Scripture and philosophy.",
+        "Augustine was shaped by Neoplatonism and read Romans 5:12 through the Latin ‘in quo’.",
+        "The fathers still defended creation, incarnation and bodily resurrection against Gnosticism."
+      ],
+      "reflect": [
+        "Do you picture your final hope as ‘my soul in heaven’ or as resurrection in a renewed creation?",
+        "How can we use the tools of philosophy without letting them reshape the Bible’s story?"
+      ],
+      "quiz": [
+        {"q": "What does the Greek pun *sōma sēma* mean?", "options": ["The body is a temple", "The body is a tomb", "The soul is a seed", "The word is life"], "a": 1, "why": "Plato’s pun (Gorgias 493a) pictures the body as the soul’s tomb or prison."},
+        {"q": "Who read the Torah through Plato by allegory in the first century?", "options": ["Josephus", "Augustine", "Tertullian", "Philo of Alexandria"], "a": 3, "why": "Philo (c. 20 BC – AD 50) is the great Jewish allegorist of Alexandria."},
+        {"q": "How does the Latin of Romans 5:12 (*in quo*) differ from the usual reading of the Greek?", "options": ["‘In whom all sinned’ vs ‘because all sinned’", "‘Some sinned’ vs ‘none sinned’", "‘Death came’ vs ‘life came’", "There is no difference"], "a": 0, "why": "Augustine used ‘in whom (Adam)’; most read the Greek *eph’ hō* as ‘because’."},
+        {"q": "What did the church fathers firmly defend against the Gnostics?", "options": ["The body as a prison", "Escape from the material world", "Creation, incarnation and bodily resurrection", "Secret knowledge for a few"], "a": 2, "why": "Irenaeus and others insisted creation is good and the body will rise."}
+      ],
+      "terms": [
+        {"term": "Hellenism", "def": "The spread of Greek language and culture after Alexander the Great."},
+        {"term": "Forms", "def": "Plato’s eternal, perfect ideas, of which visible things are shadows."},
+        {"term": "Logos", "def": "Greek ‘word, reason’; in John 1, the Word who became flesh."},
+        {"term": "Allegory", "def": "Reading a text as a code for hidden spiritual meanings."},
+        {"term": "Neoplatonism", "def": "Plotinus’ form of Plato’s thought: the soul’s return to the One."},
+        {"term": "Impassibility", "def": "The idea that God cannot be affected by suffering or emotion."}
+      ],
+      "related": ["g-25", "g-33", "g-38", "g-39", "s-soul", "s-flesh", "g-26", "e-minds", "e-rome"]
+    },
+    {
+      "id": "e-rome", "book": "east", "order": 30, "num": 3,
+      "title": "Rome and Latin: Law, Empire and the Church",
+      "subtitle": "How a Jewish family of faith became an imperial institution with a legal vocabulary",
+      "nutshell": "In the Latin-speaking West, the faith was explained in the language of Roman law: satisfaction, merit, penance. When Constantine embraced Christianity, the church gained freedom and power, separated itself from its Jewish roots, and began to mirror the empire’s structures. By the Middle Ages this produced a system of merit, purgatory and indulgences that the Reformation would challenge.",
+      "bigIdea": "Latin law and Roman empire gave the Western church its vocabulary and its structure — and narrowed some biblical ideas along the way.",
+      "skeleton": [
+        "The Latin West and the Greek East",
+        "Tertullian’s legal vocabulary",
+        "Jerome’s Vulgate",
+        "Constantine and Theodosius",
+        "The parting from the synagogue",
+        "Anselm, merit and indulgences"
+      ],
+      "sections": [
+        {"h": "Latin West, Greek East", "p": [
+          "The Roman Empire spoke two main languages: Greek in the East and Latin in the West (Rome, North Africa, Gaul, Spain). Eastern churches also spoke Syriac, Coptic and Armenian. Over the centuries the Latin West developed its own style: practical, legal and organised. The Greek East stayed more mystical and liturgical. The split became formal in 1054."
+        ]},
+        {"h": "Tertullian: a lawyer’s vocabulary", "p": [
+          "Tertullian of Carthage (c. 160–220) was the first great Christian writer in Latin. He asked, ‘What has Athens to do with Jerusalem?’ — yet he brought Roman legal words into theology: *satisfactio* (making amends), *meritum* (merit), *persona* (a legal person) and *trinitas* (Trinity). Whether he was trained as a lawyer is debated, but his thinking is legal in tone. These words were useful, but they could turn a covenant relationship into a court case."
+        ]},
+        {"h": "Jerome’s Latin Bible", "p": [
+          "Jerome’s Vulgate (c. 382–405) became the Bible of the West for a thousand years. It rendered Greek *metanoia* (‘a change of mind and direction’) with *paenitentia*, and ‘repent’ as *paenitentiam agite*, later understood as ‘do penance’. *Dikaioō* became *iustificare*, ‘to make righteous’, shaping medieval teaching on justification (see s-justify, t-translation). Jerome was a careful scholar; Latin simply could not carry every Hebrew and Greek nuance."
+        ]},
+        {"h": "Constantine and Theodosius", "p": [
+          "In 313 the Edict of Milan gave Christians freedom. Constantine made Sunday a day of rest by law (321) and called the Council of Nicaea (325), which also set Easter apart from the Jewish Passover reckoning. In 380 Theodosius made Nicene Christianity the state religion. Persecution ended — a real mercy — but the church gained wealth, buildings and political power, and bishops began to resemble imperial officials."
+        ]},
+        {"h": "The parting of the ways", "p": [
+          "Church and synagogue separated gradually over the first centuries; scholars debate when and how. Sadly, a whole genre of writings ‘against the Jews’ (*adversus Iudaeos*) grew up, and Jews were blamed collectively for Jesus’ death. Imperial laws later restricted Jews. The faith that began as a Jewish movement (see g-07) increasingly defined itself against Israel — a tragedy with long and bitter consequences."
+        ]},
+        {"h": "Anselm, merit and the medieval system", "p": [
+          "Around 1098 Anselm of Canterbury wrote *Cur Deus Homo* (‘Why God Became Man’): sin offends God’s honour, and only the God-man can pay the satisfaction owed — a picture drawn from feudal society (see g-17). Medieval teaching added merit, penance, purgatory and indulgences, which could reduce time in purgatory. When indulgences were sold to raise money, Luther protested in 1517."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "timeline", "title": "From AD 70 to 1517", "after": 0,
+         "events": [
+           {"when": "70", "t": "Temple destroyed", "d": "Jewish and Christian communities begin to take separate paths."},
+           {"when": "132–135", "t": "Bar Kokhba revolt", "d": "Jews expelled from Jerusalem; the gap with the church widens."},
+           {"when": "c. 200", "t": "Tertullian", "d": "First major Latin theologian; coins ‘trinitas’."},
+           {"when": "313", "t": "Edict of Milan", "d": "Christianity tolerated across the empire."},
+           {"when": "321", "t": "Sunday law", "d": "Constantine makes Sunday a public day of rest."},
+           {"when": "325", "t": "Council of Nicaea", "d": "Creed on Christ’s divinity; Easter set apart from Passover."},
+           {"when": "380", "t": "Edict of Thessalonica", "d": "Theodosius makes Nicene Christianity the state religion."},
+           {"when": "c. 405", "t": "Jerome’s Vulgate", "d": "The Latin Bible of the West."},
+           {"when": "1054", "t": "East–West schism", "d": "Rome and Constantinople formally split."},
+           {"when": "c. 1098", "t": "Anselm’s Cur Deus Homo", "d": "Satisfaction theory of the atonement."},
+           {"when": "1215", "t": "Fourth Lateran Council", "d": "Yearly confession required; transubstantiation defined."},
+           {"when": "1517", "t": "Luther’s 95 Theses", "d": "Protest against the sale of indulgences."}
+         ]},
+        {"type": "table", "title": "Latin words that reshaped biblical ideas", "after": 2,
+         "cols": ["Latin term", "Biblical idea behind it", "What shifted", "See"],
+         "rows": [
+           {"h": "satisfactio", "cells": ["Repentance, restored relationship", "Paying what is owed to offended honour", "g-17"]},
+           {"h": "meritum", "cells": ["Reward as God’s gift (Matt 20:1–16)", "Earned credit stored up", "g-26"]},
+           {"h": "paenitentia", "cells": ["Metanoia: turning mind and life", "Penance: acts of making amends", "t-translation"]},
+           {"h": "iustificare", "cells": ["Being put right in covenant", "A legal process of being made righteous", "s-justify"]},
+           {"h": "persona", "cells": ["Father, Son, Spirit known in story", "A legal-philosophical definition", "e-athens"]},
+           {"h": "sacramentum", "cells": ["Mystērion: God’s revealed secret plan", "A sacred oath or rite", "b-meal"]}
+         ]},
+        {"type": "compare", "title": "A house church and a basilica church", "after": 3,
+         "left": {"label": "1st-century house church", "items": [
+           "Meets in a home around a table",
+           "A few dozen people, like a family",
+           "Elders and servants from the community",
+           "A shared meal with the Lord’s Supper",
+           "Everyone can share (1 Cor 14:26)",
+           "Jews and Gentiles together",
+           "A persecuted minority"
+         ]},
+         "right": {"label": "4th-century basilica church", "items": [
+           "Meets in a large public hall",
+           "Hundreds of people, an audience",
+           "Bishops and clergy as officials",
+           "A ritual at an altar",
+           "Clergy perform; people watch",
+           "Increasingly separated from Jews",
+           "Backed by the emperor"
+         ]}},
+        {"type": "flow", "title": "From covenant family to imperial institution", "after": 4,
+         "steps": [
+           {"t": "Covenant family", "d": "Jewish and Gentile believers meet in homes as brothers and sisters."},
+           {"t": "Separated from the synagogue", "d": "After AD 70 and 135, the church becomes mostly Gentile."},
+           {"t": "Legal language", "d": "Latin terms of law and debt describe sin and salvation."},
+           {"t": "Imperial favour", "d": "Constantine brings freedom, buildings, wealth and influence."},
+           {"t": "State religion", "d": "From 380, the church is tied to the empire’s power."},
+           {"t": "Institution", "d": "Dioceses, hierarchy and canon law mirror Roman administration."}
+         ]},
+        {"type": "pyramid", "title": "The medieval Western hierarchy (simplified)", "after": 5,
+         "levels": [
+           {"t": "Pope", "d": "Bishop of Rome, claimed authority over the whole Western church."},
+           {"t": "Cardinals and archbishops", "d": "Princes of the church; electors of the pope."},
+           {"t": "Bishops", "d": "Rule dioceses, a word taken from Roman provinces."},
+           {"t": "Priests and monks", "d": "Administer the sacraments; pray and study."},
+           {"t": "Nobles and townspeople", "d": "Lay Christians who support the church."},
+           {"t": "Peasants and serfs", "d": "The great majority; little access to the Latin Bible."}
+         ]}
+      ],
+      "verses": [
+        {"ref": "Matthew 4:17", "text": "From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand."},
+        {"ref": "Romans 11:18", "text": "Boast not against the branches… thou bearest not the root, but the root thee."},
+        {"ref": "1 Corinthians 14:26", "text": "When ye come together, every one of you hath a psalm, hath a doctrine."},
+        {"ref": "Matthew 20:28", "text": "Even as the Son of man came not to be ministered unto, but to minister."}
+      ],
+      "keyPoints": [
+        "The Latin West explained the faith with Roman legal words: satisfaction, merit, penance.",
+        "Jerome’s Vulgate turned ‘repent’ into words later read as ‘do penance’.",
+        "Constantine and Theodosius ended persecution but tied the church to imperial power.",
+        "The church separated from the synagogue, and anti-Jewish writing grew.",
+        "Anselm’s satisfaction theory and the medieval merit system set the stage for 1517."
+      ],
+      "reflect": [
+        "Where do you see legal language (debt, payment, verdict) in how you think about God?",
+        "What would it mean for your church to be more a family and less an institution?"
+      ],
+      "quiz": [
+        {"q": "Which Latin writer first used the word *trinitas*?", "options": ["Jerome", "Augustine", "Tertullian", "Anselm"], "a": 2, "why": "Tertullian of Carthage (c. 200) coined or first used much Latin theological vocabulary."},
+        {"q": "What did the Edict of Milan (313) do?", "options": ["Gave Christians freedom of worship", "Made Christianity the only religion", "Wrote the Nicene Creed", "Split East and West"], "a": 0, "why": "It granted toleration; Theodosius made it the state religion in 380."},
+        {"q": "In Anselm’s *Cur Deus Homo*, sin is mainly an offence against God’s…", "options": ["Temple", "Calendar", "Covenant meal", "Honour"], "a": 3, "why": "Anselm used the feudal picture of a lord’s honour needing satisfaction."},
+        {"q": "Which Latin word translated *metanoia* and later suggested ‘penance’?", "options": ["meritum", "paenitentia", "persona", "sacramentum"], "a": 1, "why": "*Paenitentiam agite* was later read as ‘do penance’."}
+      ],
+      "terms": [
+        {"term": "Vulgate", "def": "Jerome’s Latin Bible (c. 405), the standard Western Bible for a millennium."},
+        {"term": "Satisfaction", "def": "Making amends for an offence; Anselm’s key idea for the cross."},
+        {"term": "Edict of Milan", "def": "The 313 agreement granting Christians freedom of worship."},
+        {"term": "Adversus Iudaeos", "def": "‘Against the Jews’: a genre of early Christian anti-Jewish writings."},
+        {"term": "Indulgence", "def": "A release from temporal punishment for sin, granted by the church."},
+        {"term": "Diocese", "def": "A Roman administrative region later used for a bishop’s area."}
+      ],
+      "related": ["g-07", "g-17", "s-justify", "t-translation", "b-meal", "g-26", "e-athens", "e-reason"]
+    },
+    {
+      "id": "e-reason", "book": "east", "order": 40, "num": 4,
+      "title": "Reformation and Enlightenment: Text, Self and Reason",
+      "subtitle": "How the printed Bible, the lone conscience and the thinking self reshaped faith",
+      "nutshell": "The printing press put the Bible into ordinary hands, and the Reformers recovered the free grace of God — a real gain. But the Reformation and the Enlightenment also moved the centre of faith toward the individual, the text and reason. Faith could become agreement with correct statements, and religion a private matter.",
+      "bigIdea": "The Reformation recovered grace and Scripture, while the Enlightenment made the individual mind the starting point — and both shaped how the West reads the Bible.",
+      "skeleton": [
+        "The printing press and the open Bible",
+        "Luther and Calvin recover grace",
+        "Conscience, confessions and systems",
+        "Descartes and Locke: self and reason",
+        "The Bible as a book of doctrines",
+        "Criticism and reaction"
+      ],
+      "sections": [
+        {"h": "The printing press and the open Bible", "p": [
+          "Around 1450 Johannes Gutenberg’s printing press began a revolution; his Bible appeared about 1455. Within a century Bibles, tracts and catechisms spread in the languages of the people. Ordinary believers could read Scripture for themselves — a huge blessing. But faith also became more a matter of private reading and printed doctrine than of shared memory, story and worship."
+        ]},
+        {"h": "Luther and Calvin: recovering grace", "p": [
+          "Martin Luther (1483–1546) rediscovered that we are put right with God by grace through faith, not by buying merit: *sola gratia*, *sola fide*, *sola scriptura*. This recovered a true biblical emphasis (Rom 3:24; Eph 2:8–9). Debate continues over his ‘forensic’ view — that justification is mainly a legal declaration — and how it relates to covenant and transformation (see s-justify). John Calvin’s *Institutes* (1536; final edition 1559) set out the faith as a clear, ordered system."
+        ]},
+        {"h": "Conscience, confessions and systems", "p": [
+          "Luther’s stand at Worms (1521) became a symbol of the individual conscience bound to Scripture. The following century produced detailed confessions and ‘Protestant scholasticism’, which defined doctrine with logical precision. This gave clarity and protected against error. But it also tended to make the Christian life a matter of holding the right system — and the individual, rather than the people of God, became the main unit of faith."
+        ]},
+        {"h": "Descartes and Locke: the self and reason", "p": [
+          "In 1637 René Descartes wrote, ‘I think, therefore I am’. Certainty now began from the thinking self. John Locke (1632–1704) argued that faith must be reasonable and treated belief as assent to propositions supported by evidence. Deists went further: God made the world like a clock and stepped back. Religion was increasingly seen as private opinion, separate from public life — the sacred–secular split."
+        ]},
+        {"h": "The Bible as a book of doctrines", "p": [
+          "In this climate the Bible was often read as a storehouse of true statements and proof texts to be arranged into a system. Verses were lifted from their story and setting. Yet the Bible is first the story of Israel fulfilled in Jesus, and biblical faith (*emunah*) is faithful trust, not only mental agreement (see w-emunah, s-truth). The Reformers themselves insisted that true faith includes heartfelt trust (*fiducia*)."
+        ]},
+        {"h": "Criticism and reaction", "p": [
+          "From the 18th century, modern biblical criticism studied Scripture like any ancient text, questioning authorship and history. Some of its tools — language, archaeology, careful history — have helped us greatly; some conclusions undermined trust in the Bible. Many believers reacted by defending the Bible’s accuracy point by point. Some historians observe that both sides often shared the same modern assumption: that the Bible’s value lies chiefly in factual propositions (see e-evangelical)."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "timeline", "title": "From the printing press to the Age of Reason", "after": 0,
+         "events": [
+           {"when": "c. 1450", "t": "Gutenberg’s press", "d": "Printing with movable type begins in Mainz."},
+           {"when": "1516", "t": "Erasmus’ Greek New Testament", "d": "Scholars return to the original Greek."},
+           {"when": "1517", "t": "Luther’s 95 Theses", "d": "Protest against indulgences sparks the Reformation."},
+           {"when": "1521", "t": "Diet of Worms", "d": "Luther refuses to recant: conscience bound to Scripture."},
+           {"when": "1522", "t": "Luther’s German New Testament", "d": "The Bible in the people’s language."},
+           {"when": "1536", "t": "Calvin’s Institutes", "d": "A systematic presentation of the faith (final edition 1559)."},
+           {"when": "1545–1563", "t": "Council of Trent", "d": "The Catholic response; justification as being made righteous."},
+           {"when": "1611", "t": "King James Version", "d": "The English Bible of the Protestant world."},
+           {"when": "1637", "t": "Descartes", "d": "‘I think, therefore I am’: the self as the starting point."},
+           {"when": "1689–1695", "t": "Locke", "d": "Reason, toleration and ‘reasonable’ Christianity."},
+           {"when": "c. 1700–1750", "t": "Deism", "d": "A distant clockmaker God; miracles doubted."},
+           {"when": "1770s–1800", "t": "Rise of biblical criticism", "d": "Scripture studied as an ordinary ancient text."}
+         ]},
+        {"type": "cards", "title": "Six turning points — gains and costs", "after": 3,
+         "cards": [
+           {"t": "The printed Bible", "front": "Scripture for everyone", "back": "Printing made Bibles cheap and personal. Gain: anyone can read God’s word. Cost: faith shifts from shared hearing to private reading.", "source": "Gutenberg, c. 1450s", "echo": "Neh 8:8: the Word read aloud to the people."},
+           {"t": "Grace alone", "front": "Salvation is a gift", "back": "Luther recovered that God’s favour cannot be bought. Gain: freedom from merit-earning. Cost: debates over a purely legal picture of justification.", "source": "Luther, 1517–1520s", "echo": "Eph 2:8–9."},
+           {"t": "The Institutes", "front": "Faith as an ordered system", "back": "Calvin’s clear structure helped generations learn doctrine. Gain: clarity. Cost: the story can be replaced by a system.", "source": "Calvin, 1536–1559", "echo": "Luke 24:27: Scripture as a story about Christ."},
+           {"t": "The lone conscience", "front": "‘Here I stand’", "back": "The individual conscience before God was honoured. Gain: courage and freedom. Cost: faith seen as mainly ‘me and God’. The famous words may be a later addition.", "source": "Worms, 1521", "echo": "Acts 4:19–20; but also 1 Cor 12."},
+           {"t": "The thinking self", "front": "‘I think, therefore I am’", "back": "Descartes started from his own mind. Gain: careful reasoning. Cost: the self, not God or community, becomes the starting point.", "source": "Descartes, Discourse on Method, 1637", "echo": "Prov 1:7: the fear of the LORD is the beginning."},
+           {"t": "Reasonable religion", "front": "Faith as agreement with evidence", "back": "Locke and others stressed reasonable belief. Gain: honest thinking. Cost: faith becomes assent to propositions, religion a private opinion.", "source": "Locke, 1695", "echo": "Heb 11: faith as faithful trust in action."}
+         ]},
+        {"type": "flow", "title": "From community to individual", "after": 2,
+         "steps": [
+           {"t": "Covenant people", "d": "Faith lived together as Israel and the church."},
+           {"t": "Medieval parish", "d": "Faith mediated by the church, its priests and sacraments."},
+           {"t": "Reformation", "d": "Each believer stands before God with the Bible in hand."},
+           {"t": "Enlightenment", "d": "The individual mind judges what is true."},
+           {"t": "Private religion", "d": "Faith becomes a personal choice, separate from public life."},
+           {"t": "Modern believer", "d": "‘My personal faith’ often comes before ‘our shared life’."}
+         ]},
+        {"type": "spectrum", "title": "What is faith?", "after": 4,
+         "note": "Later Protestant teachers spoke of three parts of faith: knowledge, assent and trust. The Bible stresses trust that shows itself in faithfulness.",
+         "left": "Faith as trust and faithfulness",
+         "right": "Faith as mental assent",
+         "points": [
+           {"pos": 6, "t": "Emunah: steady faithfulness (Hab 2:4)"},
+           {"pos": 18, "t": "Abraham trusted and obeyed (Heb 11:8)"},
+           {"pos": 35, "t": "Fiducia: heartfelt trust (the Reformers)"},
+           {"pos": 60, "t": "Assensus: agreeing it is true"},
+           {"pos": 78, "t": "Notitia: knowing the facts"},
+           {"pos": 94, "t": "‘Even the demons believe’ (Jas 2:19)"}
+         ]},
+        {"type": "compare", "title": "Two ways of reading Scripture", "after": 5,
+         "left": {"label": "Pre-modern reading", "items": [
+           "Heard aloud together in worship",
+           "A story to live inside",
+           "Read with the church and its tradition",
+           "Many layers of meaning",
+           "Aimed at love and transformation",
+           "Shaped by feasts, prayer and liturgy"
+         ]},
+         "right": {"label": "Modern reading", "items": [
+           "Read silently and privately",
+           "A source of facts and doctrines",
+           "Read by the individual alone",
+           "One correct, provable meaning",
+           "Aimed at right belief and argument",
+           "Studied with tools and proof texts"
+         ]}}
+      ],
+      "verses": [
+        {"ref": "Ephesians 2:8–9", "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God."},
+        {"ref": "Habakkuk 2:4", "text": "The just shall live by his faith."},
+        {"ref": "James 2:19", "text": "Thou believest that there is one God; thou doest well: the devils also believe, and tremble."},
+        {"ref": "Luke 24:27", "text": "Beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself."}
+      ],
+      "keyPoints": [
+        "The printing press put the Bible in ordinary hands but made faith more private.",
+        "Luther and Calvin recovered grace and Scripture — a real gain — and built clear systems.",
+        "Descartes made the thinking self the starting point; Locke stressed reasonable assent.",
+        "Faith was often reduced to agreeing with correct propositions.",
+        "Biblical criticism and the reaction to it often shared modern assumptions."
+      ],
+      "reflect": [
+        "Is your faith more like trusting a person or agreeing with statements?",
+        "How could you read the Bible more as a shared story and less as a private textbook?"
+      ],
+      "quiz": [
+        {"q": "Who wrote ‘I think, therefore I am’ (1637)?", "options": ["Locke", "Calvin", "Luther", "Descartes"], "a": 3, "why": "René Descartes, Discourse on Method (1637)."},
+        {"q": "What did the Reformers rightly recover?", "options": ["The sale of indulgences", "Salvation by grace through faith", "The Latin Mass", "Purgatory"], "a": 1, "why": "Luther rediscovered free grace (Eph 2:8–9) — a real gain."},
+        {"q": "What does the Hebrew word *emunah* mean?", "options": ["Faithful trust", "A list of correct doctrines", "Silent private reading", "Logical proof"], "a": 0, "why": "*Emunah* is steady, faithful trust (Hab 2:4)."},
+        {"q": "What is ‘deism’?", "options": ["Belief in many gods", "A form of Pietism", "Belief in a distant God who does not intervene", "A type of Bible translation"], "a": 2, "why": "Deists pictured God as a clockmaker who stepped back from the world."}
+      ],
+      "terms": [
+        {"term": "Sola scriptura", "def": "‘Scripture alone’ as the final authority for faith."},
+        {"term": "Sola fide", "def": "‘Faith alone’: justification by faith, not by merit."},
+        {"term": "Forensic justification", "def": "Justification understood mainly as a legal declaration of righteousness."},
+        {"term": "Protestant scholasticism", "def": "17th-century Protestant theology using precise logical definitions."},
+        {"term": "Deism", "def": "Belief in a creator who does not act in the world."},
+        {"term": "Sacred–secular split", "def": "Dividing life into religious and non-religious zones."}
+      ],
+      "related": ["s-justify", "w-emunah", "s-truth", "g-26", "t-translation", "e-rome", "e-evangelical", "e-shifts"]
+    }
+  ],
+  "glossary": []
+}
