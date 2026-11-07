@@ -1,77 +1,84 @@
 {
-  "books": [
+ "books": [
+  {
+   "id": "words",
+   "short": "15 Words",
+   "title": "Lost in Translation",
+   "headline": "15 Hebrew words that change how you read",
+   "blurb": "Each word carries far more than its usual English translation. Recover the fuller meaning, one word at a time."
+  },
+  {
+   "id": "gospel",
+   "short": "Gospel",
+   "title": "The Gospel Before Christianity",
+   "headline": "Atonement, sacrifice and redemption through Jewish eyes",
+   "blurb": "One long argument in six parts: read the good news as Jesus' first Jewish followers would have heard it.",
+   "thesis": "The flow runs from **context** (how first-century Jews thought), to **the meaning of blood, sacrifice and atonement**, to **why Jesus died**, to **what salvation really is**, to **what judgment and \"hell\" are for**, and finally to **how we should live now**.",
+   "parts": [
     {
-      "id": "words",
-      "short": "15 Words",
-      "title": "Lost in Translation",
-      "headline": "15 Hebrew words that change how you read",
-      "blurb": "Each word carries far more than its usual English translation. Recover the fuller meaning, one word at a time."
+     "num": "0",
+     "blurb": "Glossary, preface and the roadmap"
     },
     {
-      "id": "gospel",
-      "short": "Gospel",
-      "title": "The Gospel Before Christianity",
-      "headline": "Atonement, sacrifice and redemption through Jewish eyes",
-      "blurb": "One long argument in six parts: read the good news as Jesus' first Jewish followers would have heard it.",
-      "thesis": "The flow runs from **context** (how first-century Jews thought), to **the meaning of blood, sacrifice and atonement**, to **why Jesus died**, to **what salvation really is**, to **what judgment and \"hell\" are for**, and finally to **how we should live now**.",
-      "parts": [
-        {
-          "num": "0",
-          "blurb": "Glossary, preface and the roadmap"
-        },
-        {
-          "num": "I",
-          "blurb": "Time, truth, Eden and the earliest church"
-        },
-        {
-          "num": "II",
-          "blurb": "What blood, offerings and atonement meant"
-        },
-        {
-          "num": "III",
-          "blurb": "Five reasons Jesus died"
-        },
-        {
-          "num": "IV",
-          "blurb": "Salvation in the Hebrew Bible and beyond"
-        },
-        {
-          "num": "V",
-          "blurb": "The history and purpose of judgment"
-        },
-        {
-          "num": "VI",
-          "blurb": "Reward, greatness and living the kingdom"
-        }
-      ]
+     "num": "I",
+     "blurb": "Time, truth, Eden and the earliest church"
     },
     {
-      "id": "studies",
-      "short": "Studies",
-      "title": "Hebrew & Greek Word Studies",
-      "headline": "The words behind the Bible's big ideas",
-      "blurb": "Each Hebrew and Greek word behind the Bible's key ideas: its deep meaning, what translations miss and why, and the culture behind it."
+     "num": "II",
+     "blurb": "What blood, offerings and atonement meant"
     },
     {
-      "id": "world",
-      "short": "World",
-      "title": "The World Behind the Bible",
-      "headline": "Gospels, land, Temple, Rome and midrash",
-      "blurb": "The Jewish and Roman world behind the Gospels: history, places, groups, feasts, daily life and the Jewish stories the New Testament echoes. Maps, timelines, family trees and story cards."
+     "num": "III",
+     "blurb": "Five reasons Jesus died"
     },
     {
-      "id": "texts",
-      "short": "Texts",
-      "title": "From Original to Translation",
-      "headline": "How the Bible reached us, and what changed on the way",
-      "blurb": "Why the Bible leaves out its culture, how translations shift meaning, the Septuagint and the story of Bible versions, and two close-ups: 2 Timothy 3:16 and Isaiah 53:10."
+     "num": "IV",
+     "blurb": "Salvation in the Hebrew Bible and beyond"
     },
     {
-      "id": "decode",
-      "short": "Decode",
-      "title": "Hidden in the Hebrew",
-      "headline": "Roots, lost places and ancient texts, decoded",
-      "blurb": "Wordplays English hides, names that tell a story, places no map can find, and the tools ancient scribes used: Eden, Adam, the serpent, Cain and Abel, Babel, Jonah and more."
+     "num": "V",
+     "blurb": "The history and purpose of judgment"
+    },
+    {
+     "num": "VI",
+     "blurb": "Reward, greatness and living the kingdom"
     }
-  ]
+   ]
+  },
+  {
+   "id": "studies",
+   "short": "Studies",
+   "title": "Hebrew & Greek Word Studies",
+   "headline": "The words behind the Bible's big ideas",
+   "blurb": "Each Hebrew and Greek word behind the Bible's key ideas: its deep meaning, what translations miss and why, and the culture behind it."
+  },
+  {
+   "id": "world",
+   "short": "World",
+   "title": "The World Behind the Bible",
+   "headline": "Gospels, land, Temple, Rome and midrash",
+   "blurb": "The Jewish and Roman world behind the Gospels: history, places, groups, feasts, daily life and the Jewish stories the New Testament echoes. Maps, timelines, family trees and story cards."
+  },
+  {
+   "id": "texts",
+   "short": "Texts",
+   "title": "From Original to Translation",
+   "headline": "How the Bible reached us, and what changed on the way",
+   "blurb": "Why the Bible leaves out its culture, how translations shift meaning, the Septuagint and the story of Bible versions, and two close-ups: 2 Timothy 3:16 and Isaiah 53:10."
+  },
+  {
+   "id": "decode",
+   "short": "Decode",
+   "title": "Hidden in the Hebrew",
+   "headline": "Roots, lost places and ancient texts, decoded",
+   "blurb": "Wordplays English hides, names that tell a story, places no map can find, and the tools ancient scribes used: Eden, Adam, the serpent, Cain and Abel, Babel, Jonah and more."
+  },
+  {
+   "id": "east",
+   "short": "East & West",
+   "title": "East and West",
+   "headline": "How the faith was reshaped on its journey west",
+   "blurb": "Hebrew and Greek ways of thinking, Athens, Rome and Latin, the Reformation and the Enlightenment, the making of modern evangelicalism, and how to read the Bible again with Eastern eyes, wisely."
+  }
+ ]
 }
