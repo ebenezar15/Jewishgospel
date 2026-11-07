@@ -1,0 +1,338 @@
+{
+  "chapters": [
+    {
+      "id": "b-barmitzvah", "book": "world", "order": 360, "num": 36,
+      "title": "Bar Mitzvah and Coming of Age",
+      "subtitle": "When a Jewish child becomes responsible for the commandments, and what the Bible says about growing up",
+      "nutshell": "Jewish tradition teaches that a boy becomes responsible for the commandments at 13 and a girl at 12. The ceremony we call a bar mitzvah took shape much later, in the Middle Ages. In the Bible, growing up is marked by stages, and Jesus at 12 in the Temple shows a boy already devoted to his Father's house.",
+      "bigIdea": "Coming of age in Israel meant stepping from being taught into taking personal responsibility before God.",
+      "skeleton": ["Bar mitzvah means “son of the commandment”", "The ages: 12 for girls, 13 for boys (Mishnah)", "The ceremony: a later, medieval form", "Bat mitzvah: a modern development", "Jesus at 12 and Paul on growing up"],
+      "sections": [
+        {"h": "“Son of the commandment”", "p": [
+          "*Bar mitzvah* is Aramaic and Hebrew for “son of the commandment”: *bar* is Aramaic for “son”, and *mitzvah* means “commandment”. In the Talmud the phrase is used for a person who is obligated to keep the commandments, that is, an adult. Only later did it become the name of a ceremony. The idea behind it is simple: a child is taught; an adult is responsible."
+        ]},
+        {"h": "Twelve and thirteen", "p": [
+          "The Mishnah says “at thirteen for the commandments” (Avot 5:21), in a saying that lists the stages of life. Another passage treats the vows of a girl as binding from 12 and of a boy from 13 (Mishnah Niddah 5:6). These texts were written down around AD 200, so they show Jewish practice after the New Testament, though they may preserve older custom. The Bible itself counts men for the army and the census from age 20 (Num 1:3)."
+        ]},
+        {"h": "The ceremony: a later form", "p": [
+          "The bar mitzvah service as it is known today took shape in the Middle Ages. The boy is called up to read from the Torah (*aliyah*), often chants the reading from the Prophets (*Haftarah*), and may give a short teaching (*d'var Torah*). He begins to wear *tefillin* at weekday morning prayer and is counted in a *minyan*, the ten adults needed for public prayer (also a later rule).",
+          "Many fathers say an old blessing: “Blessed is He who has freed me from responsibility for this one.” It is linked to a saying in Genesis Rabbah 63:10. The *bat mitzvah* for girls is a modern development; the first public one is usually dated to 1922 in New York."
+        ]},
+        {"h": "Jesus at twelve", "p": [
+          "Luke tells how Joseph and Mary went up to Jerusalem every year for Passover, and when Jesus was 12 he stayed behind in the Temple, listening to the teachers and asking them questions (Luke 2:41–52). This was not a bar mitzvah: he was a year younger, and the ceremony did not yet exist. But it shows a boy on the edge of adulthood, already saying, “I must be in my Father's house.” Then he went home and was obedient to his parents."
+        ]},
+        {"h": "Growing up in the New Testament", "p": [
+          "Paul uses coming of age as a picture of faith. “When I became a man, I put away childish things” (1 Cor 13:11). An heir is under guardians “until the date set by his father” (Gal 4:1–2), which fits both Roman and Jewish customs, where a father or the law fixed the age when a son took charge. Many churches later developed confirmation, where young people confirm for themselves the faith they were taught. It is a later Christian parallel, not a copy of the bar mitzvah."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "timeline", "after": 1, "title": "From birth to adulthood", "note": "The ages 5, 10, 13 and 18 come from a later Mishnah saying (Avot 5:21).", "events": [
+          {"when": "Day 8", "t": "Circumcision and naming", "d": "The boy enters the covenant and receives his name (Gen 17:12; Luke 2:21)."},
+          {"when": "Age 5", "t": "Scripture", "d": "The Mishnah says a child begins learning Scripture at five."},
+          {"when": "Age 10", "t": "Mishnah", "d": "The oral teaching begins at ten, by the same saying."},
+          {"when": "Age 12", "t": "Girls come of age; Jesus in the Temple", "d": "A girl's vows count from 12 (Mishnah Niddah 5:6); Jesus at 12 in Jerusalem (Luke 2:42)."},
+          {"when": "Age 13", "t": "Commandments", "d": "A boy becomes responsible for the commandments (Avot 5:21)."},
+          {"when": "Age 18", "t": "Marriage", "d": "The same saying gives 18 as the age for the wedding canopy."},
+          {"when": "Age 20", "t": "Counted as a man", "d": "Counted in the census and for the army (Num 1:3); pays the half-shekel (Ex 30:14)."}
+        ]},
+        {"type": "flow", "after": 2, "title": "A bar mitzvah service, step by step", "note": "This is the later (medieval to modern) form, not a biblical ceremony.", "steps": [
+          {"t": "Preparation", "d": "Months of learning to read and chant the Hebrew text."},
+          {"t": "Called up (aliyah)", "d": "The boy is called to the Torah scroll and says the blessings before and after the reading."},
+          {"t": "Torah reading", "d": "He reads or chants part of the week's portion."},
+          {"t": "Haftarah", "d": "He chants the reading from the Prophets that goes with it."},
+          {"t": "Short teaching", "d": "A *d'var Torah*: a few words explaining the reading."},
+          {"t": "Father's blessing", "d": "“Blessed is He who has freed me from responsibility for this one.”"},
+          {"t": "Celebration meal", "d": "Family and community rejoice together."}
+        ]},
+        {"type": "compare", "after": 3, "title": "Luke 2:41–52 and a modern bar mitzvah", "left": {"label": "Jesus at 12 (Luke 2)", "items": [
+          "Age 12, a year before the Mishnah's age",
+          "Passover pilgrimage to Jerusalem",
+          "In the Temple courts",
+          "Sat among the teachers, listening and asking",
+          "Amazed them with his understanding",
+          "Returned home and obeyed his parents"
+        ]}, "right": {"label": "Modern bar mitzvah", "items": [
+          "Age 13 (girls 12 for bat mitzvah)",
+          "Any Sabbath or weekday Torah reading",
+          "In a local synagogue",
+          "Reads the Torah and gives a short teaching",
+          "Shows what he has learned",
+          "Celebration and the father's blessing"
+        ]}},
+        {"type": "cards", "after": 4, "title": "Six coming-of-age moments in Scripture", "cards": [
+          {"t": "Isaac weaned", "front": "Abraham throws a great feast.", "back": "When Isaac was weaned, Abraham made a great feast. Weaning, often around age two or three, marked the first step out of infancy.", "source": "Gen 21:8", "echo": "Hannah weaned Samuel before bringing him to Shiloh (1 Sam 1:22–24)."},
+          {"t": "Joseph at 17", "front": "A teenager with dreams.", "back": "At 17 Joseph shepherded the flocks with his brothers and dreamed of leadership. His youth was marked by favour, envy and hard testing.", "source": "Gen 37:2", "echo": "God used the years of trial to shape him (Gen 50:20)."},
+          {"t": "Samuel the boy", "front": "A child who hears God's voice.", "back": "The boy Samuel served before the LORD in a linen ephod and heard God call him by name at night. He answered, “Speak, for your servant hears.”", "source": "1 Sam 2:18; 3:1–10", "echo": "Like Jesus, Samuel “grew in favour with the LORD and with people” (1 Sam 2:26; Luke 2:52)."},
+          {"t": "David anointed young", "front": "The youngest son, out with the sheep.", "back": "Samuel passed over David's older brothers. The youngest, still keeping the sheep, was anointed king, and the Spirit came on him.", "source": "1 Sam 16:11–13", "echo": "“Let no one despise your youth” (1 Tim 4:12)."},
+          {"t": "Josiah at 8", "front": "A boy on the throne.", "back": "Josiah became king at eight. At sixteen he began to seek God, and later he led a great reform after the Book of the Law was found.", "source": "2 Kgs 22:1; 2 Chr 34:3", "echo": "Faith can begin early and grow into courage."},
+          {"t": "Jesus at 12", "front": "Lost for three days, found in the Temple.", "back": "Jesus stayed in Jerusalem after Passover, listening and asking questions. “Did you not know I must be in my Father's house?”", "source": "Luke 2:41–52", "echo": "He went home, obeyed his parents and grew in wisdom (Luke 2:51–52)."}
+        ]},
+        {"type": "interlinear", "after": 4, "title": "Luke 2:52: how Jesus grew", "lang": "gr", "words": [
+          {"w": "Καὶ", "g": "and"},
+          {"w": "Ἰησοῦς", "g": "Jesus"},
+          {"w": "προέκοπτεν", "g": "kept advancing"},
+          {"w": "σοφίᾳ", "g": "in wisdom"},
+          {"w": "καὶ", "g": "and"},
+          {"w": "ἡλικίᾳ", "g": "in stature / age"},
+          {"w": "καὶ", "g": "and"},
+          {"w": "χάριτι", "g": "in favour"},
+          {"w": "παρὰ", "g": "with"},
+          {"w": "θεῷ", "g": "God"},
+          {"w": "καὶ", "g": "and"},
+          {"w": "ἀνθρώποις", "g": "people"}
+        ], "readings": [
+          {"label": "“Stature” (KJV, ESV, NIV)", "text": "Jesus increased in wisdom and **stature**, and in favour with God and man.", "note": "*Hēlikia* can mean bodily size."},
+          {"label": "“Years” (NRSV)", "text": "Jesus increased in wisdom and in **years**, and in divine and human favour.", "note": "*Hēlikia* can also mean age; both fit a boy growing up."}
+        ]}
+      ],
+      "verses": [
+        {"ref": "Luke 2:42", "text": "And when he was twelve years old, they went up according to custom."},
+        {"ref": "Luke 2:49", "text": "Did you not know that I must be in my Father's house?"},
+        {"ref": "Luke 2:52", "text": "And Jesus increased in wisdom and in stature and in favour with God and man."},
+        {"ref": "1 Corinthians 13:11", "text": "When I became a man, I gave up childish ways."},
+        {"ref": "Galatians 4:2", "text": "He is under guardians and managers until the date set by his father."}
+      ],
+      "keyPoints": [
+        "*Bar mitzvah* means “son of the commandment”: a person responsible to keep God's commands.",
+        "The Mishnah gives 13 for boys and 12 for girls; the Bible counts adults for the census at 20.",
+        "The bar mitzvah ceremony took shape in the Middle Ages; the bat mitzvah is modern (first public one about 1922).",
+        "Jesus at 12 in the Temple was not a bar mitzvah, but it shows a boy devoted to his Father.",
+        "Paul uses growing up and an heir coming of age as pictures of mature faith."
+      ],
+      "reflect": [
+        "What moment in your life marked the step from being taught faith to owning it yourself?",
+        "How could your church or family mark that step for young people today?"
+      ],
+      "quiz": [
+        {"q": "What does *bar mitzvah* mean?", "options": ["Son of the commandment", "Child of the Temple", "Day of blessing", "Son of the Sabbath"], "a": 0, "why": "*Bar* is Aramaic for “son” and *mitzvah* means “commandment”."},
+        {"q": "When did the bar mitzvah ceremony take its familiar form?", "options": ["In Moses' time", "In the time of Jesus", "In the Middle Ages", "In 1922"], "a": 2, "why": "The age of 13 is in the Mishnah, but the ceremony developed in the Middle Ages; 1922 is the first public bat mitzvah."},
+        {"q": "How old was Jesus when he stayed behind in the Temple?", "options": ["8", "12", "13", "20"], "a": 1, "why": "Luke 2:42 says he was twelve, a year before the Mishnah's age for the commandments."},
+        {"q": "From what age were Israelite men counted in the census for the army?", "options": ["13", "18", "30", "20"], "a": 3, "why": "Numbers 1:3 counts men “from twenty years old and upward”."}
+      ],
+      "terms": [
+        {"term": "Bar mitzvah", "def": "“Son of the commandment”: a boy who has reached 13 and is responsible for the commandments; later also the ceremony."},
+        {"term": "Bat mitzvah", "def": "“Daughter of the commandment”: the girl's equivalent at 12 or 13; a modern ceremony."},
+        {"term": "Aliyah", "def": "“Going up”: being called up to the Torah scroll to say the blessings and read."},
+        {"term": "Haftarah", "def": "The reading from the Prophets that follows the Torah reading."},
+        {"term": "Tefillin", "def": "Small leather boxes with Scripture passages, worn at weekday morning prayer (Deut 6:8)."},
+        {"term": "Minyan", "def": "The ten adults needed for public prayer in later Jewish law."}
+      ],
+      "related": ["b-lifecycle", "b-birth", "b-naming", "b-education", "b-vows", "b-shema"]
+    },
+    {
+      "id": "b-education", "book": "world", "order": 370, "num": 37,
+      "title": "Jewish Education: How Children Learned",
+      "subtitle": "From the family table to the house of study",
+      "nutshell": "In Israel, education began at home: parents were commanded to teach God's words at every moment of the day, and festivals were built to make children ask questions. Later, village schools taught children to read Scripture, and the best students went on to the house of study. Learning was spoken, sung, repeated and argued over.",
+      "bigIdea": "Jewish education turned ordinary life into a classroom, so that children learned God's words by heart and by question.",
+      "skeleton": ["Home first: Deuteronomy 6:7", "Festivals make children ask", "Fathers and mothers both teach", "Stages and village schools (later sources)", "Memory, chanting, questions", "Jesus the learner and teacher"],
+      "sections": [
+        {"h": "Home first", "p": [
+          "The first school was the home. “You shall teach them diligently to your children, and talk of them when you sit in your house, when you walk by the way, when you lie down and when you rise” (Deut 6:7; 11:19). Teaching was not a lesson at a desk but a way of living: at meals, on the road, at bedtime and in the morning."
+        ]},
+        {"h": "Festivals that make children ask", "p": [
+          "God built questions into Israel's worship. “When your children ask, ‘What does this service mean?’” (Ex 12:26; 13:14; Deut 6:20). The stones from the Jordan were set up for the same reason (Josh 4:6). The Passover meal later developed the famous Four Questions asked by the youngest child, a later form of this biblical pattern."
+        ]},
+        {"h": "Fathers and mothers", "p": [
+          "The Talmud says a father must teach his son Torah and a trade (Kiddushin 29a), a later summary of older practice. Mothers taught too: “Do not forsake your mother's teaching” (Prov 1:8). King Lemuel's mother taught him (Prov 31:1), and the wise woman has “the teaching of kindness on her tongue” (31:26). Timothy learned the Scriptures “from childhood” through his grandmother Lois and mother Eunice (2 Tim 1:5; 3:15)."
+        ]},
+        {"h": "Stages and schools", "p": [
+          "The Mishnah gives stages: Scripture at 5, Mishnah at 10, Talmud at 15 (Avot 5:21). The Talmud credits Joshua ben Gamla, a high priest of the 1st century, with setting up teachers in every town, and says a class should have no more than 25 pupils (Bava Batra 21a); historians debate how widespread this was. Children learned to read in the *beit sefer* (“house of the book”); gifted students moved on to the *beit midrash* (“house of study”). Josephus says Jewish children were taught letters and the laws (Against Apion 2.204)."
+        ]},
+        {"h": "Memory, song and debate", "p": [
+          "Learning was spoken aloud, chanted and repeated. The word *Mishnah* comes from *shanah*, “to repeat”. Students learned by heart, then asked questions and debated meanings with teachers and partners. A later medieval custom put honey on the letters at a child's first lesson, so that God's word would taste sweet (compare Ps 119:103)."
+        ]},
+        {"h": "Jesus the learner", "p": [
+          "Jesus grew up inside this world. At 12 he sat among the teachers, “listening to them and asking them questions”, and all were amazed at his understanding (Luke 2:46–47). He “increased in wisdom” (2:52). As a man he stood up in the Nazareth synagogue, “as was his custom”, and read from the scroll of Isaiah (Luke 4:16–17)."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "layers", "after": 0, "title": "Stages of learning", "note": "The school stages are known mainly from later Jewish sources.", "layers": [
+          {"t": "Home", "d": "Parents teach God's words through daily life, prayer and festivals (Deut 6:7)."},
+          {"t": "Beit sefer: house of the book", "d": "Children learn to read and recite Scripture with a village teacher."},
+          {"t": "Beit midrash: house of study", "d": "Older, gifted students study the oral teaching and debate its meaning."},
+          {"t": "Disciple of a sage", "d": "A few follow a rabbi closely, learning his life as well as his words (Acts 22:3)."}
+        ]},
+        {"type": "timeline", "after": 3, "title": "A child's learning by age", "note": "Ages 5, 10, 13 and 15 follow Mishnah Avot 5:21, written down about AD 200.", "events": [
+          {"when": "Infancy", "t": "Hearing at home", "d": "The Shema, prayers and blessings heard from birth (2 Tim 3:15 “from infancy”)."},
+          {"when": "Age 5", "t": "Scripture", "d": "Begins reading the Torah, often starting with Leviticus in later custom."},
+          {"when": "Age 6–7", "t": "Village school", "d": "Bava Batra 21a says children entered school at six or seven."},
+          {"when": "Age 10", "t": "Mishnah", "d": "Starts the oral teaching."},
+          {"when": "Age 12–13", "t": "Commandments", "d": "Becomes responsible for the commandments; Jesus in the Temple at 12 (Luke 2:42)."},
+          {"when": "Age 15", "t": "Talmud", "d": "Deeper discussion and debate in the house of study."}
+        ]},
+        {"type": "table", "after": 2, "title": "Who taught what", "cols": ["", "What they taught", "Key verses"], "rows": [
+          {"h": "Father", "cells": ["God's commands, the story of the Exodus, a trade", "Deut 6:7, 20–21; Kiddushin 29a"]},
+          {"h": "Mother", "cells": ["Wisdom, kindness, Scripture from infancy", "Prov 1:8; 31:1, 26; 2 Tim 1:5"]},
+          {"h": "Village teacher", "cells": ["Reading and reciting Scripture", "Bava Batra 21a (later source)"]},
+          {"h": "Rabbi or sage", "cells": ["The oral teaching, how to live", "Acts 22:3; Mark 1:22"]},
+          {"h": "Synagogue", "cells": ["Weekly reading and explanation of Scripture", "Luke 4:16; Acts 15:21"]}
+        ]},
+        {"type": "cards", "after": 4, "title": "Six teaching tools", "cards": [
+          {"t": "Questions", "front": "“What does this mean?”", "back": "Rites were designed to make children ask, so parents could tell the story of what God had done.", "source": "Ex 12:26; Deut 6:20", "echo": "Jesus answered questions with questions (Mark 11:29)."},
+          {"t": "Memory", "front": "Words written on the heart.", "back": "Children learned whole passages by heart and repeated them until they were part of them.", "source": "Deut 6:6; Ps 119:11", "echo": "Jesus answered temptation with memorised Scripture (Matt 4:4)."},
+          {"t": "Song", "front": "Learning that you can sing.", "back": "Psalms were sung, and Scripture was chanted aloud, which made it easier to remember.", "source": "Deut 31:19; Col 3:16", "echo": "Jesus and his disciples sang a hymn after the supper (Mark 14:26)."},
+          {"t": "Story", "front": "“Tell it to your children.”", "back": "Israel's faith was carried in stories told from one generation to the next.", "source": "Ps 78:4–6; Joel 1:3", "echo": "Jesus taught in parables (Mark 4:33–34)."},
+          {"t": "Festival", "front": "A calendar that teaches.", "back": "Passover, Shavuot and Sukkot let children see, taste and act out the story of salvation.", "source": "Ex 13:8; Lev 23:42–43", "echo": "Jesus explained his death at a Passover meal (Luke 22:15–20)."},
+          {"t": "Example", "front": "Watch how I live.", "back": "A disciple learned by living with a teacher and copying his ways, not only his words.", "source": "2 Kgs 2; Prov 13:20", "echo": "“Be imitators of me, as I am of Christ” (1 Cor 11:1)."}
+        ]},
+        {"type": "cycle", "after": 4, "title": "A day of learning", "center": "Deuteronomy 6:7", "center2": "all day long", "nodes": [
+          {"t": "When you rise", "d": "Morning prayer and the Shema."},
+          {"t": "When you sit", "d": "Lessons at home or school, reading aloud."},
+          {"t": "When you walk", "d": "Talking about God's words on the road and at work."},
+          {"t": "At the table", "d": "Blessings and questions at the family meal."},
+          {"t": "When you lie down", "d": "The evening Shema before sleep."}
+        ]}
+      ],
+      "verses": [
+        {"ref": "Deuteronomy 6:7", "text": "You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise."},
+        {"ref": "Exodus 12:26", "text": "And when your children say to you, ‘What do you mean by this service?’"},
+        {"ref": "Proverbs 1:8", "text": "Hear, my son, your father's instruction, and forsake not your mother's teaching."},
+        {"ref": "2 Timothy 3:15", "text": "From childhood you have been acquainted with the sacred writings."},
+        {"ref": "Luke 2:47", "text": "And all who heard him were amazed at his understanding and his answers."}
+      ],
+      "keyPoints": [
+        "Education began at home, woven into sitting, walking, lying down and rising (Deut 6:7).",
+        "Festivals were designed to make children ask questions; the Passover Four Questions are a later form.",
+        "Both fathers and mothers taught; Timothy learned Scripture from his grandmother and mother.",
+        "Later sources describe stages (5, 10, 15) and village schools credited to Joshua ben Gamla.",
+        "Learning was by memory, chanting, repetition and debate; Jesus grew up asking questions and reading Scripture."
+      ],
+      "reflect": [
+        "Which of the six teaching tools is missing from how faith is passed on in your home or church?",
+        "How could your daily rhythm (rising, eating, travelling, sleeping) become a time to talk about God's words?"
+      ],
+      "quiz": [
+        {"q": "According to Deuteronomy 6:7, where should parents teach God's words?", "options": ["Only in the Temple", "At home, on the road, at bedtime and in the morning", "Only on the Sabbath", "Only in school"], "a": 1, "why": "Deut 6:7 names sitting at home, walking, lying down and rising: all of life."},
+        {"q": "Which word does *Mishnah* come from?", "options": ["Shalom, peace", "Shema, hear", "Shanah, repeat", "Shabbat, rest"], "a": 2, "why": "*Mishnah* comes from *shanah*, “to repeat”, because learning was by repetition."},
+        {"q": "Who taught Timothy the Scriptures from childhood?", "options": ["His grandmother Lois and mother Eunice", "Paul alone", "A Temple priest", "His father"], "a": 0, "why": "2 Timothy 1:5 and 3:15 name Lois and Eunice and say he knew the writings from childhood."},
+        {"q": "The custom of honey on the letters at a first lesson is:", "options": ["Commanded in Deuteronomy", "Described in Luke 2", "Found at Qumran", "A later, medieval custom"], "a": 3, "why": "It is a medieval Jewish custom, echoing the sweetness of God's word (Ps 119:103)."}
+      ],
+      "terms": [
+        {"term": "Beit sefer", "def": "“House of the book”: the elementary school where children learned to read Scripture."},
+        {"term": "Beit midrash", "def": "“House of study”: where older students studied and debated the oral teaching."},
+        {"term": "Mishnah", "def": "The collection of oral teaching written down about AD 200; from *shanah*, “to repeat”."},
+        {"term": "Talmid", "def": "A disciple or student who learns from a rabbi."},
+        {"term": "Shema", "def": "“Hear, O Israel” (Deut 6:4–9), recited morning and evening, the heart of home teaching."}
+      ],
+      "related": ["b-shema", "b-preaching", "s-teach", "b-barmitzvah", "b-parenting", "b-festivals"]
+    },
+    {
+      "id": "b-parenting", "book": "world", "order": 380, "num": 38,
+      "title": "Parenting and Raising Children",
+      "subtitle": "Gift, honour, training and blessing in the Bible's picture of family",
+      "nutshell": "The Bible calls children a gift and a heritage from the LORD. Parents are to teach, train, discipline and bless; children are to honour their parents. Discipline is meant to instruct, not to crush, and the Bible's best picture of a parent is God himself, who is compassionate like a father and comforting like a mother.",
+      "bigIdea": "Godly parenting dedicates a child to God and guides them with both firmness and tenderness, as God parents us.",
+      "skeleton": ["Children are a gift and heritage", "Honour your father and mother", "Train up a child: dedication", "Discipline that instructs, not crushes", "Blessing children", "Good examples and warnings"],
+      "sections": [
+        {"h": "A gift and a heritage", "p": [
+          "“Children are a heritage from the LORD, the fruit of the womb a reward” (Ps 127:3–5). Psalm 128:3 pictures children “like olive shoots around your table”. In Israel children were not a burden or a private project but a gift from God, held in trust for him."
+        ]},
+        {"h": "Honour and teaching", "p": [
+          "“Honour your father and your mother” (Ex 20:12) is, as Paul notes, “the first commandment with a promise” (Eph 6:2). Honour runs both ways: parents were charged to teach their children God's ways and to bless them. Abraham was chosen “that he may command his children… to keep the way of the LORD” (Gen 18:19)."
+        ]},
+        {"h": "“Train up a child”", "p": [
+          "Proverbs 22:6 says, “Train up a child in the way he should go.” The Hebrew verb *chanokh* comes from *chanakh*, “to dedicate”, used for dedicating a house or the Temple (Deut 20:5; 1 Kgs 8:63). The festival Hanukkah, “dedication”, comes from the same root. Training a child is like dedicating something to God for its purpose.",
+          "The Hebrew says “according to his way”. Many read this as the way he ought to go; others see the child's own bent or stage of life. Interpreters differ, and the proverb is a wise pattern, not a guarantee."
+        ]},
+        {"h": "Discipline with tenderness", "p": [
+          "Discipline in Proverbs is *musar*: correction that teaches (Prov 3:11–12; 13:24). The “rod” is often understood in the light of the shepherd's staff that guides (see the chapter on *shevet*). Hebrews 12:5–11 says God disciplines those he loves, for their good. But Paul adds, “Fathers, do not provoke your children to anger” (Eph 6:4), “lest they become discouraged” (Col 3:21).",
+          "God is the model: “As a father has compassion on his children” (Ps 103:13); “As one whom his mother comforts, so I will comfort you” (Isa 66:13); “Can a woman forget her nursing child? … I will not forget you” (Isa 49:15)."
+        ]},
+        {"h": "Blessing and warning", "p": [
+          "Jacob blessed his grandsons: “May God make you like Ephraim and like Manasseh” (Gen 48:20). In later Jewish custom, fathers bless their sons with these words on Friday night, and daughters with “May God make you like Sarah, Rebekah, Rachel and Leah”. Hannah dedicated Samuel to God (1 Sam 1–2), while Eli failed to restrain his sons (1 Sam 2:12–17; 3:13).",
+          "Jesus welcomed children, took them in his arms and blessed them (Mark 10:13–16), and made a child the model of greatness (Matt 18:2–5). In the parable, the father runs to embrace his returning son (Luke 15:20): a picture of God's heart, and of a parent's."
+        ]}
+      ],
+      "diagrams": [
+        {"type": "interlinear", "after": 2, "title": "Proverbs 22:6 word by word", "lang": "he", "words": [
+          {"w": "חֲנֹךְ", "g": "train / dedicate"},
+          {"w": "לַנַּעַר", "g": "the youth"},
+          {"w": "עַל־פִּי", "g": "according to (lit. on the mouth of)"},
+          {"w": "דַרְכּוֹ", "g": "his way"},
+          {"w": "גַּם", "g": "even"},
+          {"w": "כִּי־יַזְקִין", "g": "when he is old"},
+          {"w": "לֹא־יָסוּר", "g": "he will not turn"},
+          {"w": "מִמֶּנָּה", "g": "from it"}
+        ], "readings": [
+          {"label": "The way he should go (KJV, ESV, NIV)", "text": "Train up a child **in the way he should go**; even when he is old he will not depart from it.", "note": "The most common reading: the right path of wisdom."},
+          {"label": "His own way or bent", "text": "Train a child **according to his way**…", "note": "Some see the child's nature, gifts or stage of life: teach in a way that fits this child."},
+          {"label": "Dedication", "text": "**Dedicate** a youth at the start of his way…", "note": "*Chanakh* is the root of Hanukkah; training as dedicating a child to God."}
+        ]},
+        {"type": "compare", "after": 3, "title": "Discipline that builds and discipline that crushes", "left": {"label": "Builds (Prov 3:11–12; Heb 12:10–11)", "items": [
+          "Comes from love",
+          "Teaches and explains",
+          "Fits the child and the fault",
+          "Aims at the child's good",
+          "Ends with restoration",
+          "Produces peace and righteousness"
+        ]}, "right": {"label": "Crushes (Eph 6:4; Col 3:21)", "items": [
+          "Comes from anger",
+          "Punishes without explaining",
+          "Harsh or unpredictable",
+          "Serves the parent's pride",
+          "Leaves the child shamed",
+          "Produces discouragement"
+        ]}},
+        {"type": "cards", "after": 4, "title": "Eight parents in Scripture", "cards": [
+          {"t": "Abraham", "front": "Chosen to teach his children.", "back": "God chose Abraham so that he would command his children and household to keep the way of the LORD by doing righteousness and justice.", "source": "Gen 18:19", "echo": "Faith is passed on by teaching and example."},
+          {"t": "Isaac and Rebekah", "front": "Each parent has a favourite.", "back": "Isaac loved Esau and Rebekah loved Jacob. The divided love led to deception and years of family conflict.", "source": "Gen 25:28; 27", "echo": "A warning against favouritism."},
+          {"t": "Jacob", "front": "A special coat for one son.", "back": "Jacob loved Joseph more than his brothers and gave him a special robe. The brothers' envy led them to sell Joseph.", "source": "Gen 37:3–4", "echo": "Favouritism repeated: a warning that patterns pass down."},
+          {"t": "Hannah", "front": "A mother who gives her son to God.", "back": "Hannah prayed for a child, then dedicated Samuel to the LORD and brought him to Shiloh. She made him a little robe every year.", "source": "1 Sam 1:27–28; 2:19", "echo": "Mary's song echoes Hannah's (Luke 1:46–55)."},
+          {"t": "Eli", "front": "A priest who would not restrain his sons.", "back": "Eli's sons abused the offerings. Eli rebuked them mildly but did not restrain them, and the house was judged.", "source": "1 Sam 2:12–17; 3:13", "echo": "A warning: love must sometimes say no."},
+          {"t": "David", "front": "A king who never said no.", "back": "David's son Adonijah had never been displeased by his father, “Why have you done this?” Absalom's rebellion also broke David's heart.", "source": "1 Kgs 1:6; 2 Sam 18:33", "echo": "Indulgence is not the same as love."},
+          {"t": "Mary and Joseph", "front": "Searching parents.", "back": "They took Jesus to the feasts, searched for him anxiously when he was lost, and Mary treasured everything in her heart.", "source": "Luke 2:41–51", "echo": "Jesus was obedient to them (Luke 2:51)."},
+          {"t": "Lois and Eunice", "front": "A grandmother and mother of faith.", "back": "Timothy's sincere faith lived first in his grandmother Lois and his mother Eunice, who taught him the Scriptures from childhood.", "source": "2 Tim 1:5; 3:15", "echo": "Faith passed through generations of women."}
+        ]},
+        {"type": "flow", "after": 4, "title": "A Friday-night home blessing", "note": "This is a later Jewish home custom, built on biblical words.", "steps": [
+          {"t": "Candles lit", "d": "The Sabbath begins at sunset with lit candles and a blessing."},
+          {"t": "Hands on the children", "d": "Parents place their hands on each child's head."},
+          {"t": "Sons", "d": "“May God make you like Ephraim and Manasseh” (Gen 48:20)."},
+          {"t": "Daughters", "d": "“May God make you like Sarah, Rebekah, Rachel and Leah.”"},
+          {"t": "Priestly blessing", "d": "“The LORD bless you and keep you…” (Num 6:24–26)."},
+          {"t": "Kiddush and meal", "d": "Blessing over the wine and bread, and the family Sabbath meal."}
+        ]},
+        {"type": "spectrum", "after": 3, "title": "From harsh to neglectful", "note": "The Bible's balance sits in the middle: firm love and tender guidance.", "left": "Harsh: crushes the child", "right": "Neglectful: leaves the child alone", "points": [
+          {"pos": 5, "t": "Anger and humiliation (Eph 6:4)"},
+          {"pos": 22, "t": "Rules without love"},
+          {"pos": 50, "t": "Discipline as instruction, with compassion (Prov 3:12; Ps 103:13)"},
+          {"pos": 78, "t": "Never saying no (1 Kgs 1:6)"},
+          {"pos": 95, "t": "Failing to restrain (1 Sam 3:13)"}
+        ]}
+      ],
+      "verses": [
+        {"ref": "Psalm 127:3", "text": "Behold, children are a heritage from the LORD, the fruit of the womb a reward."},
+        {"ref": "Proverbs 22:6", "text": "Train up a child in the way he should go; even when he is old he will not depart from it."},
+        {"ref": "Ephesians 6:4", "text": "Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord."},
+        {"ref": "Psalm 103:13", "text": "As a father shows compassion to his children, so the LORD shows compassion to those who fear him."},
+        {"ref": "Isaiah 49:15", "text": "Can a woman forget her nursing child? Even these may forget, yet I will not forget you."}
+      ],
+      "keyPoints": [
+        "Children are a gift and heritage from the LORD (Ps 127:3).",
+        "Honouring parents is the first commandment with a promise; parents in turn teach and bless.",
+        "“Train up” (*chanokh*) shares the root of Hanukkah, “dedication”; its meaning is debated but rich.",
+        "Discipline is instruction (*musar*), balanced by “do not provoke your children” (Eph 6:4).",
+        "God is pictured as both father and mother; Jesus welcomed and blessed children."
+      ],
+      "reflect": [
+        "Where do you lean on the spectrum, towards harshness or towards neglect? What would the middle look like for you?",
+        "How could you speak a blessing over the children in your life this week?"
+      ],
+      "quiz": [
+        {"q": "The Hebrew verb for “train up” in Proverbs 22:6 shares its root with:", "options": ["Shalom", "Hanukkah", "Torah", "Sabbath"], "a": 1, "why": "*Chanakh* means “dedicate”; Hanukkah is the feast of dedication."},
+        {"q": "Which commandment does Paul call the first with a promise?", "options": ["Do not steal", "Keep the Sabbath", "Love your neighbour", "Honour your father and mother"], "a": 3, "why": "Ephesians 6:2 quotes Exodus 20:12."},
+        {"q": "Whose failure was that he did not restrain his sons?", "options": ["Eli", "Abraham", "Samuel's mother", "Joseph"], "a": 0, "why": "1 Samuel 3:13 says Eli's sons blasphemed and he did not restrain them."},
+        {"q": "What does Paul warn fathers not to do?", "options": ["Teach their children", "Bless their children", "Provoke their children to anger", "Take them to the feasts"], "a": 2, "why": "Ephesians 6:4 and Colossians 3:21: do not provoke or embitter your children."}
+      ],
+      "terms": [
+        {"term": "Chanakh", "def": "Hebrew “to dedicate”; the root of *chanokh* “train up” (Prov 22:6) and of Hanukkah."},
+        {"term": "Musar", "def": "Discipline as instruction and training (Prov 3:11; 13:24)."},
+        {"term": "Shevet", "def": "Rod or staff; often explained by the shepherd's guiding staff."},
+        {"term": "Kibbud av va-em", "def": "Honouring father and mother, the fifth commandment (Ex 20:12)."},
+        {"term": "Birkat ha-banim", "def": "The blessing of the children, a later Friday-night home custom (Gen 48:20; Num 6:24–26)."}
+      ],
+      "related": ["w-shevet", "s-punish", "b-birth", "b-life", "b-education", "b-barmitzvah"]
+    }
+  ],
+  "glossary": []
+}
