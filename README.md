@@ -20,7 +20,7 @@ search, read-aloud, progress tracking and seven colour schemes with light/dark m
 5. **From Original to Translation**: why the Bible leaves out its culture, how translations change meaning, the Septuagint
    and the history of Bible versions (down to the Tamil Bible), and close-ups of 2 Timothy 3:16 and Isaiah 53:10 with
    interlinear views.
-6. **Hidden in the Hebrew**: 18 topics decoding Hebrew roots, wordplays, names, lost biblical places and ancient text
+6. **Hidden in the Hebrew**: 20 topics decoding Hebrew roots, wordplays, names, lost biblical places and ancient text
 7. **East and West**: 8 topics on how the faith was reshaped on its journey west: Hebrew vs Greek ways of thinking, Greek philosophy and the early church, Rome and Latin, the Reformation and Enlightenment, the making of modern evangelicalism (its strengths and blind spots), ten key shifts, reading with Eastern eyes (including Indian and Tamil customs and the Church of the East), and recovering the Hebraic lens wisely.
    analysis (Eden, Adam, the serpent, God's first question, Cain and Abel, Babel and Bethel, Jonah, lost geography, scribal
    tools, the Bible's bookends, word threads, names, types, numbers and gematria, hidden-code claims tested, I AM at the burning bush, Peniel, the face of God), with
