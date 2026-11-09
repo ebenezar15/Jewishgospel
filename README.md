@@ -4,7 +4,7 @@ An interactive study app that explains two books in plain language:
 
 1. **Lost in Translation**: 15 Hebrew words (Shalom, Nahash, Qorban, Dam, Brit, Ezer, Kadosh, Shachah, Sane, Naqam, Shevet, Ge-Hinnom, Yir'ah, Emunah, Aphar).
 2. **The Gospel Before Christianity**: atonement, sacrifice, salvation, judgment and redemption read through Jewish eyes, in six parts.
-3. **Hebrew & Greek Word Studies**: 33 topics (forgiveness, punishment, flesh, justification, sanctification, kingdom,
+3. **Hebrew & Greek Word Studies**: 35 topics (blessing and curse, forgiveness, punishment, flesh, justification, sanctification, kingdom,
    reconciliation, confession, prayer, gospel, preaching, teaching, witness/apostle, equip/edify, aim/sin, tongues, heart/mind,
    thought/imagination, soul/spirit, life, will, abide, wait/hope, prophets/prophecy, condemnation/guilt/chastisement,
    sacrifice/offering, word, scripture/voice, fullness, love, glory, grace/mercy, truth). Each has a table of the Hebrew, Greek
