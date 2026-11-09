@@ -1,0 +1,419 @@
+{
+  "chapters": [
+    {
+      "id": "b-tithe",
+      "book": "world",
+      "order": 390,
+      "num": 39,
+      "title": "Tithing: What the Torah Asked and How Jews Practised It",
+      "subtitle": "A tenth of the harvest for Levites, feasts and the poor, and what that means for Christian giving",
+      "nutshell": "The Torah's tithes were a tenth of the harvest and the flocks of the land of Israel, not of money income. They fed the Levites and priests, paid for joyful family feasts in Jerusalem, and supported the poor. Later Judaism turned this into charity from income (*tzedakah*), and the New Testament calls Christians to generous, cheerful, voluntary giving.",
+      "bigIdea": "The biblical tithe was a pattern of worship, joy and justice built on the harvest, and its heart, generosity to God and the poor, still stands.",
+      "skeleton": [
+        "Ma'aser means “a tenth”",
+        "Abraham and Jacob gave a tenth before the Law",
+        "The Torah's tithes: produce and flocks, for Levites, feasts and the poor",
+        "Malachi's storehouse in its setting",
+        "Later Jewish giving: tzedakah and Maimonides' ladder",
+        "The New Testament: generous, cheerful, voluntary giving"
+      ],
+      "sections": [
+        {
+          "h": "Ma'aser: “a tenth”",
+          "p": [
+            "The Hebrew word for tithe is *ma'aser*, from *eser*, “ten”. Deuteronomy 14:22 doubles the verb for emphasis: *aser te'aser*, “you shall surely tithe”. Later rabbis played on the sound: *aser bishvil she-tit'asher*, “tithe so that you will become rich” (Talmud Ta'anit 9a), because *ashar*, “to be rich”, sounds almost the same. That is a later wordplay, not the plain meaning of the verse."
+          ]
+        },
+        {
+          "h": "A tenth before the Law",
+          "p": [
+            "Abraham gave Melchizedek, priest of God Most High, a tenth of the spoils after a battle (Gen 14:20). It was a single gift, and he gave the rest away (14:23–24). Jacob vowed at Bethel, “of all that you give me I will give a full tenth to you”, on condition that God brought him home safely (Gen 28:20–22). Tithes to temples and kings were common in the ancient Near East; Samuel warned that a king “will take the tenth of your grain… and of your flocks” (1 Sam 8:15, 17)."
+          ]
+        },
+        {
+          "h": "Produce, not pay: the Torah's tithes",
+          "p": [
+            "The Torah tithed what grew and what was born: grain, new wine, oil and fruit, and every tenth animal that “passes under the shepherd's rod” (Lev 27:30–33). The Levites had no land, so they received the tithe as their share (Num 18:21–24), and they gave a tenth of it to the priests (Num 18:26–28).",
+            "Deuteronomy adds a tithe eaten by the family itself in Jerusalem: “eat it before the LORD… and rejoice, you and your household”. If the journey was too far, it could be turned into money and spent on “whatever you desire: oxen or sheep or wine or strong drink” (Deut 14:22–27). Every third year the tithe was stored in the towns for “the Levite, the sojourner, the fatherless and the widow” (Deut 14:28–29; 26:12–15). The rabbis read these as three different tithes; others think Deuteronomy reshaped one tithe. Estimates of the total, perhaps 20–23% in some years, vary."
+          ]
+        },
+        {
+          "h": "The storehouse and Malachi",
+          "p": [
+            "After the exile the people promised to bring tithes to “the storerooms of the house of our God” (Neh 10:37–39). When the tithes stopped, the Levites left the Temple to farm their own fields (Neh 13:10–12). This is the setting of Malachi 3:8–12: “Bring the full tithe into the storehouse.” It is spoken to the whole nation and its priests within the covenant; the storehouse is the Temple's storeroom, and the curse is the covenant sanction of Deuteronomy 28 on a land whose harvests fail. God's promise to “open the windows of heaven” is about rain and crops in that land."
+          ]
+        },
+        {
+          "h": "Jesus, the Pharisees and later Jewish giving",
+          "p": [
+            "The Pharisees tithed even mint, dill and cumin. Jesus said, “these you ought to have done, without neglecting the weightier matters of the law: justice and mercy and faithfulness” (Matt 23:23). In his parable a Pharisee boasts, “I give tithes of all that I get” (Luke 18:12). The Mishnah later regulates *demai*, produce that might not have been tithed.",
+            "After the Temple fell in AD 70, tithing of produce lapsed in practice, especially outside the Land. Later Judaism developed *ma'aser kesafim*, giving a tenth of money income to charity; scholars and rabbis debate whether it is a biblical duty or a rabbinic custom. The Talmud records a ruling from Usha that one should not give more than a fifth, so that the giver does not become poor (Ketubot 50a). The great word became *tzedakah*: righteousness and justice, shown as charity. Maimonides (12th century) set out eight levels of giving; later homes kept a *pushke*, a little charity box."
+          ]
+        },
+        {
+          "h": "The New Testament and Christian giving",
+          "p": [
+            "The New Testament never commands believers to tithe to the church. It calls for giving that is regular and proportionate (“as he may prosper”, 1 Cor 16:2), generous and cheerful: “not reluctantly or under compulsion, for God loves a cheerful giver” (2 Cor 9:7). Paul's great collection was for the poor in Jerusalem (2 Cor 8–9). Jesus praised the widow who gave two small coins, “all she had to live on” (Mark 12:41–44), and the first believers shared so that “there was not a needy person among them” (Acts 2:44–45; 4:32–35). Hebrews 7 mentions Abraham's tithe only to show that Melchizedek is greater than Levi.",
+            "Christians differ. Many churches teach a tenth of income as a helpful starting standard for giving. Others see the tithe as part of the Old Covenant and stress free, grace-shaped generosity. Both sides agree that giving should be generous, joyful and caring for the poor, and that it is never a way to buy God's favour."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "interlinear",
+          "after": 0,
+          "title": "Deuteronomy 14:22: “you shall surely tithe”",
+          "lang": "he",
+          "words": [
+            {"w": "עַשֵּׂר", "g": "tithing"},
+            {"w": "תְּעַשֵּׂר", "g": "you shall tithe"},
+            {"w": "אֵת", "g": "(object marker)"},
+            {"w": "כָּל־", "g": "all"},
+            {"w": "תְּבוּאַת", "g": "the produce of"},
+            {"w": "זַרְעֶךָ", "g": "your seed"},
+            {"w": "הַיֹּצֵא", "g": "that comes out"},
+            {"w": "הַשָּׂדֶה", "g": "(of) the field"},
+            {"w": "שָׁנָה", "g": "year"},
+            {"w": "שָׁנָה", "g": "(by) year"}
+          ],
+          "readings": [
+            {"label": "Plain sense (KJV, ESV)", "text": "You shall **truly tithe** all the yield of your seed that comes from the field year by year.", "note": "The doubled verb *aser te'aser* stresses the command. What is tithed is the harvest."},
+            {"label": "Later rabbinic wordplay (Ta'anit 9a)", "text": "**Tithe** so that you will **become rich**.", "note": "A play on *aser* (tithe) and *ashar* (be rich), which differ by one dot. A later sermon idea, not the verse's meaning."}
+          ]
+        },
+        {
+          "type": "cycle",
+          "after": 2,
+          "title": "The seven-year tithe cycle (rabbinic reading)",
+          "note": "This is how the rabbis arranged the tithes; the first tithe to the Levites came every year from 1 to 6.",
+          "center": "Seven-year cycle",
+          "center2": "first tithe in years 1–6",
+          "nodes": [
+            {"t": "Year 1", "d": "Second tithe: eaten by the family in Jerusalem."},
+            {"t": "Year 2", "d": "Second tithe: eaten in Jerusalem at the feasts."},
+            {"t": "Year 3", "d": "Poor tithe: stored in the towns for Levite, stranger, orphan and widow (Deut 14:28)."},
+            {"t": "Year 4", "d": "Second tithe again; in rabbinic practice, Passover of this year was the time to declare all tithes given (Deut 26:12–15)."},
+            {"t": "Year 5", "d": "Second tithe: a joyful meal before the LORD."},
+            {"t": "Year 6", "d": "Poor tithe: food for those without land or family."},
+            {"t": "Year 7", "d": "Sabbath year: the land rests, no harvest and no tithe; debts released (Lev 25:1–7; Deut 15:1–2)."}
+          ]
+        },
+        {
+          "type": "flow",
+          "after": 2,
+          "title": "Where a farmer's harvest went",
+          "note": "The amounts follow the later rabbinic system; the “one fiftieth” for terumah is a rabbinic average.",
+          "steps": [
+            {"t": "The harvest", "d": "Grain, wine, oil and fruit gathered from the field in the Land."},
+            {"t": "Terumah", "d": "A first gift for the priests, about one fiftieth in rabbinic practice (Num 18:12)."},
+            {"t": "First tithe", "d": "A tenth of the rest given to the Levites, who had no land (Num 18:21)."},
+            {"t": "Tithe of the tithe", "d": "The Levites gave a tenth of their tithe to the priests (Num 18:26)."},
+            {"t": "Second or poor tithe", "d": "Another tenth: eaten in Jerusalem (years 1, 2, 4, 5) or given to the poor (years 3, 6)."},
+            {"t": "Feast and the poor", "d": "The family rejoiced before the LORD, and the needy in town were fed (Deut 14:26–29)."}
+          ]
+        },
+        {
+          "type": "table",
+          "after": 2,
+          "title": "The three tithes",
+          "note": "The rabbis counted three; some scholars think Deuteronomy describes one tithe differently.",
+          "cols": ["", "First tithe", "Second tithe", "Poor tithe"],
+          "rows": [
+            {"h": "Who received", "cells": ["Levites, who gave a tenth to priests", "The family itself, sharing with Levites", "Levite, sojourner, orphan, widow"]},
+            {"h": "What", "cells": ["Produce and flocks", "Produce, or money to buy food", "Produce"]},
+            {"h": "Where", "cells": ["Levitical towns, later the Temple", "Eaten in Jerusalem", "Stored in local towns"]},
+            {"h": "When", "cells": ["Every year 1–6", "Years 1, 2, 4, 5", "Years 3 and 6"]},
+            {"h": "Mood", "cells": ["Support for worship", "Rejoicing before the LORD", "Justice and mercy"]},
+            {"h": "Verses", "cells": ["Num 18:21–28", "Deut 14:22–27", "Deut 14:28–29; 26:12–15"]}
+          ]
+        },
+        {
+          "type": "pyramid",
+          "after": 4,
+          "title": "Maimonides' eight levels of giving",
+          "note": "From the Mishneh Torah, Gifts to the Poor 10:7–14 (12th century). The highest is at the top.",
+          "levels": [
+            {"t": "Help them stand on their own", "d": "A gift, loan, partnership or job so the person no longer needs charity."},
+            {"t": "Neither knows the other", "d": "Giver and receiver are unknown to each other, as through a trusted fund."},
+            {"t": "The receiver does not know the giver", "d": "The giver knows who is helped; the poor person is spared shame."},
+            {"t": "The giver does not know the receiver", "d": "The poor know who gave, but the giver does not see them."},
+            {"t": "Before being asked", "d": "Giving directly, without waiting for a request."},
+            {"t": "After being asked", "d": "Giving properly, but only once asked."},
+            {"t": "Less than fitting, but kindly", "d": "Giving too little, yet with a friendly face."},
+            {"t": "Grudgingly", "d": "Giving with sadness or a sour face: still a gift, but the lowest level."}
+          ]
+        },
+        {
+          "type": "compare",
+          "after": 5,
+          "title": "The Torah's tithe and a common modern teaching",
+          "note": "A simplified comparison; churches teach tithing in many different ways.",
+          "left": {
+            "label": "The Torah's tithe",
+            "items": [
+              "A tenth of crops and flocks",
+              "Fed Levites, priests, family feasts and the poor",
+              "Tied to the land of Israel and the Temple",
+              "Part of a seven-year cycle with a Sabbath year",
+              "The second tithe was a joyful meal, even with wine",
+              "Malachi's curse was a covenant sanction on the nation"
+            ]
+          },
+          "right": {
+            "label": "A common modern teaching",
+            "items": [
+              "A tenth of money income",
+              "Funds the local church budget",
+              "Practised anywhere in the world",
+              "Every month, every year",
+              "Often taught as a duty owed first",
+              "Sometimes taught with fear of a personal curse"
+            ]
+          }
+        }
+      ],
+      "verses": [
+        {"ref": "Deuteronomy 14:22–23", "text": "You shall tithe all the yield of your seed… and before the LORD your God you shall eat it."},
+        {"ref": "Deuteronomy 14:29", "text": "The Levite… the sojourner, the fatherless, and the widow… shall come and eat and be filled."},
+        {"ref": "Malachi 3:10", "text": "Bring the full tithe into the storehouse, that there may be food in my house."},
+        {"ref": "Matthew 23:23", "text": "You tithe mint and dill and cumin, and have neglected the weightier matters of the law: justice and mercy and faithfulness."},
+        {"ref": "2 Corinthians 9:7", "text": "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver."}
+      ],
+      "keyPoints": [
+        "*Ma'aser* means “a tenth”; the Torah's tithes were of crops and flocks in the land of Israel, not money income.",
+        "The tithes fed the landless Levites and priests, paid for joyful family feasts in Jerusalem and supported the poor.",
+        "Malachi 3 speaks to the post-exilic nation and its Temple storehouse within the covenant.",
+        "After AD 70, Judaism turned toward *tzedakah* and a later custom of giving a tenth of income, with a limit of a fifth.",
+        "The New Testament calls for generous, proportionate, cheerful and voluntary giving, especially for the poor."
+      ],
+      "reflect": [
+        "Does your giving feel more like the joyful feast of Deuteronomy 14 or like a bill you must pay? Why?",
+        "Which of Maimonides' levels could help you give in a way that protects the dignity of the poor?"
+      ],
+      "quiz": [
+        {"q": "What did the Torah's tithes mainly consist of?", "options": ["Money wages", "Gold and silver", "Crops and flocks", "Temple coins"], "a": 2, "why": "Grain, wine, oil and every tenth animal (Lev 27:30–33)."},
+        {"q": "What could an Israelite buy with second-tithe money in Jerusalem?", "options": ["Whatever he desired: oxen, sheep, wine or strong drink", "Only sacrifices for sin", "Land for the Levites", "Nothing; it went to the king"], "a": 0, "why": "Deuteronomy 14:26 allowed the family to rejoice with whatever food and drink they wanted."},
+        {"q": "Who received the poor tithe in years 3 and 6?", "options": ["Only the priests", "The king's officials", "Foreign merchants", "The Levite, sojourner, orphan and widow"], "a": 3, "why": "Deuteronomy 14:28–29 stored it in the towns for those without land or family."},
+        {"q": "What did Jesus call “the weightier matters of the law” in Matthew 23:23?", "options": ["Tithing and fasting", "Justice, mercy and faithfulness", "Sabbath and circumcision", "Prayer and sacrifice"], "a": 1, "why": "He said tithing was right, but not at the cost of justice, mercy and faithfulness."}
+      ],
+      "terms": [
+        {"term": "Ma'aser", "def": "“A tenth”: the tithe of produce and flocks in the Torah."},
+        {"term": "Terumah", "def": "A first gift from the harvest for the priests, given before the tithes."},
+        {"term": "Terumat ma'aser", "def": "“The gift from the tithe”: the tenth of their tithe that the Levites gave to the priests."},
+        {"term": "Demai", "def": "Produce that may not have been tithed; a later Mishnah topic."},
+        {"term": "Ma'aser kesafim", "def": "“Money tithe”: a later Jewish custom of giving a tenth of income to charity."},
+        {"term": "Tzedakah", "def": "Righteousness or justice, used for charity: giving to the poor as what is right."}
+      ],
+      "related": ["b-farming", "b-festivals", "b-temple", "s-curse", "b-practices", "s-justify", "s-grace", "b-prosperity"]
+    },
+    {
+      "id": "b-prosperity",
+      "book": "world",
+      "order": 400,
+      "num": 40,
+      "title": "Wealth and Prosperity: a Jewish and Biblical View",
+      "subtitle": "Wealth as gift, danger and responsibility, and a fair look at the modern prosperity gospel",
+      "nutshell": "The Bible calls wealth a gift of God and a blessing, but also a danger that makes people forget him. The Torah binds wealth to obligations toward the poor, the prophets condemn luxury built on injustice, and Jesus warns that no one can serve God and money. The modern prosperity gospel rightly says God cares about daily life, but departs from Scripture when it promises wealth as a reward for faith and giving.",
+      "bigIdea": "In the Bible, true prosperity is shalom with God and neighbour, and wealth is a trust to be shared, not proof of God's favour.",
+      "skeleton": [
+        "Wealth is a gift and a danger",
+        "Hebrew words: shalom, tsalach, osher, kavod, chayil",
+        "God's economy: the land is his, and the poor have a share",
+        "The Bible's own debate: Job, Psalm 73, Ecclesiastes",
+        "Jesus and the apostles on money",
+        "The modern prosperity gospel: a fair look"
+      ],
+      "sections": [
+        {
+          "h": "Gift and danger",
+          "p": [
+            "Abraham, Job and Solomon were rich, and the Bible counts their wealth as God's blessing. “It is he who gives you power to get wealth, that he may confirm his covenant” (Deut 8:18). But the verse before warns against saying, “My power and the might of my hand have gotten me this wealth” (Deut 8:17). Agur prays, “give me neither poverty nor riches… lest I be full and deny you, or be poor and steal” (Prov 30:8–9), and “better is a little with the fear of the LORD than great treasure and trouble with it” (Prov 15:16)."
+          ]
+        },
+        {
+          "h": "The words of prosperity",
+          "p": [
+            "*Shalom* is wholeness: health, peace, right relationships and enough, not just money. *Tsalach* means to succeed or go well; Joshua and the righteous of Psalm 1 “prosper” by doing God's will (Josh 1:8; Ps 1:3). *Osher* is riches. *Kavod* means weight and glory, and also wealth: Abram was “very heavy” in livestock, silver and gold (Gen 13:2). *Chayil* is strength, valour and wealth; the *eshet chayil* of Proverbs 31:10 is a woman of strength and worth."
+          ]
+        },
+        {
+          "h": "God's economy",
+          "p": [
+            "In the Torah wealth comes with duties. Farmers left the edges of fields and the gleanings for the poor and the stranger (Lev 19:9–10), which is how Ruth fed Naomi (Ruth 2). The poor tithe fed the needy. Every seventh year debts were released (Deut 15), and in the Jubilee land returned to its families, because “the land is mine; you are strangers and sojourners with me” (Lev 25:23).",
+            "The prophets attacked wealth built on injustice: the “cows of Bashan” who crush the needy (Amos 4:1), those who lounge on ivory beds while ignoring ruin (Amos 6:4–6), and those who “join house to house” and seize fields (Isa 5:8; Mic 2:2)."
+          ]
+        },
+        {
+          "h": "The Bible's own debate",
+          "p": [
+            "Job's friends argued that the righteous prosper and the suffering must have sinned. God said they had not spoken rightly (Job 42:7). Psalm 73 wrestles with “the prosperity of the wicked” until the psalmist sees their end in God's sanctuary. Ecclesiastes calls the love of wealth “vanity” and praises enjoying God's gifts with contentment (Eccl 5:10–20). Later, the Mishnah asks, “Who is rich? One who rejoices in his portion” (Avot 4:1). Jewish teaching also praises the “good eye”, a generous heart (Prov 22:9)."
+          ]
+        },
+        {
+          "h": "Jesus and the apostles on money",
+          "p": [
+            "Jesus said, “You cannot serve God and money” (Matt 6:24); “mammon” is probably the Aramaic *mamona*, wealth. The rich young ruler went away sad, and Jesus said it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom (Mark 10:17–27). The idea of a small “Needle Gate” in Jerusalem is a late story with no ancient support. He told of the rich fool (Luke 12:13–21) and of Lazarus and the rich man (Luke 16:19–31), and he welcomed Zacchaeus, who gave half his goods to the poor (Luke 19:1–10).",
+            "Paul wrote, “godliness with contentment is great gain… the love of money is a root of all kinds of evils”, and told the rich to be “rich in good works” (1 Tim 6:6–10, 17–19). James warned rich oppressors (Jas 5:1–6; 2:1–7). “I can do all things” (Phil 4:13) is about contentment in hunger and plenty, not a promise of success. In 3 John 2, “I pray that you may prosper and be in health” uses a standard ancient letter greeting, “that all may go well with you”."
+          ]
+        },
+        {
+          "h": "The prosperity gospel: a fair look",
+          "p": [
+            "The prosperity gospel is a modern movement, not one church. A common historical account traces it to 19th- and 20th-century American currents: New Thought ideas about the power of the mind, “positive confession”, healing revivals and post-war affluence. Its core claims are that faith and giving bring guaranteed health and wealth, that a gift is a “seed” God will multiply, and that speaking words of faith brings them about. It has spread widely across Africa, Asia and Latin America.",
+            "It draws people for real reasons: hope for the poor, and the true belief that God cares about bodies, work and daily bread. But it departs from Jewish and biblical teaching when it treats wealth as proof of God's favour (the view of Job's friends), giving as an investment rather than justice for the poor, and suffering as a lack of faith, when Jesus called his followers to take up the cross and Paul learned contentment."
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "table",
+          "after": 1,
+          "title": "Words for wealth and prosperity",
+          "cols": ["", "Literal sense", "Example", "What it teaches"],
+          "rows": [
+            {"h": "Shalom (Hebrew)", "cells": ["Wholeness, peace, well-being", "Num 6:26; Jer 29:7", "Prosperity is more than money"]},
+            {"h": "Tsalach (Hebrew)", "cells": ["To succeed, go well", "Josh 1:8; Ps 1:3", "Success in doing God's will"]},
+            {"h": "Osher (Hebrew)", "cells": ["Riches", "Prov 30:8; Eccl 5:13", "A gift, but not to be trusted"]},
+            {"h": "Kavod (Hebrew)", "cells": ["Weight, glory, wealth", "Gen 13:2", "Abram was “heavy” with wealth"]},
+            {"h": "Chayil (Hebrew)", "cells": ["Strength, valour, wealth", "Prov 31:10; Deut 8:18", "Strength to work and serve"]},
+            {"h": "Mamona (Aramaic)", "cells": ["Wealth, possessions", "Matt 6:24; Luke 16:13", "Money can become a rival master"]},
+            {"h": "Euodoō (Greek)", "cells": ["To have a good journey", "3 John 2; Rom 1:10", "“May all go well”: a greeting"]},
+            {"h": "Autarkeia (Greek)", "cells": ["Contentment, having enough", "1 Tim 6:6; 2 Cor 9:8", "Real gain is godly contentment"]}
+          ]
+        },
+        {
+          "type": "layers",
+          "after": 2,
+          "title": "God's economy, from the ground up",
+          "note": "From the outer foundation to the heart of it: each layer rests on “the land is mine”.",
+          "layers": [
+            {"t": "“The land is mine”", "d": "God owns the land; Israel are tenants and sojourners (Lev 25:23)."},
+            {"t": "Gleaning", "d": "Edges and leftovers of the harvest belong to the poor and stranger (Lev 19:9–10; Ruth 2)."},
+            {"t": "Tithes", "d": "Support for Levites, joyful feasts and the poor tithe (Deut 14:22–29)."},
+            {"t": "Sabbath year", "d": "The land rests and debts are released every seventh year (Deut 15:1–11)."},
+            {"t": "Jubilee", "d": "Every fiftieth year land returns to its families (Lev 25:8–17)."},
+            {"t": "The prophets", "d": "They call Israel back when the rich crush the poor (Amos 4:1; Isa 5:8)."},
+            {"t": "Jesus and the early church", "d": "Good news to the poor (Luke 4:18); believers share so none is in need (Acts 4:34)."}
+          ]
+        },
+        {
+          "type": "cards",
+          "after": 3,
+          "title": "Eight rich and poor people in Scripture",
+          "cards": [
+            {"t": "Abraham", "front": "Rich in flocks, silver and gold.", "back": "God blessed Abraham with great wealth, yet he gave Melchizedek a tenth and refused to keep the king of Sodom's spoils, so no one could say a man made him rich.", "source": "Gen 13:2; 14:20–23", "echo": "Blessed to be a blessing (Gen 12:2)."},
+            {"t": "Job", "front": "The richest man in the East, then nothing.", "back": "Job lost everything, and his friends said it must be his sin. God rejected their view. Job worshipped: “the LORD gave, and the LORD has taken away.”", "source": "Job 1:3, 21; 42:7", "echo": "Suffering is not proof of God's anger (John 9:2–3)."},
+            {"t": "Solomon", "front": "Asked for wisdom, received wealth too.", "back": "Solomon asked for wisdom and God added riches and honour. But his gold, horses and many wives later turned his heart away, as Deuteronomy had warned.", "source": "1 Kgs 3:11–13; 10:14–11:4", "echo": "Deut 17:16–17 warns kings against piling up gold."},
+            {"t": "Ruth and Boaz", "front": "A widow gleaning in a rich man's field.", "back": "Boaz obeyed the gleaning laws and went further, letting Ruth glean among the sheaves. His generosity became redemption, and their line led to David.", "source": "Ruth 2:15–16; 4:13–17", "echo": "Matthew lists Ruth in Jesus' genealogy (Matt 1:5)."},
+            {"t": "The widow of Zarephath", "front": "A handful of flour and a little oil.", "back": "A poor foreign widow shared her last meal with Elijah, and the flour and oil did not run out through the famine.", "source": "1 Kgs 17:8–16", "echo": "Jesus mentioned her in Nazareth (Luke 4:25–26)."},
+            {"t": "The rich young ruler", "front": "He kept the commandments but went away sad.", "back": "Jesus loved him and asked him to sell all, give to the poor and follow. He left grieving, “for he had great possessions”.", "source": "Mark 10:17–22", "echo": "“With God all things are possible” (Mark 10:27)."},
+            {"t": "Zacchaeus", "front": "A rich tax collector climbs a tree.", "back": "After Jesus came to his house, Zacchaeus gave half his goods to the poor and repaid fourfold anyone he had cheated. Jesus said, “Today salvation has come to this house.”", "source": "Luke 19:1–10", "echo": "Repaying fourfold echoes the Torah's law of restitution (Ex 22:1)."},
+            {"t": "The widow's mite", "front": "Two tiny coins in the Temple box.", "back": "The rich gave large sums, but a poor widow put in two small copper coins. Jesus said she gave more than all, because she gave all she had to live on.", "source": "Mark 12:41–44", "echo": "God measures the heart, not the amount (2 Cor 8:12)."}
+          ]
+        },
+        {
+          "type": "interlinear",
+          "after": 4,
+          "title": "3 John 2: “that you may prosper”",
+          "lang": "gr",
+          "words": [
+            {"w": "Ἀγαπητέ", "g": "beloved"},
+            {"w": "περὶ", "g": "concerning"},
+            {"w": "πάντων", "g": "all things"},
+            {"w": "εὔχομαί", "g": "I pray"},
+            {"w": "σε", "g": "you"},
+            {"w": "εὐοδοῦσθαι", "g": "to go well / have a good journey"},
+            {"w": "καὶ", "g": "and"},
+            {"w": "ὑγιαίνειν", "g": "to be healthy"},
+            {"w": "καθὼς", "g": "just as"},
+            {"w": "εὐοδοῦταί", "g": "goes well"},
+            {"w": "σου", "g": "your"},
+            {"w": "ἡ", "g": "the"},
+            {"w": "ψυχή", "g": "soul"}
+          ],
+          "readings": [
+            {"label": "Older wording (KJV)", "text": "I wish above all things that thou mayest **prosper** and be in health, even as thy soul **prospereth**.", "note": "“Prosper” in 1611 meant “go well”, not “get rich”."},
+            {"label": "Modern wording (ESV, NIV)", "text": "I pray that **all may go well with you** and that you may be in good health, as it goes well with your soul.", "note": "A standard ancient letter greeting, like “I hope you are well”, not a promise of wealth."}
+          ]
+        },
+        {
+          "type": "spectrum",
+          "after": 5,
+          "title": "Views of wealth and faith",
+          "note": "The Bible's centre holds both gratitude for gifts and freedom from the love of money.",
+          "left": "Poverty theology: wealth itself is evil",
+          "right": "Prosperity gospel: faith and giving guarantee wealth",
+          "points": [
+            {"pos": 8, "t": "Owning anything is sinful"},
+            {"pos": 25, "t": "Voluntary simplicity for the kingdom (Matt 19:21)"},
+            {"pos": 45, "t": "Contentment: neither poverty nor riches (Prov 30:8)"},
+            {"pos": 55, "t": "Stewardship: wealth as a trust, rich in good works (1 Tim 6:18)"},
+            {"pos": 75, "t": "God rewards faithful work (Prov 10:4)"},
+            {"pos": 92, "t": "Give to get: wealth proves God's favour"}
+          ]
+        },
+        {
+          "type": "compare",
+          "after": 5,
+          "title": "Biblical and Jewish teaching and the prosperity gospel",
+          "left": {
+            "label": "Biblical and Jewish view",
+            "items": [
+              "Wealth is a gift and a test",
+              "Prosperity is shalom: wholeness with God and neighbour",
+              "Giving is worship and justice for the poor",
+              "The righteous sometimes suffer (Job, Psalm 73)",
+              "Contentment is great gain",
+              "The cross shapes the Christian life"
+            ]
+          },
+          "right": {
+            "label": "Prosperity gospel",
+            "items": [
+              "Wealth is a sign of faith",
+              "Prosperity is mainly health and money",
+              "Giving is a seed that brings a harvest back",
+              "Suffering shows weak faith",
+              "Ask for more and speak it into being",
+              "Victory now is the main emphasis"
+            ]
+          }
+        }
+      ],
+      "verses": [
+        {"ref": "Deuteronomy 8:18", "text": "You shall remember the LORD your God, for it is he who gives you power to get wealth."},
+        {"ref": "Proverbs 30:8", "text": "Give me neither poverty nor riches; feed me with the food that is needful for me."},
+        {"ref": "Leviticus 25:23", "text": "The land is mine. For you are strangers and sojourners with me."},
+        {"ref": "Matthew 6:24", "text": "You cannot serve God and money."},
+        {"ref": "1 Timothy 6:6", "text": "But godliness with contentment is great gain."}
+      ],
+      "keyPoints": [
+        "The Bible calls wealth a gift of God and a blessing, and also a danger that can make people forget him.",
+        "*Shalom* is wholeness, not just money; to “prosper” (*tsalach*) is to succeed in doing God's will.",
+        "Torah binds wealth to the poor: gleaning, the poor tithe, the Sabbath year and the Jubilee, because the land is God's.",
+        "Job, Psalm 73 and Ecclesiastes reject the idea that wealth proves righteousness; Jesus warns that no one can serve God and money.",
+        "The prosperity gospel rightly says God cares about daily needs, but wrongly promises wealth as a reward for faith and giving."
+      ],
+      "reflect": [
+        "Would you pray Agur's prayer, “give me neither poverty nor riches”? What would it change in your plans?",
+        "How could your money share in God's economy of gleaning, generosity and justice this month?"
+      ],
+      "quiz": [
+        {"q": "According to Deuteronomy 8:18, why does God give power to get wealth?", "options": ["To make Israel proud", "To confirm his covenant", "To pay the king", "To prove who is righteous"], "a": 1, "why": "Wealth is a covenant gift, to be received with remembrance, not pride."},
+        {"q": "What did Agur ask for in Proverbs 30:8?", "options": ["Great riches", "Long life", "Neither poverty nor riches", "Victory over enemies"], "a": 2, "why": "He feared riches could make him deny God and poverty could make him steal."},
+        {"q": "What does “prosper” in 3 John 2 most likely mean?", "options": ["That all may go well with you", "To become very rich", "To win in business", "To receive a hundredfold return"], "a": 0, "why": "*Euodoō* means to have a good journey; it was a common letter greeting."},
+        {"q": "What view of wealth did God reject in the book of Job?", "options": ["That Job should worship", "That God gives and takes away", "That suffering can be a test", "That suffering always proves sin"], "a": 3, "why": "Job's friends said trouble meant sin; God said they had not spoken rightly (Job 42:7)."}
+      ],
+      "terms": [
+        {"term": "Shalom", "def": "Wholeness and well-being: peace with God, people and the land."},
+        {"term": "Tsalach", "def": "To succeed or prosper, especially by walking in God's ways."},
+        {"term": "Chayil", "def": "Strength, valour and wealth; the “woman of worth” of Proverbs 31."},
+        {"term": "Mammon", "def": "From Aramaic *mamona*, wealth; in Jesus' words a rival master."},
+        {"term": "Jubilee", "def": "The fiftieth year, when land returned to its families and slaves went free (Lev 25)."},
+        {"term": "Prosperity gospel", "def": "A modern movement teaching that faith and giving bring guaranteed health and wealth."}
+      ],
+      "related": ["s-blessing", "s-curse", "w-shalom", "b-tithe", "d-peniel", "s-kingdom", "g-49", "b-parables", "e-evangelical", "e-shifts", "s-love"]
+    }
+  ],
+  "glossary": []
+}
